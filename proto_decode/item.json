@@ -198,24 +198,6 @@
   15: 3
 }
 1 {
-  1: 512
-  2: "5120"
-  3: "5121"
-  4: "5122"
-  5: "sprite/common/item/icon/coin/item_512.png"
-  6: "sprite/common/common/icon/coin/coin_jinbi.png"
-  7: 0
-  8: 16
-  9: "5123"
-  10: 0
-  11: 0
-  12: 200
-  13: 502
-  14: "403|0"
-  14: "408|0"
-  15: 3
-}
-1 {
   1: 513
   2: "5130"
   3: "5131"
@@ -563,39 +545,6 @@
   15: 3
 }
 1 {
-  1: 533
-  2: "5330"
-  3: "5331"
-  4: "5332"
-  5: "sprite/common/item/icon/coin/item_draw.png"
-  6: "sprite/common/common/icon/coin/coin_jinbi.png"
-  7: 0
-  8: 1
-  9: "5333"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  14: "403|0"
-  15: 3
-}
-1 {
-  1: 534
-  2: "5340"
-  3: "5341"
-  4: "5342"
-  5: "sprite/common/item/icon/coin/item_jiejing.png"
-  6: "sprite/common/common/icon/coin/coin_jiejing.png"
-  7: 0
-  8: 1
-  9: "5343"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
   1: 535
   2: "5350"
   3: "5351"
@@ -900,6 +849,54 @@
   14: "421|0"
   14: "403|0"
   15: 3
+}
+1 {
+  1: 609
+  2: "6090"
+  3: "6091"
+  4: "6092"
+  5: "sprite/common/item/icon/coin/item_609.png"
+  6: "sprite/common/common/icon/coin/coin_jinbi.png"
+  7: 0
+  8: 19
+  9: "6093"
+  10: 0
+  11: 0
+  12: 0
+  13: 0
+  15: 0
+}
+1 {
+  1: 610
+  2: "6100"
+  3: "6101"
+  4: "6102"
+  5: "sprite/common/item/icon/coin/item_610.png"
+  6: "sprite/common/common/icon/coin/coin_jinbi.png"
+  7: 0
+  8: 20
+  9: "6103"
+  10: 0
+  11: 0
+  12: 0
+  13: 0
+  15: 0
+}
+1 {
+  1: 611
+  2: "6110"
+  3: "6111"
+  4: "6112"
+  5: "sprite/common/item/icon/coin/item_611.png"
+  6: "sprite/common/common/icon/coin/coin_jinbi.png"
+  7: 0
+  8: 21
+  9: "6113"
+  10: 0
+  11: 0
+  12: 0
+  13: 0
+  15: 0
 }
 1 {
   1: 1000
@@ -5109,358 +5106,6 @@
   12: 0
   13: 0
   14: "417|0"
-  15: 0
-}
-1 {
-  1: 12099
-  2: "120990"
-  3: "120991"
-  4: "120992"
-  5: "sprite/common/item/icon/decorate_icon/item_12099.png"
-  6: "sprite/common/item/icon/decorate/item_12099.png"
-  7: 0
-  8: 8
-  9: "120993"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12100
-  2: "121000"
-  3: "121001"
-  4: "121002"
-  5: "sprite/common/item/icon/decorate_icon/item_12100.png"
-  6: "sprite/common/item/icon/decorate/item_12100.png"
-  7: 0
-  8: 8
-  9: "121003"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12101
-  2: "121010"
-  3: "121011"
-  4: "121012"
-  5: "sprite/common/item/icon/decorate_icon/item_12101.png"
-  6: "sprite/common/item/icon/decorate/item_12101.png"
-  7: 0
-  8: 8
-  9: "121013"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12102
-  2: "121020"
-  3: "121021"
-  4: "121022"
-  5: "sprite/common/item/icon/decorate_icon/item_12102.png"
-  6: "sprite/common/item/icon/decorate/item_12102.png"
-  7: 0
-  8: 8
-  9: "121023"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12103
-  2: "121030"
-  3: "121031"
-  4: "121032"
-  5: "sprite/common/item/icon/decorate_icon/item_12103.png"
-  6: "sprite/common/item/icon/decorate/item_12103.png"
-  7: 0
-  8: 8
-  9: "121033"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12104
-  2: "121040"
-  3: "121041"
-  4: "121042"
-  5: "sprite/common/item/icon/decorate_icon/item_12104.png"
-  6: "sprite/common/item/icon/decorate/item_12104.png"
-  7: 0
-  8: 8
-  9: "121043"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12105
-  2: "121050"
-  3: "121051"
-  4: "121052"
-  5: "sprite/common/item/icon/decorate_icon/item_12105.png"
-  6: "sprite/common/item/icon/decorate/item_12105.png"
-  7: 0
-  8: 8
-  9: "121053"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12106
-  2: "121060"
-  3: "121061"
-  4: "121062"
-  5: "sprite/common/item/icon/decorate_icon/item_12106.png"
-  6: "sprite/common/item/icon/decorate/item_12106.png"
-  7: 0
-  8: 8
-  9: "121063"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12107
-  2: "121070"
-  3: "121071"
-  4: "121072"
-  5: "sprite/common/item/icon/decorate_icon/item_12107.png"
-  6: "sprite/common/item/icon/decorate/item_12107.png"
-  7: 0
-  8: 8
-  9: "121073"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12108
-  2: "121080"
-  3: "121081"
-  4: "121082"
-  5: "sprite/common/item/icon/decorate_icon/item_12108.png"
-  6: "sprite/common/item/icon/decorate/item_12108.png"
-  7: 0
-  8: 8
-  9: "121083"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12109
-  2: "121090"
-  3: "121091"
-  4: "121092"
-  5: "sprite/common/item/icon/decorate_icon/item_12109.png"
-  6: "sprite/common/item/icon/decorate/item_12109.png"
-  7: 0
-  8: 8
-  9: "121093"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12110
-  2: "121100"
-  3: "121101"
-  4: "121102"
-  5: "sprite/common/item/icon/decorate_icon/item_12110.png"
-  6: "sprite/common/item/icon/decorate/item_12110.png"
-  7: 0
-  8: 8
-  9: "121103"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12111
-  2: "121110"
-  3: "121111"
-  4: "121112"
-  5: "sprite/common/item/icon/decorate_icon/item_12111.png"
-  6: "sprite/common/item/icon/decorate/item_12111.png"
-  7: 0
-  8: 8
-  9: "121113"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12112
-  2: "121120"
-  3: "121121"
-  4: "121122"
-  5: "sprite/common/item/icon/decorate_icon/item_12112.png"
-  6: "sprite/common/item/icon/decorate/item_12112.png"
-  7: 0
-  8: 8
-  9: "121123"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12113
-  2: "121130"
-  3: "121131"
-  4: "121132"
-  5: "sprite/common/item/icon/decorate_icon/item_12113.png"
-  6: "sprite/common/item/icon/decorate/item_12113.png"
-  7: 0
-  8: 8
-  9: "121133"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12114
-  2: "121140"
-  3: "121141"
-  4: "121142"
-  5: "sprite/common/item/icon/decorate_icon/item_12114.png"
-  6: "sprite/common/item/icon/decorate/item_12114.png"
-  7: 0
-  8: 8
-  9: "121143"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12115
-  2: "121150"
-  3: "121151"
-  4: "121152"
-  5: "sprite/common/item/icon/decorate_icon/item_12115.png"
-  6: "sprite/common/item/icon/decorate/item_12115.png"
-  7: 0
-  8: 8
-  9: "121153"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12116
-  2: "121160"
-  3: "121161"
-  4: "121162"
-  5: "sprite/common/item/icon/decorate_icon/item_12116.png"
-  6: "sprite/common/item/icon/decorate/item_12116.png"
-  7: 0
-  8: 8
-  9: "121163"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12117
-  2: "121170"
-  3: "121171"
-  4: "121172"
-  5: "sprite/common/item/icon/decorate_icon/item_12117.png"
-  6: "sprite/common/item/icon/decorate/item_12117.png"
-  7: 0
-  8: 8
-  9: "121173"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12118
-  2: "121180"
-  3: "121181"
-  4: "121182"
-  5: "sprite/common/item/icon/decorate_icon/item_12118.png"
-  6: "sprite/common/item/icon/decorate/item_12118.png"
-  7: 0
-  8: 8
-  9: "121183"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12119
-  2: "121190"
-  3: "121191"
-  4: "121192"
-  5: "sprite/common/item/icon/decorate_icon/item_12119.png"
-  6: "sprite/common/item/icon/decorate/item_12119.png"
-  7: 0
-  8: 8
-  9: "121193"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
-  15: 0
-}
-1 {
-  1: 12120
-  2: "121200"
-  3: "121201"
-  4: "121202"
-  5: "sprite/common/item/icon/decorate_icon/item_12120.png"
-  6: "sprite/common/item/icon/decorate/item_12120.png"
-  7: 0
-  8: 8
-  9: "121203"
-  10: 0
-  11: 0
-  12: 0
-  13: 0
   15: 0
 }
 1 {
@@ -27774,4 +27419,4 @@
   14: "409|9913"
   15: 2
 }
-2: 1637
+2: 1615

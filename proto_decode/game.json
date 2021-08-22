@@ -1622,8 +1622,15 @@
 1 {
   1: 243
   2: "shareCfg"
-  3: "firstShare"
+  3: "firstShareDaily"
+  4: 0
+  5: "500&40"
+}
+1 {
+  1: 244
+  2: "shareCfg"
+  3: "firstShareWeekly"
   4: 0
   5: "501&40"
 }
-2: 228
+2: 229

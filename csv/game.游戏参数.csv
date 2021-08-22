@@ -226,4 +226,5 @@
 240,headiconCfg,npcUnlock,2,
 241,businessCfg,cumulativeBusiness,15,
 242,fishingCfg,fishFirstType,1,
-243,shareCfg,firstShare,0,501&40
+243,shareCfg,firstShareDaily,0,500&40
+244,shareCfg,firstShareWeekly,0,501&40

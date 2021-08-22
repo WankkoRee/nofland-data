@@ -1510,6 +1510,13 @@
       5: 3
       10: "value"
     }
+    2 {
+      1: "begin"
+      3: 4
+      4: 1
+      5: 8
+      10: "begin"
+    }
   }
   4 {
     1: "TasksData"
@@ -5201,6 +5208,30 @@
       7 {
         7: 1
       }
+    }
+  }
+  4 {
+    1: "ShareData"
+    2 {
+      1: "weeklyRefreshTime"
+      3: 1
+      4: 1
+      5: 3
+      10: "weeklyRefreshTime"
+    }
+    2 {
+      1: "dailyShareCount"
+      3: 2
+      4: 1
+      5: 5
+      10: "dailyShareCount"
+    }
+    2 {
+      1: "weeklyShareCount"
+      3: 3
+      4: 1
+      5: 5
+      10: "weeklyShareCount"
     }
   }
   12: "proto3"

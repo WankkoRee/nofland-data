@@ -1,5 +1,5 @@
 
-¦Ä
+ÎÅ
 common.protoNofland"
 	ErrorCode
 code (Rcode"Ô
@@ -236,11 +236,12 @@ GatherData:
 selectedFormulaID (RselectedFormulaID5
 records (2.Nofland.RefiningRecordDataRrecords"C
 AlchemyChangeData.
-alchemy (2.Nofland.AlchemyDataRalchemy"L
+alchemy (2.Nofland.AlchemyDataRalchemy"b
 TaskData
 cfgId (RcfgId
 state (Rstate
-value (Rvalue"™
+value (Rvalue
+begin (Rbegin"™
 	TasksData<
 tasksMap (2 .Nofland.TasksData.TasksMapEntryRtasksMapN
 TasksMapEntry
@@ -856,4 +857,8 @@ BigfunData:
 lastTime (RlastTime:
 CheckinEntry
 key (Rkey
-value (Rvalue:8bproto3
+value (Rvalue:8"
+	ShareData,
+weeklyRefreshTime (RweeklyRefreshTime(
+dailyShareCount (RdailyShareCount*
+weeklyShareCount (RweeklyShareCountbproto3
