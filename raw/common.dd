@@ -637,7 +637,7 @@ permission
 content (	Rcontent6
 details (2.Nofland.Notice.DetailsEntryRdetails
 	signature (	R	signature
-	imageData (	R	imageData:
+	imageData (R	imageData:
 DetailsEntry
 key (	Rkey
 value (	Rvalue:8"L
