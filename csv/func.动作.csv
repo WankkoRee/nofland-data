@@ -38,7 +38,7 @@
 436,sprite/common/common/icon/mark/icon_worldline.png,,4360,,0,,,WorldlineController,6000040,0,
 437,sprite/common/common/icon/mark/icon_camp_mission.png,,4370,,0,,,TownController,6000040,0,
 438,sprite/common/common/icon/mark/icon_mission.png,,4380,,0,,,ContactController,6000022,0,
-439,sprite/common/common/icon/mark/icon_mission.png,,4390,,0,,,TownController,6099999,0,
+439,sprite/common/common/icon/mark/icon_mission.png,,4390,,0,,,TownController,6000040,0,
 440,sprite/common/common/icon/mark/icon_worldline.png,,4400,4401,0,,,DispatchController,6000120,0,
 441,sprite/common/common/icon/mark/icon_tinygame3.png,,4410,,1,1.5,4412,HamsterController,6000025,0,
 442,sprite/common/common/icon/mark/icon_classroom.png,,4420,,1,1.5,4422,TownController,6000013,0,
