@@ -1289,7 +1289,7 @@ stepReward"Z
  (Rdetail
 npc (Rnpc
 story (	Rstory
-link (Rlink"\
+link (	Rlink"\
 worldline_union_list.
 datas (2.cfg_gen.worldline_unionRdatas
 count (Rcount"ô

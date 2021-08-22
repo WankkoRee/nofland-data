@@ -171,7 +171,7 @@
 1119,noReceived,1,当前没有可领取的物品。,3
 1120,likeMax,1,妖精好感度已达满值。,3
 1121,unlockPic,2,是否花费%s<quad name=sprite/common/item/icon/coin/item_draw.png size=50 h=50 color=OxFFFFFFFF />解锁妖精立绘？,0
-1122,likeLimit,1,好感度达到%s可解锁立绘。,3
+1122,likeLimit,1,好感度达到%s后可通过缤纷糖果解锁立绘。,3
 1123,crystalLimit,2,原初结晶不够，是否前往充值？,0
 1124,crystalReplace,2,魔晶不足，是否使用<color=#548FA7>%s</color>原初结晶替代？,0
 1125,exchangeSuccess,1,兑换成功。,3
