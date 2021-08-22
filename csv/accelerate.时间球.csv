@@ -1,0 +1,12 @@
+﻿id,免费时间(分),贴图,下级所需物品1[item],数量,下级所需物品2[item],数量,不知道,不知道,不知道
+1,60,sprite/timeball/down_0.png,603,2,604,2,6,12,24
+2,120,sprite/timeball/down_1.png,603,4,604,2,12,15,30
+3,180,sprite/timeball/down_2.png,603,6,604,4,18,18,36
+4,240,sprite/timeball/down_3.png,603,8,604,4,24,21,42
+5,300,sprite/timeball/down_0.png,603,10,604,6,30,24,48
+6,360,sprite/timeball/down_1.png,603,15,604,6,36,27,54
+7,420,sprite/timeball/down_2.png,603,20,604,10,42,30,60
+8,480,sprite/timeball/down_3.png,603,25,604,10,48,33,66
+9,540,sprite/timeball/down_0.png,603,30,604,15,54,36,72
+10,600,sprite/timeball/down_1.png,603,40,604,15,60,39,78
+11,660,sprite/timeball/down_2.png,603,50,604,20,66,42,84

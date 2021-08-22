@@ -1,0 +1,5062 @@
+1 {
+  1: "common.proto"
+  2: "Nofland"
+  4 {
+    1: "ErrorCode"
+    2 {
+      1: "code"
+      3: 1
+      4: 1
+      5: 5
+      10: "code"
+    }
+  }
+  4 {
+    1: "EnterData"
+    2 {
+      1: "serverTimestamp"
+      3: 1
+      4: 1
+      5: 3
+      10: "serverTimestamp"
+    }
+    2 {
+      1: "landInElementDay"
+      3: 2
+      4: 1
+      5: 5
+      10: "landInElementDay"
+    }
+    2 {
+      1: "lucimar"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.LucimarData"
+      10: "lucimar"
+    }
+    2 {
+      1: "items"
+      3: 4
+      4: 1
+      5: 11
+      6: ".Nofland.ItemsData"
+      10: "items"
+    }
+    2 {
+      1: "elfs"
+      3: 5
+      4: 1
+      5: 11
+      6: ".Nofland.ElfsData"
+      10: "elfs"
+    }
+    2 {
+      1: "tasks"
+      3: 6
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "tasks"
+    }
+    2 {
+      1: "entrusts"
+      3: 7
+      4: 1
+      5: 11
+      6: ".Nofland.EntrustsData"
+      10: "entrusts"
+    }
+    2 {
+      1: "gathers"
+      3: 8
+      4: 1
+      5: 11
+      6: ".Nofland.GatherData"
+      10: "gathers"
+    }
+    2 {
+      1: "caravans"
+      3: 9
+      4: 1
+      5: 11
+      6: ".Nofland.CaravanData"
+      10: "caravans"
+    }
+    2 {
+      1: "handbooks"
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.HandbookData"
+      10: "handbooks"
+    }
+    2 {
+      1: "achievements"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.AchievementData"
+      10: "achievements"
+    }
+    2 {
+      1: "cultures"
+      3: 12
+      4: 1
+      5: 11
+      6: ".Nofland.CultureData"
+      10: "cultures"
+    }
+    2 {
+      1: "alchemy"
+      3: 13
+      4: 1
+      5: 11
+      6: ".Nofland.AlchemyData"
+      10: "alchemy"
+    }
+    2 {
+      1: "formulas"
+      3: 14
+      4: 1
+      5: 11
+      6: ".Nofland.FormulasData"
+      10: "formulas"
+    }
+    2 {
+      1: "npcs"
+      3: 15
+      4: 1
+      5: 11
+      6: ".Nofland.NpcData"
+      10: "npcs"
+    }
+    2 {
+      1: "sale"
+      3: 16
+      4: 1
+      5: 11
+      6: ".Nofland.SaleData"
+      10: "sale"
+    }
+    2 {
+      1: "quicken"
+      3: 17
+      4: 1
+      5: 11
+      6: ".Nofland.QuickenData"
+      10: "quicken"
+    }
+    2 {
+      1: "worldline"
+      3: 18
+      4: 1
+      5: 11
+      6: ".Nofland.WorldlinePlayerClient"
+      10: "worldline"
+    }
+    2 {
+      1: "activities"
+      3: 19
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityData"
+      10: "activities"
+    }
+    2 {
+      1: "termData"
+      3: 20
+      4: 1
+      5: 11
+      6: ".Nofland.PassPlayerData"
+      10: "termData"
+    }
+    2 {
+      1: "roomData"
+      3: 21
+      4: 1
+      5: 11
+      6: ".Nofland.MagicRoomPlayerData"
+      10: "roomData"
+    }
+    2 {
+      1: "mailFinalTime"
+      3: 22
+      4: 1
+      5: 3
+      10: "mailFinalTime"
+    }
+    2 {
+      1: "friendApplyNum"
+      3: 23
+      4: 1
+      5: 5
+      10: "friendApplyNum"
+    }
+    2 {
+      1: "worth"
+      3: 24
+      4: 1
+      5: 11
+      6: ".Nofland.WorthData"
+      10: "worth"
+    }
+    2 {
+      1 {
+        14: 114
+        12: 0x746e6573
+      }
+      3: 25
+      4: 1
+      5: 11
+      6: ".Nofland.PresentsData"
+      10 {
+        14: 114
+        12: 0x746e6573
+      }
+    }
+    2 {
+      1: "beQuickenedTimes"
+      3: 26
+      4: 1
+      5: 5
+      10: "beQuickenedTimes"
+    }
+    2 {
+      1: "savings"
+      3: 27
+      4: 1
+      5: 11
+      6: ".Nofland.SavingsData"
+      10: "savings"
+    }
+    2 {
+      1: "activitySaleData"
+      3: 28
+      4: 1
+      5: 11
+      6: ".Nofland.ActivitySaleData"
+      10: "activitySaleData"
+    }
+    2 {
+      1: "questionnaireSave"
+      3: 29
+      4: 1
+      5: 11
+      6: ".Nofland.QuestionnaireSave"
+      10: "questionnaireSave"
+    }
+    2 {
+      1: "playerData"
+      3: 30
+      4: 1
+      5: 11
+      6: ".Nofland.PlayerData"
+      10: "playerData"
+    }
+  }
+  4 {
+    1: "UserData"
+    2 {
+      1: "account"
+      3: 1
+      4: 1
+      5: 9
+      10: "account"
+    }
+    2 {
+      1: "regtime"
+      3: 2
+      4: 1
+      5: 3
+      10: "regtime"
+    }
+    2 {
+      1: "platform"
+      3: 3
+      4: 1
+      5: 5
+      10: "platform"
+    }
+    2 {
+      1: "regionID"
+      3: 4
+      4: 1
+      5: 5
+      10: "regionID"
+    }
+    2 {
+      1: "playerUID"
+      3: 5
+      4: 1
+      5: 4
+      10: "playerUID"
+    }
+    2 {
+      1: "IP"
+      3: 6
+      4: 1
+      5: 9
+      10: "IP"
+    }
+    2 {
+      1: "deviceCode"
+      3: 7
+      4: 1
+      5: 9
+      10: "deviceCode"
+    }
+  }
+  4 {
+    1: "PlayerData"
+    2 {
+      1 {
+        13: 0x6465746165724373
+      }
+      3: 1
+      4: 1
+      5: 8
+      10 {
+        13: 0x6465746165724373
+      }
+    }
+    2 {
+      1: "dailyRefreshTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "dailyRefreshTime"
+    }
+    2 {
+      1: "zeroRefreshTime"
+      3: 3
+      4: 1
+      5: 3
+      10: "zeroRefreshTime"
+    }
+    2 {
+      1: "lastLoginTime"
+      3: 4
+      4: 1
+      5: 3
+      10: "lastLoginTime"
+    }
+    2 {
+      1: "lastLogoutTime"
+      3: 5
+      4: 1
+      5: 3
+      10: "lastLogoutTime"
+    }
+  }
+  4 {
+    1: "LucimarData"
+    2 {
+      1: "level"
+      3: 1
+      4: 1
+      5: 5
+      10: "level"
+    }
+    2 {
+      1: "totalExp"
+      3: 2
+      4: 1
+      5: 3
+      10: "totalExp"
+    }
+    2 {
+      1: "exp"
+      3: 3
+      4: 1
+      5: 3
+      10: "exp"
+    }
+    2 {
+      1: "workshopDecorates"
+      3: 4
+      4: 3
+      5: 11
+      6: ".Nofland.LucimarData.WorkshopDecoratesEntry"
+      10: "workshopDecorates"
+    }
+    2 {
+      1: "guides"
+      3: 5
+      4: 3
+      5: 11
+      6: ".Nofland.LucimarData.GuidesEntry"
+      10: "guides"
+    }
+    2 {
+      1 {
+        13: 0x6e696b6365684373
+      }
+      3: 6
+      4: 1
+      5: 8
+      10 {
+        13: 0x6e696b6365684373
+      }
+    }
+    2 {
+      1: "checkinDays"
+      3: 7
+      4: 1
+      5: 13
+      10: "checkinDays"
+    }
+    2 {
+      1: "checkinResetTime"
+      3: 8
+      4: 1
+      5: 3
+      10: "checkinResetTime"
+    }
+    2 {
+      1: "tinyGameTimes"
+      3: 9
+      4: 1
+      5: 5
+      10: "tinyGameTimes"
+    }
+    2 {
+      1: "luckDraws"
+      3: 10
+      4: 3
+      5: 11
+      6: ".Nofland.LuckDrawData"
+      10: "luckDraws"
+    }
+    2 {
+      1: "luckDrawReplace"
+      3: 11
+      4: 3
+      5: 11
+      6: ".Nofland.LucimarData.LuckDrawReplaceEntry"
+      10: "luckDrawReplace"
+    }
+    2 {
+      1: "praisePlayers"
+      3: 12
+      4: 3
+      5: 4
+      10: "praisePlayers"
+    }
+    2 {
+      1: "foundTimes"
+      3: 13
+      4: 1
+      5: 5
+      10: "foundTimes"
+    }
+    2 {
+      1: "foundFriends"
+      3: 14
+      4: 3
+      5: 4
+      10: "foundFriends"
+    }
+    2 {
+      1: "elfsPlayers"
+      3: 15
+      4: 3
+      5: 4
+      10: "elfsPlayers"
+    }
+    2 {
+      1: "badgesPlayers"
+      3: 16
+      4: 3
+      5: 4
+      10: "badgesPlayers"
+    }
+    2 {
+      1: "linkAwards"
+      3: 17
+      4: 3
+      5: 13
+      10: "linkAwards"
+    }
+    2 {
+      1: "name"
+      3: 18
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "isSevenSign"
+      3: 19
+      4: 1
+      5: 8
+      10: "isSevenSign"
+    }
+    2 {
+      1: "sevenSignDays"
+      3: 20
+      4: 1
+      5: 13
+      10: "sevenSignDays"
+    }
+    2 {
+      1: "isBuyKey"
+      3: 21
+      4: 1
+      5: 8
+      10: "isBuyKey"
+    }
+    2 {
+      1: "ReminderStage"
+      3: 22
+      4: 1
+      5: 13
+      10: "ReminderStage"
+    }
+    2 {
+      1: "portrait"
+      3: 23
+      4: 1
+      5: 13
+      10: "portrait"
+    }
+    2 {
+      1: "signature"
+      3: 24
+      4: 1
+      5: 9
+      10: "signature"
+    }
+    2 {
+      1: "badges"
+      3: 25
+      4: 1
+      5: 11
+      6: ".Nofland.Badges"
+      10: "badges"
+    }
+    2 {
+      1: "activtySaleCoin"
+      3: 26
+      4: 1
+      5: 3
+      10: "activtySaleCoin"
+    }
+    3 {
+      1: "WorkshopDecoratesEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 13
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "GuidesEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 8
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "LuckDrawReplaceEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 9
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "LuckDrawData"
+    2 {
+      1: "activity"
+      3: 1
+      4: 1
+      5: 13
+      10: "activity"
+    }
+    2 {
+      1: "oneTimes"
+      3: 2
+      4: 1
+      5: 3
+      10: "oneTimes"
+    }
+    2 {
+      1: "tenTimes"
+      3: 3
+      4: 1
+      5: 3
+      10: "tenTimes"
+    }
+  }
+  4 {
+    1: "ItemData"
+    2 {
+      1: "cfgId"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgId"
+    }
+    2 {
+      1: "num"
+      3: 2
+      4: 1
+      5: 3
+      10: "num"
+    }
+  }
+  4 {
+    1 {
+      9: 0x61746144736d6574
+    }
+    2 {
+      1: "itemsMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.ItemsData.ItemsMapEntry"
+      10: "itemsMap"
+    }
+    3 {
+      1: "ItemsMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.ItemData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "SkillData"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "level"
+      3: 2
+      4: 1
+      5: 5
+      10: "level"
+    }
+  }
+  4 {
+    1: "ElfData"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "skinID"
+      3: 2
+      4: 1
+      5: 13
+      10: "skinID"
+    }
+    2 {
+      1: "exp"
+      3: 3
+      4: 1
+      5: 3
+      10: "exp"
+    }
+    2 {
+      1: "level"
+      3: 4
+      4: 1
+      5: 5
+      10: "level"
+    }
+    2 {
+      1: "awakenStage"
+      3: 5
+      4: 1
+      5: 5
+      10: "awakenStage"
+    }
+    2 {
+      1: "awakenValue"
+      3: 6
+      4: 1
+      5: 5
+      10: "awakenValue"
+    }
+    2 {
+      1: "effortValue"
+      3: 7
+      4: 1
+      5: 5
+      10: "effortValue"
+    }
+    2 {
+      1: "holderType"
+      3: 8
+      4: 1
+      5: 5
+      10: "holderType"
+    }
+    2 {
+      1: "friendValue"
+      3: 9
+      4: 1
+      5: 13
+      10: "friendValue"
+    }
+    2 {
+      1: "unlockPaint"
+      3: 10
+      4: 1
+      5: 8
+      10: "unlockPaint"
+    }
+    2 {
+      1: "skillGrooves"
+      3: 11
+      4: 3
+      5: 11
+      6: ".Nofland.SkillGrooveData"
+      10: "skillGrooves"
+    }
+  }
+  4 {
+    1: "ElfsData"
+    2 {
+      1: "elfsMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.ElfsData.ElfsMapEntry"
+      10: "elfsMap"
+    }
+    2 {
+      1: "contactElfs"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.UValues"
+      10: "contactElfs"
+    }
+    3 {
+      1: "ElfsMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.ElfData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "ElfsChangeData"
+    2 {
+      1 {
+        12: 0x6174616470556464
+      }
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.ElfsChangeData.AddUpdataEntry"
+      10 {
+        12: 0x6174616470556464
+      }
+    }
+    2 {
+      1: "contactElfs"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.UValues"
+      10: "contactElfs"
+    }
+    3 {
+      1 {
+        8: 0x6174616470556464
+        8: 0x7972746e
+      }
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.ElfData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "SkillGrooveData"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "level"
+      3: 2
+      4: 1
+      5: 5
+      10: "level"
+    }
+    2 {
+      1: "skillID"
+      3: 3
+      4: 1
+      5: 13
+      10: "skillID"
+    }
+    2 {
+      1: "optionalSkillID"
+      3: 4
+      4: 1
+      5: 13
+      10: "optionalSkillID"
+    }
+  }
+  4 {
+    1: "GatherData"
+    2 {
+      1: "areaMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.GatherData.AreaMapEntry"
+      10: "areaMap"
+    }
+    3 {
+      1: "AreaMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 5
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.GatherAreaData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "GatherChangeData"
+    2 {
+      1: "areaMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.GatherChangeData.AreaMapEntry"
+      10: "areaMap"
+    }
+    3 {
+      1: "AreaMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 5
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.GatherAreaData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "GatherAreaData"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "cfgId"
+      3: 2
+      4: 1
+      5: 13
+      10: "cfgId"
+    }
+    2 {
+      1: "elfsKey"
+      3: 3
+      4: 3
+      5: 13
+      10: "elfsKey"
+    }
+    2 {
+      1: "toolId"
+      3: 4
+      4: 1
+      5: 13
+      10: "toolId"
+    }
+    2 {
+      1: "toolCount"
+      3: 5
+      4: 1
+      5: 5
+      10: "toolCount"
+    }
+    2 {
+      1: "startTime"
+      3: 6
+      4: 1
+      5: 3
+      10: "startTime"
+    }
+    2 {
+      1: "overTime"
+      3: 7
+      4: 1
+      5: 3
+      10: "overTime"
+    }
+    2 {
+      1: "passTimes"
+      3: 8
+      4: 1
+      5: 13
+      10: "passTimes"
+    }
+    2 {
+      1: "awardMap"
+      3: 9
+      4: 3
+      5: 11
+      6: ".Nofland.GatherAreaData.AwardMapEntry"
+      10: "awardMap"
+    }
+    2 {
+      1: "extraAwardMap"
+      3: 10
+      4: 3
+      5: 11
+      6: ".Nofland.GatherAreaData.ExtraAwardMapEntry"
+      10: "extraAwardMap"
+    }
+    2 {
+      1: "activityAwardMap"
+      3: 11
+      4: 3
+      5: 11
+      6: ".Nofland.GatherAreaData.ActivityAwardMapEntry"
+      10: "activityAwardMap"
+    }
+    3 {
+      1: "AwardMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "ExtraAwardMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "ActivityAwardMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "CaravanData"
+    2 {
+      1: "areaMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.CaravanData.AreaMapEntry"
+      10: "areaMap"
+    }
+    3 {
+      1: "AreaMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.CaravanAreaData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "CaravanAreaData"
+    2 {
+      1: "cfgId"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgId"
+    }
+    2 {
+      1: "elfsKey"
+      3: 2
+      4: 3
+      5: 13
+      10: "elfsKey"
+    }
+    2 {
+      1: "startTime"
+      3: 3
+      4: 1
+      5: 3
+      10: "startTime"
+    }
+    2 {
+      1: "overTime"
+      3: 4
+      4: 1
+      5: 3
+      10: "overTime"
+    }
+    2 {
+      1: "passTimes"
+      3: 5
+      4: 1
+      5: 13
+      10: "passTimes"
+    }
+    2 {
+      1: "awardFormula"
+      3: 6
+      4: 1
+      5: 13
+      10: "awardFormula"
+    }
+    2 {
+      1: "extraAwardFormula"
+      3: 7
+      4: 1
+      5: 13
+      10: "extraAwardFormula"
+    }
+    2 {
+      1: "compensateCoin"
+      3: 8
+      4: 1
+      5: 13
+      10: "compensateCoin"
+    }
+  }
+  4 {
+    1: "CaravanChangeData"
+    2 {
+      1: "areaMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.CaravanChangeData.AreaMapEntry"
+      10: "areaMap"
+    }
+    3 {
+      1: "AreaMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.CaravanAreaData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "FormulaData"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "proficiency"
+      3: 2
+      4: 1
+      5: 5
+      10: "proficiency"
+    }
+    2 {
+      1: "useRefiningUID"
+      3: 4
+      4: 1
+      5: 4
+      10: "useRefiningUID"
+    }
+    2 {
+      1: "refinings"
+      3: 5
+      4: 3
+      5: 11
+      6: ".Nofland.FormulaData.RefiningsEntry"
+      10: "refinings"
+    }
+    3 {
+      1: "RefiningsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 4
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.RefiningData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "FormulasData"
+    2 {
+      1: "formulasMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.FormulasData.FormulasMapEntry"
+      10: "formulasMap"
+    }
+    3 {
+      1: "FormulasMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.FormulaData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "FormulasChangeData"
+    2 {
+      1 {
+        12: 0x6174616470556464
+      }
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.FormulasChangeData.AddUpdataEntry"
+      10 {
+        12: 0x6174616470556464
+      }
+    }
+    3 {
+      1 {
+        8: 0x6174616470556464
+        8: 0x7972746e
+      }
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.FormulaData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "RefiningData"
+    2 {
+      1: "UID"
+      3: 1
+      4: 1
+      5: 4
+      10: "UID"
+    }
+    2 {
+      1: "stage"
+      3: 2
+      4: 1
+      5: 5
+      10: "stage"
+    }
+    2 {
+      1: "materials"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.RefiningData.MaterialsEntry"
+      10: "materials"
+    }
+    3 {
+      1 {
+        9: 0x72657461
+        13: 0x7972746e45736c61
+      }
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "RefiningRecordData"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "materials"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.RefiningRecordData.MaterialsEntry"
+      10: "materials"
+    }
+    2 {
+      1: "useRefiningUID"
+      3: 3
+      4: 1
+      5: 4
+      10: "useRefiningUID"
+    }
+    3 {
+      1 {
+        9: 0x72657461
+        13: 0x7972746e45736c61
+      }
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "AlchemyData"
+    2 {
+      1: "selectedElfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "selectedElfKey"
+    }
+    2 {
+      1: "selectedFormulaID"
+      3: 2
+      4: 1
+      5: 13
+      10: "selectedFormulaID"
+    }
+    2 {
+      1: "records"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.RefiningRecordData"
+      10: "records"
+    }
+  }
+  4 {
+    1: "AlchemyChangeData"
+    2 {
+      1: "alchemy"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.AlchemyData"
+      10: "alchemy"
+    }
+  }
+  4 {
+    1: "TaskData"
+    2 {
+      1: "cfgId"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgId"
+    }
+    2 {
+      1: "state"
+      3: 2
+      4: 1
+      5: 5
+      10: "state"
+    }
+    2 {
+      1: "value"
+      3: 3
+      4: 1
+      5: 3
+      10: "value"
+    }
+  }
+  4 {
+    1: "TasksData"
+    2 {
+      1: "tasksMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.TasksData.TasksMapEntry"
+      10: "tasksMap"
+    }
+    3 {
+      1: "TasksMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.TaskData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "TasksChangeData"
+    2 {
+      1 {
+        12: 0x6174616470556464
+      }
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.TasksChangeData.AddUpdataEntry"
+      10 {
+        12: 0x6174616470556464
+      }
+    }
+    2 {
+      1: "del"
+      3: 2
+      4: 3
+      5: 13
+      10: "del"
+    }
+    3 {
+      1 {
+        8: 0x6174616470556464
+        8: 0x7972746e
+      }
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.TaskData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "EntrustData"
+    2 {
+      1: "isUnlock"
+      3: 1
+      4: 1
+      5: 8
+      10: "isUnlock"
+    }
+    2 {
+      1: "cfgId"
+      3: 2
+      4: 1
+      5: 13
+      10: "cfgId"
+    }
+    2 {
+      1: "gearPos"
+      3: 3
+      4: 1
+      5: 5
+      10: "gearPos"
+    }
+    2 {
+      1: "npcIndex"
+      3: 4
+      4: 1
+      5: 5
+      10: "npcIndex"
+    }
+    2 {
+      1: "deliveryItem"
+      3: 5
+      4: 1
+      5: 11
+      6: ".Nofland.ItemData"
+      10: "deliveryItem"
+    }
+    2 {
+      1: "rewardItems"
+      3: 6
+      4: 3
+      5: 11
+      6: ".Nofland.ItemData"
+      10: "rewardItems"
+    }
+    2 {
+      1: "refreshTime"
+      3: 7
+      4: 1
+      5: 3
+      10: "refreshTime"
+    }
+  }
+  4 {
+    1: "EntrustsData"
+    2 {
+      1: "useCountDaily"
+      3: 1
+      4: 1
+      5: 13
+      10: "useCountDaily"
+    }
+    2 {
+      1: "entrustsList"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.EntrustData"
+      10: "entrustsList"
+    }
+    2 {
+      1: "dailyAwardGold"
+      3: 3
+      4: 1
+      5: 3
+      10: "dailyAwardGold"
+    }
+    2 {
+      1: "entrustStatistics"
+      3: 4
+      4: 3
+      5: 11
+      6: ".Nofland.EntrustsData.EntrustStatisticsEntry"
+      10: "entrustStatistics"
+    }
+    2 {
+      1: "dailyDone"
+      3: 5
+      4: 1
+      5: 3
+      10: "dailyDone"
+    }
+    3 {
+      1: "EntrustStatisticsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "EntrustsChangeData"
+    2 {
+      1: "entrustsList"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.EntrustData"
+      10: "entrustsList"
+    }
+  }
+  4 {
+    1: "CultureData"
+    2 {
+      1: "groovesMap"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.CultureData.GroovesMapEntry"
+      10: "groovesMap"
+    }
+    2 {
+      1: "potPutMap"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.CultureData.PotPutMapEntry"
+      10: "potPutMap"
+    }
+    2 {
+      1: "plantUnlockMap"
+      3: 4
+      4: 3
+      5: 11
+      6: ".Nofland.CultureData.PlantUnlockMapEntry"
+      10: "plantUnlockMap"
+    }
+    2 {
+      1: "lastUnlockIdx"
+      3: 5
+      4: 1
+      5: 13
+      10: "lastUnlockIdx"
+    }
+    3 {
+      1: "GroovesMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.CultureGrooveData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "PotPutMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.CulturePotPutData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "PlantUnlockMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.CulturePlantlockData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "CulturePotPutData"
+    2 {
+      1: "curPutNum"
+      3: 1
+      4: 1
+      5: 13
+      10: "curPutNum"
+    }
+    2 {
+      1: "begainId"
+      3: 2
+      4: 1
+      5: 13
+      10: "begainId"
+    }
+    2 {
+      1 {
+        12: 0x6449646e
+      }
+      3: 3
+      4: 1
+      5: 13
+      10 {
+        12: 0x6449646e
+      }
+    }
+  }
+  4 {
+    1: "CulturePlantlockData"
+    2 {
+      1: "plantCfgId"
+      3: 1
+      4: 1
+      5: 13
+      10: "plantCfgId"
+    }
+    2 {
+      1: "unlock"
+      3: 2
+      4: 1
+      5: 8
+      10: "unlock"
+    }
+  }
+  4 {
+    1: "CultureGrooveData"
+    2 {
+      1: "cfgId"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgId"
+    }
+    2 {
+      1: "unlock"
+      3: 2
+      4: 1
+      5: 8
+      10: "unlock"
+    }
+    2 {
+      1: "pot"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.CulturePotData"
+      10: "pot"
+    }
+  }
+  4 {
+    1: "CulturePotData"
+    2 {
+      1: "cfgId"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgId"
+    }
+    2 {
+      1: "elfKey"
+      3: 2
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+    2 {
+      1: "plantMode"
+      3: 3
+      4: 1
+      5: 5
+      10: "plantMode"
+    }
+    2 {
+      1: "corps"
+      3: 4
+      4: 3
+      5: 11
+      6: ".Nofland.CultureCropData"
+      10: "corps"
+    }
+  }
+  4 {
+    1: "CultureCropData"
+    2 {
+      1: "cfgId"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgId"
+    }
+    2 {
+      1: "posIdxInPot"
+      3: 2
+      4: 1
+      5: 13
+      10: "posIdxInPot"
+    }
+    2 {
+      1: "startTime"
+      3: 3
+      4: 1
+      5: 3
+      10: "startTime"
+    }
+    2 {
+      1: "overTime"
+      3: 4
+      4: 1
+      5: 3
+      10: "overTime"
+    }
+    2 {
+      1: "takeTimes"
+      3: 5
+      4: 1
+      5: 13
+      10: "takeTimes"
+    }
+    2 {
+      1: "matureLen"
+      3: 6
+      4: 1
+      5: 13
+      10: "matureLen"
+    }
+  }
+  4 {
+    1: "CultureChangeData"
+    2 {
+      1: "plantlockChangeMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.CultureChangeData.PlantlockChangeMapEntry"
+      10: "plantlockChangeMap"
+    }
+    2 {
+      1: "grooveChangeMap"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.CultureChangeData.GrooveChangeMapEntry"
+      10: "grooveChangeMap"
+    }
+    2 {
+      1: "cropAddMap"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.CultureChangeData.CropAddMapEntry"
+      10: "cropAddMap"
+    }
+    2 {
+      1: "cropDelMap"
+      3: 4
+      4: 3
+      5: 11
+      6: ".Nofland.CultureChangeData.CropDelMapEntry"
+      10: "cropDelMap"
+    }
+    3 {
+      1: "PlantlockChangeMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.CulturePlantlockData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "GrooveChangeMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.CultureGrooveData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "CropAddMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.CultureCropData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "CropDelMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.CultureCropData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "HandbookItemData"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "isNew"
+      3: 2
+      4: 1
+      5: 8
+      10: "isNew"
+    }
+  }
+  4 {
+    1: "HandbookData"
+    2 {
+      1: "handbooksMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.HandbookData.HandbooksMapEntry"
+      10: "handbooksMap"
+    }
+    3 {
+      1: "HandbooksMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.HandbookItemData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "HandbookChangeData"
+    2 {
+      1: "unlockItems"
+      3: 1
+      4: 3
+      5: 13
+      10: "unlockItems"
+    }
+  }
+  4 {
+    1: "AchievementItemData"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "state"
+      3: 2
+      4: 1
+      5: 5
+      10: "state"
+    }
+    2 {
+      1: "value"
+      3: 3
+      4: 1
+      5: 3
+      10: "value"
+    }
+  }
+  4 {
+    1: "AchievementData"
+    2 {
+      1: "achievementsMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.AchievementData.AchievementsMapEntry"
+      10: "achievementsMap"
+    }
+    3 {
+      1: "AchievementsMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.AchievementItemData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "AchievementChangeData"
+    2 {
+      1: "achievementsMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.AchievementChangeData.AchievementsMapEntry"
+      10: "achievementsMap"
+    }
+    3 {
+      1: "AchievementsMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.AchievementItemData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "PrayData"
+    2 {
+      1: "days"
+      3: 1
+      4: 1
+      5: 13
+      10: "days"
+    }
+    2 {
+      1: "isPrayed"
+      3: 2
+      4: 1
+      5: 8
+      10: "isPrayed"
+    }
+    2 {
+      1: "resetTime"
+      3: 3
+      4: 1
+      5: 3
+      10: "resetTime"
+    }
+  }
+  4 {
+    1: "StudyData"
+    2 {
+      1: "cfgIDs"
+      3: 1
+      4: 3
+      5: 13
+      10: "cfgIDs"
+    }
+    2 {
+      1: "nextTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "nextTime"
+    }
+    2 {
+      1: "canStudyCount"
+      3: 3
+      4: 1
+      5: 5
+      10: "canStudyCount"
+    }
+  }
+  4 {
+    1 {
+      9: 101
+      12: 0x6174614479617372
+    }
+    2 {
+      1: "hearsayIDs"
+      3: 1
+      4: 3
+      5: 13
+      10: "hearsayIDs"
+    }
+  }
+  4 {
+    1: "TownData"
+    2 {
+      1: "hearsay"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.HearsayData"
+      10: "hearsay"
+    }
+    2 {
+      1: "activityhearsay"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.HearsayData"
+      10: "activityhearsay"
+    }
+  }
+  4 {
+    1: "ShopGoodsData"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "num"
+      3: 2
+      4: 1
+      5: 3
+      10: "num"
+    }
+    2 {
+      1: "buyTimes"
+      3: 3
+      4: 1
+      5: 5
+      10: "buyTimes"
+    }
+    2 {
+      1: "discount"
+      3: 4
+      4: 1
+      5: 5
+      10: "discount"
+    }
+  }
+  4 {
+    1: "ShopSingleData"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "shopGoodses"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.ShopGoodsData"
+      10: "shopGoodses"
+    }
+    2 {
+      1: "openTime"
+      3: 3
+      4: 1
+      5: 3
+      10: "openTime"
+    }
+    2 {
+      1: "nextTime"
+      3: 4
+      4: 1
+      5: 3
+      10: "nextTime"
+    }
+  }
+  4 {
+    1: "ShopData"
+    2 {
+      1: "shops"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.ShopSingleData"
+      10: "shops"
+    }
+    2 {
+      1: "quotaGoodses"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.ShopData.QuotaGoodsesEntry"
+      10: "quotaGoodses"
+    }
+    3 {
+      1: "QuotaGoodsesEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "MailCore"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "cfgID"
+      3: 2
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "title"
+      3: 3
+      4: 1
+      5: 9
+      10: "title"
+    }
+    2 {
+      1: "sender"
+      3: 4
+      4: 1
+      5: 13
+      10: "sender"
+    }
+    2 {
+      1: "createTime"
+      3: 5
+      4: 1
+      5: 3
+      10: "createTime"
+    }
+    2 {
+      1: "invalidTime"
+      3: 6
+      4: 1
+      5: 3
+      10: "invalidTime"
+    }
+    2 {
+      1: "content"
+      3: 7
+      4: 1
+      5: 9
+      10: "content"
+    }
+    2 {
+      1: "strings"
+      3: 8
+      4: 3
+      5: 11
+      6: ".Nofland.StringData"
+      10: "strings"
+    }
+    2 {
+      1: "attachments"
+      3: 9
+      4: 3
+      5: 11
+      6: ".Nofland.ItemData"
+      10: "attachments"
+    }
+  }
+  4 {
+    1: "MailData"
+    2 {
+      1: "UID"
+      3: 1
+      4: 1
+      5: 4
+      10: "UID"
+    }
+    2 {
+      1: "core"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.MailCore"
+      10: "core"
+    }
+    2 {
+      1: "isRead"
+      3: 3
+      4: 1
+      5: 8
+      10: "isRead"
+    }
+    2 {
+      1 {
+        13: 0x6576696563655273
+      }
+      3: 4
+      4: 1
+      5: 8
+      10 {
+        13: 0x6576696563655273
+      }
+    }
+    2 {
+      1: "isDelete"
+      3: 5
+      4: 1
+      5: 8
+      10: "isDelete"
+    }
+    2 {
+      1 {
+        13: 0x7463656c6c6f4373
+      }
+      3: 6
+      4: 1
+      5: 8
+      10 {
+        13: 0x7463656c6c6f4373
+      }
+    }
+  }
+  4 {
+    1: "StringData"
+    2 {
+      1: "isCfg"
+      3: 1
+      4: 1
+      5: 8
+      10: "isCfg"
+    }
+    2 {
+      1: "content"
+      3: 2
+      4: 1
+      5: 9
+      10: "content"
+    }
+  }
+  4 {
+    1: "MailsData"
+    2 {
+      1 {
+        13: 0x736c6961
+      }
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.MailData"
+      10 {
+        13: 0x736c6961
+      }
+    }
+  }
+  4 {
+    1: "MailsChangeData"
+    2 {
+      1 {
+        13: 0x736c6961
+      }
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.MailData"
+      10 {
+        13: 0x736c6961
+      }
+    }
+    2 {
+      1: "deletes"
+      3: 2
+      4: 3
+      5: 4
+      10: "deletes"
+    }
+  }
+  4 {
+    1: "SalePlaceData"
+    2 {
+      1: "index"
+      3: 1
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "product"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.ItemData"
+      10: "product"
+    }
+    2 {
+      1: "proficiencyLevel"
+      3: 3
+      4: 1
+      5: 5
+      10: "proficiencyLevel"
+    }
+  }
+  4 {
+    1: "SaleOrderData"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "state"
+      3: 2
+      4: 1
+      5: 5
+      10: "state"
+    }
+    2 {
+      1: "endTime"
+      3: 3
+      4: 1
+      5: 3
+      10: "endTime"
+    }
+    2 {
+      1: "storyIdx"
+      3: 4
+      4: 1
+      5: 5
+      10: "storyIdx"
+    }
+  }
+  4 {
+    1: "SaleData"
+    2 {
+      1: "beginTime"
+      3: 1
+      4: 1
+      5: 3
+      10: "beginTime"
+    }
+    2 {
+      1: "endTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "endTime"
+    }
+    2 {
+      1: "places"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.SaleData.PlacesEntry"
+      10: "places"
+    }
+    2 {
+      1: "goldChangeValue"
+      3: 4
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeValue"
+      10: "goldChangeValue"
+    }
+    2 {
+      1: "gotProfit"
+      3: 5
+      4: 1
+      5: 3
+      10: "gotProfit"
+    }
+    2 {
+      1: "gotRatio"
+      3: 6
+      4: 1
+      5: 2
+      10: "gotRatio"
+    }
+    2 {
+      1: "orders"
+      3: 7
+      4: 3
+      5: 11
+      6: ".Nofland.SaleOrderData"
+      10: "orders"
+    }
+    3 {
+      1 {
+        10: 108
+        12: 0x7972746e45736563
+      }
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.SalePlaceData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "FuturesOrderData"
+    2 {
+      1: "UID"
+      3: 1
+      4: 1
+      5: 4
+      10: "UID"
+    }
+    2 {
+      1: "ownerUID"
+      3: 2
+      4: 1
+      5: 4
+      10: "ownerUID"
+    }
+    2 {
+      1: "cfgID"
+      3: 3
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "opt"
+      3: 4
+      4: 1
+      5: 5
+      10: "opt"
+    }
+    2 {
+      1: "unitPrice"
+      3: 5
+      4: 1
+      5: 3
+      10: "unitPrice"
+    }
+    2 {
+      1: "initial"
+      3: 6
+      4: 1
+      5: 3
+      10: "initial"
+    }
+    2 {
+      1: "amount"
+      3: 7
+      4: 1
+      5: 3
+      10: "amount"
+    }
+    2 {
+      1: "time"
+      3: 8
+      4: 1
+      5: 3
+      10: "time"
+    }
+    2 {
+      1: "cancel"
+      3: 9
+      4: 1
+      5: 5
+      10: "cancel"
+    }
+  }
+  4 {
+    1: "FuturesBriefData"
+    2 {
+      1: "productID"
+      3: 1
+      4: 1
+      5: 13
+      10: "productID"
+    }
+    2 {
+      1: "amount"
+      3: 2
+      4: 1
+      5: 3
+      10: "amount"
+    }
+    2 {
+      1: "spotPrice"
+      3: 3
+      4: 1
+      5: 3
+      10: "spotPrice"
+    }
+  }
+  4 {
+    1: "FuturesPriceData"
+    2 {
+      1: "opt"
+      3: 1
+      4: 1
+      5: 5
+      10: "opt"
+    }
+    2 {
+      1: "amount"
+      3: 2
+      4: 1
+      5: 3
+      10: "amount"
+    }
+    2 {
+      1: "unitPrice"
+      3: 3
+      4: 1
+      5: 3
+      10: "unitPrice"
+    }
+  }
+  4 {
+    1: "MarketData"
+    2 {
+      1: "tradeTimes"
+      3: 1
+      4: 1
+      5: 5
+      10: "tradeTimes"
+    }
+    2 {
+      1: "orders"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.FuturesOrderData"
+      10: "orders"
+    }
+  }
+  4 {
+    1: "NpcData"
+    2 {
+      1: "npcFriendShips"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.NpcFriendShipData"
+      10: "npcFriendShips"
+    }
+    2 {
+      1: "entrustRecord"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.NpcData.EntrustRecordEntry"
+      10: "entrustRecord"
+    }
+    3 {
+      1: "EntrustRecordEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "NpcFriendShipData"
+    2 {
+      1: "npcCfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "npcCfgID"
+    }
+    2 {
+      1: "friendValue"
+      3: 2
+      4: 1
+      5: 13
+      10: "friendValue"
+    }
+    2 {
+      1: "normalGiftTimes"
+      3: 3
+      4: 1
+      5: 5
+      10: "normalGiftTimes"
+    }
+    2 {
+      1: "unlockStorys"
+      3: 4
+      4: 3
+      5: 9
+      10: "unlockStorys"
+    }
+  }
+  4 {
+    1: "ChangeValue"
+    2 {
+      1: "changeAbsolute"
+      3: 1
+      4: 1
+      5: 3
+      10: "changeAbsolute"
+    }
+    2 {
+      1: "changeRatio"
+      3: 2
+      4: 1
+      5: 3
+      10: "changeRatio"
+    }
+  }
+  4 {
+    1: "PackageData"
+    2 {
+      1: "packages"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.PackageCardCount"
+      10: "packages"
+    }
+  }
+  4 {
+    1: "PackageCardCount"
+    2 {
+      1: "UID"
+      3: 1
+      4: 1
+      5: 13
+      10: "UID"
+    }
+    2 {
+      1: "cardsCount"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.PackageCardCount.CardsCountEntry"
+      10: "cardsCount"
+    }
+    3 {
+      1: "CardsCountEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "QuickenData"
+    2 {
+      1: "level"
+      3: 1
+      4: 1
+      5: 13
+      10: "level"
+    }
+    2 {
+      1: "freeTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "freeTime"
+    }
+    2 {
+      1: "extraTime"
+      3: 3
+      4: 1
+      5: 3
+      10: "extraTime"
+    }
+    2 {
+      1: "freeTip"
+      3: 4
+      4: 1
+      5: 8
+      10: "freeTip"
+    }
+    2 {
+      1: "extraTip"
+      3: 5
+      4: 1
+      5: 8
+      10: "extraTip"
+    }
+    2 {
+      1: "chargeTimes"
+      3: 6
+      4: 1
+      5: 5
+      10: "chargeTimes"
+    }
+    2 {
+      1: "quickenFriends"
+      3: 7
+      4: 3
+      5: 4
+      10: "quickenFriends"
+    }
+  }
+  4 {
+    1: "BadgeData"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "x"
+      3: 2
+      4: 1
+      5: 5
+      10: "x"
+    }
+    2 {
+      1: "y"
+      3: 3
+      4: 1
+      5: 5
+      10: "y"
+    }
+    2 {
+      1: "rotate"
+      3: 4
+      4: 1
+      5: 5
+      10: "rotate"
+    }
+  }
+  4 {
+    1: "Badges"
+    2 {
+      1: "values"
+      3: 8
+      4: 3
+      5: 11
+      6: ".Nofland.BadgeData"
+      10: "values"
+    }
+  }
+  4 {
+    1: "UValues"
+    2 {
+      1: "values"
+      3: 1
+      4: 3
+      5: 13
+      10: "values"
+    }
+  }
+  4 {
+    1 {
+      10: 0x70614d55
+    }
+    2 {
+      1: "values"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.UUMap.ValuesEntry"
+      10: "values"
+    }
+    3 {
+      1: "ValuesEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 13
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "ContactData"
+    2 {
+      1: "name"
+      3: 1
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "portrait"
+      3: 2
+      4: 1
+      5: 13
+      10: "portrait"
+    }
+    2 {
+      1: "signature"
+      3: 3
+      4: 1
+      5: 9
+      10: "signature"
+    }
+    2 {
+      1: "level"
+      3: 4
+      4: 1
+      5: 5
+      10: "level"
+    }
+    2 {
+      1: "quickenLevel"
+      3: 5
+      4: 1
+      5: 13
+      10: "quickenLevel"
+    }
+    2 {
+      1: "elfs"
+      3: 6
+      4: 1
+      5: 11
+      6: ".Nofland.UValues"
+      10: "elfs"
+    }
+    2 {
+      1: "badges"
+      3: 7
+      4: 1
+      5: 11
+      6: ".Nofland.Badges"
+      10: "badges"
+    }
+    2 {
+      1: "decorates"
+      3: 8
+      4: 1
+      5: 11
+      6: ".Nofland.UUMap"
+      10: "decorates"
+    }
+    2 {
+      1: "allElfs"
+      3: 9
+      4: 1
+      5: 11
+      6: ".Nofland.UValues"
+      10: "allElfs"
+    }
+    2 {
+      1: "bePraisedTimes"
+      3: 11
+      4: 1
+      5: 5
+      10: "bePraisedTimes"
+    }
+    2 {
+      1: "beQuickenedTimes"
+      3: 12
+      4: 1
+      5: 5
+      10: "beQuickenedTimes"
+    }
+  }
+  4 {
+    1: "ModifyContact"
+    2 {
+      1: "value"
+      3: 1
+      4: 1
+      5: 9
+      10: "value"
+    }
+    2 {
+      1: "elfs"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.UValues"
+      10: "elfs"
+    }
+    2 {
+      1: "badges"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.Badges"
+      10: "badges"
+    }
+    2 {
+      1: "decorates"
+      3: 4
+      4: 1
+      5: 11
+      6: ".Nofland.UUMap"
+      10: "decorates"
+    }
+  }
+  4 {
+    1: "ThingData"
+    2 {
+      1: "UID"
+      3: 1
+      4: 1
+      5: 4
+      10: "UID"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "type"
+      3: 3
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "value"
+      3: 4
+      4: 1
+      5: 9
+      10: "value"
+    }
+    2 {
+      1: "timestamp"
+      3: 5
+      4: 1
+      5: 3
+      10: "timestamp"
+    }
+  }
+  4 {
+    1: "TimeScheduleData"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "beginTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "beginTime"
+    }
+    2 {
+      1: "endTime"
+      3: 3
+      4: 1
+      5: 3
+      10: "endTime"
+    }
+  }
+  4 {
+    1: "WorldlinePlayerData"
+    2 {
+      1: "base"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.WorldlinePlayerBase"
+      10: "base"
+    }
+    2 {
+      1: "worldlineTask"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "worldlineTask"
+    }
+    2 {
+      1: "unionTask"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "unionTask"
+    }
+    2 {
+      1: "eventReward"
+      3: 4
+      4: 3
+      5: 13
+      10: "eventReward"
+    }
+  }
+  4 {
+    1: "WorldlinePlayerUnion"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "scores"
+      3: 2
+      4: 1
+      5: 3
+      10: "scores"
+    }
+    2 {
+      1 {
+        14 {
+        }
+        12: 0x6472617765526567
+      }
+      3: 3
+      4: 3
+      5: 13
+      10 {
+        14 {
+        }
+        12: 0x6472617765526567
+      }
+    }
+  }
+  4 {
+    1: "WorldlinePlayerBase"
+    2 {
+      1: "worldlineID"
+      3: 1
+      4: 1
+      5: 13
+      10: "worldlineID"
+    }
+    2 {
+      1 {
+        14: 0x6e6f696e
+      }
+      3: 2
+      4: 1
+      5: 13
+      10 {
+        14: 0x6e6f696e
+      }
+    }
+    2 {
+      1: "unionScores"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlinePlayerUnion"
+      10: "unionScores"
+    }
+    2 {
+      1: "records"
+      3: 4
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlinePlayerBase.RecordsEntry"
+      10: "records"
+    }
+    2 {
+      1: "endingReward"
+      3: 5
+      4: 1
+      5: 8
+      10: "endingReward"
+    }
+    3 {
+      1: "RecordsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 13
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "WorldlinePlayerClient"
+    2 {
+      1: "base"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.WorldlinePlayerBase"
+      10: "base"
+    }
+    2 {
+      1: "schedule"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.TimeScheduleData"
+      10: "schedule"
+    }
+  }
+  4 {
+    1: "WorldlineUnionData"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "scores"
+      3: 2
+      4: 1
+      5: 3
+      10: "scores"
+    }
+    2 {
+      1: "membersCount"
+      3: 3
+      4: 1
+      5: 3
+      10: "membersCount"
+    }
+    2 {
+      1: "events"
+      3: 4
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineEventData"
+      10: "events"
+    }
+  }
+  4 {
+    1: "WorldlineEventData"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "stages"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineStageData"
+      10: "stages"
+    }
+  }
+  4 {
+    1: "WorldlineStageData"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "choices"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineStageData.ChoicesEntry"
+      10: "choices"
+    }
+    2 {
+      1: "choicesCount"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineStageData.ChoicesCountEntry"
+      10: "choicesCount"
+    }
+    3 {
+      1: "ChoicesEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "ChoicesCountEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "WorldlineRecordData"
+    2 {
+      1 {
+        12: 0x746e6576
+      }
+      3: 1
+      4: 1
+      5: 13
+      10 {
+        12: 0x746e6576
+      }
+    }
+    2 {
+      1 {
+        14: 0x6e6f696e
+      }
+      3: 2
+      4: 1
+      5: 13
+      10 {
+        14: 0x6e6f696e
+      }
+    }
+    2 {
+      1: "stage"
+      3: 3
+      4: 1
+      5: 13
+      10: "stage"
+    }
+    2 {
+      1: "choice"
+      3: 4
+      4: 1
+      5: 13
+      10: "choice"
+    }
+    2 {
+      1: "timestamp"
+      3: 5
+      4: 1
+      5: 3
+      10: "timestamp"
+    }
+    2 {
+      1: "complete"
+      3: 6
+      4: 1
+      5: 8
+      10: "complete"
+    }
+  }
+  4 {
+    1: "WorldlineData"
+    2 {
+      1: "schedule"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.TimeScheduleData"
+      10: "schedule"
+    }
+    2 {
+      1: "unions"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineUnionData"
+      10: "unions"
+    }
+    2 {
+      1: "records"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineRecordData"
+      10: "records"
+    }
+    2 {
+      1: "ending"
+      3: 4
+      4: 1
+      5: 13
+      10: "ending"
+    }
+  }
+  4 {
+    1: "WorldlineHistoryData"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "beginTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "beginTime"
+    }
+    2 {
+      1: "scores"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineHistoryData.ScoresEntry"
+      10: "scores"
+    }
+    2 {
+      1: "eventsEnding"
+      3: 4
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineHistoryData.EventsEndingEntry"
+      10: "eventsEnding"
+    }
+    2 {
+      1: "worldlineEnding"
+      3: 5
+      4: 1
+      5: 13
+      10: "worldlineEnding"
+    }
+    2 {
+      1: "worldlineRecordData"
+      3: 6
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineRecordData"
+      10: "worldlineRecordData"
+    }
+    3 {
+      1: "ScoresEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "EventsEndingEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 13
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "ActivityData"
+    2 {
+      1: "shop"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityShopData"
+      10: "shop"
+    }
+    2 {
+      1: "addition"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityAdditionData"
+      10: "addition"
+    }
+    2 {
+      1: "banner"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityBannerData"
+      10: "banner"
+    }
+    2 {
+      1 {
+        14: 114
+        12: 0x746e6573
+      }
+      3: 4
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityPresentData"
+      10 {
+        14: 114
+        12: 0x746e6573
+      }
+    }
+    2 {
+      1: "savings"
+      3: 5
+      4: 1
+      5: 11
+      6: ".Nofland.ActivitySavingsData"
+      10: "savings"
+    }
+    2 {
+      1 {
+        14: 0x736e6f6974736575
+      }
+      3: 6
+      4: 1
+      5: 11
+      6: ".Nofland.QuestionnaireData"
+      10 {
+        14: 0x736e6f6974736575
+      }
+    }
+  }
+  4 {
+    1: "ActivityShopData"
+    2 {
+      1: "schedule"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.TimeScheduleData"
+      10: "schedule"
+    }
+    2 {
+      1: "currencies"
+      3: 2
+      4: 3
+      5: 13
+      10: "currencies"
+    }
+    2 {
+      1: "activityShopCfg"
+      3: 3
+      4: 1
+      5: 12
+      10: "activityShopCfg"
+    }
+  }
+  4 {
+    1: "ActivityShopPlayerData"
+    2 {
+      1: "activityID"
+      3: 1
+      4: 1
+      5: 13
+      10: "activityID"
+    }
+    2 {
+      1: "buyCounts"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.ActivityShopPlayerData.BuyCountsEntry"
+      10: "buyCounts"
+    }
+    3 {
+      1: "BuyCountsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "ActivityAdditionData"
+    2 {
+      1: "schedule"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.TimeScheduleData"
+      10: "schedule"
+    }
+    2 {
+      1: "influenceCfg"
+      3: 2
+      4: 1
+      5: 12
+      10: "influenceCfg"
+    }
+  }
+  4 {
+    1: "ActivityAdditionPlayerData"
+    2 {
+      1: "activityID"
+      3: 1
+      4: 1
+      5: 13
+      10: "activityID"
+    }
+    2 {
+      1: "tasksData"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "tasksData"
+    }
+  }
+  4 {
+    1 {
+      8: 0x4279746976697463
+      12: 0x6174614472656e6e
+    }
+    2 {
+      1: "banners"
+      3: 1
+      4: 3
+      5: 13
+      10: "banners"
+    }
+  }
+  4 {
+    1: "AdministratorData"
+    2 {
+      1: "account"
+      3: 1
+      4: 1
+      5: 9
+      10: "account"
+    }
+    2 {
+      1: "password"
+      3: 2
+      4: 1
+      5: 9
+      10: "password"
+    }
+    2 {
+      1: "permission"
+      3: 3
+      4: 1
+      5: 5
+      10: "permission"
+    }
+    2 {
+      1: "regtime"
+      3: 4
+      4: 1
+      5: 3
+      10: "regtime"
+    }
+  }
+  4 {
+    1: "Notice"
+    2 {
+      1: "title"
+      3: 1
+      4: 1
+      5: 9
+      10: "title"
+    }
+    2 {
+      1: "content"
+      3: 2
+      4: 1
+      5: 9
+      10: "content"
+    }
+    2 {
+      1: "details"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.Notice.DetailsEntry"
+      10: "details"
+    }
+    2 {
+      1: "signature"
+      3: 4
+      4: 1
+      5: 9
+      10: "signature"
+    }
+    2 {
+      1 {
+        13: 0x617461446567616d
+      }
+      3: 5
+      4: 1
+      5: 9
+      10 {
+        13: 0x617461446567616d
+      }
+    }
+    3 {
+      1: "DetailsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 9
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 9
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "NoticesData"
+    2 {
+      1: "notices"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.Notice"
+      10: "notices"
+    }
+    2 {
+      1: "code"
+      3: 2
+      4: 1
+      5: 5
+      10: "code"
+    }
+  }
+  4 {
+    1: "PassPlayerData"
+    2 {
+      1: "tasksData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "tasksData"
+    }
+    2 {
+      1: "beginTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "beginTime"
+    }
+    2 {
+      1: "resetTime"
+      3: 3
+      4: 1
+      5: 3
+      10: "resetTime"
+    }
+    2 {
+      1: "endTime"
+      3: 4
+      4: 1
+      5: 3
+      10: "endTime"
+    }
+  }
+  4 {
+    1: "MagicRoomData"
+    2 {
+      1: "cfgId"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgId"
+    }
+    2 {
+      1: "leftState"
+      3: 2
+      4: 1
+      5: 5
+      10: "leftState"
+    }
+    2 {
+      1: "rightState"
+      3: 3
+      4: 1
+      5: 5
+      10: "rightState"
+    }
+  }
+  4 {
+    1: "MagicRoomsData"
+    2 {
+      1: "magicRoomMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.MagicRoomsData.MagicRoomMapEntry"
+      10: "magicRoomMap"
+    }
+    3 {
+      1: "MagicRoomMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.MagicRoomData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "MagicRoomPlayerData"
+    2 {
+      1: "magicRoomsData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.MagicRoomsData"
+      10: "magicRoomsData"
+    }
+    2 {
+      1: "beginTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "beginTime"
+    }
+  }
+  4 {
+    1: "GameOrderData"
+    2 {
+      1: "orderID"
+      3: 1
+      4: 1
+      5: 9
+      10: "orderID"
+    }
+    2 {
+      1: "payable"
+      3: 2
+      4: 1
+      5: 5
+      10: "payable"
+    }
+    2 {
+      1: "creationTime"
+      3: 3
+      4: 1
+      5: 3
+      10: "creationTime"
+    }
+    2 {
+      1: "payment"
+      3: 4
+      4: 1
+      5: 5
+      10: "payment"
+    }
+    2 {
+      1: "completionTime"
+      3: 5
+      4: 1
+      5: 3
+      10: "completionTime"
+    }
+    2 {
+      1: "state"
+      3: 6
+      4: 1
+      5: 5
+      10: "state"
+    }
+    2 {
+      1: "buyType"
+      3: 7
+      4: 1
+      5: 5
+      10: "buyType"
+    }
+    2 {
+      1: "cfgID"
+      3: 8
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "name"
+      3: 9
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "describe"
+      3: 10
+      4: 1
+      5: 9
+      10: "describe"
+    }
+    2 {
+      1 {
+        14: 97
+        15: 0x656d6954746e656d
+      }
+      3: 11
+      4: 1
+      5: 3
+      10 {
+        14: 97
+        15: 0x656d6954746e656d
+      }
+    }
+  }
+  4 {
+    1: "PlatformOrderData"
+    2 {
+      1: "state"
+      3: 1
+      4: 1
+      5: 5
+      10: "state"
+    }
+    2 {
+      1: "payment"
+      3: 2
+      4: 1
+      5: 5
+      10: "payment"
+    }
+    2 {
+      1: "account"
+      3: 3
+      4: 1
+      5: 9
+      10: "account"
+    }
+    2 {
+      1: "timestamp"
+      3: 4
+      4: 1
+      5: 3
+      10: "timestamp"
+    }
+    2 {
+      1: "gameOrderID"
+      3: 5
+      4: 1
+      5: 9
+      10: "gameOrderID"
+    }
+    2 {
+      1: "platformOrderID"
+      3: 6
+      4: 1
+      5: 9
+      10: "platformOrderID"
+    }
+    2 {
+      1: "original"
+      3: 7
+      4: 1
+      5: 9
+      10: "original"
+    }
+  }
+  4 {
+    1: "WorthData"
+    2 {
+      1: "crystalEnd"
+      3: 1
+      4: 1
+      5: 3
+      10: "crystalEnd"
+    }
+    2 {
+      1: "blessEnd"
+      3: 2
+      4: 1
+      5: 3
+      10: "blessEnd"
+    }
+    2 {
+      1: "permitBegin"
+      3: 3
+      4: 1
+      5: 3
+      10: "permitBegin"
+    }
+    2 {
+      1: "crystalDaily"
+      3: 4
+      4: 1
+      5: 8
+      10: "crystalDaily"
+    }
+  }
+  4 {
+    1: "PresentData"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "buy"
+      3: 2
+      4: 1
+      5: 8
+      10: "buy"
+    }
+    2 {
+      1: "timeEnd"
+      3: 3
+      4: 1
+      5: 3
+      10: "timeEnd"
+    }
+  }
+  4 {
+    1: "LimitPresentData"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "buyCount"
+      3: 2
+      4: 1
+      5: 5
+      10: "buyCount"
+    }
+  }
+  4 {
+    1: "RegularPresentData"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "buyCount"
+      3: 2
+      4: 1
+      5: 5
+      10: "buyCount"
+    }
+    2 {
+      1: "resetTime"
+      3: 3
+      4: 1
+      5: 3
+      10: "resetTime"
+    }
+  }
+  4 {
+    1: "PresentsData"
+    2 {
+      1: "presents"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.PresentsData.PresentsEntry"
+      10: "presents"
+    }
+    2 {
+      1: "limitPresents"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.PresentsData.LimitPresentsEntry"
+      10: "limitPresents"
+    }
+    2 {
+      1: "regularPresents"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.PresentsData.RegularPresentsEntry"
+      10: "regularPresents"
+    }
+    3 {
+      1: "PresentsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.PresentData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "LimitPresentsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.LimitPresentData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "RegularPresentsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.RegularPresentData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "ActivityPresentCfg"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "title"
+      3: 2
+      4: 1
+      5: 9
+      10: "title"
+    }
+    2 {
+      1: "timeBegin"
+      3: 3
+      4: 1
+      5: 3
+      10: "timeBegin"
+    }
+    2 {
+      1: "timeEnd"
+      3: 4
+      4: 1
+      5: 3
+      10: "timeEnd"
+    }
+    2 {
+      1: "discount"
+      3: 5
+      4: 1
+      5: 5
+      10: "discount"
+    }
+    2 {
+      1: "rechargeID"
+      3: 6
+      4: 1
+      5: 13
+      10: "rechargeID"
+    }
+    2 {
+      1: "limitCount"
+      3: 7
+      4: 1
+      5: 5
+      10: "limitCount"
+    }
+    2 {
+      1: "items"
+      3: 8
+      4: 3
+      5: 11
+      6: ".Nofland.ItemData"
+      10: "items"
+    }
+    2 {
+      1: "enable"
+      3: 9
+      4: 1
+      5: 8
+      10: "enable"
+    }
+    2 {
+      1: "describe"
+      3: 10
+      4: 1
+      5: 9
+      10: "describe"
+    }
+  }
+  4 {
+    1: "ActivityPresentData"
+    2 {
+      1: "configs"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.ActivityPresentData.ConfigsEntry"
+      10: "configs"
+    }
+    3 {
+      1: "ConfigsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.ActivityPresentCfg"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "HotfixData"
+    2 {
+      1: "enable"
+      3: 1
+      4: 1
+      5: 8
+      10: "enable"
+    }
+    2 {
+      1: "codeVersion"
+      3: 2
+      4: 1
+      5: 5
+      10: "codeVersion"
+    }
+    2 {
+      1: "appVersion"
+      3: 3
+      4: 1
+      5: 5
+      10: "appVersion"
+    }
+    2 {
+      1: "uris"
+      3: 4
+      4: 3
+      5: 9
+      10: "uris"
+    }
+    2 {
+      1: "download"
+      3: 5
+      4: 1
+      5: 9
+      10: "download"
+    }
+  }
+  4 {
+    1: "WorldlineChoiceSave"
+    2 {
+      1: "count"
+      3: 1
+      4: 1
+      5: 3
+      10: "count"
+    }
+    2 {
+      1: "latestTimestamp"
+      3: 2
+      4: 1
+      5: 3
+      10: "latestTimestamp"
+    }
+  }
+  4 {
+    1: "WorldlineStageSave"
+    2 {
+      1: "totalCount"
+      3: 1
+      4: 1
+      5: 3
+      10: "totalCount"
+    }
+    2 {
+      1: "choices"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineStageSave.ChoicesEntry"
+      10: "choices"
+    }
+    2 {
+      1: "endTimestamp"
+      3: 3
+      4: 1
+      5: 3
+      10: "endTimestamp"
+    }
+    2 {
+      1: "endChoice"
+      3: 4
+      4: 1
+      5: 13
+      10: "endChoice"
+    }
+    3 {
+      1: "ChoicesEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.WorldlineChoiceSave"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "WorldlineUnionSave"
+    2 {
+      1: "scores"
+      3: 1
+      4: 1
+      5: 3
+      10: "scores"
+    }
+    2 {
+      1: "membersCount"
+      3: 2
+      4: 1
+      5: 3
+      10: "membersCount"
+    }
+    2 {
+      1: "stages"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineUnionSave.StagesEntry"
+      10: "stages"
+    }
+    2 {
+      1: "highestEvent"
+      3: 4
+      4: 1
+      5: 13
+      10: "highestEvent"
+    }
+    3 {
+      1: "StagesEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.WorldlineStageSave"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "WorldlineEventSave"
+    2 {
+      1: "endUnion"
+      3: 1
+      4: 1
+      5: 13
+      10: "endUnion"
+    }
+    2 {
+      1: "endTimestamp"
+      3: 2
+      4: 1
+      5: 3
+      10: "endTimestamp"
+    }
+  }
+  4 {
+    1: "WorldlineSave"
+    2 {
+      1: "unions"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineSave.UnionsEntry"
+      10: "unions"
+    }
+    2 {
+      1: "events"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineSave.EventsEntry"
+      10: "events"
+    }
+    2 {
+      1: "ending"
+      3: 3
+      4: 1
+      5: 13
+      10: "ending"
+    }
+    3 {
+      1: "UnionsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.WorldlineUnionSave"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "EventsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.WorldlineEventSave"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "ActivitySavingsStage"
+    2 {
+      1: "crystal"
+      3: 1
+      4: 1
+      5: 3
+      10: "crystal"
+    }
+    2 {
+      1: "rechargeID"
+      3: 6
+      4: 1
+      5: 13
+      10: "rechargeID"
+    }
+  }
+  4 {
+    1: "ActivitySavingsData"
+    2 {
+      1: "enable"
+      3: 1
+      4: 1
+      5: 8
+      10: "enable"
+    }
+    2 {
+      1: "beginTime"
+      3: 3
+      4: 1
+      5: 3
+      10: "beginTime"
+    }
+    2 {
+      1: "endTime"
+      3: 4
+      4: 1
+      5: 3
+      10: "endTime"
+    }
+    2 {
+      1: "limitCount"
+      3: 5
+      4: 1
+      5: 5
+      10: "limitCount"
+    }
+    2 {
+      1: "stage1"
+      3: 6
+      4: 1
+      5: 11
+      6: ".Nofland.ActivitySavingsStage"
+      10: "stage1"
+    }
+    2 {
+      1: "stage2"
+      3: 7
+      4: 1
+      5: 11
+      6: ".Nofland.ActivitySavingsStage"
+      10: "stage2"
+    }
+    2 {
+      1: "saleRatio"
+      3: 8
+      4: 1
+      5: 3
+      10: "saleRatio"
+    }
+    2 {
+      1: "saleMax"
+      3: 9
+      4: 1
+      5: 3
+      10: "saleMax"
+    }
+    2 {
+      1: "title"
+      3: 10
+      4: 1
+      5: 9
+      10: "title"
+    }
+  }
+  4 {
+    1: "SavingsData"
+    2 {
+      1: "beginTime"
+      3: 1
+      4: 1
+      5: 3
+      10: "beginTime"
+    }
+    2 {
+      1: "buyCount"
+      3: 2
+      4: 1
+      5: 5
+      10: "buyCount"
+    }
+    2 {
+      1: "crystal"
+      3: 3
+      4: 1
+      5: 3
+      10: "crystal"
+    }
+  }
+  4 {
+    1: "ModifyData"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "modify"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.ModifyContact"
+      10: "modify"
+    }
+  }
+  4 {
+    1: "ActivitySaleData"
+    2 {
+      1: "endTime"
+      3: 1
+      4: 1
+      5: 3
+      10: "endTime"
+    }
+    2 {
+      1: "saleAwards"
+      3: 2
+      4: 3
+      5: 3
+      10: "saleAwards"
+    }
+  }
+  4 {
+    1: "KeyValueData"
+    2 {
+      1: "key"
+      3: 1
+      4: 1
+      5: 3
+      10: "key"
+    }
+    2 {
+      1: "value"
+      3: 2
+      4: 1
+      5: 3
+      10: "value"
+    }
+  }
+  4 {
+    1: "QuestionnaireData"
+    2 {
+      1: "beginTime"
+      3: 1
+      4: 1
+      5: 3
+      10: "beginTime"
+    }
+    2 {
+      1: "endTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "endTime"
+    }
+    2 {
+      1: "rewards"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.ItemData"
+      10: "rewards"
+    }
+    2 {
+      1: "address"
+      3: 4
+      4: 1
+      5: 9
+      10: "address"
+    }
+  }
+  4 {
+    1: "QuestionnaireSave"
+    2 {
+      1: "rewards"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.QuestionnaireSave.RewardsEntry"
+      10: "rewards"
+    }
+    3 {
+      1: "RewardsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 3
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "NpcChangeData"
+    2 {
+      1: "npcFriends"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.NpcChangeData.NpcFriendsEntry"
+      10: "npcFriends"
+    }
+    3 {
+      1: "NpcFriendsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.NpcFriendShipData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  12: "proto3"
+}

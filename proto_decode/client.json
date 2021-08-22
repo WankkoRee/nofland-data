@@ -1,0 +1,6930 @@
+1 {
+  1: "client.proto"
+  2: "Nofland"
+  3: "client_common.proto"
+  4 {
+    1: "C2G_GatherToolEquip"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "elfsKey"
+      3: 2
+      4: 3
+      5: 13
+      10: "elfsKey"
+    }
+    2 {
+      1: "toolId"
+      3: 3
+      4: 1
+      5: 13
+      10: "toolId"
+    }
+    2 {
+      1: "toolCount"
+      3: 4
+      4: 1
+      5: 5
+      10: "toolCount"
+    }
+  }
+  4 {
+    1: "G2C_GatherToolEquip"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "area"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.GatherAreaData"
+      10: "area"
+    }
+  }
+  4 {
+    1: "C2G_GatherStart"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "elfsKey"
+      3: 2
+      4: 3
+      5: 13
+      10: "elfsKey"
+    }
+    2 {
+      1: "toolId"
+      3: 3
+      4: 1
+      5: 13
+      10: "toolId"
+    }
+    2 {
+      1: "toolCount"
+      3: 4
+      4: 1
+      5: 5
+      10: "toolCount"
+    }
+  }
+  4 {
+    1: "G2C_GatherStart"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "area"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.GatherAreaData"
+      10: "area"
+    }
+  }
+  4 {
+    1: "C2G_GatherOver"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+  }
+  4 {
+    1: "G2C_GatherOver"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "area"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.GatherAreaData"
+      10: "area"
+    }
+    2 {
+      1: "items"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_GatherOver.ItemsEntry"
+      10: "items"
+    }
+    2 {
+      1: "extraAwards"
+      3: 4
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_GatherOver.ExtraAwardsEntry"
+      10: "extraAwards"
+    }
+    3 {
+      1: "ItemsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "ExtraAwardsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "C2G_GatherCancel"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+  }
+  4 {
+    1: "G2C_GatherCancel"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "area"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.GatherAreaData"
+      10: "area"
+    }
+  }
+  4 {
+    1: "C2G_GatherAreaLvUp"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+  }
+  4 {
+    1: "G2C_GatherAreaLvUp"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "area"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.GatherAreaData"
+      10: "area"
+    }
+  }
+  4 {
+    1: "C2G_GatherQuicken"
+    2 {
+      1: "areaType"
+      3: 1
+      4: 1
+      5: 5
+      10: "areaType"
+    }
+    2 {
+      1 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+      3: 2
+      4: 1
+      5: 5
+      10 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+    }
+  }
+  4 {
+    1: "G2C_GatherQuicken"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "areaType"
+      3: 102
+      4: 1
+      5: 5
+      10: "areaType"
+    }
+    2 {
+      1 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+      3: 103
+      4: 1
+      5: 5
+      10 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+    }
+    2 {
+      1: "area"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.GatherAreaData"
+      10: "area"
+    }
+  }
+  4 {
+    1: "C2G_GatherStartAll"
+  }
+  4 {
+    1: "G2C_GatherStartAll"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "areas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.GatherAreaData"
+      10: "areas"
+    }
+    2 {
+      1: "msgCode"
+      3: 2
+      4: 1
+      5: 13
+      10: "msgCode"
+    }
+  }
+  4 {
+    1: "C2G_GatherOverAll"
+  }
+  4 {
+    1: "G2C_GatherOverAll"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "areas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.GatherAreaData"
+      10: "areas"
+    }
+    2 {
+      1: "normalAwards"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_GatherOverAll.NormalAwardsEntry"
+      10: "normalAwards"
+    }
+    2 {
+      1: "extraAwards"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_GatherOverAll.ExtraAwardsEntry"
+      10: "extraAwards"
+    }
+    3 {
+      1: "NormalAwardsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "ExtraAwardsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "C2G_CaravanStart"
+    2 {
+      1: "areaId"
+      3: 1
+      4: 1
+      5: 13
+      10: "areaId"
+    }
+    2 {
+      1: "elfsKey"
+      3: 2
+      4: 3
+      5: 13
+      10: "elfsKey"
+    }
+    2 {
+      1: "toolDic"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.C2G_CaravanStart.ToolDicEntry"
+      10: "toolDic"
+    }
+    3 {
+      1: "ToolDicEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "G2C_CaravanStart"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "area"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.CaravanAreaData"
+      10: "area"
+    }
+  }
+  4 {
+    1: "C2G_CaravanQuicken"
+    2 {
+      1: "areaId"
+      3: 1
+      4: 1
+      5: 13
+      10: "areaId"
+    }
+    2 {
+      1 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+      3: 2
+      4: 1
+      5: 5
+      10 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+    }
+  }
+  4 {
+    1: "G2C_CaravanQuicken"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "areaId"
+      3: 1
+      4: 1
+      5: 13
+      10: "areaId"
+    }
+    2 {
+      1 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+      3: 2
+      4: 1
+      5: 5
+      10 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+    }
+    2 {
+      1: "area"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.CaravanAreaData"
+      10: "area"
+    }
+  }
+  4 {
+    1: "C2G_CaravanCancel"
+    2 {
+      1: "areaId"
+      3: 1
+      4: 1
+      5: 13
+      10: "areaId"
+    }
+  }
+  4 {
+    1: "G2C_CaravanCancel"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "area"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.CaravanAreaData"
+      10: "area"
+    }
+  }
+  4 {
+    1: "C2G_CaravanOver"
+    2 {
+      1: "areaId"
+      3: 1
+      4: 1
+      5: 13
+      10: "areaId"
+    }
+  }
+  4 {
+    1: "G2C_CaravanOver"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "area"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.CaravanAreaData"
+      10: "area"
+    }
+    2 {
+      1: "awardFormula"
+      3: 3
+      4: 1
+      5: 13
+      10: "awardFormula"
+    }
+    2 {
+      1: "extraAwardFormula"
+      3: 4
+      4: 1
+      5: 13
+      10: "extraAwardFormula"
+    }
+    2 {
+      1: "compensateCoin"
+      3: 5
+      4: 1
+      5: 13
+      10: "compensateCoin"
+    }
+  }
+  4 {
+    1: "C2G_AlchemySelectElf"
+    2 {
+      1: "alchemyElfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "alchemyElfKey"
+    }
+  }
+  4 {
+    1: "G2C_AlchemySelectElf"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+  }
+  4 {
+    1: "C2G_AlchemySelectFormula"
+    2 {
+      1: "selectedFormulaID"
+      3: 1
+      4: 1
+      5: 13
+      10: "selectedFormulaID"
+    }
+  }
+  4 {
+    1: "G2C_AlchemySelectFormula"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+  }
+  4 {
+    1: "C2G_AlchemyStart"
+    2 {
+      1: "count"
+      3: 1
+      4: 1
+      5: 5
+      10: "count"
+    }
+  }
+  4 {
+    1: "G2C_AlchemyStart"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "count"
+      3: 1
+      4: 1
+      5: 5
+      10: "count"
+    }
+    2 {
+      1: "products"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.ItemData"
+      10: "products"
+    }
+    2 {
+      1: "elfCfgID"
+      3: 3
+      4: 1
+      5: 13
+      10: "elfCfgID"
+    }
+  }
+  4 {
+    1: "C2G_AlchemyRefining"
+    2 {
+      1: "refiningFormulaID"
+      3: 1
+      4: 1
+      5: 13
+      10: "refiningFormulaID"
+    }
+    2 {
+      1: "materials"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.C2G_AlchemyRefining.MaterialsEntry"
+      10: "materials"
+    }
+    3 {
+      1 {
+        9: 0x72657461
+        13: 0x7972746e45736c61
+      }
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "G2C_AlchemyRefining"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "refiningFormulaID"
+      3: 1
+      4: 1
+      5: 13
+      10: "refiningFormulaID"
+    }
+    2 {
+      1: "refiningUID"
+      3: 2
+      4: 1
+      5: 4
+      10: "refiningUID"
+    }
+  }
+  4 {
+    1: "C2G_TaskAccept"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+  }
+  4 {
+    1: "G2C_TaskAccept"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+  }
+  4 {
+    1: "C2G_TaskAccomplish"
+    2 {
+      1: "taskId"
+      3: 1
+      4: 1
+      5: 13
+      10: "taskId"
+    }
+  }
+  4 {
+    1: "G2C_TaskAccomplish"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "taskId"
+      3: 1
+      4: 1
+      5: 13
+      10: "taskId"
+    }
+  }
+  4 {
+    1: "C2G_EntrustGetData"
+  }
+  4 {
+    1: "G2C_EntrustGetData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "entrusts"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.EntrustsData"
+      10: "entrusts"
+    }
+  }
+  4 {
+    1: "C2G_EntrustAccomplish"
+    2 {
+      1: "idx"
+      3: 1
+      4: 1
+      5: 5
+      10: "idx"
+    }
+    2 {
+      1: "payItems"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.C2G_EntrustAccomplish.PayItemsEntry"
+      10: "payItems"
+    }
+    3 {
+      1: "PayItemsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "G2C_EntrustAccomplish"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "idx"
+      3: 1
+      4: 1
+      5: 5
+      10: "idx"
+    }
+    2 {
+      1: "useCountDaily"
+      3: 2
+      4: 1
+      5: 13
+      10: "useCountDaily"
+    }
+    2 {
+      1 {
+        12: 0x7572746e
+        14 {
+        }
+      }
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.EntrustData"
+      10 {
+        12: 0x7572746e
+        14 {
+        }
+      }
+    }
+  }
+  4 {
+    1: "C2G_EntrustRefuse"
+    2 {
+      1: "idx"
+      3: 1
+      4: 1
+      5: 5
+      10: "idx"
+    }
+  }
+  4 {
+    1: "G2C_EntrustRefuse"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "idx"
+      3: 1
+      4: 1
+      5: 5
+      10: "idx"
+    }
+    2 {
+      1: "useCountDaily"
+      3: 2
+      4: 1
+      5: 13
+      10: "useCountDaily"
+    }
+    2 {
+      1 {
+        12: 0x7572746e
+        14 {
+        }
+      }
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.EntrustData"
+      10 {
+        12: 0x7572746e
+        14 {
+        }
+      }
+    }
+  }
+  4 {
+    1: "C2G_ItemSell"
+    2 {
+      1: "items"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.C2G_ItemSell.ItemsEntry"
+      10: "items"
+    }
+    3 {
+      1: "ItemsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "G2C_ItemSell"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+  }
+  4 {
+    1: "C2G_CultureUnlockGroove"
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+  }
+  4 {
+    1: "G2C_CultureUnlockGroove"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "grooveData"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveData"
+    }
+    2 {
+      1: "lastUnlockIdx"
+      3: 4
+      4: 1
+      5: 13
+      10: "lastUnlockIdx"
+    }
+  }
+  4 {
+    1: "C2G_CulturePutPot"
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "potCfgId"
+      3: 3
+      4: 1
+      5: 13
+      10: "potCfgId"
+    }
+  }
+  4 {
+    1: "G2C_CulturePutPot"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "grooveData"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveData"
+    }
+    2 {
+      1: "potPutData"
+      3: 4
+      4: 1
+      5: 11
+      6: ".Nofland.CulturePotPutData"
+      10: "potPutData"
+    }
+  }
+  4 {
+    1: "C2G_CultureSwapPot"
+    2 {
+      1: "pageA"
+      3: 1
+      4: 1
+      5: 13
+      10: "pageA"
+    }
+    2 {
+      1: "indexA"
+      3: 2
+      4: 1
+      5: 13
+      10: "indexA"
+    }
+    2 {
+      1: "pageB"
+      3: 3
+      4: 1
+      5: 13
+      10: "pageB"
+    }
+    2 {
+      1: "indexB"
+      3: 4
+      4: 1
+      5: 13
+      10: "indexB"
+    }
+  }
+  4 {
+    1: "G2C_CultureSwapPot"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "pageA"
+      3: 1
+      4: 1
+      5: 13
+      10: "pageA"
+    }
+    2 {
+      1: "indexA"
+      3: 2
+      4: 1
+      5: 13
+      10: "indexA"
+    }
+    2 {
+      1: "pageB"
+      3: 3
+      4: 1
+      5: 13
+      10: "pageB"
+    }
+    2 {
+      1: "indexB"
+      3: 4
+      4: 1
+      5: 13
+      10: "indexB"
+    }
+    2 {
+      1: "grooveDataA"
+      3: 5
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveDataA"
+    }
+    2 {
+      1: "grooveDataB"
+      3: 6
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveDataB"
+    }
+  }
+  4 {
+    1: "C2G_CultureSelectElf"
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "elfKey"
+      3: 3
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+  }
+  4 {
+    1: "G2C_CultureSelectElf"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "grooveData"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveData"
+    }
+  }
+  4 {
+    1: "C2G_ManualCultureAddProduction"
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "plantId"
+      3: 3
+      4: 1
+      5: 13
+      10: "plantId"
+    }
+    2 {
+      1: "posIdxInPot"
+      3: 4
+      4: 1
+      5: 13
+      10: "posIdxInPot"
+    }
+  }
+  4 {
+    1: "G2C_ManualCultureAddProduction"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "posIdxInPot"
+      3: 3
+      4: 1
+      5: 13
+      10: "posIdxInPot"
+    }
+    2 {
+      1: "grooveData"
+      3: 4
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveData"
+    }
+  }
+  4 {
+    1: "C2G_AutoCultureAddProduction"
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "plantId"
+      3: 3
+      4: 1
+      5: 13
+      10: "plantId"
+    }
+    2 {
+      1: "plantCount"
+      3: 4
+      4: 1
+      5: 13
+      10: "plantCount"
+    }
+  }
+  4 {
+    1: "G2C_AutoCultureAddProduction"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "grooveData"
+      3: 4
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveData"
+    }
+  }
+  4 {
+    1: "C2G_ManualCultureOver"
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "posIdx"
+      3: 3
+      4: 1
+      5: 5
+      10: "posIdx"
+    }
+  }
+  4 {
+    1: "G2C_ManualCultureOver"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1 {
+        14: 108
+        12: 0x786449736f50746e
+      }
+      3: 3
+      4: 1
+      5: 5
+      10 {
+        14: 108
+        12: 0x786449736f50746e
+      }
+    }
+    2 {
+      1: "harvestNum"
+      3: 4
+      4: 1
+      5: 13
+      10: "harvestNum"
+    }
+    2 {
+      1: "grooveData"
+      3: 5
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveData"
+    }
+  }
+  4 {
+    1: "C2G_AutoCultureOver"
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+  }
+  4 {
+    1: "G2C_AutoCultureOver"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "harvestNum"
+      3: 4
+      4: 1
+      5: 13
+      10: "harvestNum"
+    }
+    2 {
+      1: "grooveData"
+      3: 5
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveData"
+    }
+  }
+  4 {
+    1: "C2G_CultureOverAll"
+  }
+  4 {
+    1: "G2C_CultureOverAll"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "grooves"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooves"
+    }
+  }
+  4 {
+    1: "C2G_ManualCultureCancel"
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "posIdx"
+      3: 3
+      4: 1
+      5: 5
+      10: "posIdx"
+    }
+  }
+  4 {
+    1: "G2C_ManualCultureCancel"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1 {
+        14: 108
+        12: 0x786449736f50746e
+      }
+      3: 3
+      4: 1
+      5: 5
+      10 {
+        14: 108
+        12: 0x786449736f50746e
+      }
+    }
+    2 {
+      1: "grooveData"
+      3: 4
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveData"
+    }
+  }
+  4 {
+    1: "C2G_AutoCultureCancel"
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+  }
+  4 {
+    1: "G2C_AutoCultureCancel"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "grooveData"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveData"
+    }
+  }
+  4 {
+    1: "C2G_CultureLevelUpPot"
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+  }
+  4 {
+    1: "G2C_CultureLevelUpPot"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "grooveData"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveData"
+    }
+  }
+  4 {
+    1: "C2G_CultureRemovePot"
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+  }
+  4 {
+    1: "G2C_CultureRemovePot"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "grooveData"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveData"
+    }
+    2 {
+      1: "potPutData"
+      3: 4
+      4: 1
+      5: 11
+      6: ".Nofland.CulturePotPutData"
+      10: "potPutData"
+    }
+  }
+  4 {
+    1: "C2G_CultureQuicken"
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "posIdxInPot"
+      3: 3
+      4: 1
+      5: 13
+      10: "posIdxInPot"
+    }
+    2 {
+      1 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+      3: 4
+      4: 1
+      5: 5
+      10 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+    }
+  }
+  4 {
+    1: "G2C_CultureQuicken"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "grooveData"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveData"
+    }
+    2 {
+      1 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+      3: 4
+      4: 1
+      5: 5
+      10 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+    }
+  }
+  4 {
+    1: "C2G_CultureModeChange"
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "mode"
+      3: 3
+      4: 1
+      5: 5
+      10: "mode"
+    }
+  }
+  4 {
+    1: "G2C_CultureModeChange"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "page"
+      3: 1
+      4: 1
+      5: 13
+      10: "page"
+    }
+    2 {
+      1: "index"
+      3: 2
+      4: 1
+      5: 13
+      10: "index"
+    }
+    2 {
+      1: "mode"
+      3: 3
+      4: 1
+      5: 5
+      10: "mode"
+    }
+    2 {
+      1: "grooveData"
+      3: 4
+      4: 1
+      5: 11
+      6: ".Nofland.CultureGrooveData"
+      10: "grooveData"
+    }
+  }
+  4 {
+    1: "C2G_DrawProbData"
+  }
+  4 {
+    1: "G2C_DrawProbData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "probMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_DrawProbData.ProbMapEntry"
+      10: "probMap"
+    }
+    2 {
+      1: "cardsCount"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_DrawProbData.CardsCountEntry"
+      10: "cardsCount"
+    }
+    2 {
+      1: "replaceCount"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_DrawProbData.ReplaceCountEntry"
+      10: "replaceCount"
+    }
+    2 {
+      1: "startTime"
+      3: 4
+      4: 1
+      5: 3
+      10: "startTime"
+    }
+    2 {
+      1: "endTime"
+      3: 5
+      4: 1
+      5: 3
+      10: "endTime"
+    }
+    3 {
+      1: "ProbMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.DrawProbList"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "CardsCountEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.PackageCardCount"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "ReplaceCountEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 9
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "C2G_LuckDraw"
+    2 {
+      1: "activityType"
+      3: 1
+      4: 1
+      5: 13
+      10: "activityType"
+    }
+    2 {
+      1: "expectActivityType"
+      3: 2
+      4: 1
+      5: 13
+      10: "expectActivityType"
+    }
+    2 {
+      1: "luckDrawType"
+      3: 3
+      4: 1
+      5: 13
+      10: "luckDrawType"
+    }
+  }
+  4 {
+    1: "G2C_LuckDraw"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "activityType"
+      3: 1
+      4: 1
+      5: 13
+      10: "activityType"
+    }
+    2 {
+      1: "expectActivityType"
+      3: 2
+      4: 1
+      5: 13
+      10: "expectActivityType"
+    }
+    2 {
+      1: "luckDrawType"
+      3: 3
+      4: 1
+      5: 13
+      10: "luckDrawType"
+    }
+    2 {
+      1: "itemsArr"
+      3: 4
+      4: 3
+      5: 11
+      6: ".Nofland.ItemData"
+      10: "itemsArr"
+    }
+    2 {
+      1: "cardsCount"
+      3: 5
+      4: 1
+      5: 11
+      6: ".Nofland.PackageCardCount"
+      10: "cardsCount"
+    }
+    2 {
+      1: "replaceCount"
+      3: 6
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_LuckDraw.ReplaceCountEntry"
+      10: "replaceCount"
+    }
+    3 {
+      1: "ReplaceCountEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 9
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "C2G_HandbookDelNew"
+    2 {
+      1: "delNewItems"
+      3: 1
+      4: 3
+      5: 13
+      10: "delNewItems"
+    }
+  }
+  4 {
+    1: "G2C_HandbookDelNew"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "delNewItems"
+      3: 1
+      4: 3
+      5: 13
+      10: "delNewItems"
+    }
+  }
+  4 {
+    1: "C2G_AchievementAward"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+  }
+  4 {
+    1: "G2C_AchievementAward"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+  }
+  4 {
+    1: "C2G_ElfLevelUp"
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+    2 {
+      1: "upLevel"
+      3: 2
+      4: 1
+      5: 5
+      10: "upLevel"
+    }
+  }
+  4 {
+    1: "G2C_ElfLevelUp"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+    2 {
+      1: "upLevel"
+      3: 2
+      4: 1
+      5: 5
+      10: "upLevel"
+    }
+  }
+  4 {
+    1: "C2G_ElfAwake"
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+  }
+  4 {
+    1: "G2C_ElfAwake"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+  }
+  4 {
+    1: "C2G_ElfEvolution"
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+  }
+  4 {
+    1: "G2C_ElfEvolution"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+    2 {
+      1: "beforeCfgID"
+      3: 2
+      4: 1
+      5: 13
+      10: "beforeCfgID"
+    }
+    2 {
+      1: "afterCfgID"
+      3: 3
+      4: 1
+      5: 13
+      10: "afterCfgID"
+    }
+  }
+  4 {
+    1: "C2G_ElfSkillGrooveUp"
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+    2 {
+      1: "grooveIdx"
+      3: 2
+      4: 1
+      5: 5
+      10: "grooveIdx"
+    }
+  }
+  4 {
+    1: "G2C_ElfSkillGrooveUp"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+    2 {
+      1: "grooveIdx"
+      3: 2
+      4: 1
+      5: 5
+      10: "grooveIdx"
+    }
+  }
+  4 {
+    1: "C2G_ElfDrawSkill"
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+    2 {
+      1: "grooveIdx"
+      3: 2
+      4: 1
+      5: 5
+      10: "grooveIdx"
+    }
+  }
+  4 {
+    1: "G2C_ElfDrawSkill"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+    2 {
+      1: "grooveIdx"
+      3: 2
+      4: 1
+      5: 5
+      10: "grooveIdx"
+    }
+  }
+  4 {
+    1: "C2G_GetPrayData"
+  }
+  4 {
+    1: "G2C_GetPrayData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "pray"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.PrayData"
+      10: "pray"
+    }
+  }
+  4 {
+    1: "C2G_Pray"
+  }
+  4 {
+    1: "G2C_Pray"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "pray"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.PrayData"
+      10: "pray"
+    }
+  }
+  4 {
+    1: "C2G_GetStudy"
+  }
+  4 {
+    1: "G2C_GetStudy"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "study"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.StudyData"
+      10: "study"
+    }
+  }
+  4 {
+    1: "C2G_Study"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+  }
+  4 {
+    1: "G2C_Study"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "study"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.StudyData"
+      10: "study"
+    }
+  }
+  4 {
+    1: "C2G_StudyRefresh"
+  }
+  4 {
+    1: "G2C_StudyRefresh"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "study"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.StudyData"
+      10: "study"
+    }
+  }
+  4 {
+    1: "C2G_WorkShopChangeDecorate"
+    2 {
+      1: "needChangeDecorates"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.C2G_WorkShopChangeDecorate.NeedChangeDecoratesEntry"
+      10: "needChangeDecorates"
+    }
+    3 {
+      1: "NeedChangeDecoratesEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 13
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "G2C_WorkShopChangeDecorate"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "changedDecorates"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_WorkShopChangeDecorate.ChangedDecoratesEntry"
+      10: "changedDecorates"
+    }
+    3 {
+      1: "ChangedDecoratesEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 13
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "C2G_GetTownData"
+  }
+  4 {
+    1: "G2C_GetTownData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "town"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.TownData"
+      10: "town"
+    }
+    2 {
+      1: "shop"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.ShopSingleData"
+      10: "shop"
+    }
+    2 {
+      1: "pray"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.PrayData"
+      10: "pray"
+    }
+  }
+  4 {
+    1: "C2G_ShopsData"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+  }
+  4 {
+    1: "G2C_ShopsData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "shops"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.ShopSingleData"
+      10: "shops"
+    }
+  }
+  4 {
+    1: "C2G_ShopBuy"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "idx"
+      3: 2
+      4: 1
+      5: 5
+      10: "idx"
+    }
+    2 {
+      1: "cfgID"
+      3: 3
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "buyCount"
+      3: 4
+      4: 1
+      5: 5
+      10: "buyCount"
+    }
+  }
+  4 {
+    1: "G2C_ShopBuy"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "idx"
+      3: 2
+      4: 1
+      5: 5
+      10: "idx"
+    }
+    2 {
+      1: "goods"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.ShopGoodsData"
+      10: "goods"
+    }
+    2 {
+      1: "shop"
+      3: 4
+      4: 1
+      5: 11
+      6: ".Nofland.ShopSingleData"
+      10: "shop"
+    }
+  }
+  4 {
+    1: "C2G_ShopRefreshGoods"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+  }
+  4 {
+    1: "G2C_ShopRefreshGoods"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "shop"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ShopSingleData"
+      10: "shop"
+    }
+  }
+  4 {
+    1: "C2G_GuideRecord"
+    2 {
+      1: "guideID"
+      3: 1
+      4: 1
+      5: 13
+      10: "guideID"
+    }
+    2 {
+      1: "isEnd"
+      3: 2
+      4: 1
+      5: 8
+      10: "isEnd"
+    }
+  }
+  4 {
+    1: "G2C_GuideRecord"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "guideID"
+      3: 1
+      4: 1
+      5: 13
+      10: "guideID"
+    }
+    2 {
+      1: "isEnd"
+      3: 2
+      4: 1
+      5: 8
+      10: "isEnd"
+    }
+  }
+  4 {
+    1: "C2G_MailsData"
+  }
+  4 {
+    1: "G2C_MailsData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "data"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.MailsData"
+      10: "data"
+    }
+    2 {
+      1: "finalTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "finalTime"
+    }
+  }
+  4 {
+    1: "C2G_MailRead"
+    2 {
+      1 {
+        13: 0x736c6961
+      }
+      3: 1
+      4: 3
+      5: 4
+      10 {
+        13: 0x736c6961
+      }
+    }
+  }
+  4 {
+    1: "G2C_MailRead"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1 {
+        13: 0x736c6961
+      }
+      3: 1
+      4: 3
+      5: 4
+      10 {
+        13: 0x736c6961
+      }
+    }
+    2 {
+      1: "finalTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "finalTime"
+    }
+  }
+  4 {
+    1: "C2G_MailReceive"
+    2 {
+      1 {
+        13: 0x736c6961
+      }
+      3: 1
+      4: 3
+      5: 4
+      10 {
+        13: 0x736c6961
+      }
+    }
+  }
+  4 {
+    1: "G2C_MailReceive"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1 {
+        13: 0x736c6961
+      }
+      3: 1
+      4: 3
+      5: 4
+      10 {
+        13: 0x736c6961
+      }
+    }
+    2 {
+      1: "finalTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "finalTime"
+    }
+  }
+  4 {
+    1: "C2G_MailDelete"
+    2 {
+      1 {
+        13: 0x736c6961
+      }
+      3: 1
+      4: 3
+      5: 4
+      10 {
+        13: 0x736c6961
+      }
+    }
+  }
+  4 {
+    1: "G2C_MailDelete"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1 {
+        13: 0x736c6961
+      }
+      3: 1
+      4: 3
+      5: 4
+      10 {
+        13: 0x736c6961
+      }
+    }
+    2 {
+      1: "finalTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "finalTime"
+    }
+  }
+  4 {
+    1: "C2G_MailCollect"
+    2 {
+      1: "mailUID"
+      3: 1
+      4: 1
+      5: 4
+      10: "mailUID"
+    }
+    2 {
+      1 {
+        13: 0x7463656c6c6f4373
+      }
+      3: 2
+      4: 1
+      5: 8
+      10 {
+        13: 0x7463656c6c6f4373
+      }
+    }
+  }
+  4 {
+    1: "G2C_MailCollect"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "mailUID"
+      3: 1
+      4: 1
+      5: 4
+      10: "mailUID"
+    }
+    2 {
+      1 {
+        13: 0x7463656c6c6f4373
+      }
+      3: 2
+      4: 1
+      5: 8
+      10 {
+        13: 0x7463656c6c6f4373
+      }
+    }
+  }
+  4 {
+    1: "C2G_Checkin"
+  }
+  4 {
+    1: "G2C_Checkin"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+  }
+  4 {
+    1: "C2G_SevenSign"
+  }
+  4 {
+    1: "G2C_SevenSign"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+  }
+  4 {
+    1: "C2G_Gift"
+    2 {
+      1: "code"
+      3: 1
+      4: 1
+      5: 9
+      10: "code"
+    }
+  }
+  4 {
+    1: "G2C_Gift"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "code"
+      3: 1
+      4: 1
+      5: 9
+      10: "code"
+    }
+  }
+  4 {
+    1: "C2G_SaleBegin"
+    2 {
+      1: "places"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.C2G_SaleBegin.PlacesEntry"
+      10: "places"
+    }
+    3 {
+      1 {
+        10: 108
+        12: 0x7972746e45736563
+      }
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.SalePlaceData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "G2C_SaleBegin"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "sale"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.SaleData"
+      10: "sale"
+    }
+  }
+  4 {
+    1: "C2G_SaleEnd"
+    2 {
+      1: "halfway"
+      3: 1
+      4: 1
+      5: 8
+      10: "halfway"
+    }
+  }
+  4 {
+    1: "G2C_SaleEnd"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "halfway"
+      3: 102
+      4: 1
+      5: 8
+      10: "halfway"
+    }
+    2 {
+      1: "sale"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.SaleData"
+      10: "sale"
+    }
+    2 {
+      1: "sellProducts"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.ItemData"
+      10: "sellProducts"
+    }
+    2 {
+      1: "getItems"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_SaleEnd.GetItemsEntry"
+      10: "getItems"
+    }
+    3 {
+      1: "GetItemsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "C2G_SaleQuicken"
+    2 {
+      1 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+      3: 1
+      4: 1
+      5: 5
+      10 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+    }
+  }
+  4 {
+    1: "G2C_SaleQuicken"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+      3: 102
+      4: 1
+      5: 5
+      10 {
+        14: 0x79546e656b636975
+        14: 101
+      }
+    }
+    2 {
+      1: "sale"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.SaleData"
+      10: "sale"
+    }
+    2 {
+      1: "sellProducts"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.ItemData"
+      10: "sellProducts"
+    }
+    2 {
+      1: "getItems"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_SaleQuicken.GetItemsEntry"
+      10: "getItems"
+    }
+    3 {
+      1: "GetItemsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "C2G_SaleOrderAccept"
+    2 {
+      1: "orderID"
+      3: 1
+      4: 1
+      5: 13
+      10: "orderID"
+    }
+  }
+  4 {
+    1: "G2C_SaleOrderAccept"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "orderID"
+      3: 1
+      4: 1
+      5: 13
+      10: "orderID"
+    }
+    2 {
+      1: "order"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.SaleOrderData"
+      10: "order"
+    }
+  }
+  4 {
+    1: "C2G_SaleOrderRefuse"
+    2 {
+      1: "orderID"
+      3: 1
+      4: 1
+      5: 13
+      10: "orderID"
+    }
+  }
+  4 {
+    1: "G2C_SaleOrderRefuse"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "orderID"
+      3: 1
+      4: 1
+      5: 13
+      10: "orderID"
+    }
+  }
+  4 {
+    1: "C2G_SaleOrderAccomplish"
+    2 {
+      1: "orderID"
+      3: 1
+      4: 1
+      5: 13
+      10: "orderID"
+    }
+  }
+  4 {
+    1: "G2C_SaleOrderAccomplish"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "orderID"
+      3: 1
+      4: 1
+      5: 13
+      10: "orderID"
+    }
+    2 {
+      1: "npc"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.NpcFriendShipData"
+      10: "npc"
+    }
+  }
+  4 {
+    1: "C2G_MarketBriefData"
+  }
+  4 {
+    1: "G2C_MarketBriefData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "futuresOrders"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.FuturesBriefData"
+      10: "futuresOrders"
+    }
+    2 {
+      1: "tradeTimes"
+      3: 2
+      4: 1
+      5: 5
+      10: "tradeTimes"
+    }
+  }
+  4 {
+    1: "C2G_MarketFuturesData"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+  }
+  4 {
+    1: "G2C_MarketFuturesData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "futuresOrder"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.FuturesBriefData"
+      10: "futuresOrder"
+    }
+    2 {
+      1: "sellOrders"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.FuturesPriceData"
+      10: "sellOrders"
+    }
+    2 {
+      1: "buyOrders"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.FuturesPriceData"
+      10: "buyOrders"
+    }
+  }
+  4 {
+    1: "C2G_MarketPlayerFuturesData"
+  }
+  4 {
+    1: "G2C_MarketPlayerFuturesData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "market"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.MarketData"
+      10: "market"
+    }
+  }
+  4 {
+    1: "C2G_MarketInitiateOrder"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "opt"
+      3: 2
+      4: 1
+      5: 5
+      10: "opt"
+    }
+    2 {
+      1: "unitPrice"
+      3: 3
+      4: 1
+      5: 3
+      10: "unitPrice"
+    }
+    2 {
+      1: "amount"
+      3: 4
+      4: 1
+      5: 3
+      10: "amount"
+    }
+  }
+  4 {
+    1: "G2C_MarketInitiateOrder"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "market"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.MarketData"
+      10: "market"
+    }
+  }
+  4 {
+    1: "C2G_MarketCancelOrder"
+    2 {
+      1: "UID"
+      3: 1
+      4: 1
+      5: 4
+      10: "UID"
+    }
+  }
+  4 {
+    1: "G2C_MarketCancelOrder"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "UID"
+      3: 1
+      4: 1
+      5: 4
+      10: "UID"
+    }
+  }
+  4 {
+    1: "C2G_GiveNpcGift"
+    2 {
+      1: "npfCfgId"
+      3: 1
+      4: 1
+      5: 13
+      10: "npfCfgId"
+    }
+    2 {
+      1: "giftId"
+      3: 2
+      4: 1
+      5: 13
+      10: "giftId"
+    }
+    2 {
+      1: "count"
+      3: 3
+      4: 1
+      5: 5
+      10: "count"
+    }
+  }
+  4 {
+    1: "G2C_GiveNpcGift"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "npcFriendShip"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.NpcFriendShipData"
+      10: "npcFriendShip"
+    }
+    2 {
+      1: "giftId"
+      3: 2
+      4: 1
+      5: 13
+      10: "giftId"
+    }
+    2 {
+      1: "extraLove"
+      3: 3
+      4: 1
+      5: 5
+      10: "extraLove"
+    }
+  }
+  4 {
+    1: "C2G_NpcGiftStoryDelNew"
+    2 {
+      1: "npcCfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "npcCfgID"
+    }
+    2 {
+      1: "storySign"
+      3: 2
+      4: 1
+      5: 9
+      10: "storySign"
+    }
+  }
+  4 {
+    1: "G2C_NpcGiftStoryDelNew"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "npcFriendShip"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.NpcFriendShipData"
+      10: "npcFriendShip"
+    }
+    2 {
+      1: "unlockStory"
+      3: 2
+      4: 1
+      5: 9
+      10: "unlockStory"
+    }
+  }
+  4 {
+    1: "C2G_TinyGameOver"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "score"
+      3: 2
+      4: 1
+      5: 3
+      10: "score"
+    }
+  }
+  4 {
+    1: "G2C_TinyGameOver"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "score"
+      3: 2
+      4: 1
+      5: 3
+      10: "score"
+    }
+    2 {
+      1: "coin"
+      3: 3
+      4: 1
+      5: 3
+      10: "coin"
+    }
+  }
+  4 {
+    1: "C2G_ItemOpen"
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "num"
+      3: 2
+      4: 1
+      5: 3
+      10: "num"
+    }
+  }
+  4 {
+    1: "G2C_ItemOpen"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "cfgID"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "num"
+      3: 2
+      4: 1
+      5: 3
+      10: "num"
+    }
+  }
+  4 {
+    1: "C2G_QuickenLevelUp"
+  }
+  4 {
+    1: "G2C_QuickenLevelUp"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+  }
+  4 {
+    1: "C2G_QuickenCloseTip"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "close"
+      3: 2
+      4: 1
+      5: 8
+      10: "close"
+    }
+  }
+  4 {
+    1: "G2C_QuickenCloseTip"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "close"
+      3: 2
+      4: 1
+      5: 8
+      10: "close"
+    }
+  }
+  4 {
+    1: "C2G_ContactData"
+  }
+  4 {
+    1: "G2C_ContactData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "bePraisedTimes"
+      3: 1
+      4: 1
+      5: 5
+      10: "bePraisedTimes"
+    }
+    2 {
+      1: "beQuickenedTimes"
+      3: 2
+      4: 1
+      5: 5
+      10: "beQuickenedTimes"
+    }
+  }
+  4 {
+    1: "C2G_ModifyContact"
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "modify"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.ModifyContact"
+      10: "modify"
+    }
+  }
+  4 {
+    1: "G2C_ModifyContact"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "type"
+      3: 1
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "modify"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.ModifyContact"
+      10: "modify"
+    }
+  }
+  4 {
+    1: "C2G_RandomRamble"
+  }
+  4 {
+    1: "G2C_RandomRamble"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "friendUID"
+      3: 1
+      4: 1
+      5: 4
+      10: "friendUID"
+    }
+    2 {
+      1: "data"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.ContactData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "C2G_DoSomething"
+    2 {
+      1: "playerUID"
+      3: 1
+      4: 1
+      5: 4
+      10: "playerUID"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "value"
+      3: 3
+      4: 1
+      5: 9
+      10: "value"
+    }
+  }
+  4 {
+    1: "G2C_DoSomething"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "playerUID"
+      3: 1
+      4: 1
+      5: 4
+      10: "playerUID"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 5
+      10: "type"
+    }
+    2 {
+      1: "value"
+      3: 3
+      4: 1
+      5: 9
+      10: "value"
+    }
+  }
+  4 {
+    1: "C2G_QuickenFriends"
+    2 {
+      1: "friends"
+      3: 1
+      4: 3
+      5: 4
+      10: "friends"
+    }
+  }
+  4 {
+    1: "G2C_QuickenFriends"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "friends"
+      3: 1
+      4: 3
+      5: 4
+      10: "friends"
+    }
+  }
+  4 {
+    1: "C2G_RecordThing"
+  }
+  4 {
+    1: "G2C_RecordThing"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "data"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ThingsData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "C2G_QuickenCharge"
+  }
+  4 {
+    1: "G2C_QuickenCharge"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "beQuickenedTimes"
+      3: 1
+      4: 1
+      5: 5
+      10: "beQuickenedTimes"
+    }
+    2 {
+      1: "usedTimes"
+      3: 2
+      4: 1
+      5: 5
+      10: "usedTimes"
+    }
+  }
+  4 {
+    1: "C2G_FriendsData"
+  }
+  4 {
+    1: "G2C_FriendsData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "data"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.FriendsShow"
+      10: "data"
+    }
+    2 {
+      1: "applyNum"
+      3: 2
+      4: 1
+      5: 5
+      10: "applyNum"
+    }
+  }
+  4 {
+    1: "C2G_FriendFind"
+    2 {
+      1: "friendUID"
+      3: 1
+      4: 1
+      5: 4
+      10: "friendUID"
+    }
+  }
+  4 {
+    1: "G2C_FriendFind"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "friendUID"
+      3: 1
+      4: 1
+      5: 4
+      10: "friendUID"
+    }
+    2 {
+      1: "data"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.ContactData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "C2G_ModifyFriend"
+    2 {
+      1: "friendUID"
+      3: 1
+      4: 1
+      5: 4
+      10: "friendUID"
+    }
+    2 {
+      1: "state"
+      3: 2
+      4: 1
+      5: 5
+      10: "state"
+    }
+  }
+  4 {
+    1: "G2C_ModifyFriend"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "update"
+      3: 11
+      4: 1
+      5: 8
+      10: "update"
+    }
+    2 {
+      1: "friendUID"
+      3: 1
+      4: 1
+      5: 4
+      10: "friendUID"
+    }
+    2 {
+      1: "state"
+      3: 2
+      4: 1
+      5: 5
+      10: "state"
+    }
+    2 {
+      1: "applyNum"
+      3: 3
+      4: 1
+      5: 5
+      10: "applyNum"
+    }
+  }
+  4 {
+    1: "C2G_WorldlineInvite"
+  }
+  4 {
+    1: "G2C_WorldlineInvite"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "recommendUnion"
+      3: 1
+      4: 1
+      5: 13
+      10: "recommendUnion"
+    }
+  }
+  4 {
+    1: "C2G_WorldlineJoin"
+    2 {
+      1 {
+        14: 0x6e6f696e
+      }
+      3: 1
+      4: 1
+      5: 13
+      10 {
+        14: 0x6e6f696e
+      }
+    }
+  }
+  4 {
+    1: "G2C_WorldlineJoin"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1 {
+        14: 0x6e6f696e
+      }
+      3: 1
+      4: 1
+      5: 13
+      10 {
+        14: 0x6e6f696e
+      }
+    }
+  }
+  4 {
+    1: "C2G_WorldlineData"
+  }
+  4 {
+    1: "G2C_WorldlineData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "task"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "task"
+    }
+    2 {
+      1: "data"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.WorldlineData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "C2G_WorldlineSupport"
+    2 {
+      1 {
+        12: 0x746e6576
+      }
+      3: 1
+      4: 1
+      5: 13
+      10 {
+        12: 0x746e6576
+      }
+    }
+    2 {
+      1: "stage"
+      3: 2
+      4: 1
+      5: 13
+      10: "stage"
+    }
+    2 {
+      1: "choice"
+      3: 3
+      4: 1
+      5: 13
+      10: "choice"
+    }
+    2 {
+      1: "count"
+      3: 4
+      4: 1
+      5: 5
+      10: "count"
+    }
+  }
+  4 {
+    1: "G2C_WorldlineSupport"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1 {
+        12: 0x746e6576
+      }
+      3: 1
+      4: 1
+      5: 13
+      10 {
+        12: 0x746e6576
+      }
+    }
+    2 {
+      1: "stage"
+      3: 2
+      4: 1
+      5: 13
+      10: "stage"
+    }
+    2 {
+      1: "choice"
+      3: 3
+      4: 1
+      5: 13
+      10: "choice"
+    }
+    2 {
+      1: "count"
+      3: 4
+      4: 1
+      5: 5
+      10: "count"
+    }
+    2 {
+      1: "tasks"
+      3: 5
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "tasks"
+    }
+    2 {
+      1: "data"
+      3: 6
+      4: 1
+      5: 11
+      6: ".Nofland.WorldlineData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "C2G_WorldlineEnding"
+  }
+  4 {
+    1: "G2C_WorldlineEnding"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "eventsEnding"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_WorldlineEnding.EventsEndingEntry"
+      10: "eventsEnding"
+    }
+    2 {
+      1: "unionScores"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_WorldlineEnding.UnionScoresEntry"
+      10: "unionScores"
+    }
+    2 {
+      1: "worldlineEnding"
+      3: 3
+      4: 1
+      5: 13
+      10: "worldlineEnding"
+    }
+    2 {
+      1: "firstUnion"
+      3: 4
+      4: 1
+      5: 13
+      10: "firstUnion"
+    }
+    3 {
+      1: "EventsEndingEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 13
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "UnionScoresEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 3
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "C2G_UnionTaskData"
+  }
+  4 {
+    1: "G2C_UnionTaskData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "unionTask"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "unionTask"
+    }
+    2 {
+      1: "unionRanking"
+      3: 2
+      4: 3
+      5: 13
+      10: "unionRanking"
+    }
+    2 {
+      1: "extraReward"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_UnionTaskData.ExtraRewardEntry"
+      10: "extraReward"
+    }
+    2 {
+      1: "lastJudgeTimer"
+      3: 4
+      4: 1
+      5: 3
+      10: "lastJudgeTimer"
+    }
+    3 {
+      1: "ExtraRewardEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "C2G_UnionTaskAccomplish"
+    2 {
+      1 {
+        14: 0x6e6f696e
+      }
+      3: 1
+      4: 1
+      5: 13
+      10 {
+        14: 0x6e6f696e
+      }
+    }
+    2 {
+      1: "task"
+      3: 2
+      4: 1
+      5: 13
+      10: "task"
+    }
+    2 {
+      1: "submitNum"
+      3: 3
+      4: 1
+      5: 13
+      10: "submitNum"
+    }
+  }
+  4 {
+    1: "G2C_UnionTaskAccomplish"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1 {
+        14: 0x6e6f696e
+      }
+      3: 1
+      4: 1
+      5: 13
+      10 {
+        14: 0x6e6f696e
+      }
+    }
+    2 {
+      1: "task"
+      3: 2
+      4: 1
+      5: 13
+      10: "task"
+    }
+    2 {
+      1: "taskData"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.TaskData"
+      10: "taskData"
+    }
+    2 {
+      1: "unionRanking"
+      3: 4
+      4: 3
+      5: 13
+      10: "unionRanking"
+    }
+    2 {
+      1: "extraReward"
+      3: 5
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_UnionTaskAccomplish.ExtraRewardEntry"
+      10: "extraReward"
+    }
+    2 {
+      1: "submitNum"
+      3: 6
+      4: 1
+      5: 13
+      10: "submitNum"
+    }
+    2 {
+      1: "lastJudgeTimer"
+      3: 7
+      4: 1
+      5: 3
+      10: "lastJudgeTimer"
+    }
+    3 {
+      1: "ExtraRewardEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "C2G_UnionStageAccomplish"
+    2 {
+      1 {
+        14: 0x6e6f696e
+      }
+      3: 1
+      4: 1
+      5: 13
+      10 {
+        14: 0x6e6f696e
+      }
+    }
+    2 {
+      1: "stage"
+      3: 2
+      4: 1
+      5: 13
+      10: "stage"
+    }
+  }
+  4 {
+    1: "G2C_UnionStageAccomplish"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1 {
+        14: 0x6e6f696e
+      }
+      3: 1
+      4: 1
+      5: 13
+      10 {
+        14: 0x6e6f696e
+      }
+    }
+    2 {
+      1: "stage"
+      3: 2
+      4: 1
+      5: 13
+      10: "stage"
+    }
+  }
+  4 {
+    1: "C2G_WorldlineHistorie"
+  }
+  4 {
+    1: "G2C_WorldlineHistorie"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "histories"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineHistoryData"
+      10: "histories"
+    }
+  }
+  4 {
+    1: "C2G_ActivityShopData"
+  }
+  4 {
+    1: "G2C_ActivityShopData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "playerData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityShopPlayerData"
+      10: "playerData"
+    }
+  }
+  4 {
+    1: "C2G_ActivityShopBuy"
+    2 {
+      1: "goodsID"
+      3: 1
+      4: 1
+      5: 13
+      10: "goodsID"
+    }
+    2 {
+      1: "buyCount"
+      3: 2
+      4: 1
+      5: 3
+      10: "buyCount"
+    }
+  }
+  4 {
+    1: "G2C_ActivityShopBuy"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "goodsID"
+      3: 1
+      4: 1
+      5: 13
+      10: "goodsID"
+    }
+    2 {
+      1: "buyCount"
+      3: 2
+      4: 1
+      5: 3
+      10: "buyCount"
+    }
+    2 {
+      1: "totalBuyCount"
+      3: 3
+      4: 1
+      5: 3
+      10: "totalBuyCount"
+    }
+  }
+  4 {
+    1: "C2G_ActivityTaskData"
+  }
+  4 {
+    1: "G2C_ActivityTaskData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "tasksData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "tasksData"
+    }
+  }
+  4 {
+    1: "C2G_ActivityTaskAccomplish"
+    2 {
+      1: "task"
+      3: 1
+      4: 1
+      5: 13
+      10: "task"
+    }
+    2 {
+      1: "submitNum"
+      3: 2
+      4: 1
+      5: 13
+      10: "submitNum"
+    }
+  }
+  4 {
+    1: "G2C_ActivityTaskAccomplish"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "task"
+      3: 1
+      4: 1
+      5: 13
+      10: "task"
+    }
+    2 {
+      1: "taskData"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.TaskData"
+      10: "taskData"
+    }
+    2 {
+      1: "submitNum"
+      3: 3
+      4: 1
+      5: 13
+      10: "submitNum"
+    }
+  }
+  4 {
+    1: "C2G_HomeTaskData"
+  }
+  4 {
+    1: "G2C_HomeTaskData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "tasksData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "tasksData"
+    }
+  }
+  4 {
+    1: "C2G_HomeTaskAccomplish"
+    2 {
+      1: "task"
+      3: 1
+      4: 1
+      5: 13
+      10: "task"
+    }
+  }
+  4 {
+    1: "G2C_HomeTaskAccomplish"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "task"
+      3: 1
+      4: 1
+      5: 13
+      10: "task"
+    }
+    2 {
+      1: "taskData"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.TaskData"
+      10: "taskData"
+    }
+  }
+  4 {
+    1: "C2G_HomeWorkCreditBuy"
+    2 {
+      1: "buyID"
+      3: 1
+      4: 1
+      5: 13
+      10: "buyID"
+    }
+  }
+  4 {
+    1: "G2C_HomeWorkCreditBuy"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "buyID"
+      3: 1
+      4: 1
+      5: 13
+      10: "buyID"
+    }
+    2 {
+      1: "magicsData"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.MagicRoomsData"
+      10: "magicsData"
+    }
+  }
+  4 {
+    1: "C2G_MagicTaskData"
+  }
+  4 {
+    1: "G2C_MagicTaskData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "magicsData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.MagicRoomsData"
+      10: "magicsData"
+    }
+  }
+  4 {
+    1: "C2G_MagicTaskAccomplish"
+    2 {
+      1: "task"
+      3: 1
+      4: 1
+      5: 13
+      10: "task"
+    }
+    2 {
+      1 {
+        13: 0x79654b6465654e73
+      }
+      3: 2
+      4: 1
+      5: 8
+      10 {
+        13: 0x79654b6465654e73
+      }
+    }
+  }
+  4 {
+    1: "G2C_MagicTaskAccomplish"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "task"
+      3: 1
+      4: 1
+      5: 13
+      10: "task"
+    }
+    2 {
+      1: "magicRoomData"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.MagicRoomData"
+      10: "magicRoomData"
+    }
+  }
+  4 {
+    1: "C2G_MagicFreeKey"
+  }
+  4 {
+    1: "G2C_MagicFreeKey"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "magicsData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.MagicRoomsData"
+      10: "magicsData"
+    }
+  }
+  4 {
+    1: "C2G_AskLinkAward"
+    2 {
+      1: "treasureId"
+      3: 1
+      4: 1
+      5: 13
+      10: "treasureId"
+    }
+  }
+  4 {
+    1: "G2C_AskLinkAward"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "treasureId"
+      3: 1
+      4: 1
+      5: 13
+      10: "treasureId"
+    }
+    2 {
+      1: "itemsArr"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.ItemData"
+      10: "itemsArr"
+    }
+  }
+  4 {
+    1: "C2G_GuideJump"
+    2 {
+      1: "guideID"
+      3: 1
+      4: 1
+      5: 13
+      10: "guideID"
+    }
+  }
+  4 {
+    1: "G2C_GuideJump"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "guideID"
+      3: 1
+      4: 1
+      5: 13
+      10: "guideID"
+    }
+  }
+  4 {
+    1: "C2G_AchievementAllAward"
+  }
+  4 {
+    1: "G2C_AchievementAllAward"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "cfgIDs"
+      3: 1
+      4: 3
+      5: 13
+      10: "cfgIDs"
+    }
+  }
+  4 {
+    1: "C2G_ElfFeed"
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+    2 {
+      1: "foods"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.C2G_ElfFeed.FoodsEntry"
+      10: "foods"
+    }
+    3 {
+      1: "FoodsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 13
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "G2C_ElfFeed"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+  }
+  4 {
+    1: "C2G_ElfUnlockPaint"
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+  }
+  4 {
+    1: "G2C_ElfUnlockPaint"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+  }
+  4 {
+    1: "C2G_AlchemyRefiningLight"
+  }
+  4 {
+    1: "G2C_AlchemyRefiningLight"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+  }
+  4 {
+    1: "C2G_MagicRoomAllAward"
+  }
+  4 {
+    1: "G2C_MagicRoomAllAward"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "magicRoomMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_MagicRoomAllAward.MagicRoomMapEntry"
+      10: "magicRoomMap"
+    }
+    3 {
+      1: "MagicRoomMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.MagicRoomData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "C2G_ElfChangeSkin"
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+    2 {
+      1: "skinId"
+      3: 2
+      4: 1
+      5: 13
+      10: "skinId"
+    }
+  }
+  4 {
+    1: "G2C_ElfChangeSkin"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+    2 {
+      1: "skinId"
+      3: 2
+      4: 1
+      5: 13
+      10: "skinId"
+    }
+  }
+  4 {
+    1: "C2G_CurrencyConversion"
+    2 {
+      1: "itemId"
+      3: 1
+      4: 1
+      5: 13
+      10: "itemId"
+    }
+    2 {
+      1: "currency"
+      3: 2
+      4: 1
+      5: 3
+      10: "currency"
+    }
+  }
+  4 {
+    1: "G2C_CurrencyConversion"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "itemId"
+      3: 1
+      4: 1
+      5: 13
+      10: "itemId"
+    }
+    2 {
+      1: "currency"
+      3: 2
+      4: 1
+      5: 3
+      10: "currency"
+    }
+  }
+  4 {
+    1: "C2G_StatisticRecharge"
+  }
+  4 {
+    1: "G2C_StatisticRecharge"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "statistic"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_StatisticRecharge.StatisticEntry"
+      10: "statistic"
+    }
+    3 {
+      1: "StatisticEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "C2G_SubscribeFirst_Disuse"
+  }
+  4 {
+    1: "G2C_SubscribeFirst_Disuse"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "worth"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.WorthData"
+      10: "worth"
+    }
+  }
+  4 {
+    1: "C2G_SubscribeDaily"
+  }
+  4 {
+    1: "G2C_SubscribeDaily"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "worth"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.WorthData"
+      10: "worth"
+    }
+  }
+  4 {
+    1: "C2G_MoreModifyContact"
+    2 {
+      1: "contactModifyDatas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.ModifyData"
+      10: "contactModifyDatas"
+    }
+  }
+  4 {
+    1: "G2C_MoreModifyContact"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "contactModifyDatas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.ModifyData"
+      10: "contactModifyDatas"
+    }
+  }
+  4 {
+    1: "C2G_ActivitySale"
+  }
+  4 {
+    1: "G2C_ActivitySale"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "activitySaleData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ActivitySaleData"
+      10: "activitySaleData"
+    }
+  }
+  4 {
+    1: "C2G_ActivitySaleStageAccomplish"
+    2 {
+      1: "stage"
+      3: 1
+      4: 1
+      5: 13
+      10: "stage"
+    }
+  }
+  4 {
+    1: "G2C_ActivitySaleStageAccomplish"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "stage"
+      3: 1
+      4: 1
+      5: 13
+      10: "stage"
+    }
+    2 {
+      1: "activitySaleData"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.ActivitySaleData"
+      10: "activitySaleData"
+    }
+  }
+  4 {
+    1: "C2G_QuestionnaireData"
+  }
+  4 {
+    1: "G2C_QuestionnaireData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "data"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.QuestionnaireData"
+      10: "data"
+    }
+    2 {
+      1: "save"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.QuestionnaireSave"
+      10: "save"
+    }
+  }
+  4 {
+    1: "C2G_QuestionnaireOpen"
+    2 {
+      1: "beginTime"
+      3: 1
+      4: 1
+      5: 3
+      10: "beginTime"
+    }
+  }
+  4 {
+    1: "G2C_QuestionnaireOpen"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "save"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.QuestionnaireSave"
+      10: "save"
+    }
+  }
+  4 {
+    1: "C2G_QuestionnaireReward"
+    2 {
+      1: "beginTime"
+      3: 1
+      4: 1
+      5: 3
+      10: "beginTime"
+    }
+  }
+  4 {
+    1: "G2C_QuestionnaireReward"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "save"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.QuestionnaireSave"
+      10: "save"
+    }
+  }
+  4 {
+    1: "C2G_ElfSelectSkill"
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+    2 {
+      1: "grooveIdx"
+      3: 2
+      4: 1
+      5: 5
+      10: "grooveIdx"
+    }
+    2 {
+      1: "selectNew"
+      3: 3
+      4: 1
+      5: 8
+      10: "selectNew"
+    }
+  }
+  4 {
+    1: "G2C_ElfSelectSkill"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 101
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "elfKey"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfKey"
+    }
+    2 {
+      1: "grooveIdx"
+      3: 2
+      4: 1
+      5: 5
+      10: "grooveIdx"
+    }
+    2 {
+      1: "selectNew"
+      3: 3
+      4: 1
+      5: 8
+      10: "selectNew"
+    }
+  }
+  10: 0
+  12: "proto3"
+}

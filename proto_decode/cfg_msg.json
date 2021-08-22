@@ -1,0 +1,7923 @@
+1 {
+  1: "cfg_msg.proto"
+  2: "cfg_gen"
+  4 {
+    1: "accelerate_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.accelerate"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "accelerate"
+    2 {
+      1: "level"
+      3: 1
+      4: 1
+      5: 13
+      10: "level"
+    }
+    2 {
+      1: "total_time"
+      3: 2
+      4: 1
+      5: 3
+      10: "totalTime"
+    }
+    2 {
+      1: "pic"
+      3: 3
+      4: 1
+      5: 9
+      10: "pic"
+    }
+    2 {
+      1: "cost1"
+      3: 4
+      4: 1
+      5: 3
+      10: "cost1"
+    }
+    2 {
+      1: "num1"
+      3: 5
+      4: 1
+      5: 3
+      10: "num1"
+    }
+    2 {
+      1: "cost2"
+      3: 6
+      4: 1
+      5: 3
+      10: "cost2"
+    }
+    2 {
+      1: "num2"
+      3: 7
+      4: 1
+      5: 3
+      10: "num2"
+    }
+    2 {
+      1: "accelerate_times"
+      3: 8
+      4: 1
+      5: 3
+      10: "accelerateTimes"
+    }
+    2 {
+      1: "can_receive"
+      3: 9
+      4: 1
+      5: 3
+      10: "canReceive"
+    }
+    2 {
+      1: "max_time"
+      3: 10
+      4: 1
+      5: 3
+      10: "maxTime"
+    }
+  }
+  4 {
+    1: "achievement_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.achievement"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "achievement"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "desc"
+      3: 3
+      4: 1
+      5: 9
+      10: "desc"
+    }
+    2 {
+      1: "icon"
+      3: 4
+      4: 1
+      5: 9
+      10: "icon"
+    }
+    2 {
+      1: "sort"
+      3: 5
+      4: 1
+      5: 3
+      10: "sort"
+    }
+    2 {
+      1: "priority"
+      3: 6
+      4: 1
+      5: 3
+      10: "priority"
+    }
+    2 {
+      1: "achievement_condition"
+      3: 7
+      4: 1
+      5: 3
+      10: "achievementCondition"
+    }
+    2 {
+      1: "condition_parm1"
+      3: 8
+      4: 1
+      5: 3
+      10: "conditionParm1"
+    }
+    2 {
+      1: "condition_parm2"
+      3: 9
+      4: 1
+      5: 3
+      10: "conditionParm2"
+    }
+    2 {
+      1: "next_achievement"
+      3: 10
+      4: 1
+      5: 3
+      10: "nextAchievement"
+    }
+    2 {
+      1: "reward"
+      3: 11
+      4: 1
+      5: 3
+      10: "reward"
+    }
+  }
+  4 {
+    1: "activity_business_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.activity_business"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "activity_business"
+    2 {
+      1: "level"
+      3: 1
+      4: 1
+      5: 13
+      10: "level"
+    }
+    2 {
+      1: "cumulative_coin"
+      3: 2
+      4: 1
+      5: 3
+      10: "cumulativeCoin"
+    }
+    2 {
+      1: "cumulative_reward"
+      3: 3
+      4: 1
+      5: 9
+      10: "cumulativeReward"
+    }
+  }
+  4 {
+    1: "activity_shop_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.activity_shop"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "activity_shop"
+    2 {
+      1: "shop_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "shopId"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "item_id"
+      3: 3
+      4: 1
+      5: 3
+      10: "itemId"
+    }
+    2 {
+      1: "group_num"
+      3: 4
+      4: 1
+      5: 3
+      10: "groupNum"
+    }
+    2 {
+      1: "cost_item"
+      3: 5
+      4: 1
+      5: 3
+      10: "costItem"
+    }
+    2 {
+      1: "cost_price"
+      3: 6
+      4: 1
+      5: 3
+      10: "costPrice"
+    }
+    2 {
+      1: "limit_times"
+      3: 7
+      4: 1
+      5: 3
+      10: "limitTimes"
+    }
+  }
+  4 {
+    1: "activity_task_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.activity_task"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "activity_task"
+    2 {
+      1: "task_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "taskId"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 3
+      10: "name"
+    }
+    2 {
+      1: "desc"
+      3: 3
+      4: 1
+      5: 3
+      10: "desc"
+    }
+    2 {
+      1: "condition"
+      3: 4
+      4: 1
+      5: 3
+      10: "condition"
+    }
+    2 {
+      1: "factor1"
+      3: 5
+      4: 1
+      5: 3
+      10: "factor1"
+    }
+    2 {
+      1: "factor2"
+      3: 6
+      4: 1
+      5: 3
+      10: "factor2"
+    }
+    2 {
+      1: "item_id"
+      3: 7
+      4: 1
+      5: 3
+      10: "itemId"
+    }
+    2 {
+      1: "score"
+      3: 8
+      4: 1
+      5: 3
+      10: "score"
+    }
+    2 {
+      1: "recycle"
+      3: 9
+      4: 1
+      5: 3
+      10: "recycle"
+    }
+    2 {
+      1: "link"
+      3: 10
+      4: 1
+      5: 9
+      10: "link"
+    }
+  }
+  4 {
+    1: "alchemy_elf_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.alchemy_elf"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "alchemy_elf"
+    2 {
+      1: "main_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "mainId"
+    }
+    2 {
+      1: "item_id"
+      3: 2
+      4: 1
+      5: 3
+      10: "itemId"
+    }
+    2 {
+      1: "pro"
+      3: 3
+      4: 1
+      5: 3
+      10: "pro"
+    }
+  }
+  4 {
+    1: "alchemy_result_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.alchemy_result"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1 {
+      12: 0x725f796d6568636c
+      12: 0x746c7573
+    }
+    2 {
+      1: "alchemy_num"
+      3: 1
+      4: 1
+      5: 13
+      10: "alchemyNum"
+    }
+    2 {
+      1: "star"
+      3: 2
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "star"
+    }
+    2 {
+      1: "pro"
+      3: 3
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "pro"
+    }
+    2 {
+      1: "shine_pro"
+      3: 4
+      4: 1
+      5: 3
+      10: "shinePro"
+    }
+  }
+  4 {
+    1 {
+      12: 0x7473696c5f616572
+    }
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.area"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "area"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "type"
+      3: 3
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "sort"
+      3: 4
+      4: 1
+      5: 3
+      10: "sort"
+    }
+    2 {
+      1: "produce"
+      3: 5
+      4: 1
+      5: 3
+      10: "produce"
+    }
+    2 {
+      1: "desc"
+      3: 6
+      4: 1
+      5: 9
+      10: "desc"
+    }
+    2 {
+      1: "area"
+      3: 7
+      4: 1
+      5: 9
+      10: "area"
+    }
+    2 {
+      1: "lvl"
+      3: 8
+      4: 1
+      5: 3
+      10: "lvl"
+    }
+    2 {
+      1: "icon"
+      3: 9
+      4: 1
+      5: 9
+      10: "icon"
+    }
+    2 {
+      1: "unlock_item"
+      3: 10
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "unlockItem"
+    }
+    2 {
+      1: "time_cost"
+      3: 11
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "timeCost"
+    }
+    2 {
+      1: "reduce_max"
+      3: 12
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "reduceMax"
+    }
+    2 {
+      1: "explore_need"
+      3: 13
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "exploreNeed"
+    }
+    2 {
+      1: "item_num"
+      3: 14
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "itemNum"
+    }
+    2 {
+      1: "team_num"
+      3: 15
+      4: 1
+      5: 3
+      10: "teamNum"
+    }
+    2 {
+      1 {
+        12: 0x74736f635f616572
+      }
+      3: 16
+      4: 1
+      5: 3
+      10: "areaCost"
+    }
+    2 {
+      1: "pop_cost"
+      3: 17
+      4: 1
+      5: 9
+      10: "popCost"
+    }
+    2 {
+      1: "get_cost"
+      3: 18
+      4: 1
+      5: 9
+      10: "getCost"
+    }
+    2 {
+      1: "mainline"
+      3: 19
+      4: 1
+      5: 3
+      10: "mainline"
+    }
+    2 {
+      1: "lvlup_cost"
+      3: 20
+      4: 1
+      5: 3
+      10: "lvlupCost"
+    }
+    2 {
+      1: "carry_factor"
+      3: 21
+      4: 1
+      5: 3
+      10: "carryFactor"
+    }
+    2 {
+      1: "can_carry"
+      3: 22
+      4: 1
+      5: 9
+      10: "canCarry"
+    }
+    2 {
+      1: "extra_drop"
+      3: 23
+      4: 1
+      5: 3
+      10: "extraDrop"
+    }
+    2 {
+      1: "drop_show"
+      3: 24
+      4: 1
+      5: 3
+      10: "dropShow"
+    }
+    2 {
+      1: "pro_factor"
+      3: 25
+      4: 1
+      5: 3
+      10: "proFactor"
+    }
+    2 {
+      1: "base_pro"
+      3: 26
+      4: 1
+      5: 3
+      10: "basePro"
+    }
+  }
+  4 {
+    1: "area_story_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.area_story"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "area_story"
+    2 {
+      1: "number"
+      3: 1
+      4: 1
+      5: 13
+      10: "number"
+    }
+    2 {
+      1: "sign"
+      3: 2
+      4: 1
+      5: 9
+      10: "sign"
+    }
+    2 {
+      1: "fairy"
+      3: 3
+      4: 1
+      5: 3
+      10: "fairy"
+    }
+    2 {
+      1: "content"
+      3: 4
+      4: 1
+      5: 9
+      10: "content"
+    }
+  }
+  4 {
+    1: "badge_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.badge"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "badge"
+    2 {
+      1: "badge_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "badgeId"
+    }
+    2 {
+      1: "pic"
+      3: 2
+      4: 1
+      5: 9
+      10: "pic"
+    }
+    2 {
+      1: "type"
+      3: 3
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "sub_type"
+      3: 4
+      4: 1
+      5: 3
+      10: "subType"
+    }
+    2 {
+      1: "width"
+      3: 5
+      4: 1
+      5: 3
+      10: "width"
+    }
+    2 {
+      1: "height"
+      3: 6
+      4: 1
+      5: 3
+      10: "height"
+    }
+  }
+  4 {
+    1: "banner_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.banner"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "banner"
+    2 {
+      1: "activity"
+      3: 1
+      4: 1
+      5: 13
+      10: "activity"
+    }
+    2 {
+      1: "activity_type"
+      3: 2
+      4: 1
+      5: 9
+      10: "activityType"
+    }
+    2 {
+      1: "banner"
+      3: 3
+      4: 1
+      5: 9
+      10: "banner"
+    }
+    2 {
+      1: "pic"
+      3: 4
+      4: 1
+      5: 9
+      10: "pic"
+    }
+    2 {
+      1: "help"
+      3: 5
+      4: 1
+      5: 3
+      10: "help"
+    }
+  }
+  4 {
+    1: "book_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.book"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "book"
+    2 {
+      1: "book_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "bookId"
+    }
+    2 {
+      1: "book_num"
+      3: 2
+      4: 1
+      5: 3
+      10: "bookNum"
+    }
+    2 {
+      1: "sub_type"
+      3: 3
+      4: 1
+      5: 3
+      10: "subType"
+    }
+    2 {
+      1: "num"
+      3: 4
+      4: 1
+      5: 3
+      10: "num"
+    }
+    2 {
+      1: "mail"
+      3: 5
+      4: 1
+      5: 3
+      10: "mail"
+    }
+    2 {
+      1: "attachments"
+      3: 6
+      4: 1
+      5: 9
+      10: "attachments"
+    }
+  }
+  4 {
+    1: "building_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.building"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "building"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "npc"
+      3: 3
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "npc"
+    }
+    2 {
+      1: "func"
+      3: 4
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "func"
+    }
+    2 {
+      1: "scene"
+      3: 5
+      4: 1
+      5: 9
+      10: "scene"
+    }
+    2 {
+      1: "task"
+      3: 6
+      4: 1
+      5: 3
+      10: "task"
+    }
+    2 {
+      1: "level"
+      3: 7
+      4: 1
+      5: 3
+      10: "level"
+    }
+  }
+  4 {
+    1: "candy_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.candy"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "candy"
+    2 {
+      1: "candy"
+      3: 1
+      4: 1
+      5: 13
+      10: "candy"
+    }
+    2 {
+      1: "like"
+      3: 2
+      4: 1
+      5: 3
+      10: "like"
+    }
+  }
+  4 {
+    1: "caravan_area_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.caravan_area"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "caravan_area"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "desc"
+      3: 3
+      4: 1
+      5: 9
+      10: "desc"
+    }
+    2 {
+      1: "icon"
+      3: 4
+      4: 1
+      5: 9
+      10: "icon"
+    }
+    2 {
+      1: "time_cost"
+      3: 5
+      4: 1
+      5: 3
+      10: "timeCost"
+    }
+    2 {
+      1: "reduce_max"
+      3: 6
+      4: 1
+      5: 3
+      10: "reduceMax"
+    }
+    2 {
+      1: "base_rate"
+      3: 7
+      4: 1
+      5: 3
+      10: "baseRate"
+    }
+    2 {
+      1: "convert_rate"
+      3: 8
+      4: 1
+      5: 3
+      10: "convertRate"
+    }
+    2 {
+      1: "special_limit"
+      3: 9
+      4: 1
+      5: 3
+      10: "specialLimit"
+    }
+    2 {
+      1: "special_rate"
+      3: 10
+      4: 1
+      5: 3
+      10: "specialRate"
+    }
+    2 {
+      1: "formula"
+      3: 11
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "formula"
+    }
+    2 {
+      1: "special"
+      3: 12
+      4: 1
+      5: 3
+      10: "special"
+    }
+    2 {
+      1: "pay_coef"
+      3: 13
+      4: 1
+      5: 3
+      10: "payCoef"
+    }
+    2 {
+      1: "pay_item_coef"
+      3: 14
+      4: 1
+      5: 3
+      10 {
+        14: 97
+        15: 0x66656f436d657449
+      }
+    }
+    2 {
+      1: "unlock"
+      3: 15
+      4: 1
+      5: 3
+      10: "unlock"
+    }
+    2 {
+      1: "story"
+      3: 16
+      4: 3
+      5: 9
+      10: "story"
+    }
+    2 {
+      1: "start_cost"
+      3: 17
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "startCost"
+    }
+  }
+  4 {
+    1: "caravan_story_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.caravan_story"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "caravan_story"
+    2 {
+      1: "story"
+      3: 1
+      4: 1
+      5: 13
+      10: "story"
+    }
+    2 {
+      1: "sign"
+      3: 2
+      4: 1
+      5: 9
+      10: "sign"
+    }
+    2 {
+      1: "content"
+      3: 3
+      4: 1
+      5: 9
+      10: "content"
+    }
+    2 {
+      1: "type"
+      3: 4
+      4: 1
+      5: 3
+      10: "type"
+    }
+  }
+  4 {
+    1: "censor_words_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.censor_words"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "censor_words"
+    2 {
+      1: "word"
+      3: 1
+      4: 1
+      5: 13
+      10: "word"
+    }
+    2 {
+      1: "detail"
+      3: 2
+      4: 1
+      5: 9
+      10: "detail"
+    }
+    2 {
+      1: "sign"
+      3: 3
+      4: 1
+      5: 9
+      10: "sign"
+    }
+  }
+  4 {
+    1: "chapter_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.chapter"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "chapter"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "chapter"
+      3: 2
+      4: 1
+      5: 9
+      10: "chapter"
+    }
+    2 {
+      1: "name"
+      3: 3
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "word_desc"
+      3: 4
+      4: 1
+      5: 9
+      10: "wordDesc"
+    }
+    2 {
+      1: "num"
+      3: 5
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "num"
+    }
+  }
+  4 {
+    1: "charge_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.charge"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "charge"
+    2 {
+      1: "charge_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "chargeId"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "sub_type"
+      3: 3
+      4: 1
+      5: 3
+      10: "subType"
+    }
+    2 {
+      1: "recharge_id"
+      3: 4
+      4: 1
+      5: 3
+      10: "rechargeId"
+    }
+    2 {
+      1: "title"
+      3: 5
+      4: 1
+      5: 3
+      10: "title"
+    }
+    2 {
+      1: "content"
+      3: 6
+      4: 1
+      5: 3
+      10: "content"
+    }
+    2 {
+      1: "diamond"
+      3: 7
+      4: 1
+      5: 3
+      10: "diamond"
+    }
+    2 {
+      1: "first_charge"
+      3: 8
+      4: 1
+      5: 3
+      10: "firstCharge"
+    }
+    2 {
+      1: "extra_diamond"
+      3: 9
+      4: 1
+      5: 3
+      10: "extraDiamond"
+    }
+  }
+  4 {
+    1: "checkin_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.checkin"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "checkin"
+    2 {
+      1: "checkId"
+      3: 1
+      4: 1
+      5: 13
+      10: "checkId"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "day"
+      3: 3
+      4: 1
+      5: 3
+      10: "day"
+    }
+    2 {
+      1: "reward"
+      3: 4
+      4: 1
+      5: 3
+      10: "reward"
+    }
+    2 {
+      1: "num"
+      3: 5
+      4: 1
+      5: 3
+      10: "num"
+    }
+    2 {
+      1: "prize"
+      3: 6
+      4: 1
+      5: 3
+      10: "prize"
+    }
+  }
+  4 {
+    1: "cloth_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.cloth"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "cloth"
+    2 {
+      1: "cloth"
+      3: 1
+      4: 1
+      5: 13
+      10: "cloth"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "path"
+      3: 3
+      4: 1
+      5: 9
+      10: "path"
+    }
+  }
+  4 {
+    1: "collectgold_gold_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.collectgold_gold"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "collectgold_gold"
+    2 {
+      1: "level"
+      3: 1
+      4: 1
+      5: 13
+      10: "level"
+    }
+    2 {
+      1: "gold_pic"
+      3: 2
+      4: 1
+      5: 9
+      10: "goldPic"
+    }
+    2 {
+      1: "gold_interval"
+      3: 3
+      4: 1
+      5: 3
+      10: "goldInterval"
+    }
+  }
+  4 {
+    1: "collectgold_time_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.collectgold_time"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "collectgold_time"
+    2 {
+      1: "time"
+      3: 1
+      4: 1
+      5: 13
+      10: "time"
+    }
+    2 {
+      1: "first_gold"
+      3: 2
+      4: 1
+      5: 3
+      10: "firstGold"
+    }
+    2 {
+      1: "second_gold"
+      3: 3
+      4: 1
+      5: 3
+      10: "secondGold"
+    }
+    2 {
+      1: "three_gold"
+      3: 4
+      4: 1
+      5: 3
+      10: "threeGold"
+    }
+    2 {
+      1: "third_gold"
+      3: 5
+      4: 1
+      5: 3
+      10: "thirdGold"
+    }
+  }
+  4 {
+    1: "condition_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.condition"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "condition"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "desc"
+      3: 3
+      4: 1
+      5: 9
+      10: "desc"
+    }
+    2 {
+      1: "use_item"
+      3: 4
+      4: 1
+      5: 3
+      10: "useItem"
+    }
+    2 {
+      1: "icon"
+      3: 5
+      4: 1
+      5: 9
+      10: "icon"
+    }
+    2 {
+      1: "method"
+      3: 6
+      4: 1
+      5: 3
+      10: "method"
+    }
+    2 {
+      1: "lackTip"
+      3: 7
+      4: 1
+      5: 9
+      10: "lackTip"
+    }
+  }
+  4 {
+    1: "daily_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.daily"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "daily"
+    2 {
+      1: "task_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "taskId"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 3
+      10: "name"
+    }
+    2 {
+      1: "type"
+      3: 3
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "condition"
+      3: 4
+      4: 1
+      5: 3
+      10: "condition"
+    }
+    2 {
+      1: "factor1"
+      3: 5
+      4: 1
+      5: 3
+      10: "factor1"
+    }
+    2 {
+      1: "factor2"
+      3: 6
+      4: 1
+      5: 3
+      10: "factor2"
+    }
+    2 {
+      1: "reward"
+      3: 7
+      4: 3
+      5: 9
+      10: "reward"
+    }
+    2 {
+      1: "desc"
+      3: 8
+      4: 1
+      5: 3
+      10: "desc"
+    }
+    2 {
+      1: "link"
+      3: 9
+      4: 1
+      5: 9
+      10: "link"
+    }
+  }
+  4 {
+    1: "desc_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.desc"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "desc"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "desc"
+      3: 2
+      4: 1
+      5: 9
+      10: "desc"
+    }
+  }
+  4 {
+    1: "entrust_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.entrust"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1 {
+      12: 0x7572746e
+      14 {
+      }
+    }
+    2 {
+      1 {
+        12: 0x7572746e
+        14 {
+        }
+      }
+      3: 1
+      4: 1
+      5: 13
+      10 {
+        12: 0x7572746e
+        14 {
+        }
+      }
+    }
+    2 {
+      1: "difficulty"
+      3: 2
+      4: 1
+      5: 3
+      10: "difficulty"
+    }
+    2 {
+      1: "price"
+      3: 3
+      4: 1
+      5: 9
+      10: "price"
+    }
+    2 {
+      1: "diamond"
+      3: 4
+      4: 1
+      5: 9
+      10: "diamond"
+    }
+    2 {
+      1: "num"
+      3: 5
+      4: 1
+      5: 9
+      10: "num"
+    }
+    2 {
+      1: "weight"
+      3: 6
+      4: 1
+      5: 9
+      10: "weight"
+    }
+    2 {
+      1: "pig_diamond"
+      3: 7
+      4: 1
+      5: 3
+      10: "pigDiamond"
+    }
+    2 {
+      1: "npc"
+      3: 8
+      4: 1
+      5: 9
+      10: "npc"
+    }
+    2 {
+      1: "title"
+      3: 9
+      4: 1
+      5: 9
+      10: "title"
+    }
+    2 {
+      1: "desc"
+      3: 10
+      4: 1
+      5: 9
+      10: "desc"
+    }
+    2 {
+      1: "extra_reward"
+      3: 11
+      4: 1
+      5: 3
+      10: "extraReward"
+    }
+    2 {
+      1: "extra_pro"
+      3: 12
+      4: 1
+      5: 3
+      10: "extraPro"
+    }
+  }
+  4 {
+    1: "entrust_time_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.entrust_time"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "entrust_time"
+    2 {
+      1: "entrust_level"
+      3: 1
+      4: 1
+      5: 13
+      10: "entrustLevel"
+    }
+    2 {
+      1: "refresh_time"
+      3: 2
+      4: 1
+      5: 3
+      10: "refreshTime"
+    }
+    2 {
+      1: "rejection_time"
+      3: 3
+      4: 1
+      5: 3
+      10: "rejectionTime"
+    }
+  }
+  4 {
+    1: "entrust_unlock_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.entrust_unlock"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "entrust_unlock"
+    2 {
+      1: "level"
+      3: 1
+      4: 1
+      5: 13
+      10: "level"
+    }
+    2 {
+      1: "main_mission"
+      3: 2
+      4: 1
+      5: 3
+      10: "mainMission"
+    }
+    2 {
+      1: "entrust_number"
+      3: 3
+      4: 1
+      5: 3
+      10: "entrustNumber"
+    }
+  }
+  4 {
+    1: "exp_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.exp"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "exp"
+    2 {
+      1: "lvl"
+      3: 1
+      4: 1
+      5: 13
+      10: "lvl"
+    }
+    2 {
+      1: "next_exp"
+      3: 2
+      4: 1
+      5: 3
+      10: "nextExp"
+    }
+    2 {
+      1: "total_exp"
+      3: 3
+      4: 1
+      5: 3
+      10: "totalExp"
+    }
+    2 {
+      1: "gold_cost"
+      3: 4
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "goldCost"
+    }
+    2 {
+      1: "pass_exp"
+      3: 5
+      4: 1
+      5: 3
+      10: "passExp"
+    }
+  }
+  4 {
+    1: "fairy_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.fairy"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "fairy"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "desc"
+      3: 3
+      4: 1
+      5: 9
+      10: "desc"
+    }
+    2 {
+      1: "soundtxt"
+      3: 4
+      4: 1
+      5: 9
+      10: "soundtxt"
+    }
+    2 {
+      1: "sound"
+      3: 5
+      4: 1
+      5: 9
+      10: "sound"
+    }
+    2 {
+      1: "story"
+      3: 6
+      4: 1
+      5: 9
+      10: "story"
+    }
+    2 {
+      1: "draw"
+      3: 7
+      4: 1
+      5: 9
+      10: "draw"
+    }
+    2 {
+      1: "head_icon"
+      3: 8
+      4: 1
+      5: 9
+      10: "headIcon"
+    }
+    2 {
+      1: "body_pic"
+      3: 9
+      4: 1
+      5: 9
+      10: "bodyPic"
+    }
+    2 {
+      1: "book_head"
+      3: 10
+      4: 1
+      5: 9
+      10: "bookHead"
+    }
+    2 {
+      1: "source_icon"
+      3: 11
+      4: 1
+      5: 9
+      10: "sourceIcon"
+    }
+    2 {
+      1: "rarity"
+      3: 12
+      4: 1
+      5: 3
+      10: "rarity"
+    }
+    2 {
+      1: "evo_times"
+      3: 13
+      4: 1
+      5: 3
+      10: "evoTimes"
+    }
+    2 {
+      1: "sort1"
+      3: 14
+      4: 1
+      5: 3
+      10: "sort1"
+    }
+    2 {
+      1: "sort2"
+      3: 15
+      4: 1
+      5: 3
+      10: "sort2"
+    }
+    2 {
+      1: "cost_factor"
+      3: 16
+      4: 1
+      5: 3
+      10: "costFactor"
+    }
+    2 {
+      1: "pro_id"
+      3: 17
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "proId"
+    }
+    2 {
+      1: "property_parm"
+      3: 18
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "propertyParm"
+    }
+    2 {
+      1: "initLvl"
+      3: 19
+      4: 1
+      5: 3
+      10: "initLvl"
+    }
+    2 {
+      1: "maxLvl"
+      3: 20
+      4: 1
+      5: 3
+      10: "maxLvl"
+    }
+    2 {
+      1: "lvlup_parm"
+      3: 21
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "lvlupParm"
+    }
+    2 {
+      1: "experienced"
+      3: 22
+      4: 1
+      5: 3
+      10: "experienced"
+    }
+    2 {
+      1: "devo_id"
+      3: 23
+      4: 1
+      5: 3
+      10: "devoId"
+    }
+    2 {
+      1: "evo_id"
+      3: 24
+      4: 1
+      5: 3
+      10 {
+        12: 0x64496f76
+      }
+    }
+    2 {
+      1: "evo_material"
+      3: 25
+      4: 1
+      5: 3
+      10: "evoMaterial"
+    }
+    2 {
+      1: "evo_num"
+      3: 26
+      4: 1
+      5: 3
+      10: "evoNum"
+    }
+    2 {
+      1: "awaken"
+      3: 27
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "awaken"
+    }
+    2 {
+      1: "awaken_bonus"
+      3: 28
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "awakenBonus"
+    }
+    2 {
+      1: "effort_bonus"
+      3: 29
+      4: 3
+      5: 9
+      10: "effortBonus"
+    }
+    2 {
+      1: "head_top"
+      3: 30
+      4: 1
+      5: 2
+      10: "headTop"
+    }
+    2 {
+      1: "speed"
+      3: 31
+      4: 1
+      5: 9
+      10: "speed"
+    }
+    2 {
+      1: "groove"
+      3: 32
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "groove"
+    }
+    2 {
+      1: "unlock_lvl"
+      3: 33
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "unlockLvl"
+    }
+    2 {
+      1: "again_mail"
+      3: 34
+      4: 1
+      5: 3
+      10 {
+        12: 0x6c69614d6e696167
+      }
+    }
+    2 {
+      1: "full_item"
+      3: 35
+      4: 1
+      5: 3
+      10: "fullItem"
+    }
+    2 {
+      1: "full_num"
+      3: 36
+      4: 1
+      5: 3
+      10: "fullNum"
+    }
+  }
+  4 {
+    1: "farm_combo_reduce_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.farm_combo_reduce"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "farm_combo_reduce"
+    2 {
+      1: "combo"
+      3: 1
+      4: 1
+      5: 13
+      10: "combo"
+    }
+    2 {
+      1: "interval"
+      3: 2
+      4: 1
+      5: 3
+      10: "interval"
+    }
+    2 {
+      1: "continued"
+      3: 3
+      4: 1
+      5: 3
+      10: "continued"
+    }
+    2 {
+      1: "reward"
+      3: 4
+      4: 1
+      5: 3
+      10: "reward"
+    }
+  }
+  4 {
+    1: "farm_max_reduce_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.farm_max_reduce"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "farm_max_reduce"
+    2 {
+      1: "combo"
+      3: 1
+      4: 1
+      5: 13
+      10: "combo"
+    }
+    2 {
+      1: "max"
+      3: 2
+      4: 1
+      5: 3
+      10: "max"
+    }
+  }
+  4 {
+    1: "farm_normal_speed_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.farm_normal_speed"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "farm_normal_speed"
+    2 {
+      1: "time"
+      3: 1
+      4: 1
+      5: 13
+      10: "time"
+    }
+    2 {
+      1: "interval"
+      3: 2
+      4: 1
+      5: 3
+      10: "interval"
+    }
+    2 {
+      1: "continued"
+      3: 3
+      4: 1
+      5: 3
+      10: "continued"
+    }
+  }
+  4 {
+    1: "farm_prop_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.farm_prop"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "farm_prop"
+    2 {
+      1: "prop"
+      3: 1
+      4: 1
+      5: 13
+      10: "prop"
+    }
+    2 {
+      1: "mark"
+      3: 2
+      4: 1
+      5: 3
+      10: "mark"
+    }
+    2 {
+      1: "type"
+      3: 3
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "icon"
+      3: 4
+      4: 1
+      5: 9
+      10: "icon"
+    }
+    2 {
+      1: "weight"
+      3: 5
+      4: 1
+      5: 3
+      10: "weight"
+    }
+  }
+  4 {
+    1: "fish_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.fish"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "fish"
+    2 {
+      1: "fish"
+      3: 1
+      4: 1
+      5: 13
+      10: "fish"
+    }
+    2 {
+      1: "icon"
+      3: 2
+      4: 1
+      5: 9
+      10: "icon"
+    }
+    2 {
+      1: "type"
+      3: 3
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "pro"
+      3: 4
+      4: 1
+      5: 3
+      10: "pro"
+    }
+    2 {
+      1: "count"
+      3: 5
+      4: 1
+      5: 3
+      10: "count"
+    }
+    2 {
+      1: "score"
+      3: 6
+      4: 1
+      5: 3
+      10: "score"
+    }
+    2 {
+      1: "speed"
+      3: 7
+      4: 1
+      5: 3
+      10: "speed"
+    }
+    2 {
+      1: "unhook"
+      3: 8
+      4: 1
+      5: 3
+      10: "unhook"
+    }
+  }
+  4 {
+    1: "formula_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.formula"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "formula"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "desc"
+      3: 3
+      4: 1
+      5: 9
+      10: "desc"
+    }
+    2 {
+      1: "type_desc"
+      3: 4
+      4: 1
+      5: 9
+      10: "typeDesc"
+    }
+    2 {
+      1: "icon"
+      3: 5
+      4: 1
+      5: 9
+      10: "icon"
+    }
+    2 {
+      1: "type"
+      3: 6
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "sort"
+      3: 7
+      4: 1
+      5: 3
+      10: "sort"
+    }
+    2 {
+      1: "element"
+      3: 8
+      4: 1
+      5: 3
+      10: "element"
+    }
+    2 {
+      1: "attribute_factor"
+      3: 9
+      4: 1
+      5: 3
+      10: "attributeFactor"
+    }
+    2 {
+      1: "appear_factor"
+      3: 10
+      4: 1
+      5: 3
+      10: "appearFactor"
+    }
+    2 {
+      1: "max_success"
+      3: 11
+      4: 1
+      5: 3
+      10: "maxSuccess"
+    }
+    2 {
+      1: "max_mastery"
+      3: 12
+      4: 1
+      5: 3
+      10: "maxMastery"
+    }
+    2 {
+      1: "success_mastery"
+      3: 13
+      4: 1
+      5: 3
+      10: "successMastery"
+    }
+    2 {
+      1: "effort"
+      3: 14
+      4: 1
+      5: 3
+      10: "effort"
+    }
+    2 {
+      1: "success_rate"
+      3: 15
+      4: 1
+      5: 3
+      10: "successRate"
+    }
+    2 {
+      1: "elf_rate"
+      3: 16
+      4: 1
+      5: 3
+      10: "elfRate"
+    }
+    2 {
+      1: "repeat_mastery"
+      3: 17
+      4: 1
+      5: 3
+      10: "repeatMastery"
+    }
+    2 {
+      1: "max_gold"
+      3: 18
+      4: 1
+      5: 3
+      10: "maxGold"
+    }
+    2 {
+      1: "words"
+      3: 19
+      4: 1
+      5: 9
+      10: "words"
+    }
+    2 {
+      1: "material"
+      3: 20
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "material"
+    }
+    2 {
+      1: "replace_type"
+      3: 21
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "replaceType"
+    }
+    2 {
+      1: "num"
+      3: 22
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "num"
+    }
+    2 {
+      1: "like_npc"
+      3: 23
+      4: 1
+      5: 3
+      10: "likeNpc"
+    }
+    2 {
+      1: "hate_npc"
+      3: 24
+      4: 1
+      5: 3
+      10: "hateNpc"
+    }
+    2 {
+      1: "hearsay"
+      3: 25
+      4: 1
+      5: 9
+      10: "hearsay"
+    }
+  }
+  4 {
+    1: "func_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.func"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "func"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "icon"
+      3: 2
+      4: 1
+      5: 9
+      10: "icon"
+    }
+    2 {
+      1: "main_icon"
+      3: 3
+      4: 1
+      5: 9
+      10: "mainIcon"
+    }
+    2 {
+      1: "name"
+      3: 4
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "mainName"
+      3: 5
+      4: 1
+      5: 9
+      10: "mainName"
+    }
+    2 {
+      1: "isShow"
+      3: 6
+      4: 1
+      5: 3
+      10: "isShow"
+    }
+    2 {
+      1: "icon_scale"
+      3: 7
+      4: 1
+      5: 9
+      10 {
+        13: 0x656c6163536e6f63
+      }
+    }
+    2 {
+      1: "desc"
+      3: 8
+      4: 1
+      5: 9
+      10: "desc"
+    }
+    2 {
+      1: "scene"
+      3: 9
+      4: 1
+      5: 9
+      10: "scene"
+    }
+    2 {
+      1: "task"
+      3: 10
+      4: 1
+      5: 3
+      10: "task"
+    }
+    2 {
+      1: "level"
+      3: 11
+      4: 1
+      5: 3
+      10: "level"
+    }
+    2 {
+      1: "anchorY_quickBtn"
+      3: 12
+      4: 1
+      5: 9
+      10: "anchorYQuickBtn"
+    }
+  }
+  4 {
+    1: "game_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.game"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "game"
+    2 {
+      1: "order"
+      3: 1
+      4: 1
+      5: 13
+      10: "order"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 9
+      10: "type"
+    }
+    2 {
+      1: "name"
+      3: 3
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "value_int"
+      3: 4
+      4: 1
+      5: 3
+      10: "valueInt"
+    }
+    2 {
+      1: "value_string"
+      3: 5
+      4: 1
+      5: 9
+      10: "valueString"
+    }
+  }
+  4 {
+    1: "gift_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.gift"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "gift"
+    2 {
+      1: "gift"
+      3: 1
+      4: 1
+      5: 13
+      10: "gift"
+    }
+    2 {
+      1: "like"
+      3: 2
+      4: 1
+      5: 3
+      10: "like"
+    }
+    2 {
+      1: "love"
+      3: 3
+      4: 1
+      5: 3
+      10: "love"
+    }
+    2 {
+      1: "hate"
+      3: 4
+      4: 1
+      5: 3
+      10: "hate"
+    }
+  }
+  4 {
+    1: "groove_lvl_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.groove_lvl"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "groove_lvl"
+    2 {
+      1: "lvl"
+      3: 1
+      4: 1
+      5: 13
+      10: "lvl"
+    }
+    2 {
+      1: "upgrade_cost"
+      3: 2
+      4: 1
+      5: 9
+      10: "upgradeCost"
+    }
+    2 {
+      1: "random_cost"
+      3: 3
+      4: 1
+      5: 9
+      10: "randomCost"
+    }
+  }
+  4 {
+    1: "guide_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.guide"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "guide"
+    2 {
+      1: "guide"
+      3: 1
+      4: 1
+      5: 13
+      10: "guide"
+    }
+    2 {
+      1: "next"
+      3: 2
+      4: 1
+      5: 3
+      10: "next"
+    }
+    2 {
+      1: "first_step"
+      3: 3
+      4: 1
+      5: 9
+      10: "firstStep"
+    }
+    2 {
+      1: "right_step"
+      3: 4
+      4: 1
+      5: 9
+      10: "rightStep"
+    }
+    2 {
+      1: "type"
+      3: 5
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "task_show"
+      3: 6
+      4: 1
+      5: 3
+      10: "taskShow"
+    }
+    2 {
+      1: "task_hide"
+      3: 7
+      4: 1
+      5: 3
+      10: "taskHide"
+    }
+  }
+  4 {
+    1: "guide_step_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.guide_step"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "guide_step"
+    2 {
+      1: "step"
+      3: 1
+      4: 1
+      5: 13
+      10: "step"
+    }
+    2 {
+      1: "next"
+      3: 2
+      4: 1
+      5: 3
+      10: "next"
+    }
+    2 {
+      1: "key_step"
+      3: 3
+      4: 1
+      5: 3
+      10: "keyStep"
+    }
+    2 {
+      1: "jump"
+      3: 4
+      4: 1
+      5: 3
+      10: "jump"
+    }
+    2 {
+      1: "keyword"
+      3: 5
+      4: 1
+      5: 9
+      10: "keyword"
+    }
+    2 {
+      1: "prefab"
+      3: 6
+      4: 1
+      5: 9
+      10: "prefab"
+    }
+    2 {
+      1: "prefab_x"
+      3: 7
+      4: 1
+      5: 3
+      10 {
+        14: 114
+        12: 0x58626166
+      }
+    }
+    2 {
+      1: "prefab_y"
+      3: 8
+      4: 1
+      5: 3
+      10 {
+        14: 114
+        12: 0x59626166
+      }
+    }
+    2 {
+      1: "prefab_text"
+      3: 9
+      4: 1
+      5: 3
+      10: "prefabText"
+    }
+    2 {
+      1: "target"
+      3: 10
+      4: 1
+      5: 9
+      10: "target"
+    }
+    2 {
+      1: "factor"
+      3: 11
+      4: 1
+      5: 3
+      10: "factor"
+    }
+    2 {
+      1: "length"
+      3: 12
+      4: 1
+      5: 3
+      10: "length"
+    }
+    2 {
+      1: "height"
+      3: 13
+      4: 1
+      5: 3
+      10: "height"
+    }
+    2 {
+      1: "cam_move"
+      3: 14
+      4: 1
+      5: 3
+      10: "camMove"
+    }
+    2 {
+      1: "x_pos"
+      3: 15
+      4: 1
+      5: 3
+      10: "xPos"
+    }
+    2 {
+      1: "y_pos"
+      3: 16
+      4: 1
+      5: 3
+      10: "yPos"
+    }
+    2 {
+      1: "click"
+      3: 17
+      4: 1
+      5: 3
+      10: "click"
+    }
+    2 {
+      1: "delay"
+      3: 18
+      4: 1
+      5: 3
+      10: "delay"
+    }
+    2 {
+      1: "rotation"
+      3: 19
+      4: 1
+      5: 3
+      10: "rotation"
+    }
+  }
+  4 {
+    1 {
+      13: 101
+      12: 0x696c5f6e6f636964
+      14 {
+      }
+    }
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.headicon"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "headicon"
+    2 {
+      1: "head_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "headId"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "character"
+      3: 3
+      4: 1
+      5: 3
+      10: "character"
+    }
+    2 {
+      1: "pic"
+      3: 4
+      4: 1
+      5: 9
+      10: "pic"
+    }
+  }
+  4 {
+    1: "hearsay_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.hearsay"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "hearsay"
+    2 {
+      1: "hearId"
+      3: 1
+      4: 1
+      5: 13
+      10: "hearId"
+    }
+    2 {
+      1: "gradeLimit"
+      3: 2
+      4: 1
+      5: 3
+      10: "gradeLimit"
+    }
+    2 {
+      1: "story"
+      3: 3
+      4: 1
+      5: 9
+      10: "story"
+    }
+  }
+  4 {
+    1: "help_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.help"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "help"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "info"
+      3: 3
+      4: 1
+      5: 9
+      10: "info"
+    }
+  }
+  4 {
+    1: "influence_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.influence"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1 {
+      13: 0x65636e65756c666e
+    }
+    2 {
+      1: "order"
+      3: 1
+      4: 1
+      5: 13
+      10: "order"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "item"
+      3: 3
+      4: 1
+      5: 3
+      10: "item"
+    }
+    2 {
+      1: "sort"
+      3: 4
+      4: 1
+      5: 3
+      10: "sort"
+    }
+    2 {
+      1: "factor"
+      3: 5
+      4: 1
+      5: 3
+      10: "factor"
+    }
+    2 {
+      1: "score_id"
+      3: 6
+      4: 1
+      5: 3
+      10: "scoreId"
+    }
+  }
+  4 {
+    1 {
+      13: 0x7473696c5f6d6574
+    }
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.item"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "item"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "desc"
+      3: 3
+      4: 1
+      5: 9
+      10: "desc"
+    }
+    2 {
+      1: "use"
+      3: 4
+      4: 1
+      5: 9
+      10: "use"
+    }
+    2 {
+      1: "icon"
+      3: 5
+      4: 1
+      5: 9
+      10: "icon"
+    }
+    2 {
+      1: "small_icon"
+      3: 6
+      4: 1
+      5: 9
+      10: "smallIcon"
+    }
+    2 {
+      1: "item_use"
+      3: 7
+      4: 1
+      5: 3
+      10: "itemUse"
+    }
+    2 {
+      1 {
+        13: 0x657079745f6d6574
+      }
+      3: 8
+      4: 1
+      5: 3
+      10: "itemType"
+    }
+    2 {
+      1: "type_desc"
+      3: 9
+      4: 1
+      5: 9
+      10: "typeDesc"
+    }
+    2 {
+      1: "station_level_limit"
+      3: 10
+      4: 1
+      5: 3
+      10: "stationLevelLimit"
+    }
+    2 {
+      1: "rarity"
+      3: 11
+      4: 1
+      5: 3
+      10: "rarity"
+    }
+    2 {
+      1: "sell_price"
+      3: 12
+      4: 1
+      5: 3
+      10: "sellPrice"
+    }
+    2 {
+      1: "sell_coin"
+      3: 13
+      4: 1
+      5: 3
+      10: "sellCoin"
+    }
+    2 {
+      1: "systemId"
+      3: 14
+      4: 3
+      5: 9
+      10: "systemId"
+    }
+    2 {
+      1: "visible"
+      3: 15
+      4: 1
+      5: 3
+      10: "visible"
+    }
+  }
+  4 {
+    1: "mail_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.mail"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "mail"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "from"
+      3: 3
+      4: 1
+      5: 3
+      10: "from"
+    }
+    2 {
+      1: "info"
+      3: 4
+      4: 1
+      5: 9
+      10: "info"
+    }
+    2 {
+      1: "effective_time"
+      3: 5
+      4: 1
+      5: 3
+      10: "effectiveTime"
+    }
+  }
+  4 {
+    1: "map_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.map"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "map"
+    2 {
+      1: "site_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "siteId"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 3
+      10: "name"
+    }
+    2 {
+      1: "desc"
+      3: 3
+      4: 1
+      5: 3
+      10: "desc"
+    }
+  }
+  4 {
+    1: "material_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.material"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "material"
+    2 {
+      1: "item_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "itemId"
+    }
+    2 {
+      1: "can_research"
+      3: 2
+      4: 1
+      5: 3
+      10: "canResearch"
+    }
+    2 {
+      1: "sort"
+      3: 3
+      4: 1
+      5: 3
+      10: "sort"
+    }
+    2 {
+      1: "save_time"
+      3: 4
+      4: 1
+      5: 3
+      10: "saveTime"
+    }
+    2 {
+      1: "cost_value"
+      3: 5
+      4: 1
+      5: 3
+      10: "costValue"
+    }
+  }
+  4 {
+    1: "message_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.message"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "message"
+    2 {
+      1: "msg_id"
+      3: 1
+      4: 1
+      5: 13
+      10 {
+        13: 0x64496773
+      }
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "type"
+      3: 3
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "desc"
+      3: 4
+      4: 1
+      5: 9
+      10: "desc"
+    }
+    2 {
+      1: "time"
+      3: 5
+      4: 1
+      5: 3
+      10: "time"
+    }
+  }
+  4 {
+    1: "npc_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.npc"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "npc"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "name"
+      3: 3
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "job"
+      3: 4
+      4: 1
+      5: 9
+      10: "job"
+    }
+    2 {
+      1: "desc"
+      3: 5
+      4: 1
+      5: 9
+      10: "desc"
+    }
+    2 {
+      1: "nickname"
+      3: 6
+      4: 1
+      5: 9
+      10: "nickname"
+    }
+    2 {
+      1 {
+        14: 0x6e6f696e
+      }
+      3: 7
+      4: 1
+      5: 3
+      10 {
+        14: 0x6e6f696e
+      }
+    }
+    2 {
+      1: "friends"
+      3: 8
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "friends"
+    }
+    2 {
+      1: "enemies"
+      3: 9
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "enemies"
+    }
+    2 {
+      1: "small_avatar"
+      3: 10
+      4: 1
+      5: 9
+      10: "smallAvatar"
+    }
+    2 {
+      1: "head_icon"
+      3: 11
+      4: 1
+      5: 9
+      10: "headIcon"
+    }
+    2 {
+      1: "head_icon_grey"
+      3: 12
+      4: 1
+      5: 9
+      10: "headIconGrey"
+    }
+    2 {
+      1: "draw"
+      3: 13
+      4: 1
+      5: 9
+      10: "draw"
+    }
+    2 {
+      1: "book_draw"
+      3: 14
+      4: 1
+      5: 9
+      10: "bookDraw"
+    }
+    2 {
+      1: "sale_draw"
+      3: 15
+      4: 1
+      5: 9
+      10: "saleDraw"
+    }
+    2 {
+      1: "draw_site"
+      3: 16
+      4: 1
+      5: 3
+      10: "drawSite"
+    }
+    2 {
+      1: "posY"
+      3: 17
+      4: 1
+      5: 3
+      10: "posY"
+    }
+    2 {
+      1: "like_PosY"
+      3: 18
+      4: 1
+      5: 3
+      10: "likePosY"
+    }
+    2 {
+      1: "role_card"
+      3: 19
+      4: 1
+      5: 3
+      10: "roleCard"
+    }
+    2 {
+      1: "love_gift"
+      3: 20
+      4: 1
+      5: 9
+      10: "loveGift"
+    }
+    2 {
+      1: "hate_gift"
+      3: 21
+      4: 1
+      5: 9
+      10: "hateGift"
+    }
+    2 {
+      1: "path"
+      3: 22
+      4: 1
+      5: 9
+      10: "path"
+    }
+    2 {
+      1: "talk"
+      3: 23
+      4: 3
+      5: 9
+      10: "talk"
+    }
+    2 {
+      1: "word_color"
+      3: 24
+      4: 1
+      5: 9
+      10: "wordColor"
+    }
+    2 {
+      1: "history_color"
+      3: 25
+      4: 1
+      5: 9
+      10: "historyColor"
+    }
+    2 {
+      1: "likechat"
+      3: 26
+      4: 1
+      5: 9
+      10: "likechat"
+    }
+    2 {
+      1: "dislikechat"
+      3: 27
+      4: 1
+      5: 9
+      10: "dislikechat"
+    }
+    2 {
+      1: "likechat_voice"
+      3: 28
+      4: 1
+      5: 9
+      10: "likechatVoice"
+    }
+  }
+  4 {
+    1: "npc_like_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.npc_like"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "npc_like"
+    2 {
+      1: "npcid"
+      3: 1
+      4: 1
+      5: 13
+      10: "npcid"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "like"
+      3: 3
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "like"
+    }
+    2 {
+      1: "mail"
+      3: 4
+      4: 1
+      5: 3
+      10: "mail"
+    }
+    2 {
+      1: "random_reward"
+      3: 5
+      4: 1
+      5: 9
+      10: "randomReward"
+    }
+    2 {
+      1: "skill"
+      3: 6
+      4: 1
+      5: 3
+      10: "skill"
+    }
+    2 {
+      1: "greet"
+      3: 7
+      4: 3
+      5: 9
+      10: "greet"
+    }
+    2 {
+      1: "comment_normal"
+      3: 8
+      4: 3
+      5: 9
+      10: "commentNormal"
+    }
+    2 {
+      1: "comment_like"
+      3: 9
+      4: 3
+      5: 9
+      10: "commentLike"
+    }
+    2 {
+      1: "comment_hate"
+      3: 10
+      4: 3
+      5: 9
+      10: "commentHate"
+    }
+    2 {
+      1: "comment_before"
+      3: 11
+      4: 3
+      5: 9
+      10: "commentBefore"
+    }
+    2 {
+      1: "history_story"
+      3: 12
+      4: 3
+      5: 9
+      10: "historyStory"
+    }
+    2 {
+      1: "mono_book"
+      3: 13
+      4: 1
+      5: 9
+      10: "monoBook"
+    }
+    2 {
+      1: "mono_title"
+      3: 14
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "monoTitle"
+    }
+    2 {
+      1: "mono_story"
+      3: 15
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "monoStory"
+    }
+    2 {
+      1: "mono_dub"
+      3: 16
+      4: 3
+      5: 9
+      10: "monoDub"
+    }
+    2 {
+      1: "like_talk"
+      3: 17
+      4: 3
+      5: 9
+      10: "likeTalk"
+    }
+    2 {
+      1: "story_title"
+      3: 18
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "storyTitle"
+    }
+    2 {
+      1: "story_brief"
+      3: 19
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "storyBrief"
+    }
+  }
+  4 {
+    1: "package_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.package"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "package"
+    2 {
+      1: "package"
+      3: 1
+      4: 1
+      5: 13
+      10: "package"
+    }
+    2 {
+      1: "cards"
+      3: 2
+      4: 1
+      5: 9
+      10: "cards"
+    }
+  }
+  4 {
+    1: "package_card_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.package_card"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "package_card"
+    2 {
+      1: "card"
+      3: 1
+      4: 1
+      5: 13
+      10: "card"
+    }
+    2 {
+      1: "proportion"
+      3: 2
+      4: 1
+      5: 3
+      10: "proportion"
+    }
+    2 {
+      1: "inc_proportion"
+      3: 3
+      4: 1
+      5: 3
+      10: "incProportion"
+    }
+    2 {
+      1: "is_package"
+      3: 4
+      4: 1
+      5: 3
+      10 {
+        13: 0x6567616b63615073
+      }
+    }
+    2 {
+      1: "item"
+      3: 5
+      4: 1
+      5: 3
+      10: "item"
+    }
+    2 {
+      1: "num"
+      3: 6
+      4: 1
+      5: 3
+      10: "num"
+    }
+    2 {
+      1: "necessity"
+      3: 7
+      4: 1
+      5: 3
+      10: "necessity"
+    }
+    2 {
+      1: "fake_pro"
+      3: 8
+      4: 1
+      5: 3
+      10: "fakePro"
+    }
+  }
+  4 {
+    1: "pass_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.pass"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "pass"
+    2 {
+      1: "level"
+      3: 1
+      4: 1
+      5: 13
+      10: "level"
+    }
+    2 {
+      1: "base_reward"
+      3: 2
+      4: 1
+      5: 9
+      10: "baseReward"
+    }
+    2 {
+      1: "base_key"
+      3: 3
+      4: 1
+      5: 3
+      10: "baseKey"
+    }
+    2 {
+      1: "pay_reward"
+      3: 4
+      4: 1
+      5: 9
+      10: "payReward"
+    }
+    2 {
+      1: "pay_key"
+      3: 5
+      4: 1
+      5: 3
+      10: "payKey"
+    }
+    2 {
+      1: "key_fairy"
+      3: 6
+      4: 1
+      5: 3
+      10: "keyFairy"
+    }
+  }
+  4 {
+    1: "pass_price_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.pass_price"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "pass_price"
+    2 {
+      1: "pass_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "passId"
+    }
+    2 {
+      1: "pass_price"
+      3: 2
+      4: 1
+      5: 3
+      10: "passPrice"
+    }
+    2 {
+      1: "score_type"
+      3: 3
+      4: 1
+      5: 3
+      10: "scoreType"
+    }
+    2 {
+      1: "score"
+      3: 4
+      4: 1
+      5: 3
+      10: "score"
+    }
+    2 {
+      1: "npc"
+      3: 5
+      4: 1
+      5: 3
+      10: "npc"
+    }
+    2 {
+      1: "name"
+      3: 6
+      4: 1
+      5: 3
+      10: "name"
+    }
+    2 {
+      1: "desc"
+      3: 7
+      4: 1
+      5: 3
+      10: "desc"
+    }
+    2 {
+      1: "chat"
+      3: 8
+      4: 1
+      5: 3
+      10: "chat"
+    }
+  }
+  4 {
+    1: "plant_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.plant"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "plant"
+    2 {
+      1: "seed_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "seedId"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "type"
+      3: 3
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "sub_type"
+      3: 4
+      4: 1
+      5: 3
+      10: "subType"
+    }
+    2 {
+      1: "sort"
+      3: 5
+      4: 1
+      5: 3
+      10: "sort"
+    }
+    2 {
+      1: "pic"
+      3: 6
+      4: 1
+      5: 9
+      10: "pic"
+    }
+    2 {
+      1: "plant_path"
+      3: 7
+      4: 1
+      5: 9
+      10: "plantPath"
+    }
+    2 {
+      1: "book_pic"
+      3: 8
+      4: 1
+      5: 9
+      10: "bookPic"
+    }
+    2 {
+      1: "desc"
+      3: 9
+      4: 1
+      5: 3
+      10: "desc"
+    }
+    2 {
+      1: "show_item"
+      3: 10
+      4: 1
+      5: 3
+      10: "showItem"
+    }
+    2 {
+      1: "req_fairy_lvl"
+      3: 11
+      4: 1
+      5: 3
+      10: "reqFairyLvl"
+    }
+    2 {
+      1: "quality"
+      3: 12
+      4: 1
+      5: 3
+      10: "quality"
+    }
+    2 {
+      1: "harvest_time"
+      3: 13
+      4: 1
+      5: 3
+      10: "harvestTime"
+    }
+    2 {
+      1: "reduce_max"
+      3: 14
+      4: 1
+      5: 3
+      10: "reduceMax"
+    }
+    2 {
+      1: "time_punish"
+      3: 15
+      4: 1
+      5: 3
+      10: "timePunish"
+    }
+    2 {
+      1: "num_factor"
+      3: 16
+      4: 1
+      5: 3
+      10: "numFactor"
+    }
+    2 {
+      1: "resource_factor"
+      3: 17
+      4: 1
+      5: 3
+      10: "resourceFactor"
+    }
+    2 {
+      1: "cost"
+      3: 18
+      4: 1
+      5: 3
+      10: "cost"
+    }
+    2 {
+      1: "cost_num"
+      3: 19
+      4: 1
+      5: 3
+      10: "costNum"
+    }
+    2 {
+      1: "plant_prop"
+      3: 20
+      4: 1
+      5: 3
+      10: "plantProp"
+    }
+    2 {
+      1: "unlock_condition"
+      3: 21
+      4: 1
+      5: 3
+      10: "unlockCondition"
+    }
+    2 {
+      1: "condition_parm"
+      3: 22
+      4: 1
+      5: 3
+      10: "conditionParm"
+    }
+    2 {
+      1: "unlock_parm2"
+      3: 23
+      4: 1
+      5: 3
+      10: "unlockParm2"
+    }
+  }
+  4 {
+    1: "plant_place_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.plant_place"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1 {
+      14: 108
+      12: 0x6563616c705f746e
+    }
+    2 {
+      1: "place"
+      3: 1
+      4: 1
+      5: 13
+      10: "place"
+    }
+    2 {
+      1 {
+        13: 0x74736f635f6d6574
+      }
+      3: 2
+      4: 1
+      5: 3
+      10: "itemCost"
+    }
+    2 {
+      1: "cost_num"
+      3: 3
+      4: 1
+      5: 3
+      10: "costNum"
+    }
+    2 {
+      1: "task"
+      3: 4
+      4: 1
+      5: 3
+      10: "task"
+    }
+    2 {
+      1: "level"
+      3: 5
+      4: 1
+      5: 3
+      10: "level"
+    }
+  }
+  4 {
+    1: "pot_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.pot"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "pot"
+    2 {
+      1: "pot_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "potId"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "sub_type"
+      3: 3
+      4: 1
+      5: 3
+      10: "subType"
+    }
+    2 {
+      1: "sort"
+      3: 4
+      4: 1
+      5: 3
+      10: "sort"
+    }
+    2 {
+      1: "level"
+      3: 5
+      4: 1
+      5: 3
+      10: "level"
+    }
+    2 {
+      1: "plant_num"
+      3: 6
+      4: 1
+      5: 3
+      10: "plantNum"
+    }
+    2 {
+      1: "pic"
+      3: 7
+      4: 1
+      5: 9
+      10: "pic"
+    }
+    2 {
+      1: "res_path"
+      3: 8
+      4: 1
+      5: 9
+      10: "resPath"
+    }
+    2 {
+      1: "upgrade_material1"
+      3: 9
+      4: 1
+      5: 3
+      10: "upgradeMaterial1"
+    }
+    2 {
+      1: "material1_num"
+      3: 10
+      4: 1
+      5: 3
+      10: "material1Num"
+    }
+    2 {
+      1: "upgrade_material2"
+      3: 11
+      4: 1
+      5: 3
+      10: "upgradeMaterial2"
+    }
+    2 {
+      1: "material2_num"
+      3: 12
+      4: 1
+      5: 3
+      10: "material2Num"
+    }
+    2 {
+      1: "upgraded"
+      3: 13
+      4: 1
+      5: 3
+      10: "upgraded"
+    }
+    2 {
+      1: "plant_time"
+      3: 14
+      4: 1
+      5: 3
+      10: "plantTime"
+    }
+    2 {
+      1: "can_plant"
+      3: 15
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "canPlant"
+    }
+    2 {
+      1: "price"
+      3: 16
+      4: 1
+      5: 3
+      10: "price"
+    }
+    2 {
+      1: "task"
+      3: 17
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "task"
+    }
+    2 {
+      1: "need_lvl"
+      3: 18
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "needLvl"
+    }
+  }
+  4 {
+    1: "pray_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.pray"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "pray"
+    2 {
+      1: "prayId"
+      3: 1
+      4: 1
+      5: 13
+      10: "prayId"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "day_begin"
+      3: 3
+      4: 1
+      5: 3
+      10: "dayBegin"
+    }
+    2 {
+      1: "day_end"
+      3: 4
+      4: 1
+      5: 3
+      10: "dayEnd"
+    }
+    2 {
+      1: "reward"
+      3: 5
+      4: 1
+      5: 3
+      10: "reward"
+    }
+    2 {
+      1: "num"
+      3: 6
+      4: 1
+      5: 3
+      10: "num"
+    }
+  }
+  4 {
+    1: "present_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.present"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1 {
+      14: 114
+      12: 0x746e6573
+    }
+    2 {
+      1 {
+        14: 114
+        12: 0x746e6573
+      }
+      3: 1
+      4: 1
+      5: 13
+      10 {
+        14: 114
+        12: 0x746e6573
+      }
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "recharge_id"
+      3: 3
+      4: 1
+      5: 3
+      10: "rechargeId"
+    }
+    2 {
+      1: "title"
+      3: 4
+      4: 1
+      5: 3
+      10: "title"
+    }
+    2 {
+      1: "content"
+      3: 5
+      4: 1
+      5: 3
+      10: "content"
+    }
+    2 {
+      1: "item"
+      3: 6
+      4: 1
+      5: 3
+      10: "item"
+    }
+    2 {
+      1: "num"
+      3: 7
+      4: 1
+      5: 3
+      10: "num"
+    }
+    2 {
+      1: "mainline"
+      3: 8
+      4: 1
+      5: 3
+      10: "mainline"
+    }
+    2 {
+      1: "threshold"
+      3: 9
+      4: 1
+      5: 3
+      10: "threshold"
+    }
+    2 {
+      1: "exist_time"
+      3: 10
+      4: 1
+      5: 3
+      10: "existTime"
+    }
+    2 {
+      1: "prefab"
+      3: 11
+      4: 1
+      5: 9
+      10: "prefab"
+    }
+    2 {
+      1: "position"
+      3: 12
+      4: 1
+      5: 3
+      10: "position"
+    }
+  }
+  4 {
+    1: "present_regular_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.present_regular"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "present_regular"
+    2 {
+      1 {
+        14: 114
+        12: 0x746e6573
+      }
+      3: 1
+      4: 1
+      5: 13
+      10 {
+        14: 114
+        12: 0x746e6573
+      }
+    }
+    2 {
+      1: "timer"
+      3: 2
+      4: 1
+      5: 3
+      10: "timer"
+    }
+    2 {
+      1: "recharge_id"
+      3: 3
+      4: 1
+      5: 3
+      10: "rechargeId"
+    }
+    2 {
+      1: "title"
+      3: 4
+      4: 1
+      5: 3
+      10: "title"
+    }
+    2 {
+      1: "content"
+      3: 5
+      4: 1
+      5: 3
+      10: "content"
+    }
+    2 {
+      1: "item"
+      3: 6
+      4: 1
+      5: 3
+      10: "item"
+    }
+    2 {
+      1: "times"
+      3: 7
+      4: 1
+      5: 3
+      10: "times"
+    }
+    2 {
+      1: "icon"
+      3: 8
+      4: 1
+      5: 9
+      10: "icon"
+    }
+  }
+  4 {
+    1: "product_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.product"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "product"
+    2 {
+      1: "product"
+      3: 1
+      4: 1
+      5: 13
+      10: "product"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "unit_price"
+      3: 3
+      4: 1
+      5: 3
+      10: "unitPrice"
+    }
+    2 {
+      1: "unit_exp"
+      3: 4
+      4: 1
+      5: 3
+      10 {
+        14: 0x4574696e
+        15: 112
+      }
+    }
+    2 {
+      1: "unit_time"
+      3: 5
+      4: 1
+      5: 3
+      10: "unitTime"
+    }
+    2 {
+      1: "addition_price"
+      3: 6
+      4: 1
+      5: 9
+      10: "additionPrice"
+    }
+    2 {
+      1: "initial_price"
+      3: 7
+      4: 1
+      5: 3
+      10: "initialPrice"
+    }
+    2 {
+      1: "low_price"
+      3: 8
+      4: 1
+      5: 3
+      10: "lowPrice"
+    }
+    2 {
+      1: "high_price"
+      3: 9
+      4: 1
+      5: 3
+      10: "highPrice"
+    }
+    2 {
+      1: "like"
+      3: 10
+      4: 1
+      5: 3
+      10: "like"
+    }
+    2 {
+      1: "love"
+      3: 11
+      4: 1
+      5: 3
+      10: "love"
+    }
+    2 {
+      1: "hate"
+      3: 12
+      4: 1
+      5: 3
+      10: "hate"
+    }
+    2 {
+      1: "limit"
+      3: 13
+      4: 1
+      5: 3
+      10: "limit"
+    }
+    2 {
+      1: "rate"
+      3: 14
+      4: 1
+      5: 3
+      10: "rate"
+    }
+  }
+  4 {
+    1: "product_order_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.product_order"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "product_order"
+    2 {
+      1: "order"
+      3: 1
+      4: 1
+      5: 13
+      10: "order"
+    }
+    2 {
+      1: "npc"
+      3: 2
+      4: 1
+      5: 3
+      10: "npc"
+    }
+    2 {
+      1: "product"
+      3: 3
+      4: 1
+      5: 3
+      10: "product"
+    }
+    2 {
+      1: "num"
+      3: 4
+      4: 1
+      5: 3
+      10: "num"
+    }
+    2 {
+      1: "treasure"
+      3: 5
+      4: 1
+      5: 3
+      10: "treasure"
+    }
+    2 {
+      1: "like"
+      3: 6
+      4: 1
+      5: 3
+      10: "like"
+    }
+    2 {
+      1: "story_begin"
+      3: 7
+      4: 1
+      5: 9
+      10: "storyBegin"
+    }
+    2 {
+      1: "story_end"
+      3: 8
+      4: 1
+      5: 9
+      10: "storyEnd"
+    }
+    2 {
+      1: "difficulty"
+      3: 9
+      4: 1
+      5: 3
+      10: "difficulty"
+    }
+    2 {
+      1: "already_rate"
+      3: 10
+      4: 1
+      5: 3
+      10: "alreadyRate"
+    }
+  }
+  4 {
+    1: "property_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.property"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "property"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "property"
+      3: 2
+      4: 1
+      5: 9
+      10: "property"
+    }
+    2 {
+      1: "name"
+      3: 3
+      4: 1
+      5: 9
+      10: "name"
+    }
+  }
+  4 {
+    1: "randomdrop_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.randomdrop"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "randomdrop"
+    2 {
+      1: "drop_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "dropId"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "item_id"
+      3: 3
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "itemId"
+    }
+    2 {
+      1: "item_num"
+      3: 4
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "itemNum"
+    }
+    2 {
+      1: "item_pro"
+      3: 5
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "itemPro"
+    }
+  }
+  4 {
+    1: "recharge_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.recharge"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "recharge"
+    2 {
+      1: "recharge_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "rechargeId"
+    }
+    2 {
+      1: "price"
+      3: 2
+      4: 1
+      5: 3
+      10: "price"
+    }
+    2 {
+      1: "note"
+      3: 3
+      4: 1
+      5: 9
+      10: "note"
+    }
+    2 {
+      1: "android_price"
+      3: 4
+      4: 1
+      5: 3
+      10: "androidPrice"
+    }
+    2 {
+      1 {
+        13: 0x65636972705f736f
+      }
+      3: 5
+      4: 1
+      5: 3
+      10: "iosPrice"
+    }
+    2 {
+      1: "ios_identifier"
+      3: 6
+      4: 1
+      5: 9
+      10: "iosIdentifier"
+    }
+    2 {
+      1: "android_identifier"
+      3: 7
+      4: 1
+      5: 9
+      10: "androidIdentifier"
+    }
+  }
+  4 {
+    1: "reconciliation_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.reconciliation"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "reconciliation"
+    2 {
+      1: "reconciliation"
+      3: 1
+      4: 1
+      5: 13
+      10: "reconciliation"
+    }
+    2 {
+      1: "pro"
+      3: 2
+      4: 1
+      5: 3
+      10: "pro"
+    }
+  }
+  4 {
+    1: "sale_place_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.sale_place"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "sale_place"
+    2 {
+      1: "place_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "placeId"
+    }
+    2 {
+      1: "lvl"
+      3: 2
+      4: 1
+      5: 3
+      10: "lvl"
+    }
+  }
+  4 {
+    1: "shop_config_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.shop_config"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "shop_config"
+    2 {
+      1: "shop"
+      3: 1
+      4: 1
+      5: 13
+      10: "shop"
+    }
+    2 {
+      1: "shop_name"
+      3: 2
+      4: 1
+      5: 3
+      10: "shopName"
+    }
+    2 {
+      1: "show_num"
+      3: 3
+      4: 1
+      5: 3
+      10: "showNum"
+    }
+    2 {
+      1: "discount_num"
+      3: 4
+      4: 1
+      5: 3
+      10: "discountNum"
+    }
+    2 {
+      1: "call"
+      3: 5
+      4: 1
+      5: 9
+      10: "call"
+    }
+    2 {
+      1: "voice"
+      3: 6
+      4: 1
+      5: 9
+      10: "voice"
+    }
+    2 {
+      1: "need_coin"
+      3: 7
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "needCoin"
+    }
+    2 {
+      1: "open_time"
+      3: 8
+      4: 1
+      5: 3
+      10: "openTime"
+    }
+    2 {
+      1: "refresh_time"
+      3: 9
+      4: 1
+      5: 3
+      10: "refreshTime"
+    }
+    2 {
+      1: "position"
+      3: 10
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "position"
+    }
+  }
+  4 {
+    1: "shop_goods_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.shop_goods"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "shop_goods"
+    2 {
+      1: "goods"
+      3: 1
+      4: 1
+      5: 13
+      10: "goods"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "item_id"
+      3: 3
+      4: 1
+      5: 3
+      10: "itemId"
+    }
+    2 {
+      1: "group_num"
+      3: 4
+      4: 1
+      5: 3
+      10: "groupNum"
+    }
+    2 {
+      1: "goods_type"
+      3: 5
+      4: 1
+      5: 3
+      10: "goodsType"
+    }
+    2 {
+      1: "item_lvl"
+      3: 6
+      4: 1
+      5: 3
+      10: "itemLvl"
+    }
+    2 {
+      1: "cost_item"
+      3: 7
+      4: 1
+      5: 3
+      10: "costItem"
+    }
+    2 {
+      1: "cost_price"
+      3: 8
+      4: 1
+      5: 3
+      10: "costPrice"
+    }
+    2 {
+      1: "min_num"
+      3: 9
+      4: 1
+      5: 3
+      10: "minNum"
+    }
+    2 {
+      1: "max_num"
+      3: 10
+      4: 1
+      5: 3
+      10: "maxNum"
+    }
+    2 {
+      1: "discount"
+      3: 11
+      4: 1
+      5: 9
+      10: "discount"
+    }
+    2 {
+      1: "limit_type"
+      3: 12
+      4: 1
+      5: 3
+      10: "limitType"
+    }
+    2 {
+      1: "limit_times"
+      3: 13
+      4: 1
+      5: 3
+      10: "limitTimes"
+    }
+  }
+  4 {
+    1: "skill_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.skill"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "skill"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "desc"
+      3: 3
+      4: 1
+      5: 9
+      10: "desc"
+    }
+    2 {
+      1: "buff1desc"
+      3: 4
+      4: 1
+      5: 9
+      10: "buff1desc"
+    }
+    2 {
+      1: "buff2desc"
+      3: 5
+      4: 1
+      5: 9
+      10: "buff2desc"
+    }
+    2 {
+      1: "buff"
+      3: 6
+      4: 3
+      5: 9
+      10: "buff"
+    }
+    2 {
+      1: "rare"
+      3: 7
+      4: 1
+      5: 3
+      10: "rare"
+    }
+    2 {
+      1: "icon"
+      3: 8
+      4: 1
+      5: 9
+      10: "icon"
+    }
+  }
+  4 {
+    1: "skill_groove_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.skill_groove"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "skill_groove"
+    2 {
+      1: "groove"
+      3: 1
+      4: 1
+      5: 13
+      10: "groove"
+    }
+    2 {
+      1: "pool"
+      3: 2
+      4: 1
+      5: 3
+      10: "pool"
+    }
+  }
+  4 {
+    1: "skilllvl_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.skilllvl"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "skilllvl"
+    2 {
+      1: "skillId"
+      3: 1
+      4: 1
+      5: 13
+      10: "skillId"
+    }
+    2 {
+      1: "buff_pro"
+      3: 2
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "buffPro"
+    }
+    2 {
+      1: "buff_num"
+      3: 3
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "buffNum"
+    }
+    2 {
+      1: "need_lvl"
+      3: 4
+      4: 1
+      5: 3
+      10: "needLvl"
+    }
+  }
+  4 {
+    1: "story_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.story"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "story"
+    2 {
+      1: "story"
+      3: 1
+      4: 1
+      5: 13
+      10: "story"
+    }
+    2 {
+      1: "sign"
+      3: 2
+      4: 1
+      5: 9
+      10: "sign"
+    }
+    2 {
+      1: "end_interface"
+      3: 3
+      4: 1
+      5: 9
+      10: "endInterface"
+    }
+    2 {
+      1: "scene_bg"
+      3: 4
+      4: 1
+      5: 9
+      10: "sceneBg"
+    }
+    2 {
+      1: "scene_effect"
+      3: 5
+      4: 1
+      5: 3
+      10: "sceneEffect"
+    }
+    2 {
+      1: "role"
+      3: 6
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "role"
+    }
+    2 {
+      1: "look"
+      3: 7
+      4: 3
+      5: 9
+      10: "look"
+    }
+    2 {
+      1: "position"
+      3: 8
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "position"
+    }
+    2 {
+      1: "talk"
+      3: 9
+      4: 1
+      5: 9
+      10: "talk"
+    }
+    2 {
+      1: "pic"
+      3: 10
+      4: 1
+      5: 9
+      10: "pic"
+    }
+    2 {
+      1 {
+        13: 0x63697375
+      }
+      3: 11
+      4: 1
+      5: 9
+      10 {
+        13: 0x63697375
+      }
+    }
+    2 {
+      1: "sound"
+      3: 12
+      4: 1
+      5: 9
+      10: "sound"
+    }
+    2 {
+      1: "wait_time"
+      3: 13
+      4: 1
+      5: 2
+      10: "waitTime"
+    }
+    2 {
+      1: "func"
+      3: 14
+      4: 1
+      5: 3
+      10: "func"
+    }
+    2 {
+      1 {
+        12: 0x746e6576
+      }
+      3: 15
+      4: 1
+      5: 3
+      10 {
+        12: 0x746e6576
+      }
+    }
+    2 {
+      1: "clear"
+      3: 16
+      4: 1
+      5: 3
+      10: "clear"
+    }
+    2 {
+      1: "dialog_bg"
+      3: 17
+      4: 1
+      5: 3
+      10: "dialogBg"
+    }
+  }
+  4 {
+    1: "str_extracter_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.str_extracter_list.DatasEntry"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+    3 {
+      1: "DatasEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".cfg_gen.str_extracter"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "str_extracter"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "text"
+      3: 2
+      4: 1
+      5: 9
+      10: "text"
+    }
+  }
+  4 {
+    1: "summon_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.summon"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "summon"
+    2 {
+      1: "main_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "mainId"
+    }
+    2 {
+      1: "package_id"
+      3: 2
+      4: 1
+      5: 3
+      10: "packageId"
+    }
+    2 {
+      1: "isShow"
+      3: 3
+      4: 1
+      5: 3
+      10: "isShow"
+    }
+    2 {
+      1: "one_cost"
+      3: 4
+      4: 1
+      5: 9
+      10: "oneCost"
+    }
+    2 {
+      1: "ten_cost"
+      3: 5
+      4: 1
+      5: 9
+      10: "tenCost"
+    }
+    2 {
+      1: "one_coin"
+      3: 6
+      4: 1
+      5: 9
+      10: "oneCoin"
+    }
+    2 {
+      1: "ten_coin"
+      3: 7
+      4: 1
+      5: 9
+      10: "tenCoin"
+    }
+    2 {
+      1: "source"
+      3: 8
+      4: 1
+      5: 9
+      10: "source"
+    }
+    2 {
+      1: "task"
+      3: 9
+      4: 1
+      5: 3
+      10: "task"
+    }
+    2 {
+      1: "level"
+      3: 10
+      4: 1
+      5: 3
+      10: "level"
+    }
+    2 {
+      1: "title"
+      3: 11
+      4: 1
+      5: 3
+      10: "title"
+    }
+    2 {
+      1: "activity_title"
+      3: 12
+      4: 1
+      5: 3
+      10: "activityTitle"
+    }
+    2 {
+      1: "timer"
+      3: 13
+      4: 1
+      5: 3
+      10: "timer"
+    }
+    2 {
+      1: "desc"
+      3: 14
+      4: 1
+      5: 3
+      10: "desc"
+    }
+    2 {
+      1: "info"
+      3: 15
+      4: 1
+      5: 3
+      10: "info"
+    }
+    2 {
+      1: "guarantee"
+      3: 16
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "guarantee"
+    }
+    2 {
+      1: "up_item"
+      3: 17
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "upItem"
+    }
+    2 {
+      1: "up_pro"
+      3: 18
+      4: 1
+      5: 9
+      10 {
+        14: 0x6f725070
+      }
+    }
+    2 {
+      1: "logo"
+      3: 19
+      4: 1
+      5: 9
+      10: "logo"
+    }
+    2 {
+      1: "lock"
+      3: 20
+      4: 1
+      5: 9
+      10: "lock"
+    }
+  }
+  4 {
+    1: "summon_replace_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.summon_replace"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "summon_replace"
+    2 {
+      1: "replace_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "replaceId"
+    }
+    2 {
+      1: "pool_id"
+      3: 2
+      4: 1
+      5: 3
+      10: "poolId"
+    }
+    2 {
+      1: "replace_task"
+      3: 3
+      4: 1
+      5: 3
+      10: "replaceTask"
+    }
+    2 {
+      1: "replace_pool"
+      3: 4
+      4: 1
+      5: 3
+      10: "replacePool"
+    }
+    2 {
+      1: "replace_btn"
+      3: 5
+      4: 1
+      5: 3
+      10: "replaceBtn"
+    }
+    2 {
+      1: "times"
+      3: 6
+      4: 1
+      5: 3
+      10: "times"
+    }
+  }
+  4 {
+    1: "task_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.task"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "task"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "desc"
+      3: 3
+      4: 1
+      5: 9
+      10: "desc"
+    }
+    2 {
+      1: "brief"
+      3: 4
+      4: 1
+      5: 9
+      10: "brief"
+    }
+    2 {
+      1: "type"
+      3: 5
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "subtype"
+      3: 6
+      4: 1
+      5: 3
+      10: "subtype"
+    }
+    2 {
+      1: "priority"
+      3: 7
+      4: 1
+      5: 3
+      10: "priority"
+    }
+    2 {
+      1: "task_npc"
+      3: 8
+      4: 1
+      5: 3
+      10: "taskNpc"
+    }
+    2 {
+      1: "talk_story"
+      3: 9
+      4: 1
+      5: 9
+      10: "talkStory"
+    }
+    2 {
+      1: "story"
+      3: 10
+      4: 1
+      5: 9
+      10: "story"
+    }
+    2 {
+      1: "chat"
+      3: 11
+      4: 1
+      5: 9
+      10: "chat"
+    }
+    2 {
+      1: "complete_story"
+      3: 12
+      4: 1
+      5: 9
+      10: "completeStory"
+    }
+    2 {
+      1: "story_link"
+      3: 13
+      4: 1
+      5: 9
+      10: "storyLink"
+    }
+    2 {
+      1: "guide"
+      3: 14
+      4: 1
+      5: 3
+      10: "guide"
+    }
+    2 {
+      1: "complete_condition"
+      3: 15
+      4: 1
+      5: 3
+      10: "completeCondition"
+    }
+    2 {
+      1: "complete_parm"
+      3: 16
+      4: 1
+      5: 3
+      10: "completeParm"
+    }
+    2 {
+      1: "complete_parm2"
+      3: 17
+      4: 1
+      5: 3
+      10: "completeParm2"
+    }
+    2 {
+      1: "complete_parm3"
+      3: 18
+      4: 1
+      5: 3
+      10: "completeParm3"
+    }
+    2 {
+      1: "reward"
+      3: 19
+      4: 1
+      5: 3
+      10: "reward"
+    }
+    2 {
+      1: "next_task"
+      3: 20
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "nextTask"
+    }
+    2 {
+      1: "gold"
+      3: 21
+      4: 1
+      5: 3
+      10: "gold"
+    }
+    2 {
+      1: "exp"
+      3: 22
+      4: 1
+      5: 3
+      10: "exp"
+    }
+    2 {
+      1: "lvl"
+      3: 23
+      4: 1
+      5: 3
+      10: "lvl"
+    }
+    2 {
+      1: "weight"
+      3: 24
+      4: 1
+      5: 3
+      10: "weight"
+    }
+    2 {
+      1: "link_to"
+      3: 25
+      4: 1
+      5: 9
+      10: "linkTo"
+    }
+    2 {
+      1: "link_to_npc"
+      3: 26
+      4: 1
+      5: 3
+      10: "linkToNpc"
+    }
+    2 {
+      1: "unlock_icon"
+      3: 27
+      4: 1
+      5: 9
+      10: "unlockIcon"
+    }
+    2 {
+      1: "unlock"
+      3: 28
+      4: 1
+      5: 9
+      10: "unlock"
+    }
+    2 {
+      1: "icon_scale"
+      3: 29
+      4: 1
+      5: 9
+      10 {
+        13: 0x656c6163536e6f63
+      }
+    }
+  }
+  4 {
+    1: "text_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.text_list.DatasEntry"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+    3 {
+      1: "DatasEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".cfg_gen.text"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "text"
+    2 {
+      1: "text_ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "textID"
+    }
+    2 {
+      1: "i18n_ID"
+      3: 2
+      4: 1
+      5: 3
+      10: "i18nID"
+    }
+  }
+  4 {
+    1: "text_i18n_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.text_i18n_list.DatasEntry"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+    3 {
+      1: "DatasEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".cfg_gen.text_i18n"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "text_i18n"
+    2 {
+      1: "i18n_ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "i18nID"
+    }
+    2 {
+      1: "zh"
+      3: 2
+      4: 1
+      5: 9
+      10: "zh"
+    }
+    2 {
+      1: "zh_tw"
+      3: 3
+      4: 1
+      5: 9
+      10: "zhTw"
+    }
+  }
+  4 {
+    1: "timer_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.timer"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "timer"
+    2 {
+      1: "timer_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "timerId"
+    }
+    2 {
+      1: "type"
+      3: 2
+      4: 1
+      5: 3
+      10: "type"
+    }
+    2 {
+      1: "start_time"
+      3: 3
+      4: 1
+      5: 9
+      10: "startTime"
+    }
+    2 {
+      1: "duration_type"
+      3: 4
+      4: 1
+      5: 3
+      10: "durationType"
+    }
+    2 {
+      1: "duration"
+      3: 5
+      4: 1
+      5: 3
+      10: "duration"
+    }
+  }
+  4 {
+    1: "treasure_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.treasure"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "treasure"
+    2 {
+      1: "drop_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "dropId"
+    }
+    2 {
+      1: "item"
+      3: 2
+      4: 1
+      5: 9
+      10: "item"
+    }
+  }
+  4 {
+    1: "week_checkin_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.week_checkin"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "week_checkin"
+    2 {
+      1: "day"
+      3: 1
+      4: 1
+      5: 13
+      10: "day"
+    }
+    2 {
+      1: "item"
+      3: 2
+      4: 1
+      5: 3
+      10: "item"
+    }
+    2 {
+      1: "num"
+      3: 3
+      4: 1
+      5: 3
+      10: "num"
+    }
+  }
+  4 {
+    1: "witch_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.witch"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "witch"
+    2 {
+      1: "level"
+      3: 1
+      4: 1
+      5: 13
+      10: "level"
+    }
+    2 {
+      1: "grade"
+      3: 2
+      4: 1
+      5: 3
+      10: "grade"
+    }
+    2 {
+      1: "name"
+      3: 3
+      4: 1
+      5: 3
+      10: "name"
+    }
+    2 {
+      1: "position"
+      3: 4
+      4: 1
+      5: 3
+      10: "position"
+    }
+    2 {
+      1: "position_lvl"
+      3: 5
+      4: 1
+      5: 3
+      10: "positionLvl"
+    }
+    2 {
+      1: "icon"
+      3: 6
+      4: 1
+      5: 9
+      10: "icon"
+    }
+  }
+  4 {
+    1: "workshop_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.workshop"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "workshop"
+    2 {
+      1: "ws_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "wsId"
+    }
+    2 {
+      1: "name_desc"
+      3: 2
+      4: 1
+      5: 3
+      10: "nameDesc"
+    }
+    2 {
+      1: "pic"
+      3: 3
+      4: 1
+      5: 9
+      10: "pic"
+    }
+    2 {
+      1: "unlock_anim"
+      3: 4
+      4: 1
+      5: 3
+      10: "unlockAnim"
+    }
+    2 {
+      1: "sort"
+      3: 5
+      4: 1
+      5: 3
+      10: "sort"
+    }
+    2 {
+      1: "func"
+      3: 6
+      4: 1
+      5: 3
+      10: "func"
+    }
+    2 {
+      1: "item"
+      3: 7
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "item"
+    }
+    2 {
+      1: "home_view"
+      3: 8
+      4: 3
+      5: 9
+      10: "homeView"
+    }
+    2 {
+      1: "cam"
+      3: 9
+      4: 1
+      5: 3
+      10: "cam"
+    }
+  }
+  4 {
+    1: "worldline_activity_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.worldline_activity"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "worldline_activity"
+    2 {
+      1: "activity"
+      3: 1
+      4: 1
+      5: 13
+      10: "activity"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 3
+      10: "name"
+    }
+    2 {
+      1 {
+        13: 0x656d616e5f6e6f63
+      }
+      3: 3
+      4: 1
+      5: 3
+      10: "iconName"
+    }
+    2 {
+      1: "timer"
+      3: 4
+      4: 1
+      5: 3
+      10: "timer"
+    }
+    2 {
+      1: "story"
+      3: 5
+      4: 1
+      5: 3
+      10: "story"
+    }
+    2 {
+      1: "score_item"
+      3: 6
+      4: 1
+      5: 3
+      10: "scoreItem"
+    }
+    2 {
+      1 {
+        12: 0x746e6576
+      }
+      3: 7
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10 {
+        12: 0x746e6576
+      }
+    }
+    2 {
+      1 {
+        14: 0x6e6f696e
+      }
+      3: 8
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10 {
+        14: 0x6e6f696e
+      }
+    }
+    2 {
+      1: "rank"
+      3: 9
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "rank"
+    }
+    2 {
+      1: "map"
+      3: 10
+      4: 1
+      5: 9
+      10: "map"
+    }
+    2 {
+      1: "good_name"
+      3: 11
+      4: 1
+      5: 3
+      10: "goodName"
+    }
+    2 {
+      1: "bad_name"
+      3: 12
+      4: 1
+      5: 3
+      10: "badName"
+    }
+    2 {
+      1: "good_desc"
+      3: 13
+      4: 1
+      5: 3
+      10: "goodDesc"
+    }
+    2 {
+      1: "bad_desc"
+      3: 14
+      4: 1
+      5: 3
+      10: "badDesc"
+    }
+    2 {
+      1: "good_pic"
+      3: 15
+      4: 1
+      5: 9
+      10: "goodPic"
+    }
+    2 {
+      1: "bad_pic"
+      3: 16
+      4: 1
+      5: 9
+      10: "badPic"
+    }
+    2 {
+      1: "book_pic"
+      3: 17
+      4: 1
+      5: 9
+      10: "bookPic"
+    }
+    2 {
+      1: "union_end"
+      3: 18
+      4: 1
+      5: 9
+      10: "unionEnd"
+    }
+    2 {
+      1: "resourceId"
+      3: 19
+      4: 1
+      5: 3
+      10: "resourceId"
+    }
+    2 {
+      1: "up_fairy"
+      3: 20
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "upFairy"
+    }
+    2 {
+      1: "hearsay"
+      3: 21
+      4: 1
+      5: 9
+      10: "hearsay"
+    }
+    2 {
+      1: "mail_treasure"
+      3: 22
+      4: 1
+      5: 9
+      10: "mailTreasure"
+    }
+  }
+  4 {
+    1: "worldline_desc_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.worldline_desc"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "worldline_desc"
+    2 {
+      1: "ID"
+      3: 1
+      4: 1
+      5: 13
+      10: "ID"
+    }
+    2 {
+      1: "desc"
+      3: 2
+      4: 1
+      5: 9
+      10: "desc"
+    }
+  }
+  4 {
+    1: "worldline_event_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.worldline_event"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "worldline_event"
+    2 {
+      1: "event_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "eventId"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 3
+      10: "name"
+    }
+    2 {
+      1: "step"
+      3: 3
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "step"
+    }
+    2 {
+      1: "event_reward"
+      3: 4
+      4: 1
+      5: 3
+      10: "eventReward"
+    }
+    2 {
+      1: "badge"
+      3: 5
+      4: 1
+      5: 3
+      10: "badge"
+    }
+    2 {
+      1: "good_end"
+      3: 6
+      4: 1
+      5: 3
+      10: "goodEnd"
+    }
+    2 {
+      1: "bad_end"
+      3: 7
+      4: 1
+      5: 3
+      10: "badEnd"
+    }
+    2 {
+      1: "normal_end"
+      3: 8
+      4: 1
+      5: 3
+      10: "normalEnd"
+    }
+    2 {
+      1: "ending_pic"
+      3: 9
+      4: 1
+      5: 9
+      10: "endingPic"
+    }
+    2 {
+      1: "ending_map"
+      3: 10
+      4: 1
+      5: 9
+      10: "endingMap"
+    }
+    2 {
+      1: "start_time"
+      3: 11
+      4: 1
+      5: 3
+      10: "startTime"
+    }
+    2 {
+      1: "open_condition"
+      3: 12
+      4: 1
+      5: 3
+      10: "openCondition"
+    }
+  }
+  4 {
+    1: "worldline_map_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.worldline_map"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "worldline_map"
+    2 {
+      1: "num"
+      3: 1
+      4: 1
+      5: 13
+      10: "num"
+    }
+    2 {
+      1: "choice"
+      3: 2
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "choice"
+    }
+    2 {
+      1 {
+        12: 0x746e6576
+      }
+      3: 3
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10 {
+        12: 0x746e6576
+      }
+    }
+    2 {
+      1: "prefab"
+      3: 4
+      4: 1
+      5: 9
+      10: "prefab"
+    }
+    2 {
+      1: "change_node"
+      3: 5
+      4: 1
+      5: 9
+      10: "changeNode"
+    }
+  }
+  4 {
+    1: "worldline_step_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.worldline_step"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "worldline_step"
+    2 {
+      1 {
+        14 {
+        }
+        12: 0x64695f70
+      }
+      3: 1
+      4: 1
+      5: 13
+      10: "stepId"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 3
+      10: "name"
+    }
+    2 {
+      1: "desc"
+      3: 3
+      4: 1
+      5: 3
+      10: "desc"
+    }
+    2 {
+      1: "step_icon"
+      3: 4
+      4: 1
+      5: 9
+      10: "stepIcon"
+    }
+    2 {
+      1: "step_task"
+      3: 5
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "stepTask"
+    }
+    2 {
+      1: "step_num"
+      3: 6
+      4: 1
+      5: 3
+      10 {
+        14 {
+        }
+        12: 0x6d754e70
+      }
+    }
+    2 {
+      1: "step_reward"
+      3: 7
+      4: 1
+      5: 3
+      10: "stepReward"
+    }
+  }
+  4 {
+    1: "worldline_task_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.worldline_task"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "worldline_task"
+    2 {
+      1: "option_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "optionId"
+    }
+    2 {
+      1: "condition"
+      3: 2
+      4: 1
+      5: 3
+      10: "condition"
+    }
+    2 {
+      1: "factor1"
+      3: 3
+      4: 1
+      5: 3
+      10: "factor1"
+    }
+    2 {
+      1: "factor2"
+      3: 4
+      4: 1
+      5: 3
+      10: "factor2"
+    }
+    2 {
+      1: "reward"
+      3: 5
+      4: 1
+      5: 3
+      10: "reward"
+    }
+    2 {
+      1: "score"
+      3: 6
+      4: 1
+      5: 3
+      10: "score"
+    }
+    2 {
+      1: "ending"
+      3: 7
+      4: 1
+      5: 3
+      10: "ending"
+    }
+    2 {
+      1: "title"
+      3: 8
+      4: 1
+      5: 3
+      10: "title"
+    }
+    2 {
+      1: "desc"
+      3: 9
+      4: 1
+      5: 3
+      10: "desc"
+    }
+    2 {
+      1: "detail"
+      3: 10
+      4: 1
+      5: 3
+      10: "detail"
+    }
+    2 {
+      1: "npc"
+      3: 11
+      4: 1
+      5: 3
+      10: "npc"
+    }
+    2 {
+      1: "story"
+      3: 12
+      4: 1
+      5: 9
+      10: "story"
+    }
+    2 {
+      1: "link"
+      3: 13
+      4: 1
+      5: 3
+      10: "link"
+    }
+  }
+  4 {
+    1: "worldline_union_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.worldline_union"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "worldline_union"
+    2 {
+      1: "union_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "unionId"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 3
+      10: "name"
+    }
+    2 {
+      1: "badge"
+      3: 3
+      4: 1
+      5: 9
+      10: "badge"
+    }
+    2 {
+      1: "small_badge"
+      3: 4
+      4: 1
+      5: 9
+      10: "smallBadge"
+    }
+    2 {
+      1: "window_pic"
+      3: 5
+      4: 1
+      5: 9
+      10: "windowPic"
+    }
+    2 {
+      1: "window"
+      3: 6
+      4: 1
+      5: 9
+      10: "window"
+    }
+    2 {
+      1: "name_img"
+      3: 7
+      4: 1
+      5: 9
+      10: "nameImg"
+    }
+    2 {
+      1: "shine_badge"
+      3: 8
+      4: 1
+      5: 9
+      10: "shineBadge"
+    }
+    2 {
+      1: "detail"
+      3: 9
+      4: 1
+      5: 3
+      10: "detail"
+    }
+    2 {
+      1: "npc"
+      3: 10
+      4: 1
+      5: 3
+      10: "npc"
+    }
+    2 {
+      1: "spy_show"
+      3: 11
+      4: 1
+      5: 3
+      10: "spyShow"
+    }
+    2 {
+      1: "stage_task"
+      3: 12
+      4: 3
+      5: 9
+      10: "stageTask"
+    }
+    2 {
+      1: "spy_stage_task"
+      3: 13
+      4: 3
+      5: 9
+      10: "spyStageTask"
+    }
+  }
+  4 {
+    1: "worldline_union_task_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.worldline_union_task"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "worldline_union_task"
+    2 {
+      1: "task_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "taskId"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 3
+      10: "name"
+    }
+    2 {
+      1: "condition"
+      3: 3
+      4: 1
+      5: 3
+      10: "condition"
+    }
+    2 {
+      1: "factor1"
+      3: 4
+      4: 1
+      5: 3
+      10: "factor1"
+    }
+    2 {
+      1: "factor2"
+      3: 5
+      4: 1
+      5: 3
+      10: "factor2"
+    }
+    2 {
+      1: "item_id"
+      3: 6
+      4: 1
+      5: 3
+      10: "itemId"
+    }
+    2 {
+      1: "score"
+      3: 7
+      4: 1
+      5: 3
+      10: "score"
+    }
+    2 {
+      1: "recycle"
+      3: 8
+      4: 1
+      5: 3
+      10: "recycle"
+    }
+    2 {
+      1: "bonus"
+      3: 9
+      4: 1
+      5: 3
+      10: "bonus"
+    }
+    2 {
+      1: "spy"
+      3: 10
+      4: 1
+      5: 3
+      10: "spy"
+    }
+    2 {
+      1: "link"
+      3: 11
+      4: 1
+      5: 9
+      10: "link"
+    }
+    2 {
+      1: "desc"
+      3: 12
+      4: 1
+      5: 3
+      10: "desc"
+    }
+  }
+  12: "proto3"
+}

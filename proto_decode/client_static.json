@@ -1,0 +1,569 @@
+1 {
+  1: "client_static.proto"
+  2: "Nofland"
+  3: "client_common.proto"
+  4 {
+    1: "C2A_Verification"
+    2 {
+      1: "platform"
+      3: 1
+      4: 1
+      5: 5
+      10: "platform"
+    }
+    2 {
+      1: "version"
+      3: 2
+      4: 1
+      5: 9
+      10: "version"
+    }
+    2 {
+      1: "codeVersion"
+      3: 3
+      4: 1
+      5: 5
+      10: "codeVersion"
+    }
+    2 {
+      1: "appVersion"
+      3: 4
+      4: 1
+      5: 5
+      10: "appVersion"
+    }
+  }
+  4 {
+    1: "A2C_Verification"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "hotfix"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.HotfixData"
+      10: "hotfix"
+    }
+    2 {
+      1: "verification"
+      3: 2
+      4: 1
+      5: 8
+      10: "verification"
+    }
+    2 {
+      1: "noticesCode"
+      3: 3
+      4: 1
+      5: 5
+      10: "noticesCode"
+    }
+  }
+  4 {
+    1: "C2A_Notices"
+  }
+  4 {
+    1: "A2C_Notices"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "data"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.NoticesData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "C2A_Login"
+    2 {
+      1: "platform"
+      3: 1
+      4: 1
+      5: 5
+      10: "platform"
+    }
+    2 {
+      1: "version"
+      3: 2
+      4: 1
+      5: 9
+      10: "version"
+    }
+    2 {
+      1: "codeVersion"
+      3: 3
+      4: 1
+      5: 5
+      10: "codeVersion"
+    }
+    2 {
+      1: "appVersion"
+      3: 4
+      4: 1
+      5: 5
+      10: "appVersion"
+    }
+    2 {
+      1: "account"
+      3: 5
+      4: 1
+      5: 9
+      10: "account"
+    }
+    2 {
+      1: "deviceCode"
+      3: 6
+      4: 1
+      5: 9
+      10: "deviceCode"
+    }
+    2 {
+      1: "token"
+      3: 7
+      4: 1
+      5: 9
+      10: "token"
+    }
+    2 {
+      1: "original"
+      3: 8
+      4: 1
+      5: 9
+      10: "original"
+    }
+  }
+  4 {
+    1 {
+      8: 0x6e69676f4c5f4332
+    }
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "enterPoint"
+      3: 1
+      4: 1
+      5: 9
+      10: "enterPoint"
+    }
+    2 {
+      1: "regionID"
+      3: 2
+      4: 1
+      5: 5
+      10: "regionID"
+    }
+    2 {
+      1: "playerUID"
+      3: 3
+      4: 1
+      5: 4
+      10: "playerUID"
+    }
+    2 {
+      1: "regtime"
+      3: 4
+      4: 1
+      5: 3
+      10: "regtime"
+    }
+    2 {
+      1: "token"
+      3: 5
+      4: 1
+      5: 9
+      10: "token"
+    }
+  }
+  4 {
+    1: "C2L_Enter"
+    2 {
+      1: "account"
+      3: 1
+      4: 1
+      5: 9
+      10: "account"
+    }
+    2 {
+      1: "token"
+      3: 2
+      4: 1
+      5: 9
+      10: "token"
+    }
+  }
+  4 {
+    1: "L2C_Enter"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "data"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.EnterData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "C2L_Logout"
+    2 {
+      1: "playerUID"
+      3: 1
+      4: 1
+      5: 4
+      10: "playerUID"
+    }
+    2 {
+      1: "token"
+      3: 2
+      4: 1
+      5: 9
+      10: "token"
+    }
+  }
+  4 {
+    1: "L2C_Logout"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+  }
+  4 {
+    1: "C2L_Heartbeat"
+  }
+  4 {
+    1: "L2C_Heartbeat"
+  }
+  4 {
+    1: "C2G_CreateOrder"
+    2 {
+      1: "platform"
+      3: 1
+      4: 1
+      5: 5
+      10: "platform"
+    }
+    2 {
+      1: "buyType"
+      3: 2
+      4: 1
+      5: 5
+      10: "buyType"
+    }
+    2 {
+      1: "cfgID"
+      3: 3
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "name"
+      3: 4
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "describe"
+      3: 5
+      4: 1
+      5: 9
+      10: "describe"
+    }
+  }
+  4 {
+    1: "G2C_CreateOrder"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "args"
+      3: 11
+      4: 3
+      5: 9
+      10: "args"
+    }
+    2 {
+      1: "platform"
+      3: 1
+      4: 1
+      5: 5
+      10: "platform"
+    }
+    2 {
+      1: "buyType"
+      3: 2
+      4: 1
+      5: 5
+      10: "buyType"
+    }
+    2 {
+      1: "cfgID"
+      3: 3
+      4: 1
+      5: 13
+      10: "cfgID"
+    }
+    2 {
+      1: "name"
+      3: 4
+      4: 1
+      5: 9
+      10: "name"
+    }
+    2 {
+      1: "describe"
+      3: 5
+      4: 1
+      5: 9
+      10: "describe"
+    }
+  }
+  4 {
+    1: "C2G_CheckOrder"
+    2 {
+      1: "errorCode"
+      3: 1
+      4: 1
+      5: 5
+      10: "errorCode"
+    }
+    2 {
+      1: "gameOrderID"
+      3: 2
+      4: 1
+      5: 9
+      10: "gameOrderID"
+    }
+    2 {
+      1: "platformOrderID"
+      3: 3
+      4: 1
+      5: 9
+      10: "platformOrderID"
+    }
+  }
+  4 {
+    1: "G2C_CheckOrder"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "gameOrder"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.GameOrderData"
+      10: "gameOrder"
+    }
+  }
+  4 {
+    1: "C2G_Authority"
+  }
+  4 {
+    1: "G2C_Authority"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "activation"
+      3: 1
+      4: 1
+      5: 8
+      10: "activation"
+    }
+  }
+  4 {
+    1: "C2G_GMCommand"
+    2 {
+      1: "command"
+      3: 1
+      4: 1
+      5: 9
+      10: "command"
+    }
+  }
+  4 {
+    1: "G2C_GMCommand"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+  }
+  4 {
+    1: "C2G_DropTest"
+    2 {
+      1: "packageID"
+      3: 1
+      4: 1
+      5: 13
+      10: "packageID"
+    }
+    2 {
+      1: "dropCount"
+      3: 2
+      4: 1
+      5: 5
+      10: "dropCount"
+    }
+  }
+  4 {
+    1: "G2C_DropTest"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "cardsCount"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_DropTest.CardsCountEntry"
+      10: "cardsCount"
+    }
+    3 {
+      1: "CardsCountEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "G2C_ChangeDataNotify"
+    2 {
+      1: "notifyData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.NotifyChangeData"
+      10: "notifyData"
+    }
+  }
+  10: 0
+  12: "proto3"
+}

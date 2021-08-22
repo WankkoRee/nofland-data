@@ -1,0 +1,1373 @@
+
+‰ˇ
+client.protoNoflandclient_common.proto"y
+C2G_GatherToolEquip
+type (Rtype
+elfsKey (RelfsKey
+toolId (RtoolId
+	toolCount (R	toolCount"µ
+G2C_GatherToolEquip(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+type (Rtype+
+area (2.Nofland.GatherAreaDataRarea"u
+C2G_GatherStart
+type (Rtype
+elfsKey (RelfsKey
+toolId (RtoolId
+	toolCount (R	toolCount"±
+G2C_GatherStart(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+type (Rtype+
+area (2.Nofland.GatherAreaDataRarea"$
+C2G_GatherOver
+type (Rtype"∞
+G2C_GatherOver(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+type (Rtype+
+area (2.Nofland.GatherAreaDataRarea8
+items (2".Nofland.G2C_GatherOver.ItemsEntryRitemsJ
+extraAwards (2(.Nofland.G2C_GatherOver.ExtraAwardsEntryRextraAwards8
+
+ItemsEntry
+key (Rkey
+value (Rvalue:8>
+ExtraAwardsEntry
+key (Rkey
+value (Rvalue:8"&
+C2G_GatherCancel
+type (Rtype"}
+G2C_GatherCancel(
+error
+ (2.Nofland.ErrorCodeRerror
+type (Rtype+
+area (2.Nofland.GatherAreaDataRarea"(
+C2G_GatherAreaLvUp
+type (Rtype"¥
+G2C_GatherAreaLvUp(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+type (Rtype+
+area (2.Nofland.GatherAreaDataRarea"Q
+C2G_GatherQuicken
+areaType (RareaType 
+quickenType (RquickenType"›
+G2C_GatherQuicken(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+areaTypef (RareaType 
+quickenTypeg (RquickenType+
+area (2.Nofland.GatherAreaDataRarea"
+C2G_GatherStartAll"º
+G2C_GatherStartAll(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData-
+areas (2.Nofland.GatherAreaDataRareas
+msgCode (RmsgCode"
+C2G_GatherOverAll"√
+G2C_GatherOverAll(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData-
+areas (2.Nofland.GatherAreaDataRareasP
+normalAwards (2,.Nofland.G2C_GatherOverAll.NormalAwardsEntryRnormalAwardsM
+extraAwards (2+.Nofland.G2C_GatherOverAll.ExtraAwardsEntryRextraAwards?
+NormalAwardsEntry
+key (Rkey
+value (Rvalue:8>
+ExtraAwardsEntry
+key (Rkey
+value (Rvalue:8"¬
+C2G_CaravanStart
+areaId (RareaId
+elfsKey (RelfsKey@
+toolDic (2&.Nofland.C2G_CaravanStart.ToolDicEntryRtoolDic:
+ToolDicEntry
+key (Rkey
+value (Rvalue:8"ü
+G2C_CaravanStart(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData,
+area (2.Nofland.CaravanAreaDataRarea"N
+C2G_CaravanQuicken
+areaId (RareaId 
+quickenType (RquickenType"€
+G2C_CaravanQuicken(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+areaId (RareaId 
+quickenType (RquickenType,
+area (2.Nofland.CaravanAreaDataRarea"+
+C2G_CaravanCancel
+areaId (RareaId"k
+G2C_CaravanCancel(
+error
+ (2.Nofland.ErrorCodeRerror,
+area (2.Nofland.CaravanAreaDataRarea")
+C2G_CaravanOver
+areaId (RareaId"ò
+G2C_CaravanOver(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData,
+area (2.Nofland.CaravanAreaDataRarea"
+awardFormula (RawardFormula,
+extraAwardFormula (RextraAwardFormula&
+compensateCoin (RcompensateCoin"<
+C2G_AlchemySelectElf$
+alchemyElfKey (RalchemyElfKey"u
+G2C_AlchemySelectElf(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData"H
+C2G_AlchemySelectFormula,
+selectedFormulaID (RselectedFormulaID"y
+G2C_AlchemySelectFormula(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData"(
+C2G_AlchemyStart
+count (Rcount"“
+G2C_AlchemyStart(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+count (Rcount-
+products (2.Nofland.ItemDataRproducts
+elfCfgID (RelfCfgID"Ã
+C2G_AlchemyRefining,
+refiningFormulaID (RrefiningFormulaIDI
+	materials (2+.Nofland.C2G_AlchemyRefining.MaterialsEntryR	materials<
+MaterialsEntry
+key (Rkey
+value (Rvalue:8"ƒ
+G2C_AlchemyRefining(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData,
+refiningFormulaID (RrefiningFormulaID 
+refiningUID (RrefiningUID"&
+C2G_TaskAccept
+cfgID (RcfgID"Ö
+G2C_TaskAccept(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+cfgID (RcfgID",
+C2G_TaskAccomplish
+taskId (RtaskId"ã
+G2C_TaskAccomplish(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+taskId (RtaskId"
+C2G_EntrustGetData"q
+G2C_EntrustGetData(
+error
+ (2.Nofland.ErrorCodeRerror1
+entrusts (2.Nofland.EntrustsDataRentrusts"∞
+C2G_EntrustAccomplish
+idx (RidxH
+payItems (2,.Nofland.C2G_EntrustAccomplish.PayItemsEntryRpayItems;
+PayItemsEntry
+key (Rkey
+value (Rvalue:8"ﬁ
+G2C_EntrustAccomplish(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+idx (Ridx$
+useCountDaily (RuseCountDaily.
+entrust (2.Nofland.EntrustDataRentrust"%
+C2G_EntrustRefuse
+idx (Ridx"•
+G2C_EntrustRefuse(
+error
+ (2.Nofland.ErrorCodeRerror
+idx (Ridx$
+useCountDaily (RuseCountDaily.
+entrust (2.Nofland.EntrustDataRentrust"Ä
+C2G_ItemSell6
+items (2 .Nofland.C2G_ItemSell.ItemsEntryRitems8
+
+ItemsEntry
+key (Rkey
+value (Rvalue:8"m
+G2C_ItemSell(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData"C
+C2G_CultureUnlockGroove
+page (Rpage
+index (Rindex"Ñ
+G2C_CultureUnlockGroove(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+page (Rpage
+index (Rindex:
+
+grooveData (2.Nofland.CultureGrooveDataR
+grooveData$
+lastUnlockIdx (RlastUnlockIdx"Y
+C2G_CulturePutPot
+page (Rpage
+index (Rindex
+potCfgId (RpotCfgId"î
+G2C_CulturePutPot(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+page (Rpage
+index (Rindex:
+
+grooveData (2.Nofland.CultureGrooveDataR
+grooveData:
+
+potPutData (2.Nofland.CulturePotPutDataR
+potPutData"p
+C2G_CultureSwapPot
+pageA (RpageA
+indexA (RindexA
+pageB (RpageB
+indexB (RindexB"ñ
+G2C_CultureSwapPot(
+error
+ (2.Nofland.ErrorCodeRerror
+pageA (RpageA
+indexA (RindexA
+pageB (RpageB
+indexB (RindexB<
+grooveDataA (2.Nofland.CultureGrooveDataRgrooveDataA<
+grooveDataB (2.Nofland.CultureGrooveDataRgrooveDataB"X
+C2G_CultureSelectElf
+page (Rpage
+index (Rindex
+elfKey (RelfKey"€
+G2C_CultureSelectElf(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+page (Rpage
+index (Rindex:
+
+grooveData (2.Nofland.CultureGrooveDataR
+grooveData"Ü
+C2G_ManualCultureAddProduction
+page (Rpage
+index (Rindex
+plantId (RplantId 
+posIdxInPot (RposIdxInPot"á
+G2C_ManualCultureAddProduction(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+page (Rpage
+index (Rindex 
+posIdxInPot (RposIdxInPot:
+
+grooveData (2.Nofland.CultureGrooveDataR
+grooveData"Ç
+C2G_AutoCultureAddProduction
+page (Rpage
+index (Rindex
+plantId (RplantId
+
+plantCount (R
+plantCount"„
+G2C_AutoCultureAddProduction(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+page (Rpage
+index (Rindex:
+
+grooveData (2.Nofland.CultureGrooveDataR
+grooveData"Y
+C2G_ManualCultureOver
+page (Rpage
+index (Rindex
+posIdx (RposIdx"û
+G2C_ManualCultureOver(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+page (Rpage
+index (Rindex 
+plantPosIdx (RplantPosIdx
+
+harvestNum (R
+harvestNum:
+
+grooveData (2.Nofland.CultureGrooveDataR
+grooveData"?
+C2G_AutoCultureOver
+page (Rpage
+index (Rindex"˙
+G2C_AutoCultureOver(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+page (Rpage
+index (Rindex
+
+harvestNum (R
+harvestNum:
+
+grooveData (2.Nofland.CultureGrooveDataR
+grooveData"
+C2G_CultureOverAll"©
+G2C_CultureOverAll(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData4
+grooves (2.Nofland.CultureGrooveDataRgrooves"[
+C2G_ManualCultureCancel
+page (Rpage
+index (Rindex
+posIdx (RposIdx"À
+G2C_ManualCultureCancel(
+error
+ (2.Nofland.ErrorCodeRerror
+page (Rpage
+index (Rindex 
+plantPosIdx (RplantPosIdx:
+
+grooveData (2.Nofland.CultureGrooveDataR
+grooveData"A
+C2G_AutoCultureCancel
+page (Rpage
+index (Rindex"‹
+G2C_AutoCultureCancel(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+page (Rpage
+index (Rindex:
+
+grooveData (2.Nofland.CultureGrooveDataR
+grooveData"A
+C2G_CultureLevelUpPot
+page (Rpage
+index (Rindex"‹
+G2C_CultureLevelUpPot(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+page (Rpage
+index (Rindex:
+
+grooveData (2.Nofland.CultureGrooveDataR
+grooveData"@
+C2G_CultureRemovePot
+page (Rpage
+index (Rindex"ó
+G2C_CultureRemovePot(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+page (Rpage
+index (Rindex:
+
+grooveData (2.Nofland.CultureGrooveDataR
+grooveData:
+
+potPutData (2.Nofland.CulturePotPutDataR
+potPutData"Ç
+C2G_CultureQuicken
+page (Rpage
+index (Rindex 
+posIdxInPot (RposIdxInPot 
+quickenType (RquickenType"˚
+G2C_CultureQuicken(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+page (Rpage
+index (Rindex:
+
+grooveData (2.Nofland.CultureGrooveDataR
+grooveData 
+quickenType (RquickenType"U
+C2G_CultureModeChange
+page (Rpage
+index (Rindex
+mode (Rmode"ª
+G2C_CultureModeChange(
+error
+ (2.Nofland.ErrorCodeRerror
+page (Rpage
+index (Rindex
+mode (Rmode:
+
+grooveData (2.Nofland.CultureGrooveDataR
+grooveData"
+C2G_DrawProbData"¿
+G2C_DrawProbData(
+error
+ (2.Nofland.ErrorCodeRerror@
+probMap (2&.Nofland.G2C_DrawProbData.ProbMapEntryRprobMapI
+
+cardsCount (2).Nofland.G2C_DrawProbData.CardsCountEntryR
+cardsCountO
+replaceCount (2+.Nofland.G2C_DrawProbData.ReplaceCountEntryRreplaceCount
+	startTime (R	startTime
+endTime (RendTimeQ
+ProbMapEntry
+key (Rkey+
+value (2.Nofland.DrawProbListRvalue:8X
+CardsCountEntry
+key (Rkey/
+value (2.Nofland.PackageCardCountRvalue:8?
+ReplaceCountEntry
+key (	Rkey
+value (Rvalue:8"Ü
+C2G_LuckDraw"
+activityType (RactivityType.
+expectActivityType (RexpectActivityType"
+luckDrawType (RluckDrawType"›
+G2C_LuckDraw(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData"
+activityType (RactivityType.
+expectActivityType (RexpectActivityType"
+luckDrawType (RluckDrawType-
+itemsArr (2.Nofland.ItemDataRitemsArr9
+
+cardsCount (2.Nofland.PackageCardCountR
+cardsCountK
+replaceCount (2'.Nofland.G2C_LuckDraw.ReplaceCountEntryRreplaceCount?
+ReplaceCountEntry
+key (	Rkey
+value (Rvalue:8"6
+C2G_HandbookDelNew 
+delNewItems (RdelNewItems"`
+G2C_HandbookDelNew(
+error
+ (2.Nofland.ErrorCodeRerror 
+delNewItems (RdelNewItems",
+C2G_AchievementAward
+cfgID (RcfgID"ã
+G2C_AchievementAward(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+cfgID (RcfgID"B
+C2G_ElfLevelUp
+elfKey (RelfKey
+upLevel (RupLevel"°
+G2C_ElfLevelUp(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+elfKey (RelfKey
+upLevel (RupLevel"&
+C2G_ElfAwake
+elfKey (RelfKey"Ö
+G2C_ElfAwake(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+elfKey (RelfKey"*
+C2G_ElfEvolution
+elfKey (RelfKey"À
+G2C_ElfEvolution(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+elfKey (RelfKey 
+beforeCfgID (RbeforeCfgID
+
+afterCfgID (R
+afterCfgID"L
+C2G_ElfSkillGrooveUp
+elfKey (RelfKey
+	grooveIdx (R	grooveIdx"´
+G2C_ElfSkillGrooveUp(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+elfKey (RelfKey
+	grooveIdx (R	grooveIdx"H
+C2G_ElfDrawSkill
+elfKey (RelfKey
+	grooveIdx (R	grooveIdx"ß
+G2C_ElfDrawSkill(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+elfKey (RelfKey
+	grooveIdx (R	grooveIdx"
+C2G_GetPrayData"b
+G2C_GetPrayData(
+error
+ (2.Nofland.ErrorCodeRerror%
+pray (2.Nofland.PrayDataRpray"
+
+C2G_Pray"ê
+G2C_Pray(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData%
+pray (2.Nofland.PrayDataRpray"
+C2G_GetStudy"b
+G2C_GetStudy(
+error
+ (2.Nofland.ErrorCodeRerror(
+study (2.Nofland.StudyDataRstudy"!
+	C2G_Study
+cfgID (RcfgID"™
+	G2C_Study(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+cfgID (RcfgID(
+study (2.Nofland.StudyDataRstudy"
+C2G_StudyRefresh"õ
+G2C_StudyRefresh(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData(
+study (2.Nofland.StudyDataRstudy"‘
+C2G_WorkShopChangeDecoraten
+needChangeDecorates (2<.Nofland.C2G_WorkShopChangeDecorate.NeedChangeDecoratesEntryRneedChangeDecoratesF
+NeedChangeDecoratesEntry
+key (Rkey
+value (Rvalue:8"ß
+G2C_WorkShopChangeDecorate(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeDatae
+changedDecorates (29.Nofland.G2C_WorkShopChangeDecorate.ChangedDecoratesEntryRchangedDecoratesC
+ChangedDecoratesEntry
+key (Rkey
+value (Rvalue:8"
+C2G_GetTownData"∂
+G2C_GetTownData(
+error
+ (2.Nofland.ErrorCodeRerror%
+town (2.Nofland.TownDataRtown+
+shop (2.Nofland.ShopSingleDataRshop%
+pray (2.Nofland.PrayDataRpray"#
+C2G_ShopsData
+type (Rtype"|
+G2C_ShopsData(
+error
+ (2.Nofland.ErrorCodeRerror
+type (Rtype-
+shops (2.Nofland.ShopSingleDataRshops"e
+C2G_ShopBuy
+type (Rtype
+idx (Ridx
+cfgID (RcfgID
+buyCount (RbuyCount"Ì
+G2C_ShopBuy(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+type (Rtype
+idx (Ridx,
+goods (2.Nofland.ShopGoodsDataRgoods+
+shop (2.Nofland.ShopSingleDataRshop"*
+C2G_ShopRefreshGoods
+type (Rtype"¢
+G2C_ShopRefreshGoods(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData+
+shop (2.Nofland.ShopSingleDataRshop"A
+C2G_GuideRecord
+guideID (RguideID
+isEnd (RisEnd"†
+G2C_GuideRecord(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+guideID (RguideID
+isEnd (RisEnd"
+C2G_MailsData"
+G2C_MailsData(
+error
+ (2.Nofland.ErrorCodeRerror&
+data (2.Nofland.MailsDataRdata
+	finalTime (R	finalTime"$
+C2G_MailRead
+mails (Rmails"l
+G2C_MailRead(
+error
+ (2.Nofland.ErrorCodeRerror
+mails (Rmails
+	finalTime (R	finalTime"'
+C2G_MailReceive
+mails (Rmails"§
+G2C_MailReceive(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+mails (Rmails
+	finalTime (R	finalTime"&
+C2G_MailDelete
+mails (Rmails"n
+G2C_MailDelete(
+error
+ (2.Nofland.ErrorCodeRerror
+mails (Rmails
+	finalTime (R	finalTime"I
+C2G_MailCollect
+mailUID (RmailUID
+	isCollect (R	isCollect"s
+G2C_MailCollect(
+error
+ (2.Nofland.ErrorCodeRerror
+mailUID (RmailUID
+	isCollect (R	isCollect"
+C2G_Checkin"l
+G2C_Checkin(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData"
+C2G_SevenSign"n
+G2C_SevenSign(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData"
+C2G_Gift
+code (	Rcode"}
+G2C_Gift(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+code (	Rcode"û
+C2G_SaleBegin:
+places (2".Nofland.C2G_SaleBegin.PlacesEntryRplacesQ
+PlacesEntry
+key (Rkey,
+value (2.Nofland.SalePlaceDataRvalue:8"ï
+G2C_SaleBegin(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData%
+sale (2.Nofland.SaleDataRsale"'
+C2G_SaleEnd
+halfway (Rhalfway"·
+G2C_SaleEnd(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+halfwayf (Rhalfway%
+sale (2.Nofland.SaleDataRsale5
+sellProducts (2.Nofland.ItemDataRsellProducts>
+getItems (2".Nofland.G2C_SaleEnd.GetItemsEntryRgetItems;
+GetItemsEntry
+key (Rkey
+value (Rvalue:8"3
+C2G_SaleQuicken 
+quickenType (RquickenType"Ò
+G2C_SaleQuicken(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData 
+quickenTypef (RquickenType%
+sale (2.Nofland.SaleDataRsale5
+sellProducts (2.Nofland.ItemDataRsellProductsB
+getItems (2&.Nofland.G2C_SaleQuicken.GetItemsEntryRgetItems;
+GetItemsEntry
+key (Rkey
+value (Rvalue:8"/
+C2G_SaleOrderAccept
+orderID (RorderID"á
+G2C_SaleOrderAccept(
+error
+ (2.Nofland.ErrorCodeRerror
+orderID (RorderID,
+order (2.Nofland.SaleOrderDataRorder"/
+C2G_SaleOrderRefuse
+orderID (RorderID"Y
+G2C_SaleOrderRefuse(
+error
+ (2.Nofland.ErrorCodeRerror
+orderID (RorderID"3
+C2G_SaleOrderAccomplish
+orderID (RorderID"¿
+G2C_SaleOrderAccomplish(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+orderID (RorderID,
+npc (2.Nofland.NpcFriendShipDataRnpc"
+C2G_MarketBriefData"†
+G2C_MarketBriefData(
+error
+ (2.Nofland.ErrorCodeRerror?
+futuresOrders (2.Nofland.FuturesBriefDataRfuturesOrders
+
+tradeTimes (R
+tradeTimes"-
+C2G_MarketFuturesData
+cfgID (RcfgID"Ù
+G2C_MarketFuturesData(
+error
+ (2.Nofland.ErrorCodeRerror=
+futuresOrder (2.Nofland.FuturesBriefDataRfuturesOrder9
+
+sellOrders (2.Nofland.FuturesPriceDataR
+sellOrders7
+	buyOrders (2.Nofland.FuturesPriceDataR	buyOrders"
+C2G_MarketPlayerFuturesData"t
+G2C_MarketPlayerFuturesData(
+error
+ (2.Nofland.ErrorCodeRerror+
+market (2.Nofland.MarketDataRmarket"w
+C2G_MarketInitiateOrder
+cfgID (RcfgID
+opt (Ropt
+	unitPrice (R	unitPrice
+amount (Ramount"•
+G2C_MarketInitiateOrder(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData+
+market (2.Nofland.MarketDataRmarket")
+C2G_MarketCancelOrder
+UID (RUID"S
+G2C_MarketCancelOrder(
+error
+ (2.Nofland.ErrorCodeRerror
+UID (RUID"[
+C2G_GiveNpcGift
+npfCfgId (RnpfCfgId
+giftId (RgiftId
+count (Rcount"Ë
+G2C_GiveNpcGift(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData@
+npcFriendShip (2.Nofland.NpcFriendShipDataRnpcFriendShip
+giftId (RgiftId
+	extraLove (R	extraLove"R
+C2G_NpcGiftStoryDelNew
+npcCfgID (RnpcCfgID
+	storySign (	R	storySign"¶
+G2C_NpcGiftStoryDelNew(
+error
+ (2.Nofland.ErrorCodeRerror@
+npcFriendShip (2.Nofland.NpcFriendShipDataRnpcFriendShip 
+unlockStory (	RunlockStory"<
+C2G_TinyGameOver
+type (Rtype
+score (Rscore"Ø
+G2C_TinyGameOver(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+type (Rtype
+score (Rscore
+coin (Rcoin"6
+C2G_ItemOpen
+cfgID (RcfgID
+num (Rnum"ï
+G2C_ItemOpen(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+cfgID (RcfgID
+num (Rnum"
+C2G_QuickenLevelUp"s
+G2C_QuickenLevelUp(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData"?
+C2G_QuickenCloseTip
+type (Rtype
+close (Rclose"û
+G2C_QuickenCloseTip(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+type (Rtype
+close (Rclose"
+C2G_ContactData"è
+G2C_ContactData(
+error
+ (2.Nofland.ErrorCodeRerror&
+bePraisedTimes (RbePraisedTimes*
+beQuickenedTimes (RbeQuickenedTimes"W
+C2G_ModifyContact
+type (Rtype.
+modify (2.Nofland.ModifyContactRmodify"∂
+G2C_ModifyContact(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+type (Rtype.
+modify (2.Nofland.ModifyContactRmodify"
+C2G_RandomRamble"Ñ
+G2C_RandomRamble(
+error
+ (2.Nofland.ErrorCodeRerror
+	friendUID (R	friendUID(
+data (2.Nofland.ContactDataRdata"Y
+C2G_DoSomething
+	playerUID (R	playerUID
+type (Rtype
+value (	Rvalue"∏
+G2C_DoSomething(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+	playerUID (R	playerUID
+type (Rtype
+value (	Rvalue".
+C2G_QuickenFriends
+friends (Rfriends"ç
+G2C_QuickenFriends(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+friends (Rfriends"
+C2G_RecordThing"d
+G2C_RecordThing(
+error
+ (2.Nofland.ErrorCodeRerror'
+data (2.Nofland.ThingsDataRdata"
+C2G_QuickenCharge"º
+G2C_QuickenCharge(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData*
+beQuickenedTimes (RbeQuickenedTimes
+	usedTimes (R	usedTimes"
+C2G_FriendsData"Å
+G2C_FriendsData(
+error
+ (2.Nofland.ErrorCodeRerror(
+data (2.Nofland.FriendsShowRdata
+applyNum (RapplyNum".
+C2G_FriendFind
+	friendUID (R	friendUID"Ç
+G2C_FriendFind(
+error
+ (2.Nofland.ErrorCodeRerror
+	friendUID (R	friendUID(
+data (2.Nofland.ContactDataRdata"F
+C2G_ModifyFriend
+	friendUID (R	friendUID
+state (Rstate"§
+G2C_ModifyFriend(
+error
+ (2.Nofland.ErrorCodeRerror
+update (Rupdate
+	friendUID (R	friendUID
+state (Rstate
+applyNum (RapplyNum"
+C2G_WorldlineInvite"ú
+G2C_WorldlineInvite(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData&
+recommendUnion (RrecommendUnion")
+C2G_WorldlineJoin
+union (Runion"à
+G2C_WorldlineJoin(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+union (Runion"
+C2G_WorldlineData"∆
+G2C_WorldlineData(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData&
+task (2.Nofland.TasksDataRtask*
+data (2.Nofland.WorldlineDataRdata"p
+C2G_WorldlineSupport
+event (Revent
+stage (Rstage
+choice (Rchoice
+count (Rcount"•
+G2C_WorldlineSupport(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+event (Revent
+stage (Rstage
+choice (Rchoice
+count (Rcount(
+tasks (2.Nofland.TasksDataRtasks*
+data (2.Nofland.WorldlineDataRdata"
+C2G_WorldlineEnding"‰
+G2C_WorldlineEnding(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeDataR
+eventsEnding (2..Nofland.G2C_WorldlineEnding.EventsEndingEntryReventsEndingO
+unionScores (2-.Nofland.G2C_WorldlineEnding.UnionScoresEntryRunionScores(
+worldlineEnding (RworldlineEnding
+
+firstUnion (R
+firstUnion?
+EventsEndingEntry
+key (Rkey
+value (Rvalue:8>
+UnionScoresEntry
+key (Rkey
+value (Rvalue:8"
+C2G_UnionTaskData" 
+G2C_UnionTaskData(
+error
+ (2.Nofland.ErrorCodeRerror0
+	unionTask (2.Nofland.TasksDataR	unionTask"
+unionRanking (RunionRankingM
+extraReward (2+.Nofland.G2C_UnionTaskData.ExtraRewardEntryRextraReward&
+lastJudgeTimer (RlastJudgeTimer>
+ExtraRewardEntry
+key (Rkey
+value (Rvalue:8"a
+C2G_UnionTaskAccomplish
+union (Runion
+task (Rtask
+	submitNum (R	submitNum"–
+G2C_UnionTaskAccomplish(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+union (Runion
+task (Rtask-
+taskData (2.Nofland.TaskDataRtaskData"
+unionRanking (RunionRankingS
+extraReward (21.Nofland.G2C_UnionTaskAccomplish.ExtraRewardEntryRextraReward
+	submitNum (R	submitNum&
+lastJudgeTimer (RlastJudgeTimer>
+ExtraRewardEntry
+key (Rkey
+value (Rvalue:8"F
+C2G_UnionStageAccomplish
+union (Runion
+stage (Rstage"•
+G2C_UnionStageAccomplish(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+union (Runion
+stage (Rstage"
+C2G_WorldlineHistorie"~
+G2C_WorldlineHistorie(
+error
+ (2.Nofland.ErrorCodeRerror;
+	histories (2.Nofland.WorldlineHistoryDataR	histories"
+C2G_ActivityShopData"Å
+G2C_ActivityShopData(
+error
+ (2.Nofland.ErrorCodeRerror?
+
+playerData (2.Nofland.ActivityShopPlayerDataR
+playerData"K
+C2G_ActivityShopBuy
+goodsID (RgoodsID
+buyCount (RbuyCount"–
+G2C_ActivityShopBuy(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+goodsID (RgoodsID
+buyCount (RbuyCount$
+totalBuyCount (RtotalBuyCount"
+C2G_ActivityTaskData"r
+G2C_ActivityTaskData(
+error
+ (2.Nofland.ErrorCodeRerror0
+	tasksData (2.Nofland.TasksDataR	tasksData"N
+C2G_ActivityTaskAccomplish
+task (Rtask
+	submitNum (R	submitNum"‹
+G2C_ActivityTaskAccomplish(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+task (Rtask-
+taskData (2.Nofland.TaskDataRtaskData
+	submitNum (R	submitNum"
+C2G_HomeTaskData"n
+G2C_HomeTaskData(
+error
+ (2.Nofland.ErrorCodeRerror0
+	tasksData (2.Nofland.TasksDataR	tasksData",
+C2G_HomeTaskAccomplish
+task (Rtask"∫
+G2C_HomeTaskAccomplish(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+task (Rtask-
+taskData (2.Nofland.TaskDataRtaskData"-
+C2G_HomeWorkCreditBuy
+buyID (RbuyID"≈
+G2C_HomeWorkCreditBuy(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+buyID (RbuyID7
+
+magicsData (2.Nofland.MagicRoomsDataR
+magicsData"
+C2G_MagicTaskData"v
+G2C_MagicTaskData(
+error
+ (2.Nofland.ErrorCodeRerror7
+
+magicsData (2.Nofland.MagicRoomsDataR
+magicsData"K
+C2G_MagicTaskAccomplish
+task (Rtask
+	isNeedKey (R	isNeedKey" 
+G2C_MagicTaskAccomplish(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+task (Rtask<
+magicRoomData (2.Nofland.MagicRoomDataRmagicRoomData"
+C2G_MagicFreeKey"™
+G2C_MagicFreeKey(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData7
+
+magicsData (2.Nofland.MagicRoomsDataR
+magicsData"2
+C2G_AskLinkAward
+
+treasureId (R
+treasureId"¿
+G2C_AskLinkAward(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+
+treasureId (R
+treasureId-
+itemsArr (2.Nofland.ItemDataRitemsArr")
+C2G_GuideJump
+guideID (RguideID"à
+G2C_GuideJump(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+guideID (RguideID"
+C2G_AchievementAllAward"ê
+G2C_AchievementAllAward(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+cfgIDs (RcfgIDs"ñ
+C2G_ElfFeed
+elfKey (RelfKey5
+foods (2.Nofland.C2G_ElfFeed.FoodsEntryRfoods8
+
+FoodsEntry
+key (Rkey
+value (Rvalue:8"Ñ
+G2C_ElfFeed(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+elfKey (RelfKey",
+C2G_ElfUnlockPaint
+elfKey (RelfKey"ã
+G2C_ElfUnlockPaint(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+elfKey (RelfKey"
+C2G_AlchemyRefiningLight"y
+G2C_AlchemyRefiningLight(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData"
+C2G_MagicRoomAllAward"•
+G2C_MagicRoomAllAward(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeDataT
+magicRoomMap (20.Nofland.G2C_MagicRoomAllAward.MagicRoomMapEntryRmagicRoomMapW
+MagicRoomMapEntry
+key (Rkey,
+value (2.Nofland.MagicRoomDataRvalue:8"C
+C2G_ElfChangeSkin
+elfKey (RelfKey
+skinId (RskinId"¢
+G2C_ElfChangeSkin(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+elfKey (RelfKey
+skinId (RskinId"L
+C2G_CurrencyConversion
+itemId (RitemId
+currency (Rcurrency"´
+G2C_CurrencyConversion(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+itemId (RitemId
+currency (Rcurrency"
+C2G_StatisticRecharge"Ã
+G2C_StatisticRecharge(
+error
+ (2.Nofland.ErrorCodeRerrorK
+	statistic (2-.Nofland.G2C_StatisticRecharge.StatisticEntryR	statistic<
+StatisticEntry
+key (Rkey
+value (Rvalue:8"
+C2G_SubscribeFirst_Disuse"§
+G2C_SubscribeFirst_Disuse(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData(
+worth (2.Nofland.WorthDataRworth"
+C2G_SubscribeDaily"ù
+G2C_SubscribeDaily(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData(
+worth (2.Nofland.WorthDataRworth"\
+C2G_MoreModifyContactC
+contactModifyDatas (2.Nofland.ModifyDataRcontactModifyDatas"ª
+G2C_MoreModifyContact(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeDataC
+contactModifyDatas (2.Nofland.ModifyDataRcontactModifyDatas"
+C2G_ActivitySale"É
+G2C_ActivitySale(
+error
+ (2.Nofland.ErrorCodeRerrorE
+activitySaleData (2.Nofland.ActivitySaleDataRactivitySaleData"7
+C2G_ActivitySaleStageAccomplish
+stage (Rstage"›
+G2C_ActivitySaleStageAccomplish(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+stage (RstageE
+activitySaleData (2.Nofland.ActivitySaleDataRactivitySaleData"
+C2G_QuestionnaireData"°
+G2C_QuestionnaireData(
+error
+ (2.Nofland.ErrorCodeRerror.
+data (2.Nofland.QuestionnaireDataRdata.
+save (2.Nofland.QuestionnaireSaveRsave"5
+C2G_QuestionnaireOpen
+	beginTime (R	beginTime"q
+G2C_QuestionnaireOpen(
+error
+ (2.Nofland.ErrorCodeRerror.
+save (2.Nofland.QuestionnaireSaveRsave"7
+C2G_QuestionnaireReward
+	beginTime (R	beginTime"®
+G2C_QuestionnaireReward(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData.
+save (2.Nofland.QuestionnaireSaveRsave"h
+C2G_ElfSelectSkill
+elfKey (RelfKey
+	grooveIdx (R	grooveIdx
+	selectNew (R	selectNew"«
+G2C_ElfSelectSkill(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeData
+elfKey (RelfKey
+	grooveIdx (R	grooveIdx
+	selectNew (R	selectNewP bproto3

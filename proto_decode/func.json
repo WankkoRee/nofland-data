@@ -1,0 +1,841 @@
+1 {
+  1: 400
+  2: "sprite/common/common/icon/mark/icon_ask.png"
+  3: ""
+  4: "4000"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4002"
+  9: "TownController"
+  10: 6000021
+  11: 0
+  12: ""
+}
+1 {
+  1: 401
+  2: "sprite/common/common/icon/mark/icon_weituoban.png"
+  3: ""
+  4: "4010"
+  5: "4011"
+  6: 0
+  7: ""
+  8: ""
+  9: "TownController"
+  10: 6001000
+  11: 0
+  12: ""
+}
+1 {
+  1: 402
+  2: "sprite/common/common/icon/mark/icon_shop1.png"
+  3: ""
+  4: "4020"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4022"
+  9: "TownController"
+  10: 6000012
+  11: 0
+  12: ""
+}
+1 {
+  1: 403
+  2: "sprite/common/common/icon/mark/icon_shop2.png"
+  3: ""
+  4: "4030"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "TownController"
+  10: 6000014
+  11: 0
+  12: ""
+}
+1 {
+  1: 404
+  2: "sprite/common/common/icon/mark/icon_shop3.png"
+  3: ""
+  4: "4040"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "TownController"
+  10: 6000019
+  11: 0
+  12: ""
+}
+1 {
+  1: 405
+  2: "sprite/common/common/icon/mark/icon_pray.png"
+  3: ""
+  4: "4050"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4052"
+  9: "TownController"
+  10: 6000018
+  11: 0
+  12: ""
+}
+1 {
+  1: 406
+  2: "sprite/common/common/icon/mark/icon_caiji.png"
+  3: "sprite/common/common/btn_icon/btn_chuzheng.png"
+  4: "4060"
+  5: "4061"
+  6: 1
+  7: "1.5"
+  8: "4062"
+  9: "DispatchController"
+  10: 6001002
+  11: 0
+  12: "0.586521"
+}
+1 {
+  1: 407
+  2: "sprite/common/common/icon/mark/icon_xiangting.png"
+  3: "sprite/common/common/btn_icon/btn_xiangting.png"
+  4: "4070"
+  5: "4071"
+  6: 1
+  7: "1.5"
+  8: "4072"
+  9: "PottingController"
+  10: 6000006
+  11: 0
+  12: "0.663611"
+}
+1 {
+  1: 408
+  2: "sprite/common/common/icon/mark/icon_zhaohuan.png"
+  3: "sprite/common/common/btn_icon/btn_zhaohuan.png"
+  4: "4080"
+  5: "4081"
+  6: 1
+  7: "1.5"
+  8: "4082"
+  9: "Summon"
+  10: 6000002
+  11: 0
+  12: "0.590708"
+}
+1 {
+  1: 409
+  2: "sprite/common/common/icon/mark/icon_lianjin.png"
+  3: "sprite/common/common/btn_icon/btn_lianjin.png"
+  4: "4090"
+  5: "4091"
+  6: 0
+  7: ""
+  8: ""
+  9: "MetallurgyController"
+  10: 0
+  11: 0
+  12: "0.341276"
+}
+1 {
+  1: 410
+  2: "sprite/common/common/icon/mark/icon_weituoban.png"
+  3: ""
+  4: "4100"
+  5: "4101"
+  6: 1
+  7: "1.5"
+  8: "4102"
+  9: "LobbyController"
+  10: 6001000
+  11: 0
+  12: ""
+}
+1 {
+  1: 411
+  2: "sprite/common/common/icon/mark/icon_decompose.png"
+  3: ""
+  4: "4110"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 0
+  11: 0
+  12: ""
+}
+1 {
+  1: 412
+  2: "sprite/common/common/icon/mark/icon_pray.png"
+  3: ""
+  4: "4120"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 0
+  11: 0
+  12: ""
+}
+1 {
+  1: 413
+  2: "sprite/common/common/btn_area/btn_rizhiqu.png"
+  3: ""
+  4: "4130"
+  5: "4131"
+  6: 1
+  7: "1.5"
+  8: "4132"
+  9: "LobbyController"
+  10: 6000014
+  11: 0
+  12: ""
+}
+1 {
+  1: 414
+  2: "sprite/common/common/icon/mark/icon_ask.png"
+  3: ""
+  4: "4140"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 0
+  11: 0
+  12: ""
+}
+1 {
+  1: 415
+  2: "sprite/common/common/icon/mark/icon_zhuangshi.png"
+  3: ""
+  4: "4150"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4152"
+  9: "LobbyController"
+  10: 6000019
+  11: 0
+  12: ""
+}
+1 {
+  1: 416
+  2: "sprite/common/common/icon/mark/icon_qiandao.png"
+  3: ""
+  4: "4160"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000008
+  11: 0
+  12: ""
+}
+1 {
+  1: 417
+  2: "sprite/common/common/icon/mark/icon_shop4.png"
+  3: ""
+  4: "4170"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "TownController"
+  10: 6000016
+  11: 0
+  12: ""
+}
+1 {
+  1: 418
+  2: "sprite/common/common/icon/mark/icon_shop4.png"
+  3: ""
+  4: "4180"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 0
+  11: 0
+  12: ""
+}
+1 {
+  1: 419
+  2: "sprite/common/common/btn_area/btn_xuanguan.png"
+  3: ""
+  4: "4190"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "TownController"
+  10: 6000012
+  11: 0
+  12: ""
+}
+1 {
+  1: 420
+  2: "sprite/common/common/btn_area/btn_biluqu.png"
+  3: "sprite/common/common/btn_icon/btn_youjian.png"
+  4: "4200"
+  5: "4201"
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 0
+  11: 0
+  12: "0.404855"
+}
+1 {
+  1: 421
+  2: "sprite/common/common/icon/mark/icon_lianjin.png"
+  3: ""
+  4: "4210"
+  5: "4211"
+  6: 0
+  7: ""
+  8: ""
+  9: "MetallurgyController"
+  10: 0
+  11: 0
+  12: ""
+}
+1 {
+  1: 422
+  2: "sprite/common/common/icon/mark/icon_sale.png"
+  3: "sprite/common/common/btn_icon/btn_fanmai.png"
+  4: "4220"
+  5: "4221"
+  6: 1
+  7: "1.5"
+  8: "4222"
+  9: "SaleController"
+  10: 6000001
+  11: 0
+  12: "0.464562"
+}
+1 {
+  1: 423
+  2: "sprite/common/common/icon/mark/icon_tinygame2.png"
+  3: ""
+  4: "4230"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4232"
+  9: "FishingController"
+  10: 6000049
+  11: 0
+  12: ""
+}
+1 {
+  1: 424
+  2: "sprite/common/common/icon/mark/icon_tinygame1.png"
+  3: ""
+  4: "4240"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4242"
+  9: "SweepController"
+  10: 6000035
+  11: 0
+  12: ""
+}
+1 {
+  1: 425
+  2: "sprite/common/common/icon/mark/icon_shop5.png"
+  3: ""
+  4: "4250"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "TownController"
+  10: 6000026
+  11: 0
+  12: ""
+}
+1 {
+  1: 426
+  2: "sprite/common/common/icon/mark/icon_shop4.png"
+  3: ""
+  4: "4260"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "TownController"
+  10: 6000024
+  11: 0
+  12: ""
+}
+1 {
+  1: 427
+  2: "sprite/common/common/icon/mark/icon_market.png"
+  3: ""
+  4: "4270"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4272"
+  9: "TownController"
+  10: 6000044
+  11: 0
+  12: ""
+}
+1 {
+  1: 428
+  2: "sprite/common/common/icon/mark/icon_gift.png"
+  3: ""
+  4: "4280"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4282"
+  9: "TownController"
+  10: 6000015
+  11: 0
+  12: ""
+}
+1 {
+  1: 429
+  2: "sprite/common/common/icon/mark/icon_gossip.png"
+  3: ""
+  4: "4290"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4292"
+  9: "TownController"
+  10: 6000016
+  11: 0
+  12: ""
+}
+1 {
+  1: 430
+  2: "sprite/common/common/icon/mark/icon_gossip.png"
+  3: ""
+  4: "4300"
+  5: "4301"
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000001
+  11: 0
+  12: ""
+}
+1 {
+  1: 431
+  2: "sprite/common/common/icon/mark/icon_auto.png"
+  3: ""
+  4: "4310"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4312"
+  9: "PottingController"
+  10: 6000021
+  11: 0
+  12: ""
+}
+1 {
+  1: 432
+  2: "sprite/common/common/icon/mark/icon_shop6.png"
+  3: ""
+  4: "4320"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "TownController"
+  10: 6000012
+  11: 0
+  12: ""
+}
+1 {
+  1: 433
+  2: "sprite/common/common/icon/mark/icon_shejiao.png"
+  3: ""
+  4: "4330"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4332"
+  9: "ContactController"
+  10: 6000022
+  11: 0
+  12: ""
+}
+1 {
+  1: 434
+  2: "sprite/common/common/icon/mark/icon_cangshuge.png"
+  3: ""
+  4: "4340"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "TownController"
+  10: 6000040
+  11: 0
+  12: ""
+}
+1 {
+  1: 435
+  2: "sprite/common/common/icon/mark/icon_shop0.png"
+  3: ""
+  4: "4350"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "TownController"
+  10: 6000040
+  11: 0
+  12: ""
+}
+1 {
+  1: 436
+  2: "sprite/common/common/icon/mark/icon_worldline.png"
+  3: ""
+  4: "4360"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "WorldlineController"
+  10: 6000040
+  11: 0
+  12: ""
+}
+1 {
+  1: 437
+  2: "sprite/common/common/icon/mark/icon_camp_mission.png"
+  3: ""
+  4: "4370"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "TownController"
+  10: 6000040
+  11: 0
+  12: ""
+}
+1 {
+  1: 438
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4380"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "ContactController"
+  10: 6000022
+  11: 0
+  12: ""
+}
+1 {
+  1: 439
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4390"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "TownController"
+  10: 6000040
+  11: 0
+  12: ""
+}
+1 {
+  1: 440
+  2: "sprite/common/common/icon/mark/icon_worldline.png"
+  3: ""
+  4: "4400"
+  5: "4401"
+  6: 0
+  7: ""
+  8: ""
+  9: "DispatchController"
+  10: 6000120
+  11: 0
+  12: ""
+}
+1 {
+  1: 441
+  2: "sprite/common/common/icon/mark/icon_tinygame3.png"
+  3: ""
+  4: "4410"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4412"
+  9: "HamsterController"
+  10: 6000025
+  11: 0
+  12: ""
+}
+1 {
+  1: 442
+  2: "sprite/common/common/icon/mark/icon_classroom.png"
+  3: ""
+  4: "4420"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4422"
+  9: "TownController"
+  10: 6000013
+  11: 0
+  12: ""
+}
+1 {
+  1: 443
+  2: "sprite/common/common/icon/mark/icon_homework.png"
+  3: ""
+  4: "4430"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000013
+  11: 0
+  12: ""
+}
+1 {
+  1: 444
+  2: "sprite/common/common/icon/mark/icon_homework.png"
+  3: ""
+  4: "4440"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000014
+  11: 0
+  12: ""
+}
+1 {
+  1: 445
+  2: "sprite/common/common/icon/mark/icon_homework.png"
+  3: ""
+  4: "4450"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000014
+  11: 0
+  12: ""
+}
+1 {
+  1: 446
+  2: "sprite/common/common/icon/mark/icon_homework.png"
+  3: ""
+  4: "4460"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000014
+  11: 0
+  12: ""
+}
+1 {
+  1: 447
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4470"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000018
+  11: 0
+  12: ""
+}
+1 {
+  1: 448
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4480"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000018
+  11: 0
+  12: ""
+}
+1 {
+  1: 449
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4490"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 0
+  11: 0
+  12: ""
+}
+1 {
+  1: 450
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4500"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "TownController"
+  10: 0
+  11: 0
+  12: ""
+}
+1 {
+  1: 451
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4510"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000014
+  11: 0
+  12: ""
+}
+1 {
+  1: 452
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4520"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "PottingController"
+  10: 6000038
+  11: 0
+  12: ""
+}
+1 {
+  1: 453
+  2: "sprite/common/item/icon/coin/item_608.png"
+  3: ""
+  4: "4530"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4532"
+  9: ""
+  10: 6000033
+  11: 0
+  12: ""
+}
+1 {
+  1: 454
+  2: "sprite/common/common/btn_icon/btn_shop.png"
+  3: ""
+  4: "4540"
+  5: ""
+  6: 1
+  7: "1.5"
+  8: "4542"
+  9: "LobbyController"
+  10: 6000014
+  11: 0
+  12: ""
+}
+1 {
+  1: 455
+  2: "sprite/common/common/btn_icon/btn_pigbank1.png"
+  3: ""
+  4: "4550"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000014
+  11: 0
+  12: ""
+}
+1 {
+  1: 456
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4560"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 0
+  11: 0
+  12: ""
+}
+1 {
+  1: 457
+  2: "sprite/common/common/icon/mark/icon_gossip2.png"
+  3: ""
+  4: "4570"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "TownController"
+  10: 6000040
+  11: 0
+  12: ""
+}
+1 {
+  1: 458
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4580"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000018
+  11: 0
+  12: ""
+}
+1 {
+  1: 459
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4590"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: ""
+  10: 0
+  11: 0
+  12: ""
+}
+2: 60

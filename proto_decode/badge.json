@@ -1,0 +1,2993 @@
+1 {
+  1: 50000
+  2: "sprite/shejiao/wall/item_50000.png"
+  3: 3
+  4: 4
+  5: 4
+  6: 4
+}
+1 {
+  1: 50001
+  2: "sprite/shejiao/wall/item_50001.png"
+  3: 3
+  4: 4
+  5: 4
+  6: 4
+}
+1 {
+  1: 50002
+  2: "sprite/shejiao/wall/item_51002.png"
+  3: 3
+  4: 1
+  5: 5
+  6: 6
+}
+1 {
+  1: 50003
+  2: "sprite/shejiao/wall/item_51000.png"
+  3: 3
+  4: 1
+  5: 5
+  6: 6
+}
+1 {
+  1: 50004
+  2: "sprite/shejiao/wall/item_51001.png"
+  3: 3
+  4: 1
+  5: 5
+  6: 6
+}
+1 {
+  1: 50005
+  2: "sprite/shejiao/wall/item_51000.png"
+  3: 3
+  4: 1
+  5: 5
+  6: 6
+}
+1 {
+  1: 50006
+  2: "sprite/shejiao/wall/item_51001.png"
+  3: 3
+  4: 1
+  5: 5
+  6: 6
+}
+1 {
+  1: 50007
+  2: "sprite/shejiao/wall/item_51002.png"
+  3: 3
+  4: 1
+  5: 5
+  6: 6
+}
+1 {
+  1: 51000
+  2: "sprite/shejiao/wall/item_51000.png"
+  3: 3
+  4: 1
+  5: 5
+  6: 6
+}
+1 {
+  1: 51001
+  2: "sprite/shejiao/wall/item_51001.png"
+  3: 3
+  4: 1
+  5: 5
+  6: 6
+}
+1 {
+  1: 51002
+  2: "sprite/shejiao/wall/item_51002.png"
+  3: 3
+  4: 1
+  5: 5
+  6: 6
+}
+1 {
+  1: 51003
+  2: "sprite/shejiao/wall/item_51003.png"
+  3: 3
+  4: 1
+  5: 5
+  6: 6
+}
+1 {
+  1: 51004
+  2: "sprite/shejiao/wall/item_51004.png"
+  3: 3
+  4: 1
+  5: 5
+  6: 6
+}
+1 {
+  1: 51005
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x31355f6d
+    6: 48
+    6: 0x676e702e
+  }
+  3: 3
+  4: 1
+  5: 5
+  6: 6
+}
+1 {
+  1: 52000
+  2: "sprite/shejiao/wall/item_52000.png"
+  3: 3
+  4: 2
+  5: 5
+  6: 6
+}
+1 {
+  1: 52001
+  2: "sprite/shejiao/wall/item_52001.png"
+  3: 3
+  4: 2
+  5: 5
+  6: 6
+}
+1 {
+  1: 52002
+  2: "sprite/shejiao/wall/item_52002.png"
+  3: 3
+  4: 2
+  5: 5
+  6: 6
+}
+1 {
+  1: 52003
+  2: "sprite/shejiao/wall/item_52003.png"
+  3: 3
+  4: 2
+  5: 5
+  6: 6
+}
+1 {
+  1: 52004
+  2: "sprite/shejiao/wall/item_52004.png"
+  3: 3
+  4: 2
+  5: 5
+  6: 6
+}
+1 {
+  1: 52005
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x32355f6d
+    6: 48
+    6: 0x676e702e
+  }
+  3: 3
+  4: 2
+  5: 5
+  6: 6
+}
+1 {
+  1: 53000
+  2: "sprite/shejiao/wall/item_53000.png"
+  3: 3
+  4: 3
+  5: 3
+  6: 4
+}
+1 {
+  1: 53001
+  2: "sprite/shejiao/wall/item_53001.png"
+  3: 3
+  4: 3
+  5: 3
+  6: 4
+}
+1 {
+  1: 53002
+  2: "sprite/shejiao/wall/item_53002.png"
+  3: 3
+  4: 3
+  5: 3
+  6: 4
+}
+1 {
+  1: 53003
+  2: "sprite/shejiao/wall/item_53003.png"
+  3: 3
+  4: 3
+  5: 3
+  6: 4
+}
+1 {
+  1: 53004
+  2: "sprite/shejiao/wall/item_53004.png"
+  3: 3
+  4: 3
+  5: 3
+  6: 4
+}
+1 {
+  1: 53005
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x33355f6d
+    6: 48
+    6: 0x676e702e
+  }
+  3: 3
+  4: 3
+  5: 3
+  6: 4
+}
+1 {
+  1: 53006
+  2: "sprite/shejiao/wall/item_53006.png"
+  3: 3
+  4: 3
+  5: 3
+  6: 4
+}
+1 {
+  1: 53007
+  2: "sprite/shejiao/wall/item_53007.png"
+  3: 3
+  4: 3
+  5: 3
+  6: 4
+}
+1 {
+  1: 53008
+  2: "sprite/shejiao/wall/item_53008.png"
+  3: 3
+  4: 3
+  5: 3
+  6: 4
+}
+1 {
+  1: 53009
+  2: "sprite/shejiao/wall/item_53009.png"
+  3: 3
+  4: 3
+  5: 3
+  6: 4
+}
+1 {
+  1: 53010
+  2: "sprite/shejiao/wall/item_53010.png"
+  3: 3
+  4: 3
+  5: 3
+  6: 4
+}
+1 {
+  1: 53011
+  2: "sprite/shejiao/wall/item_53011.png"
+  3: 3
+  4: 3
+  5: 3
+  6: 4
+}
+1 {
+  1: 54000
+  2: "sprite/shejiao/wall/item_54000.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54001
+  2: "sprite/shejiao/wall/item_54001.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54002
+  2: "sprite/shejiao/wall/item_54002.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54010
+  2: "sprite/shejiao/wall/item_54010.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54011
+  2: "sprite/shejiao/wall/item_54011.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54012
+  2: "sprite/shejiao/wall/item_54012.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54020
+  2: "sprite/shejiao/wall/item_54020.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54021
+  2: "sprite/shejiao/wall/item_54021.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54022
+  2: "sprite/shejiao/wall/item_54022.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54030
+  2: "sprite/shejiao/wall/item_54030.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54031
+  2: "sprite/shejiao/wall/item_54031.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54032
+  2: "sprite/shejiao/wall/item_54032.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54040
+  2: "sprite/shejiao/wall/item_54040.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54041
+  2: "sprite/shejiao/wall/item_54041.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54042
+  2: "sprite/shejiao/wall/item_54042.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54050
+  2: "sprite/shejiao/wall/item_54050.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54051
+  2: "sprite/shejiao/wall/item_54051.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 54052
+  2: "sprite/shejiao/wall/item_54052.png"
+  3: 1
+  4: 5
+  5: 3
+  6: 3
+}
+1 {
+  1: 55000
+  2: "sprite/shejiao/wall/item_55000.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55001
+  2: "sprite/shejiao/wall/item_55001.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55002
+  2: "sprite/shejiao/wall/item_55002.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55003
+  2: "sprite/shejiao/wall/item_55003.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55004
+  2: "sprite/shejiao/wall/item_55004.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55005
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x35355f6d
+    6: 48
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55006
+  2: "sprite/shejiao/wall/item_55006.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55007
+  2: "sprite/shejiao/wall/item_55007.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55008
+  2: "sprite/shejiao/wall/item_55008.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55009
+  2: "sprite/shejiao/wall/item_55009.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55010
+  2: "sprite/shejiao/wall/item_55010.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55011
+  2: "sprite/shejiao/wall/item_55011.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55012
+  2: "sprite/shejiao/wall/item_55012.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55013
+  2: "sprite/shejiao/wall/item_55013.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55014
+  2: "sprite/shejiao/wall/item_55014.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55015
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x35355f6d
+    6: 49
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55016
+  2: "sprite/shejiao/wall/item_55016.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55017
+  2: "sprite/shejiao/wall/item_55017.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55018
+  2: "sprite/shejiao/wall/item_55018.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55019
+  2: "sprite/shejiao/wall/item_55019.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55020
+  2: "sprite/shejiao/wall/item_55020.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55021
+  2: "sprite/shejiao/wall/item_55021.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55022
+  2: "sprite/shejiao/wall/item_55022.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55023
+  2: "sprite/shejiao/wall/item_55023.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55024
+  2: "sprite/shejiao/wall/item_55024.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55025
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x35355f6d
+    6: 50
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55026
+  2: "sprite/shejiao/wall/item_55026.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55027
+  2: "sprite/shejiao/wall/item_55027.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55028
+  2: "sprite/shejiao/wall/item_55028.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55029
+  2: "sprite/shejiao/wall/item_55029.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55030
+  2: "sprite/shejiao/wall/item_55030.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55031
+  2: "sprite/shejiao/wall/item_55031.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55032
+  2: "sprite/shejiao/wall/item_55032.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55033
+  2: "sprite/shejiao/wall/item_55033.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55034
+  2: "sprite/shejiao/wall/item_55034.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55035
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x35355f6d
+    6: 51
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55036
+  2: "sprite/shejiao/wall/item_55036.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55037
+  2: "sprite/shejiao/wall/item_55037.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55038
+  2: "sprite/shejiao/wall/item_55038.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55039
+  2: "sprite/shejiao/wall/item_55039.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55040
+  2: "sprite/shejiao/wall/item_55040.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55041
+  2: "sprite/shejiao/wall/item_55041.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55042
+  2: "sprite/shejiao/wall/item_55042.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55043
+  2: "sprite/shejiao/wall/item_55043.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55044
+  2: "sprite/shejiao/wall/item_55044.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55045
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x35355f6d
+    6: 52
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55046
+  2: "sprite/shejiao/wall/item_55046.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55047
+  2: "sprite/shejiao/wall/item_55047.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55048
+  2: "sprite/shejiao/wall/item_55048.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55049
+  2: "sprite/shejiao/wall/item_55049.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55050
+  2: "sprite/shejiao/wall/item_55050.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55051
+  2: "sprite/shejiao/wall/item_55051.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55052
+  2: "sprite/shejiao/wall/item_55052.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55053
+  2: "sprite/shejiao/wall/item_55053.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55054
+  2: "sprite/shejiao/wall/item_55054.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55055
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x35355f6d
+    6: 53
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55056
+  2: "sprite/shejiao/wall/item_55056.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55057
+  2: "sprite/shejiao/wall/item_55057.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55058
+  2: "sprite/shejiao/wall/item_55058.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55059
+  2: "sprite/shejiao/wall/item_55059.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55060
+  2: "sprite/shejiao/wall/item_55060.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55061
+  2: "sprite/shejiao/wall/item_55061.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55062
+  2: "sprite/shejiao/wall/item_55062.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55063
+  2: "sprite/shejiao/wall/item_55063.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55064
+  2: "sprite/shejiao/wall/item_55064.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55065
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x35355f6d
+    6: 54
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55066
+  2: "sprite/shejiao/wall/item_55066.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55067
+  2: "sprite/shejiao/wall/item_55067.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55068
+  2: "sprite/shejiao/wall/item_55068.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55069
+  2: "sprite/shejiao/wall/item_55069.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55070
+  2: "sprite/shejiao/wall/item_55070.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55071
+  2: "sprite/shejiao/wall/item_55071.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55072
+  2: "sprite/shejiao/wall/item_55072.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55073
+  2: "sprite/shejiao/wall/item_55073.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55074
+  2: "sprite/shejiao/wall/item_55074.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55075
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x35355f6d
+    6: 55
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55076
+  2: "sprite/shejiao/wall/item_55076.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55077
+  2: "sprite/shejiao/wall/item_55077.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55078
+  2: "sprite/shejiao/wall/item_55078.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55079
+  2: "sprite/shejiao/wall/item_55079.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55080
+  2: "sprite/shejiao/wall/item_55080.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55081
+  2: "sprite/shejiao/wall/item_55081.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55082
+  2: "sprite/shejiao/wall/item_55082.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55083
+  2: "sprite/shejiao/wall/item_55083.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55084
+  2: "sprite/shejiao/wall/item_55084.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55085
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x35355f6d
+    6: 56
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55086
+  2: "sprite/shejiao/wall/item_55086.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55087
+  2: "sprite/shejiao/wall/item_55087.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55088
+  2: "sprite/shejiao/wall/item_55088.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55089
+  2: "sprite/shejiao/wall/item_55089.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55090
+  2: "sprite/shejiao/wall/item_55090.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55091
+  2: "sprite/shejiao/wall/item_55091.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55092
+  2: "sprite/shejiao/wall/item_55092.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55093
+  2: "sprite/shejiao/wall/item_55093.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55094
+  2: "sprite/shejiao/wall/item_55094.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55095
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x35355f6d
+    6: 57
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55096
+  2: "sprite/shejiao/wall/item_55096.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55097
+  2: "sprite/shejiao/wall/item_55097.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55098
+  2: "sprite/shejiao/wall/item_55098.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55099
+  2: "sprite/shejiao/wall/item_55099.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55100
+  2: "sprite/shejiao/wall/item_55100.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55101
+  2: "sprite/shejiao/wall/item_55101.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55102
+  2: "sprite/shejiao/wall/item_55102.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55103
+  2: "sprite/shejiao/wall/item_55103.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55104
+  2: "sprite/shejiao/wall/item_55104.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55105
+  2: "sprite/shejiao/wall/item_55105.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55106
+  2: "sprite/shejiao/wall/item_55106.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55107
+  2: "sprite/shejiao/wall/item_55107.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55108
+  2: "sprite/shejiao/wall/item_55108.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55109
+  2: "sprite/shejiao/wall/item_55109.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55110
+  2: "sprite/shejiao/wall/item_55110.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55111
+  2: "sprite/shejiao/wall/item_55111.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55112
+  2: "sprite/shejiao/wall/item_55112.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55113
+  2: "sprite/shejiao/wall/item_55113.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55114
+  2: "sprite/shejiao/wall/item_55114.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55115
+  2: "sprite/shejiao/wall/item_55115.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55116
+  2: "sprite/shejiao/wall/item_55116.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55117
+  2: "sprite/shejiao/wall/item_55117.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55118
+  2: "sprite/shejiao/wall/item_55118.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55119
+  2: "sprite/shejiao/wall/item_55119.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55120
+  2: "sprite/shejiao/wall/item_55120.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55121
+  2: "sprite/shejiao/wall/item_55121.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55122
+  2: "sprite/shejiao/wall/item_55122.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55123
+  2: "sprite/shejiao/wall/item_55123.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55124
+  2: "sprite/shejiao/wall/item_55124.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55125
+  2: "sprite/shejiao/wall/item_55125.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55126
+  2: "sprite/shejiao/wall/item_55126.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55127
+  2: "sprite/shejiao/wall/item_55127.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55128
+  2: "sprite/shejiao/wall/item_55128.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55129
+  2: "sprite/shejiao/wall/item_55129.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55130
+  2: "sprite/shejiao/wall/item_55130.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55131
+  2: "sprite/shejiao/wall/item_55131.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55132
+  2: "sprite/shejiao/wall/item_55132.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55133
+  2: "sprite/shejiao/wall/item_55133.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55134
+  2: "sprite/shejiao/wall/item_55134.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55135
+  2: "sprite/shejiao/wall/item_55135.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55136
+  2: "sprite/shejiao/wall/item_55136.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55137
+  2: "sprite/shejiao/wall/item_55137.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55138
+  2: "sprite/shejiao/wall/item_55138.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55139
+  2: "sprite/shejiao/wall/item_55139.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55140
+  2: "sprite/shejiao/wall/item_55140.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55141
+  2: "sprite/shejiao/wall/item_55141.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55142
+  2: "sprite/shejiao/wall/item_55142.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55143
+  2: "sprite/shejiao/wall/item_55143.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55144
+  2: "sprite/shejiao/wall/item_55144.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55145
+  2: "sprite/shejiao/wall/item_55145.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55146
+  2: "sprite/shejiao/wall/item_55146.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55147
+  2: "sprite/shejiao/wall/item_55147.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55148
+  2: "sprite/shejiao/wall/item_55148.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55149
+  2: "sprite/shejiao/wall/item_55149.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55500
+  2: "sprite/shejiao/wall/item_55500.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55501
+  2: "sprite/shejiao/wall/item_55501.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55502
+  2: "sprite/shejiao/wall/item_55502.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55503
+  2: "sprite/shejiao/wall/item_55503.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55504
+  2: "sprite/shejiao/wall/item_55504.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55505
+  2: "sprite/shejiao/wall/item_55505.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55506
+  2: "sprite/shejiao/wall/item_55506.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55507
+  2: "sprite/shejiao/wall/item_55507.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55508
+  2: "sprite/shejiao/wall/item_55508.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55509
+  2: "sprite/shejiao/wall/item_55509.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55510
+  2: "sprite/shejiao/wall/item_55510.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55511
+  2: "sprite/shejiao/wall/item_55511.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55512
+  2: "sprite/shejiao/wall/item_55512.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55513
+  2: "sprite/shejiao/wall/item_55513.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55514
+  2: "sprite/shejiao/wall/item_55514.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55515
+  2: "sprite/shejiao/wall/item_55515.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55516
+  2: "sprite/shejiao/wall/item_55516.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55517
+  2: "sprite/shejiao/wall/item_55517.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55518
+  2: "sprite/shejiao/wall/item_55518.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55519
+  2: "sprite/shejiao/wall/item_55519.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55520
+  2: "sprite/shejiao/wall/item_55520.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55521
+  2: "sprite/shejiao/wall/item_55521.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55522
+  2: "sprite/shejiao/wall/item_55522.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55523
+  2: "sprite/shejiao/wall/item_55523.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55524
+  2: "sprite/shejiao/wall/item_55524.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55525
+  2: "sprite/shejiao/wall/item_55525.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55526
+  2: "sprite/shejiao/wall/item_55526.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55527
+  2: "sprite/shejiao/wall/item_55527.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55528
+  2: "sprite/shejiao/wall/item_55528.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55529
+  2: "sprite/shejiao/wall/item_55529.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55530
+  2: "sprite/shejiao/wall/item_55530.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55531
+  2: "sprite/shejiao/wall/item_55531.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55532
+  2: "sprite/shejiao/wall/item_55532.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55533
+  2: "sprite/shejiao/wall/item_55533.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55534
+  2: "sprite/shejiao/wall/item_55534.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55535
+  2: "sprite/shejiao/wall/item_55535.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55800
+  2: "sprite/shejiao/wall/item_55800.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55801
+  2: "sprite/shejiao/wall/item_55801.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55802
+  2: "sprite/shejiao/wall/item_55802.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55803
+  2: "sprite/shejiao/wall/item_55803.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55804
+  2: "sprite/shejiao/wall/item_55804.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55805
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x35355f6d
+    7: 48
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55806
+  2: "sprite/shejiao/wall/item_55806.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55807
+  2: "sprite/shejiao/wall/item_55807.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55808
+  2: "sprite/shejiao/wall/item_55808.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55809
+  2: "sprite/shejiao/wall/item_55809.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55810
+  2: "sprite/shejiao/wall/item_55810.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55811
+  2: "sprite/shejiao/wall/item_55811.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55812
+  2: "sprite/shejiao/wall/item_55812.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55813
+  2: "sprite/shejiao/wall/item_55813.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55814
+  2: "sprite/shejiao/wall/item_55814.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55815
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x35355f6d
+    7: 49
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55816
+  2: "sprite/shejiao/wall/item_55816.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55817
+  2: "sprite/shejiao/wall/item_55817.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55818
+  2: "sprite/shejiao/wall/item_55818.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55819
+  2: "sprite/shejiao/wall/item_55819.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55820
+  2: "sprite/shejiao/wall/item_55820.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55821
+  2: "sprite/shejiao/wall/item_55821.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55822
+  2: "sprite/shejiao/wall/item_55822.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55823
+  2: "sprite/shejiao/wall/item_55823.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55824
+  2: "sprite/shejiao/wall/item_55824.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55825
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x35355f6d
+    7: 50
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55826
+  2: "sprite/shejiao/wall/item_55826.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55827
+  2: "sprite/shejiao/wall/item_55827.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55828
+  2: "sprite/shejiao/wall/item_55828.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55829
+  2: "sprite/shejiao/wall/item_55829.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55830
+  2: "sprite/shejiao/wall/item_55830.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55831
+  2: "sprite/shejiao/wall/item_55831.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55832
+  2: "sprite/shejiao/wall/item_55832.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55833
+  2: "sprite/shejiao/wall/item_55833.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55834
+  2: "sprite/shejiao/wall/item_55834.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55835
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x35355f6d
+    7: 51
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55836
+  2: "sprite/shejiao/wall/item_55836.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55837
+  2: "sprite/shejiao/wall/item_55837.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55838
+  2: "sprite/shejiao/wall/item_55838.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 55839
+  2: "sprite/shejiao/wall/item_55839.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56000
+  2: "sprite/shejiao/wall/item_56000.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56001
+  2: "sprite/shejiao/wall/item_56001.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56002
+  2: "sprite/shejiao/wall/item_56002.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56003
+  2: "sprite/shejiao/wall/item_56003.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56004
+  2: "sprite/shejiao/wall/item_56004.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56005
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x36355f6d
+    6: 48
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56006
+  2: "sprite/shejiao/wall/item_56006.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56007
+  2: "sprite/shejiao/wall/item_56007.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56008
+  2: "sprite/shejiao/wall/item_56008.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56009
+  2: "sprite/shejiao/wall/item_56009.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56010
+  2: "sprite/shejiao/wall/item_56010.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56011
+  2: "sprite/shejiao/wall/item_56011.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56012
+  2: "sprite/shejiao/wall/item_56012.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56013
+  2: "sprite/shejiao/wall/item_56013.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56014
+  2: "sprite/shejiao/wall/item_56014.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56015
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x36355f6d
+    6: 49
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56016
+  2: "sprite/shejiao/wall/item_56016.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56017
+  2: "sprite/shejiao/wall/item_56017.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56018
+  2: "sprite/shejiao/wall/item_56018.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56019
+  2: "sprite/shejiao/wall/item_56019.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56020
+  2: "sprite/shejiao/wall/item_56020.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56021
+  2: "sprite/shejiao/wall/item_56021.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56022
+  2: "sprite/shejiao/wall/item_56022.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56023
+  2: "sprite/shejiao/wall/item_56023.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56024
+  2: "sprite/shejiao/wall/item_56024.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56025
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x36355f6d
+    6: 50
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56026
+  2: "sprite/shejiao/wall/item_56026.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56027
+  2: "sprite/shejiao/wall/item_56027.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56028
+  2: "sprite/shejiao/wall/item_56028.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56029
+  2: "sprite/shejiao/wall/item_56029.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56050
+  2: "sprite/shejiao/wall/item_56050.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56051
+  2: "sprite/shejiao/wall/item_56051.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56052
+  2: "sprite/shejiao/wall/item_56052.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56053
+  2: "sprite/shejiao/wall/item_56053.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56054
+  2: "sprite/shejiao/wall/item_56054.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56055
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x36355f6d
+    6: 53
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56056
+  2: "sprite/shejiao/wall/item_56056.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56057
+  2: "sprite/shejiao/wall/item_56057.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56058
+  2: "sprite/shejiao/wall/item_56058.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56059
+  2: "sprite/shejiao/wall/item_56059.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56060
+  2: "sprite/shejiao/wall/item_56060.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56061
+  2: "sprite/shejiao/wall/item_56061.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56062
+  2: "sprite/shejiao/wall/item_56062.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56063
+  2: "sprite/shejiao/wall/item_56063.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56064
+  2: "sprite/shejiao/wall/item_56064.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 56065
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x36355f6d
+    6: 54
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57000
+  2: "sprite/shejiao/wall/item_57000.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57001
+  2: "sprite/shejiao/wall/item_57001.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57002
+  2: "sprite/shejiao/wall/item_57002.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57003
+  2: "sprite/shejiao/wall/item_57003.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57004
+  2: "sprite/shejiao/wall/item_57004.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57005
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x37355f6d
+    6: 48
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57006
+  2: "sprite/shejiao/wall/item_57006.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57007
+  2: "sprite/shejiao/wall/item_57007.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57008
+  2: "sprite/shejiao/wall/item_57008.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57009
+  2: "sprite/shejiao/wall/item_57009.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57010
+  2: "sprite/shejiao/wall/item_57010.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57011
+  2: "sprite/shejiao/wall/item_57011.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57012
+  2: "sprite/shejiao/wall/item_57012.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57013
+  2: "sprite/shejiao/wall/item_57013.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57014
+  2: "sprite/shejiao/wall/item_57014.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57015
+  2 {
+    14 {
+      14: 114
+      13: 0x696a6568732f6574
+      12: 0x692f6c6c61772f6f
+    }
+    12: 0x37355f6d
+    6: 49
+    6: 0x676e702e
+  }
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57016
+  2: "sprite/shejiao/wall/item_57016.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57017
+  2: "sprite/shejiao/wall/item_57017.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57018
+  2: "sprite/shejiao/wall/item_57018.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57019
+  2: "sprite/shejiao/wall/item_57019.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57020
+  2: "sprite/shejiao/wall/item_57020.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57021
+  2: "sprite/shejiao/wall/item_57021.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57022
+  2: "sprite/shejiao/wall/item_57022.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 57023
+  2: "sprite/shejiao/wall/item_57023.png"
+  3: 2
+  4: 6
+  5: 2
+  6: 2
+}
+1 {
+  1: 59000
+  2: "sprite/shejiao/wall/item_59000.png"
+  3: 2
+  4: 6
+  5: 1
+  6: 1
+}
+2: 347

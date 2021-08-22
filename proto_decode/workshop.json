@@ -1,0 +1,231 @@
+1 {
+  1: 1
+  2: 405000
+  3: "sprite/common/common/btn_area/btn_lianjinqu.png"
+  4: 0
+  5: 1
+  6: 409
+  7: "\340]\353]\366]\201^\214^\227^\242^\255^\270^\303^\316^"
+  8: "prefabs/scene/home/item/lianjin/lianjin_z_0.prefab"
+  8: "prefabs/scene/home/item/lianjin/lianjin_c_1.prefab"
+  8: "prefabs/scene/home/item/lianjin/lianjin_d_1.prefab"
+  8: "prefabs/scene/home/item/lianjin/lianjin_d_2.prefab"
+  8: "prefabs/scene/home/item/lianjin/lianjin_e_1.prefab"
+  8: "prefabs/scene/home/item/lianjin/lianjin_a_2.prefab"
+  8: "prefabs/scene/home/item/lianjin/lianjin_c_2.prefab"
+  8: "prefabs/scene/home/item/lianjin/lianjin_e_2.prefab"
+  8: "prefabs/scene/home/item/lianjin/lianjin_e_3.prefab"
+  8: "prefabs/scene/home/item/lianjin/lianjin_e_4.prefab"
+  8: "prefabs/scene/home/item/lianjin/lianjin_e_5.prefab"
+  9: 1
+}
+1 {
+  1: 2
+  2: 405001
+  3: "sprite/common/common/btn_area/btn_guancequ.png"
+  4: 1
+  5: 2
+  6: 406
+  7: "\341]\354]\367]\202^\215^\230^\243^\256^\271^\304^\317^"
+  8: "prefabs/scene/home/item/caiji/caiji_z_0.prefab"
+  8: "prefabs/scene/home/item/caiji/caiji_c_1.prefab"
+  8: "prefabs/scene/home/item/caiji/caiji_d_1.prefab"
+  8: "prefabs/scene/home/item/caiji/caiji_d_2.prefab"
+  8: "prefabs/scene/home/item/caiji/caiji_e_1.prefab"
+  8: "prefabs/scene/home/item/caiji/caiji_a_2.prefab"
+  8: "prefabs/scene/home/item/caiji/caiji_c_2.prefab"
+  8: "prefabs/scene/home/item/caiji/caiji_e_2.prefab"
+  8: "prefabs/scene/home/item/caiji/caiji_e_3.prefab"
+  8: "prefabs/scene/home/item/caiji/caiji_e_4.prefab"
+  8: "prefabs/scene/home/item/caiji/caiji_e_5.prefab"
+  9: 1
+}
+1 {
+  1: 3
+  2: 405002
+  3: "sprite/common/common/btn_area/btn_peiyuqu.png"
+  4: 1
+  5: 3
+  6: 407
+  7: "\342]\355]\370]\203^\216^\231^\244^\257^\272^\305^\320^"
+  8: "prefabs/scene/home/item/xiangting/xiangting_z_0.prefab"
+  8: "prefabs/scene/home/item/xiangting/xiangting_c_1.prefab"
+  8: "prefabs/scene/home/item/xiangting/xiangting_d_1.prefab"
+  8: "prefabs/scene/home/item/xiangting/xiangting_d_2.prefab"
+  8: "prefabs/scene/home/item/xiangting/xiangting_e_1.prefab"
+  8: "prefabs/scene/home/item/xiangting/xiangting_a_2.prefab"
+  8: "prefabs/scene/home/item/xiangting/xiangting_c_2.prefab"
+  8: "prefabs/scene/home/item/xiangting/xiangting_e_2.prefab"
+  8: "prefabs/scene/home/item/xiangting/xiangting_e_3.prefab"
+  8: "prefabs/scene/home/item/xiangting/xiangting_e_4.prefab"
+  8: "prefabs/scene/home/item/xiangting/xiangting_e_5.prefab"
+  9: 1
+}
+1 {
+  1: 4
+  2: 405003
+  3: "sprite/common/common/btn_area/btn_rizhiqu.png"
+  4: 1
+  5: 4
+  6: 413
+  7: "\343]\356]\371]\204^\217^\232^\245^\260^\273^\306^\321^"
+  8: "prefabs/scene/home/item/rizhi/rizhi_z_0.prefab"
+  8: "prefabs/scene/home/item/rizhi/rizhi_c_1.prefab"
+  8: "prefabs/scene/home/item/rizhi/rizhi_d_1.prefab"
+  8: "prefabs/scene/home/item/rizhi/rizhi_d_2.prefab"
+  8: "prefabs/scene/home/item/rizhi/rizhi_e_1.prefab"
+  8: "prefabs/scene/home/item/rizhi/rizhi_a_2.prefab"
+  8: "prefabs/scene/home/item/rizhi/rizhi_c_2.prefab"
+  8: "prefabs/scene/home/item/rizhi/rizhi_e_2.prefab"
+  8: "prefabs/scene/home/item/rizhi/rizhi_e_3.prefab"
+  8: "prefabs/scene/home/item/rizhi/rizhi_e_4.prefab"
+  8: "prefabs/scene/home/item/rizhi/rizhi_e_5.prefab"
+  9: 1
+}
+1 {
+  1: 5
+  2: 405004
+  3: "sprite/common/common/btn_area/btn_baoxiangqu.png"
+  4: 1
+  5: 5
+  6: 408
+  7: "\344]\357]\372]\205^\220^\233^\246^\261^\274^\307^\322^"
+  8: "prefabs/scene/home/item/baoxiang/baoxiang_z_0.prefab"
+  8: "prefabs/scene/home/item/baoxiang/baoxiang_c_1.prefab"
+  8: "prefabs/scene/home/item/baoxiang/baoxiang_d_1.prefab"
+  8: "prefabs/scene/home/item/baoxiang/baoxiang_d_2.prefab"
+  8: "prefabs/scene/home/item/baoxiang/baoxiang_e_1.prefab"
+  8: "prefabs/scene/home/item/baoxiang/baoxiang_a_2.prefab"
+  8: "prefabs/scene/home/item/baoxiang/baoxiang_c_2.prefab"
+  8: "prefabs/scene/home/item/baoxiang/baoxiang_e_2.prefab"
+  8: "prefabs/scene/home/item/baoxiang/baoxiang_e_3.prefab"
+  8: "prefabs/scene/home/item/baoxiang/baoxiang_e_4.prefab"
+  8: "prefabs/scene/home/item/baoxiang/baoxiang_e_5.prefab"
+  9: 1
+}
+1 {
+  1: 6
+  2: 405005
+  3: "sprite/common/common/btn_area/btn_xuanguan.png"
+  4: 1
+  5: 6
+  6: 419
+  7: "\345]\360]\373]\206^\221^\234^\247^\262^\275^\310^\323^"
+  8: "prefabs/scene/home/item/xuanguan/xuanguan_z_0.prefab"
+  8: "prefabs/scene/home/item/xuanguan/xuanguan_c_1.prefab"
+  8: "prefabs/scene/home/item/xuanguan/xuanguan_d_1.prefab"
+  8: "prefabs/scene/home/item/xuanguan/xuanguan_d_2.prefab"
+  8: "prefabs/scene/home/item/xuanguan/xuanguan_e_1.prefab"
+  8: "prefabs/scene/home/item/xuanguan/xuanguan_a_2.prefab"
+  8: "prefabs/scene/home/item/xuanguan/xuanguan_c_2.prefab"
+  8: "prefabs/scene/home/item/xuanguan/xuanguan_e_2.prefab"
+  8: "prefabs/scene/home/item/xuanguan/xuanguan_e_3.prefab"
+  8: "prefabs/scene/home/item/xuanguan/xuanguan_e_4.prefab"
+  8: "prefabs/scene/home/item/xuanguan/xuanguan_e_5.prefab"
+  9: 1
+}
+1 {
+  1: 7
+  2: 405006
+  3: "sprite/common/common/btn_area/btn_beijing.png"
+  4: 0
+  5: 7
+  6: 0
+  7: "\346]\374]\207^\222^\235^\250^\263^\276^\311^\324^"
+  8: "prefabs/scene/home/item/background/background_z_0.prefab"
+  8: "prefabs/scene/home/item/background/background_d_1.prefab"
+  8: "prefabs/scene/home/item/background/background_d_2.prefab"
+  8: "prefabs/scene/home/item/background/background_e_1.prefab"
+  8: "prefabs/scene/home/item/background/background_a_2.prefab"
+  8: "prefabs/scene/home/item/background/background_c_2.prefab"
+  8: "prefabs/scene/home/item/background/background_e_2.prefab"
+  8: "prefabs/scene/home/item/background/background_e_3.prefab"
+  8: "prefabs/scene/home/item/background/background_e_4.prefab"
+  8: "prefabs/scene/home/item/background/background_e_5.prefab"
+  9: 0
+}
+1 {
+  1: 8
+  2: 405007
+  3: "sprite/common/common/btn_area/btn_biluqu.png"
+  4: 1
+  5: 8
+  6: 420
+  7: "\347]\362]\375]\210^\223^\236^\251^\264^\277^\312^\325^"
+  8: "prefabs/scene/home/item/luzi/luzi_z_0.prefab"
+  8: "prefabs/scene/home/item/luzi/luzi_c_1.prefab"
+  8: "prefabs/scene/home/item/luzi/luzi_d_1.prefab"
+  8: "prefabs/scene/home/item/luzi/luzi_d_2.prefab"
+  8: "prefabs/scene/home/item/luzi/luzi_e_1.prefab"
+  8: "prefabs/scene/home/item/luzi/luzi_a_2.prefab"
+  8: "prefabs/scene/home/item/luzi/luzi_c_2.prefab"
+  8: "prefabs/scene/home/item/luzi/luzi_e_2.prefab"
+  8: "prefabs/scene/home/item/luzi/luzi_e_3.prefab"
+  8: "prefabs/scene/home/item/luzi/luzi_e_4.prefab"
+  8: "prefabs/scene/home/item/luzi/luzi_e_5.prefab"
+  9: 1
+}
+1 {
+  1: 9
+  2: 405008
+  3: "sprite/common/common/btn_area/btn_xiuxiqu.png"
+  4: 1
+  5: 9
+  6: 430
+  7: "\350]\363]\376]\211^\224^\237^\252^\265^\300^\313^\326^"
+  8: "prefabs/scene/home/item/xiuxi/xiuxi_z_0.prefab"
+  8: "prefabs/scene/home/item/xiuxi/xiuxi_c_1.prefab"
+  8: "prefabs/scene/home/item/xiuxi/xiuxi_d_1.prefab"
+  8: "prefabs/scene/home/item/xiuxi/xiuxi_d_2.prefab"
+  8: "prefabs/scene/home/item/xiuxi/xiuxi_e_1.prefab"
+  8: "prefabs/scene/home/item/xiuxi/xiuxi_a_2.prefab"
+  8: "prefabs/scene/home/item/xiuxi/xiuxi_c_2.prefab"
+  8: "prefabs/scene/home/item/xiuxi/xiuxi_e_2.prefab"
+  8: "prefabs/scene/home/item/xiuxi/xiuxi_e_3.prefab"
+  8: "prefabs/scene/home/item/xiuxi/xiuxi_e_4.prefab"
+  8: "prefabs/scene/home/item/xiuxi/xiuxi_e_5.prefab"
+  9: 1
+}
+1 {
+  1: 10
+  2: 405009
+  3: "sprite/common/common/btn_area/btn_fanmai.png"
+  4: 1
+  5: 10
+  6: 422
+  7: "\351]\364]\377]\212^\225^\240^\253^\266^\301^\314^\327^"
+  8: "prefabs/scene/home/item/fanmai/fanmai_z_0.prefab"
+  8: "prefabs/scene/home/item/fanmai/fanmai_c_1.prefab"
+  8: "prefabs/scene/home/item/fanmai/fanmai_d_1.prefab"
+  8: "prefabs/scene/home/item/fanmai/fanmai_d_2.prefab"
+  8: "prefabs/scene/home/item/fanmai/fanmai_e_1.prefab"
+  8: "prefabs/scene/home/item/fanmai/fanmai_a_2.prefab"
+  8: "prefabs/scene/home/item/fanmai/fanmai_c_2.prefab"
+  8: "prefabs/scene/home/item/fanmai/fanmai_e_2.prefab"
+  8: "prefabs/scene/home/item/fanmai/fanmai_e_3.prefab"
+  8: "prefabs/scene/home/item/fanmai/fanmai_e_4.prefab"
+  8: "prefabs/scene/home/item/fanmai/fanmai_e_5.prefab"
+  9: 1
+}
+1 {
+  1: 11
+  2: 405010
+  3: "sprite/common/common/btn_area/btn_cangku.png"
+  4: 0
+  5: 11
+  6: 0
+  7: "\352]\365]\200^\213^\226^\241^\254^\267^\302^\315^\330^"
+  8: "prefabs/scene/home/item/cangku/cangku_z_0.prefab"
+  8: "prefabs/scene/home/item/cangku/cangku_c_1.prefab"
+  8: "prefabs/scene/home/item/cangku/cangku_d_1.prefab"
+  8: "prefabs/scene/home/item/cangku/cangku_d_2.prefab"
+  8: "prefabs/scene/home/item/cangku/cangku_e_1.prefab"
+  8: "prefabs/scene/home/item/cangku/cangku_a_2.prefab"
+  8: "prefabs/scene/home/item/cangku/cangku_c_2.prefab"
+  8: "prefabs/scene/home/item/cangku/cangku_e_2.prefab"
+  8: "prefabs/scene/home/item/cangku/cangku_e_3.prefab"
+  8: "prefabs/scene/home/item/cangku/cangku_e_4.prefab"
+  8: "prefabs/scene/home/item/cangku/cangku_e_5.prefab"
+  9: 1
+}
+2: 11

@@ -1,0 +1,12 @@
+﻿id,不知道,不知道,不知道,不知道,不知道,不知道,不知道,不知道,不知道,不知道,不知道
+1,1,28,480009,481009,500,10000,6000014,100,86400,prefabs/ui/money/gift/gift_coin/gift_coin,4
+2,1,29,480010,481010,501,100,6000014,10,86400,prefabs/ui/money/gift/gift_coin_rmb/gift_coin_rmb,4
+3,1,32,480011,481011,525,200,6000014,10,86400,prefabs/ui/money/gift/gift_coin_plant/gift_coin_plant,4
+4,1,0,480012,481012,518,200,6000014,5,86400,prefabs/ui/money/gift/gift_time_speedup/gift_time_speedup,4
+5,1,30,480017,481017,608,30,6000014,5,86400,prefabs/ui/money/gift/gift_inspiration/gift_inspiration,4
+6,1,31,480018,481018,510,10,6000014,5,86400,prefabs/ui/money/gift/gift_key/gift_key,4
+7,1,33,480019,481019,533,6,6000014,5,86400,prefabs/ui/money/gift/gift_cake/gift_candy,3
+8,1,34,480013,481013,521,20,6000014,5,86400,prefabs/ui/money/gift/gift_cake/gift_cake1,3
+9,1,35,480014,481014,522,20,6000014,5,86400,prefabs/ui/money/gift/gift_cake/gift_cake2,5
+10,1,36,480015,481015,523,20,6000014,5,86400,prefabs/ui/money/gift/gift_cake/gift_cake3,3
+11,1,37,480016,481016,524,20,6000014,5,86400,prefabs/ui/money/gift/gift_cake/gift_cake4,5

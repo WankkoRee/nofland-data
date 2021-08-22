@@ -1,0 +1,945 @@
+1 {
+  1: "client_common.proto"
+  2: "Nofland"
+  3: "common.proto"
+  4 {
+    1: "ChangeData"
+    2 {
+      1: "serverTimestamp"
+      3: 1
+      4: 1
+      5: 3
+      10: "serverTimestamp"
+    }
+    2 {
+      1: "lucimarChange"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.LucimarData"
+      10: "lucimarChange"
+    }
+    2 {
+      1: "itemsChange"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.ItemsData"
+      10: "itemsChange"
+    }
+    2 {
+      1: "tasksChange"
+      3: 4
+      4: 1
+      5: 11
+      6: ".Nofland.TasksChangeData"
+      10: "tasksChange"
+    }
+    2 {
+      1: "elfsChange"
+      3: 5
+      4: 1
+      5: 11
+      6: ".Nofland.ElfsChangeData"
+      10: "elfsChange"
+    }
+    2 {
+      1: "gathersChange"
+      3: 6
+      4: 1
+      5: 11
+      6: ".Nofland.GatherChangeData"
+      10: "gathersChange"
+    }
+    2 {
+      1: "caravanChange"
+      3: 7
+      4: 1
+      5: 11
+      6: ".Nofland.CaravanChangeData"
+      10: "caravanChange"
+    }
+    2 {
+      1: "cultureChange"
+      3: 8
+      4: 1
+      5: 11
+      6: ".Nofland.CultureChangeData"
+      10: "cultureChange"
+    }
+    2 {
+      1: "handbooksChange"
+      3: 9
+      4: 1
+      5: 11
+      6: ".Nofland.HandbookChangeData"
+      10: "handbooksChange"
+    }
+    2 {
+      1: "achievementsChange"
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.AchievementChangeData"
+      10: "achievementsChange"
+    }
+    2 {
+      1: "formulasChange"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.FormulasChangeData"
+      10: "formulasChange"
+    }
+    2 {
+      1: "alchemyChange"
+      3: 12
+      4: 1
+      5: 11
+      6: ".Nofland.AlchemyChangeData"
+      10: "alchemyChange"
+    }
+    2 {
+      1: "quickenChange"
+      3: 13
+      4: 1
+      5: 11
+      6: ".Nofland.QuickenData"
+      10: "quickenChange"
+    }
+    2 {
+      1: "worldlineChange"
+      3: 14
+      4: 1
+      5: 11
+      6: ".Nofland.WorldlinePlayerBase"
+      10: "worldlineChange"
+    }
+    2 {
+      1: "notifyChange"
+      3: 15
+      4: 1
+      5: 11
+      6: ".Nofland.NotifyChangeData"
+      10: "notifyChange"
+    }
+    2 {
+      1: "termChange"
+      3: 16
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "termChange"
+    }
+    2 {
+      1: "entrustsChange"
+      3: 17
+      4: 1
+      5: 11
+      6: ".Nofland.EntrustsChangeData"
+      10: "entrustsChange"
+    }
+    2 {
+      1: "elfRepeatChange"
+      3: 18
+      4: 1
+      5: 11
+      6: ".Nofland.ElfRepeatChangeData"
+      10: "elfRepeatChange"
+    }
+    2 {
+      1: "savingsChange"
+      3: 19
+      4: 1
+      5: 11
+      6: ".Nofland.SavingsData"
+      10: "savingsChange"
+    }
+    2 {
+      1: "saleChange"
+      3: 20
+      4: 1
+      5: 11
+      6: ".Nofland.SaleChangeData"
+      10: "saleChange"
+    }
+    2 {
+      1: "npcChange"
+      3: 21
+      4: 1
+      5: 11
+      6: ".Nofland.NpcChangeData"
+      10: "npcChange"
+    }
+  }
+  4 {
+    1: "NotifyChangeData"
+    2 {
+      1: "daily"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.DailyRefreshData"
+      10: "daily"
+    }
+    2 {
+      1: "zero"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.ZeroRefreshData"
+      10: "zero"
+    }
+    2 {
+      1: "element"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.ElementChangeData"
+      10: "element"
+    }
+    2 {
+      1: "worldline"
+      3: 4
+      4: 1
+      5: 11
+      6: ".Nofland.WorldlineChangeData"
+      10: "worldline"
+    }
+    2 {
+      1: "banner"
+      3: 5
+      4: 1
+      5: 11
+      6: ".Nofland.BannerChangeData"
+      10: "banner"
+    }
+    2 {
+      1: "shop"
+      3: 6
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityShopChangeData"
+      10: "shop"
+    }
+    2 {
+      1: "addition"
+      3: 7
+      4: 1
+      5: 11
+      6: ".Nofland.AdditionChangeData"
+      10: "addition"
+    }
+    2 {
+      1: "mail"
+      3: 8
+      4: 1
+      5: 11
+      6: ".Nofland.MailChangeData"
+      10: "mail"
+    }
+    2 {
+      1: "friend"
+      3: 9
+      4: 1
+      5: 11
+      6: ".Nofland.FriendChangeData"
+      10: "friend"
+    }
+    2 {
+      1: "worth"
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.WorthChangeData"
+      10: "worth"
+    }
+    2 {
+      1 {
+        14: 114
+        12: 0x746e6573
+      }
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.PresentChangeData"
+      10 {
+        14: 114
+        12: 0x746e6573
+      }
+    }
+    2 {
+      1: "activityPresent"
+      3: 12
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityPresentChangeData"
+      10: "activityPresent"
+    }
+    2 {
+      1: "contact"
+      3: 13
+      4: 1
+      5: 11
+      6: ".Nofland.ContactChangeData"
+      10: "contact"
+    }
+    2 {
+      1: "savings"
+      3: 14
+      4: 1
+      5: 11
+      6: ".Nofland.SavingsChangeData"
+      10: "savings"
+    }
+    2 {
+      1 {
+        14: 0x736e6f6974736575
+      }
+      3: 15
+      4: 1
+      5: 11
+      6: ".Nofland.QuestionChangeData"
+      10 {
+        14: 0x736e6f6974736575
+      }
+    }
+  }
+  4 {
+    1: "DailyRefreshData"
+    2 {
+      1: "character"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.CharacterDaily"
+      10: "character"
+    }
+    2 {
+      1: "npc"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.NpcDaily"
+      10: "npc"
+    }
+    2 {
+      1: "quicken"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.QuickenDaily"
+      10: "quicken"
+    }
+    2 {
+      1: "pray"
+      3: 4
+      4: 1
+      5: 11
+      6: ".Nofland.PrayDaily"
+      10: "pray"
+    }
+    2 {
+      1: "homeWork"
+      3: 5
+      4: 1
+      5: 11
+      6: ".Nofland.HomeWorkDaily"
+      10: "homeWork"
+    }
+    2 {
+      1 {
+        12: 0x7572746e
+        14 {
+        }
+      }
+      3: 6
+      4: 1
+      5: 11
+      6: ".Nofland.EntrustDaily"
+      10 {
+        12: 0x7572746e
+        14 {
+        }
+      }
+    }
+    2 {
+      1: "presents"
+      3: 7
+      4: 1
+      5: 11
+      6: ".Nofland.PresentsData"
+      10: "presents"
+    }
+  }
+  4 {
+    1: "ZeroRefreshData"
+    2 {
+      1: "character"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.CharacterZero"
+      10: "character"
+    }
+    2 {
+      1: "worth"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.WorthZero"
+      10: "worth"
+    }
+    2 {
+      1: "presents"
+      3: 7
+      4: 1
+      5: 11
+      6: ".Nofland.PresentsData"
+      10: "presents"
+    }
+  }
+  4 {
+    1: "ElementChangeData"
+    2 {
+      1: "landInElementDay"
+      3: 1
+      4: 1
+      5: 5
+      10: "landInElementDay"
+    }
+  }
+  4 {
+    1: "WorldlineChangeData"
+    2 {
+      1: "schedule"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.TimeScheduleData"
+      10: "schedule"
+    }
+  }
+  4 {
+    1: "BannerChangeData"
+    2 {
+      1: "data"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityBannerData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "ActivityShopChangeData"
+    2 {
+      1: "data"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityShopData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "AdditionChangeData"
+    2 {
+      1: "data"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityAdditionData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "ActivityPresentChangeData"
+    2 {
+      1: "data"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityPresentData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "MailChangeData"
+    2 {
+      1: "finalTime"
+      3: 1
+      4: 1
+      5: 3
+      10: "finalTime"
+    }
+  }
+  4 {
+    1: "FriendChangeData"
+    2 {
+      1: "applyNum"
+      3: 1
+      4: 1
+      5: 5
+      10: "applyNum"
+    }
+  }
+  4 {
+    1: "WorthChangeData"
+    2 {
+      1: "data"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.WorthData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "PresentChangeData"
+    2 {
+      1: "data"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.PresentsData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "ElfRepeatChangeData"
+    2 {
+      1: "awards"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.ElfRepeatAward"
+      10: "awards"
+    }
+  }
+  4 {
+    1: "ElfRepeatAward"
+    2 {
+      1: "elfCfgId"
+      3: 1
+      4: 1
+      5: 13
+      10: "elfCfgId"
+    }
+    2 {
+      1: "award"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.ItemData"
+      10: "award"
+    }
+  }
+  4 {
+    1: "PlatformData"
+    2 {
+      1: "platform"
+      3: 1
+      4: 1
+      5: 5
+      10: "platform"
+    }
+    2 {
+      1: "token"
+      3: 2
+      4: 1
+      5: 9
+      10: "token"
+    }
+    2 {
+      1: "native"
+      3: 3
+      4: 1
+      5: 9
+      10: "native"
+    }
+  }
+  4 {
+    1: "FriendShow"
+    2 {
+      1: "UID"
+      3: 1
+      4: 1
+      5: 4
+      10: "UID"
+    }
+    2 {
+      1: "state"
+      3: 2
+      4: 1
+      5: 5
+      10: "state"
+    }
+    2 {
+      1: "info"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.ContactData"
+      10: "info"
+    }
+  }
+  4 {
+    1: "FriendsShow"
+    2 {
+      1: "friends"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.FriendsShow.FriendsEntry"
+      10: "friends"
+    }
+    3 {
+      1: "FriendsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 4
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.FriendShow"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "ThingsData"
+    2 {
+      1: "things"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.ThingData"
+      10: "things"
+    }
+  }
+  4 {
+    1: "WorldlineRecordDatas"
+    2 {
+      1: "records"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.WorldlineRecordData"
+      10: "records"
+    }
+  }
+  4 {
+    1: "CharacterDaily"
+    2 {
+      1: "tinyGameTimes"
+      3: 1
+      4: 1
+      5: 5
+      10: "tinyGameTimes"
+    }
+    2 {
+      1: "praisePlayers"
+      3: 2
+      4: 3
+      5: 4
+      10: "praisePlayers"
+    }
+    2 {
+      1: "foundTimes"
+      3: 3
+      4: 1
+      5: 5
+      10: "foundTimes"
+    }
+    2 {
+      1: "foundFriends"
+      3: 4
+      4: 3
+      5: 4
+      10: "foundFriends"
+    }
+    2 {
+      1: "elfsPlayers"
+      3: 5
+      4: 3
+      5: 4
+      10: "elfsPlayers"
+    }
+    2 {
+      1: "badgesPlayers"
+      3: 6
+      4: 3
+      5: 4
+      10: "badgesPlayers"
+    }
+  }
+  4 {
+    1: "CharacterZero"
+    2 {
+      1 {
+        13: 0x6e696b6365684373
+      }
+      3: 1
+      4: 1
+      5: 8
+      10 {
+        13: 0x6e696b6365684373
+      }
+    }
+    2 {
+      1: "checkinDays"
+      3: 2
+      4: 1
+      5: 13
+      10: "checkinDays"
+    }
+    2 {
+      1: "isSevenSign"
+      3: 3
+      4: 1
+      5: 8
+      10: "isSevenSign"
+    }
+  }
+  4 {
+    1: "NpcDaily"
+    2 {
+      1: "npcs"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.NpcFriendShipData"
+      10: "npcs"
+    }
+  }
+  4 {
+    1: "QuickenDaily"
+    2 {
+      1: "freeTime"
+      3: 1
+      4: 1
+      5: 3
+      10: "freeTime"
+    }
+    2 {
+      1: "freeTip"
+      3: 2
+      4: 1
+      5: 8
+      10: "freeTip"
+    }
+    2 {
+      1: "extraTip"
+      3: 3
+      4: 1
+      5: 8
+      10: "extraTip"
+    }
+    2 {
+      1: "chargeTimes"
+      3: 4
+      4: 1
+      5: 5
+      10: "chargeTimes"
+    }
+    2 {
+      1: "quickenFriends"
+      3: 5
+      4: 3
+      5: 4
+      10: "quickenFriends"
+    }
+  }
+  4 {
+    1: "PrayDaily"
+    2 {
+      1: "isPrayed"
+      3: 1
+      4: 1
+      5: 8
+      10: "isPrayed"
+    }
+  }
+  4 {
+    1: "HomeWorkDaily"
+    2 {
+      1: "tasksMap"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.HomeWorkDaily.TasksMapEntry"
+      10: "tasksMap"
+    }
+    3 {
+      1: "TasksMapEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.TaskData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "EntrustDaily"
+    2 {
+      1: "data"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.EntrustsData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "WorthZero"
+    2 {
+      1: "crystalDaily"
+      3: 1
+      4: 1
+      5: 8
+      10: "crystalDaily"
+    }
+  }
+  4 {
+    1: "DrawProb"
+    2 {
+      1: "itemId"
+      3: 1
+      4: 1
+      5: 13
+      10: "itemId"
+    }
+    2 {
+      1: "prob"
+      3: 2
+      4: 1
+      5: 5
+      10: "prob"
+    }
+  }
+  4 {
+    1: "DrawProbList"
+    2 {
+      1: "cardList"
+      3: 1
+      4: 3
+      5: 11
+      6: ".Nofland.DrawProb"
+      10: "cardList"
+    }
+  }
+  4 {
+    1: "ContactChangeData"
+    2 {
+      1: "beQuickenedTimes"
+      3: 1
+      4: 1
+      5: 5
+      10: "beQuickenedTimes"
+    }
+  }
+  4 {
+    1: "SavingsChangeData"
+    2 {
+      1: "activity"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ActivitySavingsData"
+      10: "activity"
+    }
+    2 {
+      1: "data"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.SavingsData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "QuestionChangeData"
+    2 {
+      1: "data"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.QuestionnaireData"
+      10: "data"
+    }
+    2 {
+      1: "save"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.QuestionnaireSave"
+      10: "save"
+    }
+  }
+  4 {
+    1: "AccountData"
+    2 {
+      1: "account"
+      3: 1
+      4: 1
+      5: 9
+      10: "account"
+    }
+    2 {
+      1: "version"
+      3: 2
+      4: 1
+      5: 9
+      10: "version"
+    }
+    2 {
+      1: "deviceCode"
+      3: 3
+      4: 1
+      5: 9
+      10: "deviceCode"
+    }
+  }
+  4 {
+    1: "SaleChangeData"
+    2 {
+      1: "beginTime"
+      3: 1
+      4: 1
+      5: 3
+      10: "beginTime"
+    }
+    2 {
+      1: "endTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "endTime"
+    }
+  }
+  10: 0
+  12: "proto3"
+}

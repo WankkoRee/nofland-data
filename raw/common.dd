@@ -1,0 +1,832 @@
+
+•æ
+common.protoNofland"
+	ErrorCode
+code (Rcode"‘
+	EnterData(
+serverTimestamp (RserverTimestamp*
+landInElementDay (RlandInElementDay.
+lucimar (2.Nofland.LucimarDataRlucimar(
+items (2.Nofland.ItemsDataRitems%
+elfs (2.Nofland.ElfsDataRelfs(
+tasks (2.Nofland.TasksDataRtasks1
+entrusts (2.Nofland.EntrustsDataRentrusts-
+gathers (2.Nofland.GatherDataRgathers0
+caravans	 (2.Nofland.CaravanDataRcaravans3
+	handbooks
+ (2.Nofland.HandbookDataR	handbooks<
+achievements (2.Nofland.AchievementDataRachievements0
+cultures (2.Nofland.CultureDataRcultures.
+alchemy (2.Nofland.AlchemyDataRalchemy1
+formulas (2.Nofland.FormulasDataRformulas$
+npcs (2.Nofland.NpcDataRnpcs%
+sale (2.Nofland.SaleDataRsale.
+quicken (2.Nofland.QuickenDataRquicken<
+	worldline (2.Nofland.WorldlinePlayerClientR	worldline5
+
+activities (2.Nofland.ActivityDataR
+activities3
+termData (2.Nofland.PassPlayerDataRtermData8
+roomData (2.Nofland.MagicRoomPlayerDataRroomData$
+mailFinalTime (RmailFinalTime&
+friendApplyNum (RfriendApplyNum(
+worth (2.Nofland.WorthDataRworth/
+present (2.Nofland.PresentsDataRpresent*
+beQuickenedTimes (RbeQuickenedTimes.
+savings (2.Nofland.SavingsDataRsavingsE
+activitySaleData (2.Nofland.ActivitySaleDataRactivitySaleDataH
+questionnaireSave (2.Nofland.QuestionnaireSaveRquestionnaireSave3
+
+playerData (2.Nofland.PlayerDataR
+playerData"ƒ
+UserData
+account (	Raccount
+regtime (Rregtime
+platform (Rplatform
+regionID (RregionID
+	playerUID (R	playerUID
+IP (	RIP
+
+deviceCode (	R
+deviceCode"Œ
+
+PlayerData
+	isCreated (R	isCreated*
+dailyRefreshTime (RdailyRefreshTime(
+zeroRefreshTime (RzeroRefreshTime$
+lastLoginTime (RlastLoginTime&
+lastLogoutTime (RlastLogoutTime"ƒ	
+LucimarData
+level (Rlevel
+totalExp (RtotalExp
+exp (RexpY
+workshopDecorates (2+.Nofland.LucimarData.WorkshopDecoratesEntryRworkshopDecorates8
+guides (2 .Nofland.LucimarData.GuidesEntryRguides
+	isCheckin (R	isCheckin 
+checkinDays (RcheckinDays*
+checkinResetTime (RcheckinResetTime$
+tinyGameTimes	 (RtinyGameTimes3
+	luckDraws
+ (2.Nofland.LuckDrawDataR	luckDrawsS
+luckDrawReplace (2).Nofland.LucimarData.LuckDrawReplaceEntryRluckDrawReplace$
+praisePlayers (RpraisePlayers
+
+foundTimes (R
+foundTimes"
+foundFriends (RfoundFriends 
+elfsPlayers (RelfsPlayers$
+badgesPlayers (RbadgesPlayers
+
+linkAwards (R
+linkAwards
+name (	Rname 
+isSevenSign (RisSevenSign$
+sevenSignDays (RsevenSignDays
+isBuyKey (RisBuyKey$
+ReminderStage (RReminderStage
+portrait (Rportrait
+	signature (	R	signature'
+badges (2.Nofland.BadgesRbadges(
+activtySaleCoin (RactivtySaleCoinD
+WorkshopDecoratesEntry
+key (Rkey
+value (Rvalue:89
+GuidesEntry
+key (Rkey
+value (Rvalue:8B
+LuckDrawReplaceEntry
+key (	Rkey
+value (Rvalue:8"b
+LuckDrawData
+activity (Ractivity
+oneTimes (RoneTimes
+tenTimes (RtenTimes"2
+ItemData
+cfgId (RcfgId
+num (Rnum"ô
+	ItemsData<
+itemsMap (2 .Nofland.ItemsData.ItemsMapEntryRitemsMapN
+ItemsMapEntry
+key (Rkey'
+value (2.Nofland.ItemDataRvalue:8"7
+	SkillData
+cfgID (RcfgID
+level (Rlevel"Á
+ElfData
+cfgID (RcfgID
+skinID (RskinID
+exp (Rexp
+level (Rlevel 
+awakenStage (RawakenStage 
+awakenValue (RawakenValue 
+effortValue (ReffortValue
+
+holderType (R
+holderType 
+friendValue	 (RfriendValue 
+unlockPaint
+ (RunlockPaint<
+skillGrooves (2.Nofland.SkillGrooveDataRskillGrooves"∆
+ElfsData8
+elfsMap (2.Nofland.ElfsData.ElfsMapEntryRelfsMap2
+contactElfs (2.Nofland.UValuesRcontactElfsL
+ElfsMapEntry
+key (Rkey&
+value (2.Nofland.ElfDataRvalue:8"⁄
+ElfsChangeDataD
+	addUpdata (2&.Nofland.ElfsChangeData.AddUpdataEntryR	addUpdata2
+contactElfs (2.Nofland.UValuesRcontactElfsN
+AddUpdataEntry
+key (Rkey&
+value (2.Nofland.ElfDataRvalue:8"Å
+SkillGrooveData
+cfgID (RcfgID
+level (Rlevel
+skillID (RskillID(
+optionalSkillID (RoptionalSkillID"ù
+
+GatherData:
+areaMap (2 .Nofland.GatherData.AreaMapEntryRareaMapS
+AreaMapEntry
+key (Rkey-
+value (2.Nofland.GatherAreaDataRvalue:8"©
+GatherChangeData@
+areaMap (2&.Nofland.GatherChangeData.AreaMapEntryRareaMapS
+AreaMapEntry
+key (Rkey-
+value (2.Nofland.GatherAreaDataRvalue:8"ñ
+GatherAreaData
+type (Rtype
+cfgId (RcfgId
+elfsKey (RelfsKey
+toolId (RtoolId
+	toolCount (R	toolCount
+	startTime (R	startTime
+overTime (RoverTime
+	passTimes (R	passTimesA
+awardMap	 (2%.Nofland.GatherAreaData.AwardMapEntryRawardMapP
+extraAwardMap
+ (2*.Nofland.GatherAreaData.ExtraAwardMapEntryRextraAwardMapY
+activityAwardMap (2-.Nofland.GatherAreaData.ActivityAwardMapEntryRactivityAwardMap;
+AwardMapEntry
+key (Rkey
+value (Rvalue:8@
+ExtraAwardMapEntry
+key (Rkey
+value (Rvalue:8C
+ActivityAwardMapEntry
+key (Rkey
+value (Rvalue:8"†
+CaravanData;
+areaMap (2!.Nofland.CaravanData.AreaMapEntryRareaMapT
+AreaMapEntry
+key (Rkey.
+value (2.Nofland.CaravanAreaDataRvalue:8"ì
+CaravanAreaData
+cfgId (RcfgId
+elfsKey (RelfsKey
+	startTime (R	startTime
+overTime (RoverTime
+	passTimes (R	passTimes"
+awardFormula (RawardFormula,
+extraAwardFormula (RextraAwardFormula&
+compensateCoin (RcompensateCoin"¨
+CaravanChangeDataA
+areaMap (2'.Nofland.CaravanChangeData.AreaMapEntryRareaMapT
+AreaMapEntry
+key (Rkey.
+value (2.Nofland.CaravanAreaDataRvalue:8"Ö
+FormulaData
+cfgID (RcfgID 
+proficiency (Rproficiency&
+useRefiningUID (RuseRefiningUIDA
+	refinings (2#.Nofland.FormulaData.RefiningsEntryR	refiningsS
+RefiningsEntry
+key (Rkey+
+value (2.Nofland.RefiningDataRvalue:8"Æ
+FormulasDataH
+formulasMap (2&.Nofland.FormulasData.FormulasMapEntryRformulasMapT
+FormulasMapEntry
+key (Rkey*
+value (2.Nofland.FormulaDataRvalue:8"≤
+FormulasChangeDataH
+	addUpdata (2*.Nofland.FormulasChangeData.AddUpdataEntryR	addUpdataR
+AddUpdataEntry
+key (Rkey*
+value (2.Nofland.FormulaDataRvalue:8"∏
+RefiningData
+UID (RUID
+stage (RstageB
+	materials (2$.Nofland.RefiningData.MaterialsEntryR	materials<
+MaterialsEntry
+key (Rkey
+value (Rvalue:8"⁄
+RefiningRecordData
+cfgID (RcfgIDH
+	materials (2*.Nofland.RefiningRecordData.MaterialsEntryR	materials&
+useRefiningUID (RuseRefiningUID<
+MaterialsEntry
+key (Rkey
+value (Rvalue:8"ö
+AlchemyData&
+selectedElfKey (RselectedElfKey,
+selectedFormulaID (RselectedFormulaID5
+records (2.Nofland.RefiningRecordDataRrecords"C
+AlchemyChangeData.
+alchemy (2.Nofland.AlchemyDataRalchemy"L
+TaskData
+cfgId (RcfgId
+state (Rstate
+value (Rvalue"ô
+	TasksData<
+tasksMap (2 .Nofland.TasksData.TasksMapEntryRtasksMapN
+TasksMapEntry
+key (Rkey'
+value (2.Nofland.TaskDataRvalue:8"ª
+TasksChangeDataE
+	addUpdata (2'.Nofland.TasksChangeData.AddUpdataEntryR	addUpdata
+del (RdelO
+AddUpdataEntry
+key (Rkey'
+value (2.Nofland.TaskDataRvalue:8"É
+EntrustData
+isUnlock (RisUnlock
+cfgId (RcfgId
+gearPos (RgearPos
+npcIndex (RnpcIndex5
+deliveryItem (2.Nofland.ItemDataRdeliveryItem3
+rewardItems (2.Nofland.ItemDataRrewardItems 
+refreshTime (RrefreshTime"÷
+EntrustsData$
+useCountDaily (RuseCountDaily8
+entrustsList (2.Nofland.EntrustDataRentrustsList&
+dailyAwardGold (RdailyAwardGoldZ
+entrustStatistics (2,.Nofland.EntrustsData.EntrustStatisticsEntryRentrustStatistics
+	dailyDone (R	dailyDoneD
+EntrustStatisticsEntry
+key (Rkey
+value (Rvalue:8"N
+EntrustsChangeData8
+entrustsList (2.Nofland.EntrustDataRentrustsList"•
+CultureDataD
+
+groovesMap (2$.Nofland.CultureData.GroovesMapEntryR
+groovesMapA
+	potPutMap (2#.Nofland.CultureData.PotPutMapEntryR	potPutMapP
+plantUnlockMap (2(.Nofland.CultureData.PlantUnlockMapEntryRplantUnlockMap$
+lastUnlockIdx (RlastUnlockIdxY
+GroovesMapEntry
+key (Rkey0
+value (2.Nofland.CultureGrooveDataRvalue:8X
+PotPutMapEntry
+key (Rkey0
+value (2.Nofland.CulturePotPutDataRvalue:8`
+PlantUnlockMapEntry
+key (Rkey3
+value (2.Nofland.CulturePlantlockDataRvalue:8"c
+CulturePotPutData
+	curPutNum (R	curPutNum
+begainId (RbegainId
+endId (RendId"N
+CulturePlantlockData
+
+plantCfgId (R
+plantCfgId
+unlock (Runlock"l
+CultureGrooveData
+cfgId (RcfgId
+unlock (Runlock)
+pot (2.Nofland.CulturePotDataRpot"å
+CulturePotData
+cfgId (RcfgId
+elfKey (RelfKey
+	plantMode (R	plantMode.
+corps (2.Nofland.CultureCropDataRcorps"ø
+CultureCropData
+cfgId (RcfgId 
+posIdxInPot (RposIdxInPot
+	startTime (R	startTime
+overTime (RoverTime
+	takeTimes (R	takeTimes
+	matureLen (R	matureLen"‚
+CultureChangeDatab
+plantlockChangeMap (22.Nofland.CultureChangeData.PlantlockChangeMapEntryRplantlockChangeMapY
+grooveChangeMap (2/.Nofland.CultureChangeData.GrooveChangeMapEntryRgrooveChangeMapJ
+
+cropAddMap (2*.Nofland.CultureChangeData.CropAddMapEntryR
+cropAddMapJ
+
+cropDelMap (2*.Nofland.CultureChangeData.CropDelMapEntryR
+cropDelMapd
+PlantlockChangeMapEntry
+key (Rkey3
+value (2.Nofland.CulturePlantlockDataRvalue:8^
+GrooveChangeMapEntry
+key (Rkey0
+value (2.Nofland.CultureGrooveDataRvalue:8W
+CropAddMapEntry
+key (Rkey.
+value (2.Nofland.CultureCropDataRvalue:8W
+CropDelMapEntry
+key (Rkey.
+value (2.Nofland.CultureCropDataRvalue:8">
+HandbookItemData
+cfgID (RcfgID
+isNew (RisNew"∑
+HandbookDataK
+handbooksMap (2'.Nofland.HandbookData.HandbooksMapEntryRhandbooksMapZ
+HandbooksMapEntry
+key (Rkey/
+value (2.Nofland.HandbookItemDataRvalue:8"6
+HandbookChangeData 
+unlockItems (RunlockItems"W
+AchievementItemData
+cfgID (RcfgID
+state (Rstate
+value (Rvalue"Ã
+AchievementDataW
+achievementsMap (2-.Nofland.AchievementData.AchievementsMapEntryRachievementsMap`
+AchievementsMapEntry
+key (Rkey2
+value (2.Nofland.AchievementItemDataRvalue:8"ÿ
+AchievementChangeData]
+achievementsMap (23.Nofland.AchievementChangeData.AchievementsMapEntryRachievementsMap`
+AchievementsMapEntry
+key (Rkey2
+value (2.Nofland.AchievementItemDataRvalue:8"X
+PrayData
+days (Rdays
+isPrayed (RisPrayed
+	resetTime (R	resetTime"e
+	StudyData
+cfgIDs (RcfgIDs
+nextTime (RnextTime$
+canStudyCount (RcanStudyCount"-
+HearsayData
+
+hearsayIDs (R
+hearsayIDs"z
+TownData.
+hearsay (2.Nofland.HearsayDataRhearsay>
+activityhearsay (2.Nofland.HearsayDataRactivityhearsay"o
+ShopGoodsData
+cfgID (RcfgID
+num (Rnum
+buyTimes (RbuyTimes
+discount (Rdiscount"ñ
+ShopSingleData
+type (Rtype8
+shopGoodses (2.Nofland.ShopGoodsDataRshopGoodses
+openTime (RopenTime
+nextTime (RnextTime"√
+ShopData-
+shops (2.Nofland.ShopSingleDataRshopsG
+quotaGoodses (2#.Nofland.ShopData.QuotaGoodsesEntryRquotaGoodses?
+QuotaGoodsesEntry
+key (Rkey
+value (Rvalue:8"¢
+MailCore
+type (Rtype
+cfgID (RcfgID
+title (	Rtitle
+sender (Rsender
+
+createTime (R
+createTime 
+invalidTime (RinvalidTime
+content (	Rcontent-
+strings (2.Nofland.StringDataRstrings3
+attachments	 (2.Nofland.ItemDataRattachments"≥
+MailData
+UID (RUID%
+core (2.Nofland.MailCoreRcore
+isRead (RisRead
+	isReceive (R	isReceive
+isDelete (RisDelete
+	isCollect (R	isCollect"<
+
+StringData
+isCfg (RisCfg
+content (	Rcontent"4
+	MailsData'
+mails (2.Nofland.MailDataRmails"T
+MailsChangeData'
+mails (2.Nofland.MailDataRmails
+deletes (Rdeletes"~
+SalePlaceData
+index (Rindex+
+product (2.Nofland.ItemDataRproduct*
+proficiencyLevel (RproficiencyLevel"q
+SaleOrderData
+cfgID (RcfgID
+state (Rstate
+endTime (RendTime
+storyIdx (RstoryIdx"ˆ
+SaleData
+	beginTime (R	beginTime
+endTime (RendTime5
+places (2.Nofland.SaleData.PlacesEntryRplaces>
+goldChangeValue (2.Nofland.ChangeValueRgoldChangeValue
+	gotProfit (R	gotProfit
+gotRatio (RgotRatio.
+orders (2.Nofland.SaleOrderDataRordersQ
+PlacesEntry
+key (Rkey,
+value (2.Nofland.SalePlaceDataRvalue:8"‰
+FuturesOrderData
+UID (RUID
+ownerUID (RownerUID
+cfgID (RcfgID
+opt (Ropt
+	unitPrice (R	unitPrice
+initial (Rinitial
+amount (Ramount
+time (Rtime
+cancel	 (Rcancel"f
+FuturesBriefData
+	productID (R	productID
+amount (Ramount
+	spotPrice (R	spotPrice"Z
+FuturesPriceData
+opt (Ropt
+amount (Ramount
+	unitPrice (R	unitPrice"_
+
+MarketData
+
+tradeTimes (R
+tradeTimes1
+orders (2.Nofland.FuturesOrderDataRorders"⁄
+NpcDataB
+npcFriendShips (2.Nofland.NpcFriendShipDataRnpcFriendShipsI
+entrustRecord (2#.Nofland.NpcData.EntrustRecordEntryRentrustRecord@
+EntrustRecordEntry
+key (Rkey
+value (Rvalue:8"ü
+NpcFriendShipData
+npcCfgID (RnpcCfgID 
+friendValue (RfriendValue(
+normalGiftTimes (RnormalGiftTimes"
+unlockStorys (	RunlockStorys"W
+ChangeValue&
+changeAbsolute (RchangeAbsolute 
+changeRatio (RchangeRatio"D
+PackageData5
+packages (2.Nofland.PackageCardCountRpackages"Æ
+PackageCardCount
+UID (RUIDI
+
+cardsCount (2).Nofland.PackageCardCount.CardsCountEntryR
+cardsCount=
+CardsCountEntry
+key (Rkey
+value (Rvalue:8"›
+QuickenData
+level (Rlevel
+freeTime (RfreeTime
+	extraTime (R	extraTime
+freeTip (RfreeTip
+extraTip (RextraTip 
+chargeTimes (RchargeTimes&
+quickenFriends (RquickenFriends"U
+	BadgeData
+cfgID (RcfgID
+x (Rx
+y (Ry
+rotate (Rrotate"4
+Badges*
+values (2.Nofland.BadgeDataRvalues"!
+UValues
+values (Rvalues"v
+UUMap2
+values (2.Nofland.UUMap.ValuesEntryRvalues9
+ValuesEntry
+key (Rkey
+value (Rvalue:8"í
+ContactData
+name (	Rname
+portrait (Rportrait
+	signature (	R	signature
+level (Rlevel"
+quickenLevel (RquickenLevel$
+elfs (2.Nofland.UValuesRelfs'
+badges (2.Nofland.BadgesRbadges,
+	decorates (2.Nofland.UUMapR	decorates*
+allElfs	 (2.Nofland.UValuesRallElfs&
+bePraisedTimes (RbePraisedTimes*
+beQuickenedTimes (RbeQuickenedTimes"¢
+ModifyContact
+value (	Rvalue$
+elfs (2.Nofland.UValuesRelfs'
+badges (2.Nofland.BadgesRbadges,
+	decorates (2.Nofland.UUMapR	decorates"y
+	ThingData
+UID (RUID
+name (	Rname
+type (Rtype
+value (	Rvalue
+	timestamp (R	timestamp"Z
+TimeScheduleData
+ID (RID
+	beginTime (R	beginTime
+endTime (RendTime"’
+WorldlinePlayerData0
+base (2.Nofland.WorldlinePlayerBaseRbase8
+worldlineTask (2.Nofland.TasksDataRworldlineTask0
+	unionTask (2.Nofland.TasksDataR	unionTask 
+eventReward (ReventReward"`
+WorldlinePlayerUnion
+ID (RID
+scores (Rscores 
+stageReward (RstageReward"≥
+WorldlinePlayerBase 
+worldlineID (RworldlineID
+union (Runion?
+unionScores (2.Nofland.WorldlinePlayerUnionRunionScoresC
+records (2).Nofland.WorldlinePlayerBase.RecordsEntryRrecords"
+endingReward (RendingReward:
+RecordsEntry
+key (Rkey
+value (Rvalue:8"Ä
+WorldlinePlayerClient0
+base (2.Nofland.WorldlinePlayerBaseRbase5
+schedule (2.Nofland.TimeScheduleDataRschedule"ï
+WorldlineUnionData
+ID (RID
+scores (Rscores"
+membersCount (RmembersCount3
+events (2.Nofland.WorldlineEventDataRevents"Y
+WorldlineEventData
+ID (RID3
+stages (2.Nofland.WorldlineStageDataRstages"∏
+WorldlineStageData
+ID (RIDB
+choices (2(.Nofland.WorldlineStageData.ChoicesEntryRchoicesQ
+choicesCount (2-.Nofland.WorldlineStageData.ChoicesCountEntryRchoicesCount:
+ChoicesEntry
+key (Rkey
+value (Rvalue:8?
+ChoicesCountEntry
+key (Rkey
+value (Rvalue:8"©
+WorldlineRecordData
+event (Revent
+union (Runion
+stage (Rstage
+choice (Rchoice
+	timestamp (R	timestamp
+complete (Rcomplete"À
+WorldlineData5
+schedule (2.Nofland.TimeScheduleDataRschedule3
+unions (2.Nofland.WorldlineUnionDataRunions6
+records (2.Nofland.WorldlineRecordDataRrecords
+ending (Rending"“
+WorldlineHistoryData
+ID (RID
+	beginTime (R	beginTimeA
+scores (2).Nofland.WorldlineHistoryData.ScoresEntryRscoresS
+eventsEnding (2/.Nofland.WorldlineHistoryData.EventsEndingEntryReventsEnding(
+worldlineEnding (RworldlineEndingN
+worldlineRecordData (2.Nofland.WorldlineRecordDataRworldlineRecordData9
+ScoresEntry
+key (Rkey
+value (Rvalue:8?
+EventsEndingEntry
+key (Rkey
+value (Rvalue:8"◊
+ActivityData-
+shop (2.Nofland.ActivityShopDataRshop9
+addition (2.Nofland.ActivityAdditionDataRaddition3
+banner (2.Nofland.ActivityBannerDataRbanner6
+present (2.Nofland.ActivityPresentDataRpresent6
+savings (2.Nofland.ActivitySavingsDataRsavings8
+	questions (2.Nofland.QuestionnaireDataR	questions"ì
+ActivityShopData5
+schedule (2.Nofland.TimeScheduleDataRschedule
+
+currencies (R
+currencies(
+activityShopCfg (RactivityShopCfg"ƒ
+ActivityShopPlayerData
+
+activityID (R
+activityIDL
+	buyCounts (2..Nofland.ActivityShopPlayerData.BuyCountsEntryR	buyCounts<
+BuyCountsEntry
+key (Rkey
+value (Rvalue:8"q
+ActivityAdditionData5
+schedule (2.Nofland.TimeScheduleDataRschedule"
+influenceCfg (RinfluenceCfg"n
+ActivityAdditionPlayerData
+
+activityID (R
+activityID0
+	tasksData (2.Nofland.TasksDataR	tasksData".
+ActivityBannerData
+banners (Rbanners"É
+AdministratorData
+account (	Raccount
+password (	Rpassword
+
+permission (R
+permission
+regtime (Rregtime"Ë
+Notice
+title (	Rtitle
+content (	Rcontent6
+details (2.Nofland.Notice.DetailsEntryRdetails
+	signature (	R	signature
+	imageData (	R	imageData:
+DetailsEntry
+key (	Rkey
+value (	Rvalue:8"L
+NoticesData)
+notices (2.Nofland.NoticeRnotices
+code (Rcode"ò
+PassPlayerData0
+	tasksData (2.Nofland.TasksDataR	tasksData
+	beginTime (R	beginTime
+	resetTime (R	resetTime
+endTime (RendTime"c
+MagicRoomData
+cfgId (RcfgId
+	leftState (R	leftState
+
+rightState (R
+rightState"∏
+MagicRoomsDataM
+magicRoomMap (2).Nofland.MagicRoomsData.MagicRoomMapEntryRmagicRoomMapW
+MagicRoomMapEntry
+key (Rkey,
+value (2.Nofland.MagicRoomDataRvalue:8"t
+MagicRoomPlayerData?
+magicRoomsData (2.Nofland.MagicRoomsDataRmagicRoomsData
+	beginTime (R	beginTime"¡
+GameOrderData
+orderID (	RorderID
+payable (Rpayable"
+creationTime (RcreationTime
+payment (Rpayment&
+completionTime (RcompletionTime
+state (Rstate
+buyType (RbuyType
+cfgID (RcfgID
+name	 (	Rname
+describe
+ (	Rdescribe 
+paymentTime (RpaymentTime"„
+PlatformOrderData
+state (Rstate
+payment (Rpayment
+account (	Raccount
+	timestamp (R	timestamp 
+gameOrderID (	RgameOrderID(
+platformOrderID (	RplatformOrderID
+original (	Roriginal"ç
+	WorthData
+
+crystalEnd (R
+crystalEnd
+blessEnd (RblessEnd 
+permitBegin (RpermitBegin"
+crystalDaily (RcrystalDaily"I
+PresentData
+ID (RID
+buy (Rbuy
+timeEnd (RtimeEnd">
+LimitPresentData
+ID (RID
+buyCount (RbuyCount"^
+RegularPresentData
+ID (RID
+buyCount (RbuyCount
+	resetTime (R	resetTime"Ü
+PresentsData?
+presents (2#.Nofland.PresentsData.PresentsEntryRpresentsN
+limitPresents (2(.Nofland.PresentsData.LimitPresentsEntryRlimitPresentsT
+regularPresents (2*.Nofland.PresentsData.RegularPresentsEntryRregularPresentsQ
+PresentsEntry
+key (Rkey*
+value (2.Nofland.PresentDataRvalue:8[
+LimitPresentsEntry
+key (Rkey/
+value (2.Nofland.LimitPresentDataRvalue:8_
+RegularPresentsEntry
+key (Rkey1
+value (2.Nofland.RegularPresentDataRvalue:8"´
+ActivityPresentCfg
+ID (RID
+title (	Rtitle
+	timeBegin (R	timeBegin
+timeEnd (RtimeEnd
+discount (Rdiscount
+
+rechargeID (R
+rechargeID
+
+limitCount (R
+limitCount'
+items (2.Nofland.ItemDataRitems
+enable	 (Renable
+describe
+ (	Rdescribe"≥
+ActivityPresentDataC
+configs (2).Nofland.ActivityPresentData.ConfigsEntryRconfigsW
+ConfigsEntry
+key (Rkey1
+value (2.Nofland.ActivityPresentCfgRvalue:8"ñ
+
+HotfixData
+enable (Renable 
+codeVersion (RcodeVersion
+
+appVersion (R
+appVersion
+uris (	Ruris
+download (	Rdownload"U
+WorldlineChoiceSave
+count (Rcount(
+latestTimestamp (RlatestTimestamp"î
+WorldlineStageSave
+
+totalCount (R
+totalCountB
+choices (2(.Nofland.WorldlineStageSave.ChoicesEntryRchoices"
+endTimestamp (RendTimestamp
+	endChoice (R	endChoiceX
+ChoicesEntry
+key (Rkey2
+value (2.Nofland.WorldlineChoiceSaveRvalue:8"ç
+WorldlineUnionSave
+scores (Rscores"
+membersCount (RmembersCount?
+stages (2'.Nofland.WorldlineUnionSave.StagesEntryRstages"
+highestEvent (RhighestEventV
+StagesEntry
+key (Rkey1
+value (2.Nofland.WorldlineStageSaveRvalue:8"T
+WorldlineEventSave
+endUnion (RendUnion"
+endTimestamp (RendTimestamp"œ
+WorldlineSave:
+unions (2".Nofland.WorldlineSave.UnionsEntryRunions:
+events (2".Nofland.WorldlineSave.EventsEntryRevents
+ending (RendingV
+UnionsEntry
+key (Rkey1
+value (2.Nofland.WorldlineUnionSaveRvalue:8V
+EventsEntry
+key (Rkey1
+value (2.Nofland.WorldlineEventSaveRvalue:8"P
+ActivitySavingsStage
+crystal (Rcrystal
+
+rechargeID (R
+rechargeID"¡
+ActivitySavingsData
+enable (Renable
+	beginTime (R	beginTime
+endTime (RendTime
+
+limitCount (R
+limitCount5
+stage1 (2.Nofland.ActivitySavingsStageRstage15
+stage2 (2.Nofland.ActivitySavingsStageRstage2
+	saleRatio (R	saleRatio
+saleMax	 (RsaleMax
+title
+ (	Rtitle"a
+SavingsData
+	beginTime (R	beginTime
+buyCount (RbuyCount
+crystal (Rcrystal"P
+
+ModifyData
+type (Rtype.
+modify (2.Nofland.ModifyContactRmodify"L
+ActivitySaleData
+endTime (RendTime
+
+saleAwards (R
+saleAwards"6
+KeyValueData
+key (Rkey
+value (Rvalue"í
+QuestionnaireData
+	beginTime (R	beginTime
+endTime (RendTime+
+rewards (2.Nofland.ItemDataRrewards
+address (	Raddress"í
+QuestionnaireSaveA
+rewards (2'.Nofland.QuestionnaireSave.RewardsEntryRrewards:
+RewardsEntry
+key (Rkey
+value (Rvalue:8"≤
+NpcChangeDataF
+
+npcFriends (2&.Nofland.NpcChangeData.NpcFriendsEntryR
+npcFriendsY
+NpcFriendsEntry
+key (Rkey0
+value (2.Nofland.NpcFriendShipDataRvalue:8bproto3

@@ -1,0 +1,1331 @@
+
+◊Î
+cfg_msg.protocfg_gen"R
+accelerate_list)
+datas (2.cfg_gen.accelerateRdatas
+count (Rcount"é
+
+accelerate
+level (Rlevel
+
+total_time (R	totalTime
+pic (	Rpic
+cost1 (Rcost1
+num1 (Rnum1
+cost2 (Rcost2
+num2 (Rnum2)
+accelerate_times (RaccelerateTimes
+can_receive	 (R
+canReceive
+max_time
+ (RmaxTime"T
+achievement_list*
+datas (2.cfg_gen.achievementRdatas
+count (Rcount"”
+achievement
+ID (RID
+name (	Rname
+desc (	Rdesc
+icon (	Ricon
+sort (Rsort
+priority (Rpriority3
+achievement_condition (RachievementCondition'
+condition_parm1 (RconditionParm1'
+condition_parm2	 (RconditionParm2)
+next_achievement
+ (RnextAchievement
+reward (Rreward"`
+activity_business_list0
+datas (2.cfg_gen.activity_businessRdatas
+count (Rcount"
+activity_business
+level (Rlevel'
+cumulative_coin (RcumulativeCoin+
+cumulative_reward (	RcumulativeReward"X
+activity_shop_list,
+datas (2.cfg_gen.activity_shopRdatas
+count (Rcount"œ
+activity_shop
+shop_id (RshopId
+type (Rtype
+item_id (RitemId
+	group_num (RgroupNum
+	cost_item (RcostItem
+
+cost_price (R	costPrice
+limit_times (R
+limitTimes"X
+activity_task_list,
+datas (2.cfg_gen.activity_taskRdatas
+count (Rcount"ˇ
+activity_task
+task_id (RtaskId
+name (Rname
+desc (Rdesc
+	condition (R	condition
+factor1 (Rfactor1
+factor2 (Rfactor2
+item_id (RitemId
+score (Rscore
+recycle	 (Rrecycle
+link
+ (	Rlink"T
+alchemy_elf_list*
+datas (2.cfg_gen.alchemy_elfRdatas
+count (Rcount"Q
+alchemy_elf
+main_id (RmainId
+item_id (RitemId
+pro (Rpro"Z
+alchemy_result_list-
+datas (2.cfg_gen.alchemy_resultRdatas
+count (Rcount"|
+alchemy_result
+alchemy_num (R
+alchemyNum
+star (BRstar
+pro (BRpro
+	shine_pro (RshinePro"F
+	area_list#
+datas (2.cfg_gen.areaRdatas
+count (Rcount"»
+area
+ID (RID
+name (	Rname
+type (Rtype
+sort (Rsort
+produce (Rproduce
+desc (	Rdesc
+area (	Rarea
+lvl (Rlvl
+icon	 (	Ricon#
+unlock_item
+ (BR
+unlockItem
+	time_cost (BRtimeCost!
+
+reduce_max (BR	reduceMax%
+explore_need (BRexploreNeed
+item_num (BRitemNum
+team_num (RteamNum
+	area_cost (RareaCost
+pop_cost (	RpopCost
+get_cost (	RgetCost
+mainline (Rmainline
+
+lvlup_cost (R	lvlupCost!
+carry_factor (RcarryFactor
+	can_carry (	RcanCarry
+
+extra_drop (R	extraDrop
+	drop_show (RdropShow
+
+pro_factor (R	proFactor
+base_pro (RbasePro"R
+area_story_list)
+datas (2.cfg_gen.area_storyRdatas
+count (Rcount"h
+
+area_story
+number (Rnumber
+sign (	Rsign
+fairy (Rfairy
+content (	Rcontent"H
+
+badge_list$
+datas (2.cfg_gen.badgeRdatas
+count (Rcount"ë
+badge
+badge_id (RbadgeId
+pic (	Rpic
+type (Rtype
+sub_type (RsubType
+width (Rwidth
+height (Rheight"J
+banner_list%
+datas (2.cfg_gen.bannerRdatas
+count (Rcount"á
+banner
+activity (Ractivity#
+activity_type (	RactivityType
+banner (	Rbanner
+pic (	Rpic
+help (Rhelp"F
+	book_list#
+datas (2.cfg_gen.bookRdatas
+count (Rcount"ù
+book
+book_id (RbookId
+book_num (RbookNum
+sub_type (RsubType
+num (Rnum
+mail (Rmail 
+attachments (	Rattachments"N
+building_list'
+datas (2.cfg_gen.buildingRdatas
+count (Rcount"ú
+building
+ID (RID
+name (	Rname
+npc (BRnpc
+func (BRfunc
+scene (	Rscene
+task (Rtask
+level (Rlevel"H
+
+candy_list$
+datas (2.cfg_gen.candyRdatas
+count (Rcount"1
+candy
+candy (Rcandy
+like (Rlike"V
+caravan_area_list+
+datas (2.cfg_gen.caravan_areaRdatas
+count (Rcount"Ê
+caravan_area
+ID (RID
+name (	Rname
+desc (	Rdesc
+icon (	Ricon
+	time_cost (RtimeCost
+
+reduce_max (R	reduceMax
+	base_rate (RbaseRate!
+convert_rate (RconvertRate#
+special_limit	 (RspecialLimit!
+special_rate
+ (RspecialRate
+formula (BRformula
+special (Rspecial
+pay_coef (RpayCoef"
+pay_item_coef (RpayItemCoef
+unlock (Runlock
+story (	Rstory!
+
+start_cost (BR	startCost"X
+caravan_story_list,
+datas (2.cfg_gen.caravan_storyRdatas
+count (Rcount"g
+caravan_story
+story (Rstory
+sign (	Rsign
+content (	Rcontent
+type (Rtype"V
+censor_words_list+
+datas (2.cfg_gen.censor_wordsRdatas
+count (Rcount"N
+censor_words
+word (Rword
+detail (	Rdetail
+sign (	Rsign"L
+chapter_list&
+datas (2.cfg_gen.chapterRdatas
+count (Rcount"z
+chapter
+ID (RID
+chapter (	Rchapter
+name (	Rname
+	word_desc (	RwordDesc
+num (BRnum"J
+charge_list%
+datas (2.cfg_gen.chargeRdatas
+count (Rcount"á
+charge
+	charge_id (RchargeId
+type (Rtype
+sub_type (RsubType
+recharge_id (R
+rechargeId
+title (Rtitle
+content (Rcontent
+diamond (Rdiamond!
+first_charge (RfirstCharge#
+extra_diamond	 (RextraDiamond"L
+checkin_list&
+datas (2.cfg_gen.checkinRdatas
+count (Rcount"â
+checkin
+checkId (RcheckId
+type (Rtype
+day (Rday
+reward (Rreward
+num (Rnum
+prize (Rprize"H
+
+cloth_list$
+datas (2.cfg_gen.clothRdatas
+count (Rcount"E
+cloth
+cloth (Rcloth
+type (Rtype
+path (	Rpath"^
+collectgold_gold_list/
+datas (2.cfg_gen.collectgold_goldRdatas
+count (Rcount"h
+collectgold_gold
+level (Rlevel
+gold_pic (	RgoldPic#
+gold_interval (RgoldInterval"^
+collectgold_time_list/
+datas (2.cfg_gen.collectgold_timeRdatas
+count (Rcount"§
+collectgold_time
+time (Rtime
+
+first_gold (R	firstGold
+second_gold (R
+secondGold
+
+three_gold (R	threeGold
+
+third_gold (R	thirdGold"P
+condition_list(
+datas (2.cfg_gen.conditionRdatas
+count (Rcount"§
+	condition
+ID (RID
+name (	Rname
+desc (	Rdesc
+use_item (RuseItem
+icon (	Ricon
+method (Rmethod
+lackTip (	RlackTip"H
+
+daily_list$
+datas (2.cfg_gen.dailyRdatas
+count (Rcount"⁄
+daily
+task_id (RtaskId
+name (Rname
+type (Rtype
+	condition (R	condition
+factor1 (Rfactor1
+factor2 (Rfactor2
+reward (	Rreward
+desc (Rdesc
+link	 (	Rlink"F
+	desc_list#
+datas (2.cfg_gen.descRdatas
+count (Rcount"*
+desc
+ID (RID
+desc (	Rdesc"L
+entrust_list&
+datas (2.cfg_gen.entrustRdatas
+count (Rcount"∫
+entrust
+entrust (Rentrust
+
+difficulty (R
+difficulty
+price (	Rprice
+diamond (	Rdiamond
+num (	Rnum
+weight (	Rweight
+pig_diamond (R
+pigDiamond
+npc (	Rnpc
+title	 (	Rtitle
+desc
+ (	Rdesc!
+extra_reward (RextraReward
+	extra_pro (RextraPro"V
+entrust_time_list+
+datas (2.cfg_gen.entrust_timeRdatas
+count (Rcount"}
+entrust_time#
+entrust_level (RentrustLevel!
+refresh_time (RrefreshTime%
+rejection_time (RrejectionTime"Z
+entrust_unlock_list-
+datas (2.cfg_gen.entrust_unlockRdatas
+count (Rcount"p
+entrust_unlock
+level (Rlevel!
+main_mission (RmainMission%
+entrust_number (RentrustNumber"D
+exp_list"
+datas (2.cfg_gen.expRdatas
+count (Rcount"ã
+exp
+lvl (Rlvl
+next_exp (RnextExp
+	total_exp (RtotalExp
+	gold_cost (BRgoldCost
+pass_exp (RpassExp"H
+
+fairy_list$
+datas (2.cfg_gen.fairyRdatas
+count (Rcount"Á
+fairy
+ID (RID
+name (	Rname
+desc (	Rdesc
+soundtxt (	Rsoundtxt
+sound (	Rsound
+story (	Rstory
+draw (	Rdraw
+	head_icon (	RheadIcon
+body_pic	 (	RbodyPic
+	book_head
+ (	RbookHead
+source_icon (	R
+sourceIcon
+rarity (Rrarity
+	evo_times (RevoTimes
+sort1 (Rsort1
+sort2 (Rsort2
+cost_factor (R
+costFactor
+pro_id (BRproId'
+property_parm (BRpropertyParm
+initLvl (RinitLvl
+maxLvl (RmaxLvl!
+
+lvlup_parm (BR	lvlupParm 
+experienced (Rexperienced
+devo_id (RdevoId
+evo_id (RevoId!
+evo_material (RevoMaterial
+evo_num (RevoNum
+awaken (BRawaken%
+awaken_bonus (BRawakenBonus!
+effort_bonus (	ReffortBonus
+head_top (RheadTop
+speed (	Rspeed
+groove  (BRgroove!
+
+unlock_lvl! (BR	unlockLvl
+
+again_mail" (R	againMail
+	full_item# (RfullItem
+full_num$ (RfullNum"`
+farm_combo_reduce_list0
+datas (2.cfg_gen.farm_combo_reduceRdatas
+count (Rcount"{
+farm_combo_reduce
+combo (Rcombo
+interval (Rinterval
+	continued (R	continued
+reward (Rreward"\
+farm_max_reduce_list.
+datas (2.cfg_gen.farm_max_reduceRdatas
+count (Rcount"9
+farm_max_reduce
+combo (Rcombo
+max (Rmax"`
+farm_normal_speed_list0
+datas (2.cfg_gen.farm_normal_speedRdatas
+count (Rcount"a
+farm_normal_speed
+time (Rtime
+interval (Rinterval
+	continued (R	continued"P
+farm_prop_list(
+datas (2.cfg_gen.farm_propRdatas
+count (Rcount"s
+	farm_prop
+prop (Rprop
+mark (Rmark
+type (Rtype
+icon (	Ricon
+weight (Rweight"F
+	fish_list#
+datas (2.cfg_gen.fishRdatas
+count (Rcount"Æ
+fish
+fish (Rfish
+icon (	Ricon
+type (Rtype
+pro (Rpro
+count (Rcount
+score (Rscore
+speed (Rspeed
+unhook (Runhook"L
+formula_list&
+datas (2.cfg_gen.formulaRdatas
+count (Rcount" 
+formula
+ID (RID
+name (	Rname
+desc (	Rdesc
+	type_desc (	RtypeDesc
+icon (	Ricon
+type (Rtype
+sort (Rsort
+element (Relement)
+attribute_factor	 (RattributeFactor#
+appear_factor
+ (RappearFactor
+max_success (R
+maxSuccess
+max_mastery (R
+maxMastery'
+success_mastery (RsuccessMastery
+effort (Reffort!
+success_rate (RsuccessRate
+elf_rate (RelfRate%
+repeat_mastery (RrepeatMastery
+max_gold (RmaxGold
+words (	Rwords
+material (BRmaterial%
+replace_type (BRreplaceType
+num (BRnum
+like_npc (RlikeNpc
+hate_npc (RhateNpc
+hearsay (	Rhearsay"F
+	func_list#
+datas (2.cfg_gen.funcRdatas
+count (Rcount"≠
+func
+ID (RID
+icon (	Ricon
+	main_icon (	RmainIcon
+name (	Rname
+mainName (	RmainName
+isShow (RisShow
+
+icon_scale (	R	iconScale
+desc (	Rdesc
+scene	 (	Rscene
+task
+ (Rtask
+level (Rlevel)
+anchorY_quickBtn (	RanchorYQuickBtn"F
+	game_list#
+datas (2.cfg_gen.gameRdatas
+count (Rcount"Ñ
+game
+order (Rorder
+type (	Rtype
+name (	Rname
+	value_int (RvalueInt!
+value_string (	RvalueString"F
+	gift_list#
+datas (2.cfg_gen.giftRdatas
+count (Rcount"V
+gift
+gift (Rgift
+like (Rlike
+love (Rlove
+hate (Rhate"R
+groove_lvl_list)
+datas (2.cfg_gen.groove_lvlRdatas
+count (Rcount"b
+
+groove_lvl
+lvl (Rlvl!
+upgrade_cost (	RupgradeCost
+random_cost (	R
+randomCost"H
+
+guide_list$
+datas (2.cfg_gen.guideRdatas
+count (Rcount"Ω
+guide
+guide (Rguide
+next (Rnext
+
+first_step (	R	firstStep
+
+right_step (	R	rightStep
+type (Rtype
+	task_show (RtaskShow
+	task_hide (RtaskHide"R
+guide_step_list)
+datas (2.cfg_gen.guide_stepRdatas
+count (Rcount"Ÿ
+
+guide_step
+step (Rstep
+next (Rnext
+key_step (RkeyStep
+jump (Rjump
+keyword (	Rkeyword
+prefab (	Rprefab
+prefab_x (RprefabX
+prefab_y (RprefabY
+prefab_text	 (R
+prefabText
+target
+ (	Rtarget
+factor (Rfactor
+length (Rlength
+height (Rheight
+cam_move (RcamMove
+x_pos (RxPos
+y_pos (RyPos
+click (Rclick
+delay (Rdelay
+rotation (Rrotation"N
+headicon_list'
+datas (2.cfg_gen.headiconRdatas
+count (Rcount"g
+headicon
+head_id (RheadId
+type (Rtype
+	character (R	character
+pic (	Rpic"L
+hearsay_list&
+datas (2.cfg_gen.hearsayRdatas
+count (Rcount"W
+hearsay
+hearId (RhearId
+
+gradeLimit (R
+gradeLimit
+story (	Rstory"F
+	help_list#
+datas (2.cfg_gen.helpRdatas
+count (Rcount">
+help
+ID (RID
+name (	Rname
+info (	Rinfo"P
+influence_list(
+datas (2.cfg_gen.influenceRdatas
+count (Rcount"ê
+	influence
+order (Rorder
+type (Rtype
+item (Ritem
+sort (Rsort
+factor (Rfactor
+score_id (RscoreId"F
+	item_list#
+datas (2.cfg_gen.itemRdatas
+count (Rcount"í
+item
+ID (RID
+name (	Rname
+desc (	Rdesc
+use (	Ruse
+icon (	Ricon
+
+small_icon (	R	smallIcon
+item_use (RitemUse
+	item_type (RitemType
+	type_desc	 (	RtypeDesc.
+station_level_limit
+ (RstationLevelLimit
+rarity (Rrarity
+
+sell_price (R	sellPrice
+	sell_coin (RsellCoin
+systemId (	RsystemId
+visible (Rvisible"F
+	mail_list#
+datas (2.cfg_gen.mailRdatas
+count (Rcount"y
+mail
+ID (RID
+name (	Rname
+from (Rfrom
+info (	Rinfo%
+effective_time (ReffectiveTime"D
+map_list"
+datas (2.cfg_gen.mapRdatas
+count (Rcount"F
+map
+site_id (RsiteId
+name (Rname
+desc (Rdesc"N
+material_list'
+datas (2.cfg_gen.materialRdatas
+count (Rcount"ñ
+material
+item_id (RitemId!
+can_research (RcanResearch
+sort (Rsort
+	save_time (RsaveTime
+
+cost_value (R	costValue"L
+message_list&
+datas (2.cfg_gen.messageRdatas
+count (Rcount"p
+message
+msg_id (RmsgId
+name (	Rname
+type (Rtype
+desc (	Rdesc
+time (Rtime"D
+npc_list"
+datas (2.cfg_gen.npcRdatas
+count (Rcount"˚
+npc
+ID (RID
+type (Rtype
+name (	Rname
+job (	Rjob
+desc (	Rdesc
+nickname (	Rnickname
+union (Runion
+friends (BRfriends
+enemies	 (BRenemies!
+small_avatar
+ (	RsmallAvatar
+	head_icon (	RheadIcon$
+head_icon_grey (	RheadIconGrey
+draw (	Rdraw
+	book_draw (	RbookDraw
+	sale_draw (	RsaleDraw
+	draw_site (RdrawSite
+posY (RposY
+	like_PosY (RlikePosY
+	role_card (RroleCard
+	love_gift (	RloveGift
+	hate_gift (	RhateGift
+path (	Rpath
+talk (	Rtalk
+
+word_color (	R	wordColor#
+history_color (	RhistoryColor
+likechat (	Rlikechat 
+dislikechat (	Rdislikechat%
+likechat_voice (	RlikechatVoice"N
+npc_like_list'
+datas (2.cfg_gen.npc_likeRdatas
+count (Rcount"œ
+npc_like
+npcid (Rnpcid
+name (	Rname
+like (BRlike
+mail (Rmail#
+random_reward (	RrandomReward
+skill (Rskill
+greet (	Rgreet%
+comment_normal (	RcommentNormal!
+comment_like	 (	RcommentLike!
+comment_hate
+ (	RcommentHate%
+comment_before (	RcommentBefore#
+history_story (	RhistoryStory
+	mono_book (	RmonoBook!
+
+mono_title (BR	monoTitle!
+
+mono_story (BR	monoStory
+mono_dub (	RmonoDub
+	like_talk (	RlikeTalk#
+story_title (BR
+storyTitle#
+story_brief (BR
+storyBrief"L
+package_list&
+datas (2.cfg_gen.packageRdatas
+count (Rcount"9
+package
+package (Rpackage
+cards (	Rcards"V
+package_card_list+
+datas (2.cfg_gen.package_cardRdatas
+count (Rcount"Á
+package_card
+card (Rcard
+
+proportion (R
+proportion%
+inc_proportion (RincProportion
+
+is_package (R	isPackage
+item (Ritem
+num (Rnum
+	necessity (R	necessity
+fake_pro (RfakePro"F
+	pass_list#
+datas (2.cfg_gen.passRdatas
+count (Rcount"≠
+pass
+level (Rlevel
+base_reward (	R
+baseReward
+base_key (RbaseKey
+
+pay_reward (	R	payReward
+pay_key (RpayKey
+	key_fairy (RkeyFairy"R
+pass_price_list)
+datas (2.cfg_gen.pass_priceRdatas
+count (Rcount"«
+
+pass_price
+pass_id (RpassId
+
+pass_price (R	passPrice
+
+score_type (R	scoreType
+score (Rscore
+npc (Rnpc
+name (Rname
+desc (Rdesc
+chat (Rchat"H
+
+plant_list$
+datas (2.cfg_gen.plantRdatas
+count (Rcount"†
+plant
+seed_id (RseedId
+name (	Rname
+type (Rtype
+sub_type (RsubType
+sort (Rsort
+pic (	Rpic
+
+plant_path (	R	plantPath
+book_pic (	RbookPic
+desc	 (Rdesc
+	show_item
+ (RshowItem"
+req_fairy_lvl (RreqFairyLvl
+quality (Rquality!
+harvest_time (RharvestTime
+
+reduce_max (R	reduceMax
+time_punish (R
+timePunish
+
+num_factor (R	numFactor'
+resource_factor (RresourceFactor
+cost (Rcost
+cost_num (RcostNum
+
+plant_prop (R	plantProp)
+unlock_condition (RunlockCondition%
+condition_parm (RconditionParm!
+unlock_parm2 (RunlockParm2"T
+plant_place_list*
+datas (2.cfg_gen.plant_placeRdatas
+count (Rcount"Ö
+plant_place
+place (Rplace
+	item_cost (RitemCost
+cost_num (RcostNum
+task (Rtask
+level (Rlevel"D
+pot_list"
+datas (2.cfg_gen.potRdatas
+count (Rcount"å
+pot
+pot_id (RpotId
+type (Rtype
+sub_type (RsubType
+sort (Rsort
+level (Rlevel
+	plant_num (RplantNum
+pic (	Rpic
+res_path (	RresPath+
+upgrade_material1	 (RupgradeMaterial1#
+material1_num
+ (Rmaterial1Num+
+upgrade_material2 (RupgradeMaterial2#
+material2_num (Rmaterial2Num
+upgraded (Rupgraded
+
+plant_time (R	plantTime
+	can_plant (BRcanPlant
+price (Rprice
+task (BRtask
+need_lvl (BRneedLvl"F
+	pray_list#
+datas (2.cfg_gen.prayRdatas
+count (Rcount"í
+pray
+prayId (RprayId
+type (Rtype
+	day_begin (RdayBegin
+day_end (RdayEnd
+reward (Rreward
+num (Rnum"L
+present_list&
+datas (2.cfg_gen.presentRdatas
+count (Rcount"ª
+present
+present (Rpresent
+type (Rtype
+recharge_id (R
+rechargeId
+title (Rtitle
+content (Rcontent
+item (Ritem
+num (Rnum
+mainline (Rmainline
+	threshold	 (R	threshold
+
+exist_time
+ (R	existTime
+prefab (	Rprefab
+position (Rposition"\
+present_regular_list.
+datas (2.cfg_gen.present_regularRdatas
+count (Rcount"–
+present_regular
+present (Rpresent
+timer (Rtimer
+recharge_id (R
+rechargeId
+title (Rtitle
+content (Rcontent
+item (Ritem
+times (Rtimes
+icon (	Ricon"L
+product_list&
+datas (2.cfg_gen.productRdatas
+count (Rcount"¸
+product
+product (Rproduct
+type (Rtype
+
+unit_price (R	unitPrice
+unit_exp (RunitExp
+	unit_time (RunitTime%
+addition_price (	RadditionPrice#
+initial_price (RinitialPrice
+	low_price (RlowPrice
+
+high_price	 (R	highPrice
+like
+ (Rlike
+love (Rlove
+hate (Rhate
+limit (Rlimit
+rate (Rrate"X
+product_order_list,
+datas (2.cfg_gen.product_orderRdatas
+count (Rcount"î
+product_order
+order (Rorder
+npc (Rnpc
+product (Rproduct
+num (Rnum
+treasure (Rtreasure
+like (Rlike
+story_begin (	R
+storyBegin
+	story_end (	RstoryEnd
+
+difficulty	 (R
+difficulty!
+already_rate
+ (RalreadyRate"N
+property_list'
+datas (2.cfg_gen.propertyRdatas
+count (Rcount"J
+property
+ID (RID
+property (	Rproperty
+name (	Rname"R
+randomdrop_list)
+datas (2.cfg_gen.randomdropRdatas
+count (Rcount"î
+
+randomdrop
+drop_id (RdropId
+type (Rtype
+item_id (BRitemId
+item_num (BRitemNum
+item_pro (BRitemPro"N
+recharge_list'
+datas (2.cfg_gen.rechargeRdatas
+count (Rcount"Ì
+recharge
+recharge_id (R
+rechargeId
+price (Rprice
+note (	Rnote#
+android_price (RandroidPrice
+	ios_price (RiosPrice%
+ios_identifier (	RiosIdentifier-
+android_identifier (	RandroidIdentifier"Z
+reconciliation_list-
+datas (2.cfg_gen.reconciliationRdatas
+count (Rcount"J
+reconciliation&
+reconciliation (Rreconciliation
+pro (Rpro"R
+sale_place_list)
+datas (2.cfg_gen.sale_placeRdatas
+count (Rcount"9
+
+sale_place
+place_id (RplaceId
+lvl (Rlvl"T
+shop_config_list*
+datas (2.cfg_gen.shop_configRdatas
+count (Rcount"ß
+shop_config
+shop (Rshop
+	shop_name (RshopName
+show_num (RshowNum!
+discount_num (RdiscountNum
+call (	Rcall
+voice (	Rvoice
+	need_coin (BRneedCoin
+	open_time (RopenTime!
+refresh_time	 (RrefreshTime
+position
+ (BRposition"R
+shop_goods_list)
+datas (2.cfg_gen.shop_goodsRdatas
+count (Rcount"
+
+shop_goods
+goods (Rgoods
+type (Rtype
+item_id (RitemId
+	group_num (RgroupNum
+
+goods_type (R	goodsType
+item_lvl (RitemLvl
+	cost_item (RcostItem
+
+cost_price (R	costPrice
+min_num	 (RminNum
+max_num
+ (RmaxNum
+discount (	Rdiscount
+
+limit_type (R	limitType
+limit_times (R
+limitTimes"H
+
+skill_list$
+datas (2.cfg_gen.skillRdatas
+count (Rcount"∑
+skill
+ID (RID
+name (	Rname
+desc (	Rdesc
+	buff1desc (	R	buff1desc
+	buff2desc (	R	buff2desc
+buff (	Rbuff
+rare (Rrare
+icon (	Ricon"V
+skill_groove_list+
+datas (2.cfg_gen.skill_grooveRdatas
+count (Rcount":
+skill_groove
+groove (Rgroove
+pool (Rpool"N
+skilllvl_list'
+datas (2.cfg_gen.skilllvlRdatas
+count (Rcount"}
+skilllvl
+skillId (RskillId
+buff_pro (BRbuffPro
+buff_num (BRbuffNum
+need_lvl (RneedLvl"H
+
+story_list$
+datas (2.cfg_gen.storyRdatas
+count (Rcount"¨
+story
+story (Rstory
+sign (	Rsign#
+end_interface (	RendInterface
+scene_bg (	RsceneBg!
+scene_effect (RsceneEffect
+role (BRrole
+look (	Rlook
+position (BRposition
+talk	 (	Rtalk
+pic
+ (	Rpic
+music (	Rmusic
+sound (	Rsound
+	wait_time (RwaitTime
+func (Rfunc
+event (Revent
+clear (Rclear
+	dialog_bg (RdialogBg"∫
+str_extracter_list<
+datas (2&.cfg_gen.str_extracter_list.DatasEntryRdatas
+count (RcountP
+
+DatasEntry
+key (Rkey,
+value (2.cfg_gen.str_extracterRvalue:8"3
+str_extracter
+ID (RID
+text (	Rtext"J
+summon_list%
+datas (2.cfg_gen.summonRdatas
+count (Rcount"ˇ
+summon
+main_id (RmainId
+
+package_id (R	packageId
+isShow (RisShow
+one_cost (	RoneCost
+ten_cost (	RtenCost
+one_coin (	RoneCoin
+ten_coin (	RtenCoin
+source (	Rsource
+task	 (Rtask
+level
+ (Rlevel
+title (Rtitle%
+activity_title (RactivityTitle
+timer (Rtimer
+desc (Rdesc
+info (Rinfo 
+	guarantee (BR	guarantee
+up_item (BRupItem
+up_pro (	RupPro
+logo (	Rlogo
+lock (	Rlock"Z
+summon_replace_list-
+datas (2.cfg_gen.summon_replaceRdatas
+count (Rcount"≈
+summon_replace
+
+replace_id (R	replaceId
+pool_id (RpoolId!
+replace_task (RreplaceTask!
+replace_pool (RreplacePool
+replace_btn (R
+replaceBtn
+times (Rtimes"F
+	task_list#
+datas (2.cfg_gen.taskRdatas
+count (Rcount"ö
+task
+ID (RID
+name (	Rname
+desc (	Rdesc
+brief (	Rbrief
+type (Rtype
+subtype (Rsubtype
+priority (Rpriority
+task_npc (RtaskNpc
+
+talk_story	 (	R	talkStory
+story
+ (	Rstory
+chat (	Rchat%
+complete_story (	RcompleteStory
+
+story_link (	R	storyLink
+guide (Rguide-
+complete_condition (RcompleteCondition#
+complete_parm (RcompleteParm%
+complete_parm2 (RcompleteParm2%
+complete_parm3 (RcompleteParm3
+reward (Rreward
+	next_task (BRnextTask
+gold (Rgold
+exp (Rexp
+lvl (Rlvl
+weight (Rweight
+link_to (	RlinkTo
+link_to_npc (R	linkToNpc
+unlock_icon (	R
+unlockIcon
+unlock (	Runlock
+
+icon_scale (	R	iconScale"ü
+	text_list3
+datas (2.cfg_gen.text_list.DatasEntryRdatas
+count (RcountG
+
+DatasEntry
+key (Rkey#
+value (2.cfg_gen.textRvalue:8"8
+text
+text_ID (RtextID
+i18n_ID (Ri18nID"Æ
+text_i18n_list8
+datas (2".cfg_gen.text_i18n_list.DatasEntryRdatas
+count (RcountL
+
+DatasEntry
+key (Rkey(
+value (2.cfg_gen.text_i18nRvalue:8"I
+	text_i18n
+i18n_ID (Ri18nID
+zh (	Rzh
+zh_tw (	RzhTw"H
+
+timer_list$
+datas (2.cfg_gen.timerRdatas
+count (Rcount"ñ
+timer
+timer_id (RtimerId
+type (Rtype
+
+start_time (	R	startTime#
+duration_type (RdurationType
+duration (Rduration"N
+treasure_list'
+datas (2.cfg_gen.treasureRdatas
+count (Rcount"7
+treasure
+drop_id (RdropId
+item (	Ritem"V
+week_checkin_list+
+datas (2.cfg_gen.week_checkinRdatas
+count (Rcount"F
+week_checkin
+day (Rday
+item (Ritem
+num (Rnum"H
+
+witch_list$
+datas (2.cfg_gen.witchRdatas
+count (Rcount"ö
+witch
+level (Rlevel
+grade (Rgrade
+name (Rname
+position (Rposition!
+position_lvl (RpositionLvl
+icon (	Ricon"N
+workshop_list'
+datas (2.cfg_gen.workshopRdatas
+count (Rcount"ﬁ
+workshop
+ws_id (RwsId
+	name_desc (RnameDesc
+pic (	Rpic
+unlock_anim (R
+unlockAnim
+sort (Rsort
+func (Rfunc
+item (BRitem
+	home_view (	RhomeView
+cam	 (Rcam"b
+worldline_activity_list1
+datas (2.cfg_gen.worldline_activityRdatas
+count (Rcount"‰
+worldline_activity
+activity (Ractivity
+name (Rname
+	icon_name (RiconName
+timer (Rtimer
+story (Rstory
+
+score_item (R	scoreItem
+event (BRevent
+union (BRunion
+rank	 (BRrank
+map
+ (	Rmap
+	good_name (RgoodName
+bad_name (RbadName
+	good_desc (RgoodDesc
+bad_desc (RbadDesc
+good_pic (	RgoodPic
+bad_pic (	RbadPic
+book_pic (	RbookPic
+	union_end (	RunionEnd
+
+resourceId (R
+resourceId
+up_fairy (BRupFairy
+hearsay (	Rhearsay#
+mail_treasure (	RmailTreasure"Z
+worldline_desc_list-
+datas (2.cfg_gen.worldline_descRdatas
+count (Rcount"4
+worldline_desc
+ID (RID
+desc (	Rdesc"\
+worldline_event_list.
+datas (2.cfg_gen.worldline_eventRdatas
+count (Rcount"Ë
+worldline_event
+event_id (ReventId
+name (Rname
+step (BRstep!
+event_reward (ReventReward
+badge (Rbadge
+good_end (RgoodEnd
+bad_end (RbadEnd
+
+normal_end (R	normalEnd
+
+ending_pic	 (	R	endingPic
+
+ending_map
+ (	R	endingMap
+
+start_time (R	startTime%
+open_condition (RopenCondition"X
+worldline_map_list,
+datas (2.cfg_gen.worldline_mapRdatas
+count (Rcount"ê
+worldline_map
+num (Rnum
+choice (BRchoice
+event (BRevent
+prefab (	Rprefab
+change_node (	R
+changeNode"Z
+worldline_step_list-
+datas (2.cfg_gen.worldline_stepRdatas
+count (Rcount"À
+worldline_step
+step_id (RstepId
+name (Rname
+desc (Rdesc
+	step_icon (	RstepIcon
+	step_task (BRstepTask
+step_num (RstepNum
+step_reward (R
+stepReward"Z
+worldline_task_list-
+datas (2.cfg_gen.worldline_taskRdatas
+count (Rcount"√
+worldline_task
+	option_id (RoptionId
+	condition (R	condition
+factor1 (Rfactor1
+factor2 (Rfactor2
+reward (Rreward
+score (Rscore
+ending (Rending
+title (Rtitle
+desc	 (Rdesc
+detail
+ (Rdetail
+npc (Rnpc
+story (	Rstory
+link (Rlink"\
+worldline_union_list.
+datas (2.cfg_gen.worldline_unionRdatas
+count (Rcount"Ù
+worldline_union
+union_id (RunionId
+name (Rname
+badge (	Rbadge
+small_badge (	R
+smallBadge
+
+window_pic (	R	windowPic
+window (	Rwindow
+name_img (	RnameImg
+shine_badge (	R
+shineBadge
+detail	 (Rdetail
+npc
+ (Rnpc
+spy_show (RspyShow
+
+stage_task (	R	stageTask$
+spy_stage_task (	RspyStageTask"f
+worldline_union_task_list3
+datas (2.cfg_gen.worldline_union_taskRdatas
+count (Rcount"Æ
+worldline_union_task
+task_id (RtaskId
+name (Rname
+	condition (R	condition
+factor1 (Rfactor1
+factor2 (Rfactor2
+item_id (RitemId
+score (Rscore
+recycle (Rrecycle
+bonus	 (Rbonus
+spy
+ (Rspy
+link (	Rlink
+desc (Rdescbproto3

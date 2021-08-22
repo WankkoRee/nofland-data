@@ -1,0 +1,5 @@
+﻿id,名称,布局,图标,详情[text]
+1,七日签到,prefabs/ui/huodong/banner_7day_sign/banner_7day_sign,sprite/huodong/banner/banner_page/banner_page_7rqd.png,420101
+2,小活动,prefabs/ui/huodong/banner/banner1,sprite/huodong/banner/banner_page/banner_page_crdzz.png,406000
+3,开服营业活动,prefabs/ui/huodong/banner/banner_openning,sprite/huodong/banner/banner_page/banner_page_hbkyzqq.png,406001
+4,调查问卷,prefabs/ui/huodong/banner/banner_question,sprite/huodong/banner/banner_page/banner_page_wjdc.png,406002
