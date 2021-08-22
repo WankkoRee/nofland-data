@@ -1,5 +1,5 @@
 
-•æ
+¶ƒ
 common.protoNofland"
 	ErrorCode
 code (Rcode"‘
@@ -55,7 +55,7 @@ PlayerData
 dailyRefreshTime (RdailyRefreshTime(
 zeroRefreshTime (RzeroRefreshTime$
 lastLoginTime (RlastLoginTime&
-lastLogoutTime (RlastLogoutTime"ƒ	
+lastLogoutTime (RlastLogoutTime"‰	
 LucimarData
 level (Rlevel
 totalExp (RtotalExp
@@ -68,26 +68,29 @@ PlayerData
 tinyGameTimes	 (RtinyGameTimes3
 	luckDraws
  (2.Nofland.LuckDrawDataR	luckDrawsS
-luckDrawReplace (2).Nofland.LucimarData.LuckDrawReplaceEntryRluckDrawReplace$
-praisePlayers (RpraisePlayers
+luckDrawReplace (2).Nofland.LucimarData.LuckDrawReplaceEntryRluckDrawReplace
 
-foundTimes (R
+dailyShare (R
+dailyShare$
+praisePlayers (RpraisePlayers
+
+foundTimes (R
 foundTimes"
-foundFriends (RfoundFriends 
-elfsPlayers (RelfsPlayers$
-badgesPlayers (RbadgesPlayers
+foundFriends (RfoundFriends 
+elfsPlayers (RelfsPlayers$
+badgesPlayers (RbadgesPlayers
 
-linkAwards (R
+linkAwards (R
 linkAwards
-name (	Rname 
-isSevenSign (RisSevenSign$
-sevenSignDays (RsevenSignDays
-isBuyKey (RisBuyKey$
-ReminderStage (RReminderStage
-portrait (Rportrait
-	signature (	R	signature'
-badges (2.Nofland.BadgesRbadges(
-activtySaleCoin (RactivtySaleCoinD
+name (	Rname 
+isSevenSign (RisSevenSign$
+sevenSignDays (RsevenSignDays
+isBuyKey (RisBuyKey$
+ReminderStage (RReminderStage
+portrait (Rportrait
+	signature (	R	signature'
+badges (2.Nofland.BadgesRbadges(
+activtySaleCoin (RactivtySaleCoinD
 WorkshopDecoratesEntry
 key (Rkey
 value (Rvalue:89
@@ -256,13 +259,13 @@ GatherData:
 npcIndex (RnpcIndex5
 deliveryItem (2.Nofland.ItemDataRdeliveryItem3
 rewardItems (2.Nofland.ItemDataRrewardItems 
-refreshTime (RrefreshTime"÷
+refreshTime (RrefreshTime"⁄
 EntrustsData$
-useCountDaily (RuseCountDaily8
-entrustsList (2.Nofland.EntrustDataRentrustsList&
-dailyAwardGold (RdailyAwardGoldZ
-entrustStatistics (2,.Nofland.EntrustsData.EntrustStatisticsEntryRentrustStatistics
-	dailyDone (R	dailyDoneD
+dailyDelivery (RdailyDelivery 
+dailyRefuse (RdailyRefuse&
+dailyAwardGold (RdailyAwardGold8
+entrustsList (2.Nofland.EntrustDataRentrustsListZ
+entrustStatistics (2,.Nofland.EntrustsData.EntrustStatisticsEntryRentrustStatisticsD
 EntrustStatisticsEntry
 key (Rkey
 value (Rvalue:8"N
@@ -421,7 +424,7 @@ StringData
 cfgID (RcfgID
 state (Rstate
 endTime (RendTime
-storyIdx (RstoryIdx"ˆ
+storyIdx (RstoryIdx"î
 SaleData
 	beginTime (R	beginTime
 endTime (RendTime5
@@ -429,7 +432,8 @@ StringData
 goldChangeValue (2.Nofland.ChangeValueRgoldChangeValue
 	gotProfit (R	gotProfit
 gotRatio (RgotRatio.
-orders (2.Nofland.SaleOrderDataRordersQ
+orders (2.Nofland.SaleOrderDataRorders
+	dailyDone (R	dailyDoneQ
 PlacesEntry
 key (Rkey,
 value (2.Nofland.SalePlaceDataRvalue:8"‰
@@ -593,14 +597,15 @@ cardsCount=
 value (Rvalue:8?
 EventsEndingEntry
 key (Rkey
-value (Rvalue:8"◊
+value (Rvalue:8"ê
 ActivityData-
 shop (2.Nofland.ActivityShopDataRshop9
 addition (2.Nofland.ActivityAdditionDataRaddition3
 banner (2.Nofland.ActivityBannerDataRbanner6
 present (2.Nofland.ActivityPresentDataRpresent6
 savings (2.Nofland.ActivitySavingsDataRsavings8
-	questions (2.Nofland.QuestionnaireDataR	questions"ì
+	questions (2.Nofland.QuestionnaireDataR	questions7
+vistors (2.Nofland.ActivityVisitorsDataRvistors"ì
 ActivityShopData5
 schedule (2.Nofland.TimeScheduleDataRschedule
 
@@ -683,14 +688,18 @@ rightState"∏
 	timestamp (R	timestamp 
 gameOrderID (	RgameOrderID(
 platformOrderID (	RplatformOrderID
-original (	Roriginal"ç
+original (	Roriginal"ò
 	WorthData
 
 crystalEnd (R
 crystalEnd
 blessEnd (RblessEnd 
 permitBegin (RpermitBegin"
-crystalDaily (RcrystalDaily"I
+crystalDaily (RcrystalDailyH
+monthlyCount (2$.Nofland.WorthData.MonthlyCountEntryRmonthlyCount?
+MonthlyCountEntry
+key (Rkey
+value (Rvalue:8"I
 PresentData
 ID (RID
 buy (Rbuy
@@ -796,11 +805,15 @@ limitCount5
 	saleRatio (R	saleRatio
 saleMax	 (RsaleMax
 title
- (	Rtitle"a
+ (	Rtitle"˙
 SavingsData
 	beginTime (R	beginTime
 buyCount (RbuyCount
-crystal (Rcrystal"P
+crystal (RcrystalS
+rechargeCrystal (2).Nofland.SavingsData.RechargeCrystalEntryRrechargeCrystalB
+RechargeCrystalEntry
+key (	Rkey
+value (Rvalue:8"P
 
 ModifyData
 type (Rtype.
@@ -829,4 +842,18 @@ npcFriends (2&.Nofland.NpcChangeData.NpcFriendsEntryR
 npcFriendsY
 NpcFriendsEntry
 key (Rkey0
-value (2.Nofland.NpcFriendShipDataRvalue:8bproto3
+value (2.Nofland.NpcFriendShipDataRvalue:8"M
+ActivityVisitorsData5
+schedule (2.Nofland.TimeScheduleDataRschedule"m
+ActivityVistorsPlayerData
+
+activityID (R
+activityID0
+	tasksData (2.Nofland.TasksDataR	tasksData"†
+
+BigfunData:
+checkin (2 .Nofland.BigfunData.CheckinEntryRcheckin
+lastTime (RlastTime:
+CheckinEntry
+key (Rkey
+value (Rvalue:8bproto3

@@ -304,6 +304,22 @@
         14: 0x736e6f6974736575
       }
     }
+    2 {
+      1: "notices"
+      3: 16
+      4: 1
+      5: 11
+      6: ".Nofland.NoticeChangeData"
+      10: "notices"
+    }
+    2 {
+      1: "activityVisitors"
+      3: 17
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityVisitorsChangeData"
+      10: "activityVisitors"
+    }
   }
   4 {
     1: "DailyRefreshData"
@@ -710,6 +726,13 @@
       5: 8
       10: "isSevenSign"
     }
+    2 {
+      1: "dailyShare"
+      3: 4
+      4: 1
+      5: 8
+      10: "dailyShare"
+    }
   }
   4 {
     1: "NpcDaily"
@@ -900,6 +923,16 @@
     }
   }
   4 {
+    1: "NoticeChangeData"
+    2 {
+      1: "code"
+      3: 1
+      4: 1
+      5: 5
+      10: "code"
+    }
+  }
+  4 {
     1: "AccountData"
     2 {
       1: "account"
@@ -938,6 +971,17 @@
       4: 1
       5: 3
       10: "endTime"
+    }
+  }
+  4 {
+    1: "ActivityVisitorsChangeData"
+    2 {
+      1: "visitorData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityVisitorsData"
+      10: "visitorData"
     }
   }
   10: 0

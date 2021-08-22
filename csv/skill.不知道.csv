@@ -159,6 +159,7 @@
 350217,3502170,3502171,3502172,3502173,11|2|2,1,sprite/common/elf/skill/skill_icon_30.png
 350218,3502180,3502181,3502182,3502183,11|1|2,1,sprite/common/elf/skill/skill_icon_30.png
 350219,3502190,3502191,3502192,3502193,11|2|2,1,sprite/common/elf/skill/skill_icon_30.png
+350220,3502200,3502201,3502202,,6|1|1,0,sprite/common/elf/skill/skill_icon_32.png
 351000,3510000,3510001,3510002,,7|422|2,0,sprite/common/elf/skill/relic_4.png
 351001,3510010,3510011,3510012,,5|422|2,0,sprite/common/elf/skill/relic_1.png
 351002,3510020,3510021,3510022,,7|407|2,0,sprite/common/elf/skill/relic_3.png

@@ -1672,6 +1672,16 @@
   8: "sprite/common/elf/skill/skill_icon_30.png"
 }
 1 {
+  1: 350220
+  2: "3502200"
+  3: "3502201"
+  4: "3502202"
+  5: ""
+  6: "6|1|1"
+  7: 0
+  8: "sprite/common/elf/skill/skill_icon_32.png"
+}
+1 {
   1: 351000
   2: "3510000"
   3: "3510001"
@@ -1831,4 +1841,4 @@
   7: 0
   8: "sprite/common/elf/skill/relic_1.png"
 }
-2: 176
+2: 177

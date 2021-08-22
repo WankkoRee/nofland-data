@@ -26,4 +26,11 @@
   4: "sprite/huodong/banner/banner_page/banner_page_wjdc.png"
   5: 406002
 }
-2: 4
+1 {
+  1: 5
+  2: "\350\201\224\345\212\250\346\264\273\345\212\250"
+  3: "prefabs/ui/huodong/banner/banner_b"
+  4: "sprite/huodong/banner/banner_page/banner_page_twlk.png"
+  5: 406003
+}
+2: 5

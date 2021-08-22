@@ -1,5 +1,5 @@
 
-äÿ
+ó€
 client.protoNoflandclient_common.proto"y
 C2G_GatherToolEquip
 type (Rtype
@@ -221,15 +221,15 @@ changeData
 changeDatae (2.Nofland.ChangeDataR
 changeData
 idx (Ridx$
-useCountDaily (RuseCountDaily.
+dailyDelivery (RdailyDelivery.
 entrust (2.Nofland.EntrustDataRentrust"%
 C2G_EntrustRefuse
-idx (Ridx"¥
+idx (Ridx"¡
 G2C_EntrustRefuse(
 error
  (2.Nofland.ErrorCodeRerror
-idx (Ridx$
-useCountDaily (RuseCountDaily.
+idx (Ridx 
+dailyRefuse (RdailyRefuse.
 entrust (2.Nofland.EntrustDataRentrust"€
 C2G_ItemSell6
 items (2 .Nofland.C2G_ItemSell.ItemsEntryRitems8
@@ -1370,4 +1370,11 @@ changeDatae (2.Nofland.ChangeDataR
 changeData
 elfKey (RelfKey
 	grooveIdx (R	grooveIdx
-	selectNew (R	selectNewP bproto3
+	selectNew (R	selectNew"
+C2G_LuckDrawDailyShare"w
+G2C_LuckDrawDailyShare(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeDatae (2.Nofland.ChangeDataR
+changeDataP bproto3

@@ -736,11 +736,11 @@
   4 {
     1: "area_story"
     2 {
-      1: "number"
+      1: "ID"
       3: 1
       4: 1
       5: 13
-      10: "number"
+      10: "ID"
     }
     2 {
       1: "sign"
@@ -1227,11 +1227,11 @@
   4 {
     1: "caravan_story"
     2 {
-      1: "story"
+      1: "ID"
       3: 1
       4: 1
       5: 13
-      10: "story"
+      10: "ID"
     }
     2 {
       1: "sign"
@@ -1398,43 +1398,50 @@
       10: "subType"
     }
     2 {
-      1: "recharge_id"
+      1: "discount_id"
       3: 4
+      4: 1
+      5: 3
+      10: "discountId"
+    }
+    2 {
+      1: "recharge_id"
+      3: 5
       4: 1
       5: 3
       10: "rechargeId"
     }
     2 {
       1: "title"
-      3: 5
+      3: 6
       4: 1
       5: 3
       10: "title"
     }
     2 {
       1: "content"
-      3: 6
+      3: 7
       4: 1
       5: 3
       10: "content"
     }
     2 {
       1: "diamond"
-      3: 7
+      3: 8
       4: 1
       5: 3
       10: "diamond"
     }
     2 {
       1: "first_charge"
-      3: 8
+      3: 9
       4: 1
       5: 3
       10: "firstCharge"
     }
     2 {
       1: "extra_diamond"
-      3: 9
+      3: 10
       4: 1
       5: 3
       10: "extraDiamond"
@@ -3869,11 +3876,11 @@
       10: "type"
     }
     2 {
-      1: "desc"
+      1: "description"
       3: 4
       4: 1
-      5: 9
-      10: "desc"
+      5: 3
+      10: "description"
     }
     2 {
       1: "time"
@@ -4659,57 +4666,70 @@
       10: "timePunish"
     }
     2 {
-      1: "num_factor"
+      1: "auto_mainline"
       3: 16
-      4: 1
+      4: 3
       5: 3
-      10: "numFactor"
+      8 {
+        2: 1
+      }
+      10: "autoMainline"
+    }
+    2 {
+      1: "num_max"
+      3: 17
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "numMax"
     }
     2 {
       1: "resource_factor"
-      3: 17
+      3: 18
       4: 1
       5: 3
       10: "resourceFactor"
     }
     2 {
       1: "cost"
-      3: 18
+      3: 19
       4: 1
       5: 3
       10: "cost"
     }
     2 {
       1: "cost_num"
-      3: 19
+      3: 20
       4: 1
       5: 3
       10: "costNum"
     }
     2 {
       1: "plant_prop"
-      3: 20
+      3: 21
       4: 1
       5: 3
       10: "plantProp"
     }
     2 {
       1: "unlock_condition"
-      3: 21
+      3: 22
       4: 1
       5: 3
       10: "unlockCondition"
     }
     2 {
       1: "condition_parm"
-      3: 22
+      3: 23
       4: 1
       5: 3
       10: "conditionParm"
     }
     2 {
       1: "unlock_parm2"
-      3: 23
+      3: 24
       4: 1
       5: 3
       10: "unlockParm2"
@@ -5244,71 +5264,78 @@
       }
     }
     2 {
-      1: "unit_time"
+      1: "unit_plant"
       3: 5
+      4: 1
+      5: 3
+      10: "unitPlant"
+    }
+    2 {
+      1: "unit_time"
+      3: 6
       4: 1
       5: 3
       10: "unitTime"
     }
     2 {
       1: "addition_price"
-      3: 6
+      3: 7
       4: 1
       5: 9
       10: "additionPrice"
     }
     2 {
       1: "initial_price"
-      3: 7
+      3: 8
       4: 1
       5: 3
       10: "initialPrice"
     }
     2 {
       1: "low_price"
-      3: 8
+      3: 9
       4: 1
       5: 3
       10: "lowPrice"
     }
     2 {
       1: "high_price"
-      3: 9
+      3: 10
       4: 1
       5: 3
       10: "highPrice"
     }
     2 {
       1: "like"
-      3: 10
+      3: 11
       4: 1
       5: 3
       10: "like"
     }
     2 {
       1: "love"
-      3: 11
+      3: 12
       4: 1
       5: 3
       10: "love"
     }
     2 {
       1: "hate"
-      3: 12
+      3: 13
       4: 1
       5: 3
       10: "hate"
     }
     2 {
       1: "limit"
-      3: 13
+      3: 14
       4: 1
       5: 3
       10: "limit"
     }
     2 {
       1: "rate"
-      3: 14
+      3: 15
       4: 1
       5: 3
       10: "rate"
@@ -5446,6 +5473,34 @@
       5: 9
       10: "name"
     }
+    2 {
+      1: "gain_icon"
+      3: 4
+      4: 1
+      5: 9
+      10: "gainIcon"
+    }
+    2 {
+      1: "reduce_icon"
+      3: 5
+      4: 1
+      5: 9
+      10: "reduceIcon"
+    }
+    2 {
+      1: "team_icon"
+      3: 6
+      4: 1
+      5: 9
+      10: "teamIcon"
+    }
+    2 {
+      1: "func_use"
+      3: 7
+      4: 1
+      5: 9
+      10: "funcUse"
+    }
   }
   4 {
     1: "randomdrop_list"
@@ -5547,41 +5602,39 @@
       10: "price"
     }
     2 {
-      1: "note"
+      1: "bilibili_price"
       3: 3
       4: 1
-      5: 9
-      10: "note"
+      5: 3
+      10: "bilibiliPrice"
     }
     2 {
-      1: "android_price"
+      1: "bilibili_ios_identifier"
       3: 4
       4: 1
-      5: 3
-      10: "androidPrice"
+      5: 9
+      10: "bilibiliIosIdentifier"
     }
     2 {
-      1 {
-        13: 0x65636972705f736f
-      }
+      1: "gaore_price"
       3: 5
       4: 1
       5: 3
-      10: "iosPrice"
+      10: "gaorePrice"
     }
     2 {
-      1: "ios_identifier"
+      1: "gaore_ios_identifier"
       3: 6
       4: 1
       5: 9
-      10: "iosIdentifier"
+      10: "gaoreIosIdentifier"
     }
     2 {
-      1: "android_identifier"
+      1: "gaore_google_identifier"
       3: 7
       4: 1
       5: 9
-      10: "androidIdentifier"
+      10: "gaoreGoogleIdentifier"
     }
   }
   4 {
@@ -6051,11 +6104,11 @@
   4 {
     1: "story"
     2 {
-      1: "story"
+      1: "ID"
       3: 1
       4: 1
       5: 13
-      10: "story"
+      10: "ID"
     }
     2 {
       1: "sign"
@@ -7213,46 +7266,46 @@
       10: "map"
     }
     2 {
-      1: "good_name"
+      1: "normal_name"
       3: 11
       4: 1
       5: 3
-      10: "goodName"
+      10: "normalName"
     }
     2 {
-      1: "bad_name"
+      1: "special_name"
       3: 12
       4: 1
       5: 3
-      10: "badName"
+      10: "specialName"
     }
     2 {
-      1: "good_desc"
+      1: "normal_desc"
       3: 13
       4: 1
       5: 3
-      10: "goodDesc"
+      10: "normalDesc"
     }
     2 {
-      1: "bad_desc"
+      1: "special_desc"
       3: 14
       4: 1
       5: 3
-      10: "badDesc"
+      10: "specialDesc"
     }
     2 {
-      1: "good_pic"
+      1: "normal_pic"
       3: 15
       4: 1
       5: 9
-      10: "goodPic"
+      10: "normalPic"
     }
     2 {
-      1: "bad_pic"
+      1: "special_pic"
       3: 16
       4: 1
       5: 9
-      10: "badPic"
+      10: "specialPic"
     }
     2 {
       1: "book_pic"
@@ -7415,29 +7468,36 @@
       10: "normalEnd"
     }
     2 {
-      1: "ending_pic"
+      1: "key_end"
       3: 9
+      4: 1
+      5: 3
+      10: "keyEnd"
+    }
+    2 {
+      1: "ending_pic"
+      3: 10
       4: 1
       5: 9
       10: "endingPic"
     }
     2 {
       1: "ending_map"
-      3: 10
+      3: 11
       4: 1
       5: 9
       10: "endingMap"
     }
     2 {
       1: "start_time"
-      3: 11
+      3: 12
       4: 1
       5: 3
       10: "startTime"
     }
     2 {
       1: "open_condition"
-      3: 12
+      3: 13
       4: 1
       5: 3
       10: "openCondition"

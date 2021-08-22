@@ -1,5 +1,5 @@
 
-◊Î
+™Ó
 cfg_msg.protocfg_gen"R
 accelerate_list)
 datas (2.cfg_gen.accelerateRdatas
@@ -124,10 +124,10 @@ pro_factor (R	proFactor
 base_pro (RbasePro"R
 area_story_list)
 datas (2.cfg_gen.area_storyRdatas
-count (Rcount"h
+count (Rcount"`
 
-area_story
-number (Rnumber
+area_story
+ID (RID
 sign (	Rsign
 fairy (Rfairy
 content (	Rcontent"H
@@ -205,9 +205,9 @@ reduce_max (R	reduceMax
 start_cost (BR	startCost"X
 caravan_story_list,
 datas (2.cfg_gen.caravan_storyRdatas
-count (Rcount"g
-caravan_story
-story (Rstory
+count (Rcount"a
+caravan_story
+ID (RID
 sign (	Rsign
 content (	Rcontent
 type (Rtype"V
@@ -229,18 +229,21 @@ start_cost (BR	startCost"X
 num (BRnum"J
 charge_list%
 datas (2.cfg_gen.chargeRdatas
-count (Rcount"á
+count (Rcount"®
 charge
 	charge_id (RchargeId
 type (Rtype
 sub_type (RsubType
-recharge_id (R
+discount_id (R
+discountId
+recharge_id (R
 rechargeId
-title (Rtitle
-content (Rcontent
-diamond (Rdiamond!
-first_charge (RfirstCharge#
-extra_diamond	 (RextraDiamond"L
+title (Rtitle
+content (Rcontent
+diamond (Rdiamond!
+first_charge	 (RfirstCharge#
+extra_diamond
+ (RextraDiamond"L
 checkin_list&
 datas (2.cfg_gen.checkinRdatas
 count (Rcount"â
@@ -642,12 +645,12 @@ sell_price (R	sellPrice
 cost_value (R	costValue"L
 message_list&
 datas (2.cfg_gen.messageRdatas
-count (Rcount"p
+count (Rcount"~
 message
 msg_id (RmsgId
 name (	Rname
-type (Rtype
-desc (	Rdesc
+type (Rtype 
+description (Rdescription
 time (Rtime"D
 npc_list"
 datas (2.cfg_gen.npcRdatas
@@ -762,7 +765,7 @@ score_type (R	scoreType
 
 plant_list$
 datas (2.cfg_gen.plantRdatas
-count (Rcount"†
+count (Rcount"«
 plant
 seed_id (RseedId
 name (	Rname
@@ -782,17 +785,17 @@ plant_path (	R	plantPath
 
 reduce_max (R	reduceMax
 time_punish (R
-timePunish
+timePunish'
+auto_mainline (BRautoMainline
+num_max (BRnumMax'
+resource_factor (RresourceFactor
+cost (Rcost
+cost_num (RcostNum
 
-num_factor (R	numFactor'
-resource_factor (RresourceFactor
-cost (Rcost
-cost_num (RcostNum
-
-plant_prop (R	plantProp)
-unlock_condition (RunlockCondition%
-condition_parm (RconditionParm!
-unlock_parm2 (RunlockParm2"T
+plant_prop (R	plantProp)
+unlock_condition (RunlockCondition%
+condition_parm (RconditionParm!
+unlock_parm2 (RunlockParm2"T
 plant_place_list*
 datas (2.cfg_gen.plant_placeRdatas
 count (Rcount"Ö
@@ -870,25 +873,27 @@ rechargeId
 icon (	Ricon"L
 product_list&
 datas (2.cfg_gen.productRdatas
-count (Rcount"¸
+count (Rcount"õ
 product
 product (Rproduct
 type (Rtype
 
 unit_price (R	unitPrice
-unit_exp (RunitExp
-	unit_time (RunitTime%
-addition_price (	RadditionPrice#
-initial_price (RinitialPrice
-	low_price (RlowPrice
+unit_exp (RunitExp
 
-high_price	 (R	highPrice
-like
- (Rlike
-love (Rlove
-hate (Rhate
-limit (Rlimit
-rate (Rrate"X
+unit_plant (R	unitPlant
+	unit_time (RunitTime%
+addition_price (	RadditionPrice#
+initial_price (RinitialPrice
+	low_price	 (RlowPrice
+
+high_price
+ (R	highPrice
+like (Rlike
+love (Rlove
+hate (Rhate
+limit (Rlimit
+rate (Rrate"X
 product_order_list,
 datas (2.cfg_gen.product_orderRdatas
 count (Rcount"î
@@ -909,11 +914,16 @@ difficulty!
  (RalreadyRate"N
 property_list'
 datas (2.cfg_gen.propertyRdatas
-count (Rcount"J
+count (Rcount"¿
 property
 ID (RID
 property (	Rproperty
-name (	Rname"R
+name (	Rname
+	gain_icon (	RgainIcon
+reduce_icon (	R
+reduceIcon
+	team_icon (	RteamIcon
+func_use (	RfuncUse"R
 randomdrop_list)
 datas (2.cfg_gen.randomdropRdatas
 count (Rcount"î
@@ -926,16 +936,17 @@ randomdrop
 item_pro (BRitemPro"N
 recharge_list'
 datas (2.cfg_gen.rechargeRdatas
-count (Rcount"Ì
+count (Rcount"´
 recharge
 recharge_id (R
 rechargeId
-price (Rprice
-note (	Rnote#
-android_price (RandroidPrice
-	ios_price (RiosPrice%
-ios_identifier (	RiosIdentifier-
-android_identifier (	RandroidIdentifier"Z
+price (Rprice%
+bilibili_price (RbilibiliPrice6
+bilibili_ios_identifier (	RbilibiliIosIdentifier
+gaore_price (R
+gaorePrice0
+gaore_ios_identifier (	RgaoreIosIdentifier6
+gaore_google_identifier (	RgaoreGoogleIdentifier"Z
 reconciliation_list-
 datas (2.cfg_gen.reconciliationRdatas
 count (Rcount"J
@@ -1017,9 +1028,9 @@ skill_list$
 
 story_list$
 datas (2.cfg_gen.storyRdatas
-count (Rcount"¨
-story
-story (Rstory
+count (Rcount"¶
+story
+ID (RID
 sign (	Rsign#
 end_interface (	RendInterface
 scene_bg (	RsceneBg!
@@ -1195,7 +1206,7 @@ unlockAnim
 cam	 (Rcam"b
 worldline_activity_list1
 datas (2.cfg_gen.worldline_activityRdatas
-count (Rcount"‰
+count (Rcount"à
 worldline_activity
 activity (Ractivity
 name (Rname
@@ -1208,13 +1219,17 @@ score_item (R	scoreItem
 union (BRunion
 rank	 (BRrank
 map
- (	Rmap
-	good_name (RgoodName
-bad_name (RbadName
-	good_desc (RgoodDesc
-bad_desc (RbadDesc
-good_pic (	RgoodPic
-bad_pic (	RbadPic
+ (	Rmap
+normal_name (R
+normalName!
+special_name (RspecialName
+normal_desc (R
+normalDesc!
+special_desc (RspecialDesc
+
+normal_pic (	R	normalPic
+special_pic (	R
+specialPic
 book_pic (	RbookPic
 	union_end (	RunionEnd
 
@@ -1231,7 +1246,7 @@ resourceId
 desc (	Rdesc"\
 worldline_event_list.
 datas (2.cfg_gen.worldline_eventRdatas
-count (Rcount"Ë
+count (Rcount"Å
 worldline_event
 event_id (ReventId
 name (Rname
@@ -1241,15 +1256,16 @@ resourceId
 good_end (RgoodEnd
 bad_end (RbadEnd
 
-normal_end (R	normalEnd
+normal_end (R	normalEnd
+key_end	 (RkeyEnd
 
-ending_pic	 (	R	endingPic
+ending_pic
+ (	R	endingPic
 
-ending_map
- (	R	endingMap
+ending_map (	R	endingMap
 
-start_time (R	startTime%
-open_condition (RopenCondition"X
+start_time (R	startTime%
+open_condition (RopenCondition"X
 worldline_map_list,
 datas (2.cfg_gen.worldline_mapRdatas
 count (Rcount"ê

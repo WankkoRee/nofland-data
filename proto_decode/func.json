@@ -568,7 +568,7 @@
   7: ""
   8: ""
   9: "DispatchController"
-  10: 6000120
+  10: 6000149
   11: 0
   12: ""
 }
@@ -838,4 +838,46 @@
   11: 0
   12: ""
 }
-2: 60
+1 {
+  1: 460
+  2: "sprite/common/common/btn/btn_func_community.png"
+  3: ""
+  4: "4600"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 0
+  11: 0
+  12: ""
+}
+1 {
+  1: 461
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4610"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000014
+  11: 0
+  12: ""
+}
+1 {
+  1: 462
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4620"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000035
+  11: 0
+  12: ""
+}
+2: 63

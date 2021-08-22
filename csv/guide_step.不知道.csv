@@ -30,7 +30,7 @@
 29,0,1,0,SaleSubmit,guide_1,0,-420,410030,btn_submit,10,170,50,0,0,0,4,0,0
 30,31,0,0,GatherBegin,guide_1,0,-500,410031,fucId_406,10,200,200,2,0,0,1,0,0
 31,32,0,0,GatherArea,guide_1,0,0,410032,GS_GatherArea2,2,200,200,0,-150000,-200000,1,0,0
-32,33,0,0,GatherClickElf,guide_1,0,250,410033,GS_ClickElf_2,10,120,150,0,0,0,1,0,0
+32,33,0,0,GatherClickElf,guide_1,0,250,410033,GS_ClickElf_100053,10,120,150,0,0,0,1,0,0
 33,1012,1,0,GatherElfConfirm,guide_1,0,-550,410034,GS_Confirm2,10,180,60,0,0,0,4,0,0
 34,35,0,0,GatherOverWaiting,,0,0,0,ALL,0,0,0,0,0,0,3,0,0
 35,36,0,0,GatherStart2,guide_1,0,-550,410039,GS_Confirm2,10,180,60,0,0,0,4,0,0
@@ -39,7 +39,7 @@
 38,1004,0,0,GatherMain,guide_1,0,-500,410042,GS_MainTask,10,350,80,0,0,180000,1,0,0
 39,40,0,0,CultureBegin,guide_1,0,-500,410073,GS_MainTask,10,350,80,0,0,180000,1,0,0
 40,41,0,0,CulturePot,guide_1,0,260,410074,Groove_base(Clone)11,2,100,100,0,0,0,1,0,0
-41,42,0,0,CultureClickElf,guide_1,0,150,410075,GS_ClickElf_2,10,120,150,0,0,0,1,0,0
+41,42,0,0,CultureClickElf,guide_1,0,150,410075,GS_ClickElf_100051,10,120,150,0,0,0,1,0,0
 42,0,1,0,CultureElfConfirm,guide_1,0,500,410076,GS_Confirm,10,180,60,0,0,0,4,0,0
 43,44,0,0,CultureBrief,guide_2,0,0,0,pot_info_popup(Clone),2,2000,2000,0,0,-6500000,2,2000,0
 44,45,1,0,CulturePlant,guide_1,0,450,410077,GS_CultureUse1,2,2000,2000,0,0,0,4,0,0
