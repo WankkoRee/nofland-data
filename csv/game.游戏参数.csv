@@ -205,14 +205,14 @@
 219,friendCfg,initialName,402000,
 220,friendCfg,initialSign,402001,
 221,eventCfg,groupReward,0,500|5000
-222,eventCfg,bonusMax,6000,
+222,eventCfg,bonusMax,20000,
 223,eventCfg,bonusTrigger,9800,
 224,eventCfg,bonusStart,50000,
-225,eventCfg,bonusFactor,5,
+225,eventCfg,bonusFactor,10,
 226,orderCfg,orderTime,600,
 227,caravanCfg,getProDesc,0,500|2500|5000|7500|10000
 228,summonCfg,goldenPro,0,4|8000
-229,passCfg,inheritRate,2000,
+229,passCfg,inheritRate,1000,
 230,guideCfg,showCountdown,10,
 231,guideCfg,showSkipTime,10,
 232,diamondCfg,exchangeRate,100,
