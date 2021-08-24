@@ -1,5 +1,5 @@
 
-не
+ёг
 common.protoNofland"
 	ErrorCode
 code (Rcode"т
@@ -861,4 +861,13 @@ BigfunData:
 	ShareData,
 weeklyRefreshTime (RweeklyRefreshTime(
 dailyShareCount (RdailyShareCount*
-weeklyShareCount (RweeklyShareCountbproto3
+weeklyShareCount (RweeklyShareCount"р
+
+RebateData(
+platformOrderID (	RplatformOrderID
+account (	Raccount
+payment (Rpayment
+	timestamp (R	timestamp
+payable (Rpayable
+buyType (RbuyType
+cfgID (RcfgIDbproto3

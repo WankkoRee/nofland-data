@@ -31,7 +31,7 @@
   3: 500123
   4: "sprite/huodong/btn_step/step_4.png"
   5: "\n\013\014"
-  6: 100
+  6: 80
   7: 150000
 }
 1 {
@@ -40,7 +40,7 @@
   3: 500154
   4: "sprite/huodong/btn_step/step_5.png"
   5: "\r\016\017"
-  6: 100
+  6: 80
   7: 150000
 }
 1 {
@@ -49,7 +49,7 @@
   3: 500185
   4: "sprite/huodong/btn_step/step_6.png"
   5: "\020\021\022"
-  6: 100
+  6: 80
   7: 150000
 }
 1 {
@@ -58,7 +58,7 @@
   3: 500222
   4: "sprite/huodong/btn_step/step_7.png"
   5: "\023\024\025"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -67,7 +67,7 @@
   3: 500253
   4: "sprite/huodong/btn_step/step_8.png"
   5: "\026\027\030"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -76,7 +76,7 @@
   3: 500284
   4: "sprite/huodong/btn_step/step_9.png"
   5: "\031\032\033"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -85,7 +85,7 @@
   3: 500321
   4: "sprite/huodong/btn_step/step_10.png"
   5: "\034\035\036"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -94,7 +94,7 @@
   3: 500352
   4: "sprite/huodong/btn_step/step_11.png"
   5: "\037 !"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -103,7 +103,7 @@
   3: 500383
   4: "sprite/huodong/btn_step/step_12.png"
   5: "\"#$"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -139,7 +139,7 @@
   3: 501123
   4: "sprite/huodong/btn_step/step_16.png"
   5: "./0"
-  6: 100
+  6: 80
   7: 150000
 }
 1 {
@@ -148,7 +148,7 @@
   3: 501154
   4: "sprite/huodong/btn_step/step_17.png"
   5: "123"
-  6: 100
+  6: 80
   7: 150000
 }
 1 {
@@ -157,7 +157,7 @@
   3: 501185
   4: "sprite/huodong/btn_step/step_18.png"
   5: "456"
-  6: 100
+  6: 80
   7: 150000
 }
 1 {
@@ -166,7 +166,7 @@
   3: 501222
   4: "sprite/huodong/btn_step/step_19.png"
   5: "789"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -175,7 +175,7 @@
   3: 501253
   4: "sprite/huodong/btn_step/step_20.png"
   5: ":;<"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -184,7 +184,7 @@
   3: 501284
   4: "sprite/huodong/btn_step/step_21.png"
   5: "=>?"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -193,7 +193,7 @@
   3: 501321
   4: "sprite/huodong/btn_step/step_22.png"
   5: "@AB"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -202,7 +202,7 @@
   3: 501352
   4: "sprite/huodong/btn_step/step_23.png"
   5: "CDE"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -211,7 +211,7 @@
   3: 501383
   4: "sprite/huodong/btn_step/step_24.png"
   5: "FGH"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -247,7 +247,7 @@
   3: 502123
   4: "sprite/huodong/btn_step/step_28.png"
   5: "RST"
-  6: 100
+  6: 80
   7: 150000
 }
 1 {
@@ -256,7 +256,7 @@
   3: 502154
   4: "sprite/huodong/btn_step/step_29.png"
   5: "UVW"
-  6: 100
+  6: 80
   7: 150000
 }
 1 {
@@ -265,7 +265,7 @@
   3: 502185
   4: "sprite/huodong/btn_step/step_30.png"
   5: "XYZ"
-  6: 100
+  6: 80
   7: 150000
 }
 1 {
@@ -274,7 +274,7 @@
   3: 502222
   4: "sprite/huodong/btn_step/step_31.png"
   5: "[\\]"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -283,7 +283,7 @@
   3: 502253
   4: "sprite/huodong/btn_step/step_32.png"
   5: "^_`"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -292,7 +292,7 @@
   3: 502284
   4: "sprite/huodong/btn_step/step_33.png"
   5: "abc"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -301,7 +301,7 @@
   3: 502321
   4: "sprite/huodong/btn_step/step_34.png"
   5: "def"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -310,7 +310,7 @@
   3: 502352
   4: "sprite/huodong/btn_step/step_35.png"
   5: "ghi"
-  6: 100
+  6: 60
   7: 200000
 }
 1 {
@@ -319,7 +319,7 @@
   3: 502383
   4: "sprite/huodong/btn_step/step_36.png"
   5: "jkl"
-  6: 100
+  6: 60
   7: 200000
 }
 2: 36

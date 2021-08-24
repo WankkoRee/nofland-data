@@ -49,9 +49,9 @@
 606,6060,6061,6062,sprite/common/item/icon/coin/item_604.png,sprite/common/common/icon/coin/coin_jinbi.png,0,1,6063,0,0,0,0,403|0,0
 607,6070,6071,6072,sprite/common/item/icon/coin/item_604.png,sprite/common/common/icon/coin/coin_jinbi.png,0,1,6073,0,0,0,0,403|0,0
 608,6080,6081,6082,sprite/common/item/icon/coin/item_608.png,sprite/common/common/icon/coin/coin_jinbi.png,0,1,6083,0,0,0,0,403|0,3
-609,6090,6091,6092,sprite/common/item/icon/coin/item_609.png,sprite/common/common/icon/coin/coin_jinbi.png,0,19,6093,0,0,0,0,,0
-610,6100,6101,6102,sprite/common/item/icon/coin/item_610.png,sprite/common/common/icon/coin/coin_jinbi.png,0,20,6103,0,0,0,0,,0
-611,6110,6111,6112,sprite/common/item/icon/coin/item_611.png,sprite/common/common/icon/coin/coin_jinbi.png,0,21,6113,0,0,0,0,,0
+609,6090,6091,6092,sprite/common/item/icon/coin/item_609.png,sprite/common/common/icon/coin/coin_jinbi.png,7,19,6093,0,0,0,0,,0
+610,6100,6101,6102,sprite/common/item/icon/coin/item_610.png,sprite/common/common/icon/coin/coin_jinbi.png,8,20,6103,0,0,0,0,,0
+611,6110,6111,6112,sprite/common/item/icon/coin/item_611.png,sprite/common/common/icon/coin/coin_jinbi.png,9,21,6113,0,0,0,0,,0
 1000,10000,10001,10002,sprite/common/item/icon/material/item_1000.png,sprite/common/common/icon/coin/coin_jinbi.png,0,2,10003,0,0,0,0,406|2,1
 1001,10010,10011,10012,sprite/common/item/icon/material/item_1001.png,sprite/common/common/icon/coin/coin_jinbi.png,0,2,10013,0,0,0,0,406|2,1
 1002,10020,10021,10022,sprite/common/item/icon/material/item_1002.png,sprite/common/common/icon/coin/coin_jinbi.png,0,2,10023,0,0,0,0,406|6,1
@@ -337,7 +337,7 @@
 30007,300070,300071,300072,sprite/common/item/icon/other/item_30006.png,sprite/common/common/icon/coin/coin_jinbi.png,100,12,300073,0,0,0,0,,3
 50000,500000,500001,500002,sprite/shejiao/icon/item_50000.png,sprite/common/common/icon/coin/coin_jinbi.png,0,14,500003,0,0,0,0,,0
 50001,500010,500011,500012,sprite/shejiao/icon/item_50001.png,sprite/common/common/icon/coin/coin_jinbi.png,0,14,500013,0,0,0,0,,0
-50002,500020,500021,500022,sprite/shejiao/icon/item_51002.png,sprite/common/common/icon/coin/coin_jinbi.png,0,14,500023,0,0,0,0,,0
+50002,500020,500021,500022,sprite/shejiao/icon/item_50002.png,sprite/common/common/icon/coin/coin_jinbi.png,0,14,500023,0,0,0,0,,0
 50003,500030,500031,500032,sprite/shejiao/icon/item_52000.png,sprite/common/common/icon/coin/coin_jinbi.png,0,14,500033,0,0,0,0,,0
 50004,500040,500041,500042,sprite/shejiao/icon/item_52001.png,sprite/common/common/icon/coin/coin_jinbi.png,0,14,500043,0,0,0,0,,0
 50005,500050,500051,500052,sprite/shejiao/icon/item_52002.png,sprite/common/common/icon/coin/coin_jinbi.png,0,14,500053,0,0,0,0,,0

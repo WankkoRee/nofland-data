@@ -857,7 +857,7 @@
   4: "6092"
   5: "sprite/common/item/icon/coin/item_609.png"
   6: "sprite/common/common/icon/coin/coin_jinbi.png"
-  7: 0
+  7: 7
   8: 19
   9: "6093"
   10: 0
@@ -873,7 +873,7 @@
   4: "6102"
   5: "sprite/common/item/icon/coin/item_610.png"
   6: "sprite/common/common/icon/coin/coin_jinbi.png"
-  7: 0
+  7: 8
   8: 20
   9: "6103"
   10: 0
@@ -889,7 +889,7 @@
   4: "6112"
   5: "sprite/common/item/icon/coin/item_611.png"
   6: "sprite/common/common/icon/coin/coin_jinbi.png"
-  7: 0
+  7: 9
   8: 21
   9: "6113"
   10: 0
@@ -5844,7 +5844,7 @@
   2: "500020"
   3: "500021"
   4: "500022"
-  5: "sprite/shejiao/icon/item_51002.png"
+  5: "sprite/shejiao/icon/item_50002.png"
   6: "sprite/common/common/icon/coin/coin_jinbi.png"
   7: 0
   8: 14
