@@ -543,8 +543,15 @@
       10: "elfCfgId"
     }
     2 {
-      1: "award"
+      1: "preGrowMax"
       3: 2
+      4: 1
+      5: 8
+      10: "preGrowMax"
+    }
+    2 {
+      1: "award"
+      3: 3
       4: 1
       5: 11
       6: ".Nofland.ItemData"
