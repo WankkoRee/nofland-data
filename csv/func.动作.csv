@@ -1,4 +1,4 @@
-﻿id,不知道,不知道,不知道,不知道,不知道,不知道,不知道,不知道,不知道,不知道,不知道
+﻿id,图标,按钮,名称,文本2,不知道,不知道,描述,不知道,不知道,不知道,不知道
 400,sprite/common/common/icon/mark/icon_ask.png,,4000,,1,1.5,4002,TownController,6000021,0,
 401,sprite/common/common/icon/mark/icon_weituoban.png,,4010,4011,0,,,TownController,6001000,0,
 402,sprite/common/common/icon/mark/icon_shop1.png,,4020,,1,1.5,4022,TownController,6000012,0,

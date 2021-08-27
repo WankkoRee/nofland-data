@@ -1,4 +1,4 @@
-﻿id,名称[text],描述[text],图标,不知道,不知道,条件[condition],数量,不知道,下一层级[achievement],不知道
+﻿id,名称[text],描述[text],图标,不知道,等级,条件[condition],条件所需数量,条件判定对象,下一层级[achievement],奖励[treasure]
 8000000,80000000,80000001,sprite/common/common/icon/chengjiu/icon_achievement_6_1,1,1,109,5,0,8000001,1200000
 8000001,80000010,80000011,sprite/common/common/icon/chengjiu/icon_achievement_6_1,2,2,109,10,0,8000002,1200001
 8000002,80000020,80000021,sprite/common/common/icon/chengjiu/icon_achievement_6_1,3,3,109,20,0,8000003,1200002
