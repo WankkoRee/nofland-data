@@ -8177,7 +8177,7 @@
 3008175,52,,texture/scene/mask_talk_bg.png,0,"[7000000, 7000002]","['normal', 'think']","[0, 1]",30081750,,,,[],0,0,0,0
 3008176,52,,texture/scene/mask_talk_bg.png,0,"[7000000, 7000002]","['normal', 'happy']","[0, 1]",30081760,,,,[],0,0,0,0
 3008177,52,,texture/scene/mask_talk_bg.png,0,"[7000000, 7000002]","['normal', 'happy']","[0, 1]",30081770,,,,[],0,0,0,0
-3008178,52,,texture/scene/mask_talk_bg.png,0,"[7000000, 7000002]","['normal', 'happy']","[0, 1]",30081780,,,,[],0,0,0,0
+3008178,52,,texture/scene/mask_talk_bg.png,0,"[7000000, 7000002]","['normal', 'happy']","[1, 0]",30081780,,,,[],0,0,0,0
 3008179,52,,texture/scene/mask_talk_bg.png,0,"[7000000, 7000002]","['happy', 'happy']","[1, 0]",30081790,,,,[],0,0,0,0
 3008180,52,,texture/scene/mask_talk_bg.png,0,"[7000000, 7000002]","['happy', 'happy']","[1, 0]",30081800,,,,[],0,0,0,0
 3008181,,,texture/scene/town_bg.png,0,[],['normal'],[],,,,,[],0,0,0,0

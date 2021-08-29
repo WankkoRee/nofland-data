@@ -1,5 +1,5 @@
 
-£Ç
+åÈ
 common.protoNofland"
 	ErrorCode
 code (Rcode"Ô
@@ -260,15 +260,19 @@ GatherData:
 npcIndex (RnpcIndex5
 deliveryItem (2.Nofland.ItemDataRdeliveryItem3
 rewardItems (2.Nofland.ItemDataRrewardItems 
-refreshTime (RrefreshTime"Ú
+refreshTime (RrefreshTime"œ
 EntrustsData$
 dailyDelivery (RdailyDelivery 
 dailyRefuse (RdailyRefuse&
 dailyAwardGold (RdailyAwardGold8
 entrustsList (2.Nofland.EntrustDataRentrustsListZ
-entrustStatistics (2,.Nofland.EntrustsData.EntrustStatisticsEntryRentrustStatisticsD
+entrustStatistics (2,.Nofland.EntrustsData.EntrustStatisticsEntryRentrustStatisticsr
+difficultyDailyStatistics (24.Nofland.EntrustsData.DifficultyDailyStatisticsEntryRdifficultyDailyStatisticsD
 EntrustStatisticsEntry
 key (Rkey
+value (Rvalue:8L
+DifficultyDailyStatisticsEntry
+key (Rkey
 value (Rvalue:8"N
 EntrustsChangeData8
 entrustsList (2.Nofland.EntrustDataRentrustsList"¥
