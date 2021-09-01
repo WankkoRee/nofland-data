@@ -1,5 +1,5 @@
 
-è…
+©…
 common.protoNofland"
 	ErrorCode
 code (Rcode"‘
@@ -539,12 +539,13 @@ cardsCount=
 TimeScheduleData
 ID (RID
 	beginTime (R	beginTime
-endTime (RendTime"’
+endTime (RendTime"Ô
 WorldlinePlayerData0
 base (2.Nofland.WorldlinePlayerBaseRbase8
 worldlineTask (2.Nofland.TasksDataRworldlineTask0
 	unionTask (2.Nofland.TasksDataR	unionTask 
-eventReward (ReventReward"`
+eventReward (ReventReward
+fixDays (RfixDays"`
 WorldlinePlayerUnion
 ID (RID
 scores (Rscores 

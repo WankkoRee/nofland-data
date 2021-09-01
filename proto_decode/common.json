@@ -3384,6 +3384,13 @@
       5: 13
       10: "eventReward"
     }
+    2 {
+      1: "fixDays"
+      3: 5
+      4: 3
+      5: 13
+      10: "fixDays"
+    }
   }
   4 {
     1: "WorldlinePlayerUnion"
