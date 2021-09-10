@@ -1541,97 +1541,111 @@
 }
 1 {
   1: 232
+  2: "orderCfg"
+  3: "orderDailyMax"
+  4: 20
+  5: ""
+}
+1 {
+  1: 233
+  2: "orderCfg"
+  3: "orderNpcDailyMax"
+  4: 5
+  5: ""
+}
+1 {
+  1: 234
   2: "caravanCfg"
   3: "getProDesc"
   4: 0
   5: "500|2500|5000|7500|10000"
 }
 1 {
-  1: 233
+  1: 235
   2: "summonCfg"
   3: "goldenPro"
   4: 0
   5: "4|8000"
 }
 1 {
-  1: 234
+  1: 236
   2: "passCfg"
   3: "inheritRate"
   4: 1000
   5: ""
 }
 1 {
-  1: 235
+  1: 237
   2: "guideCfg"
   3: "showCountdown"
   4: 10
   5: ""
 }
 1 {
-  1: 236
+  1: 238
   2: "guideCfg"
   3: "showSkipTime"
   4: 10
   5: ""
 }
 1 {
-  1: 237
+  1: 239
   2: "diamondCfg"
   3: "exchangeRate"
   4: 100
   5: ""
 }
 1 {
-  1: 238
+  1: 240
   2: "furnitureCfg"
   3: "fairyRdTime"
   4: 10
   5: ""
 }
 1 {
-  1: 239
+  1: 241
   2: "furnitureCfg"
   3: "restoreRate"
   4: 3000
   5: ""
 }
 1 {
-  1: 240
+  1: 242
   2: "chargeCfg"
   3: "dailyDiamond"
   4: 60
   5: ""
 }
 1 {
-  1: 241
+  1: 243
   2: "chargeCfg"
   3: "cardDuration"
   4: 30
   5: ""
 }
 1 {
-  1: 242
+  1: 244
   2: "chargeCfg"
   3: "cardBuff"
   4: 0
   5: "352000|352001|352002|352003"
 }
 1 {
-  1: 243
+  1: 245
   2: "chargeCfg"
   3: "cardMax"
   4: 90
   5: ""
 }
 1 {
-  1: 244
+  1: 246
   2: "chargeCfg"
   3: "presentFairyLine"
   4: 149
   5: ""
 }
 1 {
-  1: 245
+  1: 247
   2 {
     13: 101
     12: 0x6766436e6f636964
@@ -1641,31 +1655,31 @@
   5: ""
 }
 1 {
-  1: 246
+  1: 248
   2: "businessCfg"
   3: "cumulativeBusiness"
   4: 15
   5: ""
 }
 1 {
-  1: 247
+  1: 249
   2: "fishingCfg"
   3: "fishFirstType"
   4: 1
   5: ""
 }
 1 {
-  1: 248
+  1: 250
   2: "shareCfg"
   3: "firstShareDaily"
   4: 0
   5: "500&40"
 }
 1 {
-  1: 249
+  1: 251
   2: "shareCfg"
   3: "firstShareWeekly"
   4: 0
   5: "501&40"
 }
-2: 234
+2: 236

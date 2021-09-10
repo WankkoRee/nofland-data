@@ -1026,7 +1026,7 @@
     6: 48
     6: 49
   }
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_1"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_1"
   5: 1
   6: 1
   7: 118
@@ -1039,7 +1039,7 @@
   1: 8005001
   2: "80050010"
   3: "80050011"
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_1"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_1"
   5: 2
   6: 2
   7: 118
@@ -1052,7 +1052,7 @@
   1: 8005002
   2: "80050020"
   3: "80050021"
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_1"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_1"
   5: 3
   6: 3
   7: 118
@@ -1065,7 +1065,7 @@
   1: 8005003
   2: "80050030"
   3: "80050031"
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_1"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_1"
   5: 4
   6: 4
   7: 118
@@ -1078,7 +1078,7 @@
   1: 8005004
   2: "80050040"
   3: "80050041"
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_1"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_1"
   5: 5
   6: 5
   7: 118
@@ -1091,7 +1091,7 @@
   1: 8005005
   2: "80050050"
   3: "80050051"
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_2"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_2"
   5: 1
   6: 6
   7: 118
@@ -1104,7 +1104,7 @@
   1: 8005006
   2: "80050060"
   3: "80050061"
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_2"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_2"
   5: 2
   6: 7
   7: 118
@@ -1117,7 +1117,7 @@
   1: 8005007
   2: "80050070"
   3: "80050071"
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_2"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_2"
   5: 3
   6: 8
   7: 118
@@ -1140,7 +1140,7 @@
     6: 48
     7: 49
   }
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_2"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_2"
   5: 4
   6: 9
   7: 118
@@ -1153,7 +1153,7 @@
   1: 8005009
   2: "80050090"
   3: "80050091"
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_3"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_3"
   5: 1
   6: 10
   7: 118
@@ -1176,7 +1176,7 @@
     6: 49
     6: 49
   }
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_3"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_3"
   5: 2
   6: 11
   7: 118
@@ -1189,7 +1189,7 @@
   1: 8005011
   2: "80050110"
   3: "80050111"
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_3"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_3"
   5: 3
   6: 12
   7: 118
@@ -1202,7 +1202,7 @@
   1: 8005012
   2: "80050120"
   3: "80050121"
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_3"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_3"
   5: 4
   6: 13
   7: 118
@@ -1215,7 +1215,7 @@
   1: 8005013
   2: "80050130"
   3: "80050131"
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_3"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_3"
   5: 5
   6: 14
   7: 118
@@ -1228,7 +1228,7 @@
   1: 8005014
   2: "80050140"
   3: "80050141"
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_3"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_3"
   5: 6
   6: 15
   7: 118
@@ -1241,7 +1241,7 @@
   1: 8005015
   2: "80050150"
   3: "80050151"
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_3"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_3"
   5: 7
   6: 16
   7: 118
@@ -1254,7 +1254,7 @@
   1: 8005016
   2: "80050160"
   3: "80050161"
-  4: "sprite/common/common/icon/chengjiu/icon_achievement_1_3"
+  4: "sprite/common/common/icon/chengjiu/icon_achievement_2_3"
   5: 8
   6: 17
   7: 118

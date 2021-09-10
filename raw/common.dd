@@ -1,5 +1,5 @@
 
-©É
+ƒË
 common.protoNofland"
 	ErrorCode
 code (Rcode"Ô
@@ -430,7 +430,7 @@ StringData
 cfgID (RcfgID
 state (Rstate
 endTime (RendTime
-storyIdx (RstoryIdx"”
+storyIdx (RstoryIdx"¶
 SaleData
 	beginTime (R	beginTime
 endTime (RendTime5
@@ -439,10 +439,14 @@ StringData
 	gotProfit (R	gotProfit
 gotRatio (RgotRatio.
 orders (2.Nofland.SaleOrderDataRorders
-	dailyDone (R	dailyDoneQ
+	dailyDone (R	dailyDoneY
+npcDailyOrderCount	 (2).Nofland.SaleData.NpcDailyOrderCountEntryRnpcDailyOrderCountQ
 PlacesEntry
 key (Rkey,
-value (2.Nofland.SalePlaceDataRvalue:8"ä
+value (2.Nofland.SalePlaceDataRvalue:8E
+NpcDailyOrderCountEntry
+key (Rkey
+value (Rvalue:8"ä
 FuturesOrderData
 UID (RUID
 ownerUID (RownerUID
@@ -512,7 +516,7 @@ cardsCount=
 values (2.Nofland.UUMap.ValuesEntryRvalues9
 ValuesEntry
 key (Rkey
-value (Rvalue:8"’
+value (Rvalue:8"Ê
 ContactData
 name (	Rname
 portrait (Rportrait
@@ -524,7 +528,11 @@ cardsCount=
 	decorates (2.Nofland.UUMapR	decorates*
 allElfs	 (2.Nofland.UValuesRallElfs&
 bePraisedTimes (RbePraisedTimes*
-beQuickenedTimes (RbeQuickenedTimes"¢
+beQuickenedTimes (RbeQuickenedTimes
+
+logoutTime (R
+logoutTime
+online (Ronline"¢
 ModifyContact
 value (	Rvalue$
 elfs (2.Nofland.UValuesRelfs'

@@ -2741,6 +2741,14 @@
       5: 3
       10: "dailyDone"
     }
+    2 {
+      1: "npcDailyOrderCount"
+      3: 9
+      4: 3
+      5: 11
+      6: ".Nofland.SaleData.NpcDailyOrderCountEntry"
+      10: "npcDailyOrderCount"
+    }
     3 {
       1 {
         10: 108
@@ -2759,6 +2767,26 @@
         4: 1
         5: 11
         6: ".Nofland.SalePlaceData"
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "NpcDailyOrderCountEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
         10: "value"
       }
       7 {
@@ -3253,6 +3281,20 @@
       4: 1
       5: 5
       10: "beQuickenedTimes"
+    }
+    2 {
+      1: "logoutTime"
+      3: 13
+      4: 1
+      5: 3
+      10: "logoutTime"
+    }
+    2 {
+      1: "online"
+      3: 14
+      4: 1
+      5: 5
+      10: "online"
     }
   }
   4 {
