@@ -710,7 +710,7 @@
   11: 0
   12: 0
   13: 0
-  15: 3
+  15: 0
 }
 1 {
   1: 601
@@ -803,8 +803,8 @@
   2: "6060"
   3: "6061"
   4: "6062"
-  5: "sprite/common/item/icon/coin/item_604.png"
-  6: "sprite/common/common/icon/coin/coin_jinbi.png"
+  5: "sprite/common/item/icon/coin/item_daibi1.png"
+  6: "sprite/common/common/icon/coin/coin_daibi1.png"
   7: 0
   8: 1
   9: "6063"
@@ -812,7 +812,7 @@
   11: 0
   12: 0
   13: 0
-  14: "403|0"
+  14: "422|0"
   15: 0
 }
 1 {
@@ -5854,7 +5854,7 @@
   2: "500030"
   3: "500031"
   4: "500032"
-  5: "sprite/shejiao/icon/item_52000.png"
+  5: "sprite/shejiao/icon/item_50003.png"
   6: "sprite/common/common/icon/coin/coin_jinbi.png"
   7: 0
   8: 14
