@@ -171,6 +171,14 @@
       6: ".Nofland.NpcChangeData"
       10: "npcChange"
     }
+    2 {
+      1: "currencyChange"
+      3: 22
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "currencyChange"
+    }
   }
   4 {
     1: "NotifyChangeData"
@@ -320,6 +328,30 @@
       6: ".Nofland.ActivityVisitorsChangeData"
       10: "activityVisitors"
     }
+    2 {
+      1: "activityAdjoint"
+      3: 18
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityAdjointChangeData"
+      10: "activityAdjoint"
+    }
+    2 {
+      1: "activityElfVote"
+      3: 19
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityElfVoteChangeData"
+      10: "activityElfVote"
+    }
+    2 {
+      1: "activityCurrency"
+      3: 20
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityCurrencyChangeData"
+      10: "activityCurrency"
+    }
   }
   4 {
     1: "DailyRefreshData"
@@ -413,6 +445,14 @@
       5: 11
       6: ".Nofland.PresentsData"
       10: "presents"
+    }
+    2 {
+      1: "elfVote"
+      3: 8
+      4: 1
+      5: 11
+      6: ".Nofland.ElfVoteZero"
+      10: "elfVote"
     }
   }
   4 {
@@ -989,6 +1029,49 @@
       5: 11
       6: ".Nofland.ActivityVisitorsData"
       10: "visitorData"
+    }
+  }
+  4 {
+    1: "ActivityAdjointChangeData"
+    2 {
+      1: "jointData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityAdjointData"
+      10: "jointData"
+    }
+  }
+  4 {
+    1: "ActivityElfVoteChangeData"
+    2 {
+      1: "voteData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityElfVoteData"
+      10: "voteData"
+    }
+  }
+  4 {
+    1: "ElfVoteZero"
+    2 {
+      1: "voteState"
+      3: 1
+      4: 1
+      5: 5
+      10: "voteState"
+    }
+  }
+  4 {
+    1: "ActivityCurrencyChangeData"
+    2 {
+      1: "currencyData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityCurrencyData"
+      10: "currencyData"
     }
   }
   10: 0

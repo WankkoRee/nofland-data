@@ -254,6 +254,30 @@
       6: ".Nofland.PlayerData"
       10: "playerData"
     }
+    2 {
+      1: "adjointData"
+      3: 31
+      4: 1
+      5: 11
+      6: ".Nofland.AdjointData"
+      10: "adjointData"
+    }
+    2 {
+      1: "elfVoteData"
+      3: 32
+      4: 1
+      5: 11
+      6: ".Nofland.ElfVoteData"
+      10: "elfVoteData"
+    }
+    2 {
+      1: "currencyData"
+      3: 33
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "currencyData"
+    }
   }
   4 {
     1: "UserData"
@@ -3908,6 +3932,30 @@
       6: ".Nofland.ActivityVisitorsData"
       10: "vistors"
     }
+    2 {
+      1: "adjoint"
+      3: 8
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityAdjointData"
+      10: "adjoint"
+    }
+    2 {
+      1: "elfVote"
+      3: 9
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityElfVoteData"
+      10: "elfVote"
+    }
+    2 {
+      1: "currency"
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ActivityCurrencyData"
+      10: "currency"
+    }
   }
   4 {
     1: "ActivityShopData"
@@ -5368,6 +5416,146 @@
       4: 1
       5: 13
       10: "cfgID"
+    }
+  }
+  4 {
+    1: "ActivityAdjointData"
+    2 {
+      1: "beginTime"
+      3: 1
+      4: 1
+      5: 3
+      10: "beginTime"
+    }
+    2 {
+      1: "endTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "endTime"
+    }
+  }
+  4 {
+    1: "AdjointData"
+    2 {
+      1: "rewards"
+      3: 1
+      4: 3
+      5: 13
+      10: "rewards"
+    }
+  }
+  4 {
+    1: "ActivityElfVoteData"
+    2 {
+      1: "beginTime"
+      3: 1
+      4: 1
+      5: 3
+      10: "beginTime"
+    }
+    2 {
+      1: "endTime"
+      3: 2
+      4: 1
+      5: 3
+      10: "endTime"
+    }
+    2 {
+      1: "rewards"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.ItemData"
+      10: "rewards"
+    }
+    2 {
+      1: "address"
+      3: 4
+      4: 1
+      5: 9
+      10: "address"
+    }
+  }
+  4 {
+    1: "ElfVoteData"
+    2 {
+      1: "voteState"
+      3: 1
+      4: 1
+      5: 5
+      10: "voteState"
+    }
+    2 {
+      1: "voteRecords"
+      3: 2
+      4: 3
+      5: 11
+      6: ".Nofland.ElfVoteData.VoteRecordsEntry"
+      10: "voteRecords"
+    }
+    3 {
+      1: "VoteRecordsEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 3
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+  }
+  4 {
+    1: "ActivityCurrencyData"
+    2 {
+      1: "enable"
+      3: 1
+      4: 1
+      5: 8
+      10: "enable"
+    }
+    2 {
+      1: "data"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.TimeScheduleData"
+      10: "data"
+    }
+  }
+  4 {
+    1: "ActivityCurrencyPlayerData"
+    2 {
+      1: "activityID"
+      3: 1
+      4: 1
+      5: 13
+      10: "activityID"
+    }
+    2 {
+      1: "openStory"
+      3: 2
+      4: 1
+      5: 8
+      10: "openStory"
+    }
+    2 {
+      1: "tasksData"
+      3: 3
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "tasksData"
     }
   }
   12: "proto3"

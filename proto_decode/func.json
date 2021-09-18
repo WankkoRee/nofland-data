@@ -880,4 +880,46 @@
   11: 0
   12: ""
 }
-2: 63
+1 {
+  1: 463
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4630"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000018
+  11: 0
+  12: ""
+}
+1 {
+  1: 464
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4640"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000018
+  11: 0
+  12: ""
+}
+1 {
+  1: 465
+  2: "sprite/common/common/icon/mark/icon_mission.png"
+  3: ""
+  4: "4650"
+  5: ""
+  6: 0
+  7: ""
+  8: ""
+  9: "LobbyController"
+  10: 6000018
+  11: 0
+  12: ""
+}
+2: 66

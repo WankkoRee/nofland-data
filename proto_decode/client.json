@@ -2416,18 +2416,12 @@
       10: "replaceCount"
     }
     2 {
-      1: "startTime"
+      1: "timeSchedule"
       3: 4
-      4: 1
-      5: 3
-      10: "startTime"
-    }
-    2 {
-      1: "endTime"
-      3: 5
-      4: 1
-      5: 3
-      10: "endTime"
+      4: 3
+      5: 11
+      6: ".Nofland.G2C_DrawProbData.TimeScheduleEntry"
+      10: "timeSchedule"
     }
     3 {
       1: "ProbMapEntry"
@@ -2485,6 +2479,27 @@
         3: 2
         4: 1
         5: 5
+        10: "value"
+      }
+      7 {
+        7: 1
+      }
+    }
+    3 {
+      1: "TimeScheduleEntry"
+      2 {
+        1: "key"
+        3: 1
+        4: 1
+        5: 13
+        10: "key"
+      }
+      2 {
+        1: "value"
+        3: 2
+        4: 1
+        5: 11
+        6: ".Nofland.TimeScheduleData"
         10: "value"
       }
       7 {
@@ -6068,37 +6083,37 @@
     }
   }
   4 {
-    1: "C2G_MagicFreeKey"
-  }
-  4 {
-    1: "G2C_MagicFreeKey"
+    1: "C2G_External"
     2 {
-      1 {
-        12: 0x726f7272
-      }
-      3: 10
-      4: 1
-      5: 11
-      6: ".Nofland.ErrorCode"
-      10 {
-        12: 0x726f7272
-      }
-    }
-    2 {
-      1: "changeData"
-      3: 11
-      4: 1
-      5: 11
-      6: ".Nofland.ChangeData"
-      10: "changeData"
-    }
-    2 {
-      1: "magicsData"
+      1: "opcode"
       3: 1
       4: 1
-      5: 11
-      6: ".Nofland.MagicRoomsData"
-      10: "magicsData"
+      5: 5
+      10: "opcode"
+    }
+    2 {
+      1: "data"
+      3: 2
+      4: 1
+      5: 12
+      10: "data"
+    }
+  }
+  4 {
+    1: "G2C_External"
+    2 {
+      1: "opcode"
+      3: 1
+      4: 1
+      5: 5
+      10: "opcode"
+    }
+    2 {
+      1: "data"
+      3: 2
+      4: 1
+      5: 12
+      10: "data"
     }
   }
   4 {
@@ -6949,6 +6964,294 @@
       5: 11
       6: ".Nofland.ChangeData"
       10: "changeData"
+    }
+  }
+  4 {
+    1: "C2G_ActivityAdjointData"
+  }
+  4 {
+    1: "G2C_ActivityAdjointData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "adjointData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.AdjointData"
+      10: "adjointData"
+    }
+  }
+  4 {
+    1: "C2G_ActivityAdjointAccomplish"
+    2 {
+      1: "cfgId"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgId"
+    }
+  }
+  4 {
+    1: "G2C_ActivityAdjointAccomplish"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "cfgId"
+      3: 1
+      4: 1
+      5: 13
+      10: "cfgId"
+    }
+    2 {
+      1: "adjointData"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.AdjointData"
+      10: "adjointData"
+    }
+  }
+  4 {
+    1: "C2G_ActivityElfVoteData"
+  }
+  4 {
+    1: "G2C_ActivityElfVoteData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "elfVoteData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ElfVoteData"
+      10: "elfVoteData"
+    }
+  }
+  4 {
+    1: "C2G_ActivityElfVoteOpen"
+    2 {
+      1: "times"
+      3: 1
+      4: 1
+      5: 3
+      10: "times"
+    }
+  }
+  4 {
+    1: "G2C_ActivityElfVoteOpen"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "elfVoteData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ElfVoteData"
+      10: "elfVoteData"
+    }
+  }
+  4 {
+    1: "C2G_ActivityElfVoteReward"
+    2 {
+      1: "times"
+      3: 1
+      4: 1
+      5: 3
+      10: "times"
+    }
+  }
+  4 {
+    1: "G2C_ActivityElfVoteReward"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "elfVoteData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ElfVoteData"
+      10: "elfVoteData"
+    }
+  }
+  4 {
+    1: "C2G_ActivityCurrencyTaskData"
+  }
+  4 {
+    1: "G2C_ActivityCurrencyTaskData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "openStory"
+      3: 1
+      4: 1
+      5: 8
+      10: "openStory"
+    }
+    2 {
+      1: "tasksData"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "tasksData"
+    }
+  }
+  4 {
+    1: "C2G_ActivityCurrencyStory"
+  }
+  4 {
+    1: "G2C_ActivityCurrencyStory"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "openStory"
+      3: 1
+      4: 1
+      5: 8
+      10: "openStory"
+    }
+    2 {
+      1: "tasksData"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.TasksData"
+      10: "tasksData"
+    }
+  }
+  4 {
+    1: "C2G_ActivityCurrencyTaskAccomplish"
+    2 {
+      1: "task"
+      3: 1
+      4: 1
+      5: 13
+      10: "task"
+    }
+  }
+  4 {
+    1: "G2C_ActivityCurrencyTaskAccomplish"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "task"
+      3: 1
+      4: 1
+      5: 13
+      10: "task"
+    }
+    2 {
+      1: "taskData"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.TaskData"
+      10: "taskData"
     }
   }
   10: 0

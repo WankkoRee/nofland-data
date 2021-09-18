@@ -1,8 +1,8 @@
 
-ƒË
+ŠÓ
 common.protoNofland"
 	ErrorCode
-code (Rcode"Ô
+code (Rcode"ü
 	EnterData(
 serverTimestamp (RserverTimestamp*
 landInElementDay (RlandInElementDay.
@@ -38,7 +38,10 @@ activities3
 questionnaireSave (2.Nofland.QuestionnaireSaveRquestionnaireSave3
 
 playerData (2.Nofland.PlayerDataR
-playerData"Ä
+playerData6
+adjointData (2.Nofland.AdjointDataRadjointData6
+elfVoteData  (2.Nofland.ElfVoteDataRelfVoteData6
+currencyData! (2.Nofland.TasksDataRcurrencyData"Ä
 UserData
 account (	Raccount
 regtime (Rregtime
@@ -612,7 +615,7 @@ logoutTime
 value (Rvalue:8?
 EventsEndingEntry
 key (Rkey
-value (Rvalue:8"
+value (Rvalue:8"»
 ActivityData-
 shop (2.Nofland.ActivityShopDataRshop9
 addition (2.Nofland.ActivityAdditionDataRaddition3
@@ -620,7 +623,11 @@ logoutTime
 present (2.Nofland.ActivityPresentDataRpresent6
 savings (2.Nofland.ActivitySavingsDataRsavings8
 	questions (2.Nofland.QuestionnaireDataR	questions7
-vistors (2.Nofland.ActivityVisitorsDataRvistors"“
+vistors (2.Nofland.ActivityVisitorsDataRvistors6
+adjoint (2.Nofland.ActivityAdjointDataRadjoint6
+elfVote	 (2.Nofland.ActivityElfVoteDataRelfVote9
+currency
+ (2.Nofland.ActivityCurrencyDataRcurrency"“
 ActivityShopData5
 schedule (2.Nofland.TimeScheduleDataRschedule
 
@@ -884,4 +891,29 @@ RebateData(
 	timestamp (R	timestamp
 payable (Rpayable
 buyType (RbuyType
-cfgID (RcfgIDbproto3
+cfgID (RcfgID"M
+ActivityAdjointData
+	beginTime (R	beginTime
+endTime (RendTime"'
+AdjointData
+rewards (Rrewards"”
+ActivityElfVoteData
+	beginTime (R	beginTime
+endTime (RendTime+
+rewards (2.Nofland.ItemDataRrewards
+address (	Raddress"´
+ElfVoteData
+	voteState (R	voteStateG
+voteRecords (2%.Nofland.ElfVoteData.VoteRecordsEntryRvoteRecords>
+VoteRecordsEntry
+key (Rkey
+value (Rvalue:8"]
+ActivityCurrencyData
+enable (Renable-
+data (2.Nofland.TimeScheduleDataRdata"Œ
+ActivityCurrencyPlayerData
+
+activityID (R
+activityID
+	openStory (R	openStory0
+	tasksData (2.Nofland.TasksDataR	tasksDatabproto3

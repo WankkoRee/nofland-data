@@ -1,5 +1,5 @@
 
-ªξ
+Ότ
 cfg_msg.protocfg_gen"R
 accelerate_list)
 datas (2.cfg_gen.accelerateRdatas
@@ -716,13 +716,14 @@ storyTitle#
 storyBrief"L
 package_list&
 datas (2.cfg_gen.packageRdatas
-count (Rcount"9
+count (Rcount"Q
 package
 package (Rpackage
-cards (	Rcards"V
+cards (	Rcards
+record (Rrecord"V
 package_card_list+
 datas (2.cfg_gen.package_cardRdatas
-count (Rcount"η
+count (Rcount"ÿ
 package_card
 card (Rcard
 
@@ -734,7 +735,8 @@ is_package (R	isPackage
 item (Ritem
 num (Rnum
 	necessity (R	necessity
-fake_pro (RfakePro"F
+fake_pro (RfakePro
+record	 (Rrecord"F
 	pass_list#
 datas (2.cfg_gen.passRdatas
 count (Rcount"­
@@ -952,7 +954,35 @@ gaorePrice0
 count (Rcount"J
 reconciliation&
 reconciliation (Rreconciliation
-pro (Rpro"R
+pro (Rpro"\
+reuseatactivity_list.
+datas (2.cfg_gen.reuseatactivityRdatas
+count (Rcount"…
+reuseatactivity
+activity (Ractivity
+desc (Rdesc
+
+icon_first (	R	iconFirst
+	pic_first (	RpicFirst
+icon_second (	R
+iconSecond
+
+pic_second (	R	picSecond
+story (BRstory
+button (	Rbutton
+begin	 (	Rbegin"f
+reuseatactivity_task_list3
+datas (2.cfg_gen.reuseatactivity_taskRdatas
+count (Rcount"Ω
+reuseatactivity_task
+task_id (RtaskId
+name (Rname
+sort (Rsort
+	condition (R	condition
+factor1 (Rfactor1
+factor2 (Rfactor2
+treasure (Rtreasure
+link (	Rlink"R
 sale_place_list)
 datas (2.cfg_gen.sale_placeRdatas
 count (Rcount"9
@@ -1060,7 +1090,7 @@ DatasEntry
 text (	Rtext"J
 summon_list%
 datas (2.cfg_gen.summonRdatas
-count (Rcount"ÿ
+count (Rcount"·
 summon
 main_id (RmainId
 
@@ -1070,20 +1100,22 @@ package_id (R	packageId
 ten_cost (	RtenCost
 one_coin (	RoneCoin
 ten_coin (	RtenCoin
-source (	Rsource
-task	 (Rtask
-level
- (Rlevel
-title (Rtitle%
-activity_title (RactivityTitle
-timer (Rtimer
-desc (Rdesc
-info (Rinfo 
-	guarantee (BR	guarantee
-up_item (BRupItem
-up_pro (	RupPro
-logo (	Rlogo
-lock (	Rlock"Z
+source (	Rsource
+elf_show	 (	RelfShow
+	new_fairy
+ (	RnewFairy
+task (Rtask
+level (Rlevel
+title (Rtitle%
+activity_title (RactivityTitle
+timer (Rtimer
+desc (Rdesc
+info (Rinfo 
+	guarantee (BR	guarantee
+up_item (BRupItem
+up_pro (	RupPro
+logo (	Rlogo
+lock (	Rlock"Z
 summon_replace_list-
 datas (2.cfg_gen.summon_replaceRdatas
 count (Rcount"Ε

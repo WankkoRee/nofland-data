@@ -4320,6 +4320,13 @@
       5: 9
       10: "cards"
     }
+    2 {
+      1: "record"
+      3: 3
+      4: 1
+      5: 3
+      10: "record"
+    }
   }
   4 {
     1: "package_card_list"
@@ -4398,6 +4405,13 @@
       4: 1
       5: 3
       10: "fakePro"
+    }
+    2 {
+      1: "record"
+      3: 9
+      4: 1
+      5: 3
+      10: "record"
     }
   }
   4 {
@@ -5673,6 +5687,172 @@
     }
   }
   4 {
+    1: "reuseatactivity_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.reuseatactivity"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "reuseatactivity"
+    2 {
+      1: "activity"
+      3: 1
+      4: 1
+      5: 13
+      10: "activity"
+    }
+    2 {
+      1: "desc"
+      3: 2
+      4: 1
+      5: 3
+      10: "desc"
+    }
+    2 {
+      1: "icon_first"
+      3: 3
+      4: 1
+      5: 9
+      10 {
+        13: 0x74737269466e6f63
+      }
+    }
+    2 {
+      1: "pic_first"
+      3: 4
+      4: 1
+      5: 9
+      10: "picFirst"
+    }
+    2 {
+      1: "icon_second"
+      3: 5
+      4: 1
+      5: 9
+      10: "iconSecond"
+    }
+    2 {
+      1: "pic_second"
+      3: 6
+      4: 1
+      5: 9
+      10: "picSecond"
+    }
+    2 {
+      1: "story"
+      3: 7
+      4: 3
+      5: 3
+      8 {
+        2: 1
+      }
+      10: "story"
+    }
+    2 {
+      1: "button"
+      3: 8
+      4: 1
+      5: 9
+      10: "button"
+    }
+    2 {
+      1: "begin"
+      3: 9
+      4: 1
+      5: 9
+      10: "begin"
+    }
+  }
+  4 {
+    1: "reuseatactivity_task_list"
+    2 {
+      1: "datas"
+      3: 1
+      4: 3
+      5: 11
+      6: ".cfg_gen.reuseatactivity_task"
+      10: "datas"
+    }
+    2 {
+      1: "count"
+      3: 2
+      4: 1
+      5: 13
+      10: "count"
+    }
+  }
+  4 {
+    1: "reuseatactivity_task"
+    2 {
+      1: "task_id"
+      3: 1
+      4: 1
+      5: 13
+      10: "taskId"
+    }
+    2 {
+      1: "name"
+      3: 2
+      4: 1
+      5: 3
+      10: "name"
+    }
+    2 {
+      1: "sort"
+      3: 3
+      4: 1
+      5: 3
+      10: "sort"
+    }
+    2 {
+      1: "condition"
+      3: 4
+      4: 1
+      5: 3
+      10: "condition"
+    }
+    2 {
+      1: "factor1"
+      3: 5
+      4: 1
+      5: 3
+      10: "factor1"
+    }
+    2 {
+      1: "factor2"
+      3: 6
+      4: 1
+      5: 3
+      10: "factor2"
+    }
+    2 {
+      1: "treasure"
+      3: 7
+      4: 1
+      5: 3
+      10: "treasure"
+    }
+    2 {
+      1: "link"
+      3: 8
+      4: 1
+      5: 9
+      10: "link"
+    }
+  }
+  4 {
     1: "sale_place_list"
     2 {
       1: "datas"
@@ -6370,57 +6550,71 @@
       10: "source"
     }
     2 {
-      1: "task"
+      1: "elf_show"
       3: 9
+      4: 1
+      5: 9
+      10: "elfShow"
+    }
+    2 {
+      1: "new_fairy"
+      3: 10
+      4: 1
+      5: 9
+      10: "newFairy"
+    }
+    2 {
+      1: "task"
+      3: 11
       4: 1
       5: 3
       10: "task"
     }
     2 {
       1: "level"
-      3: 10
+      3: 12
       4: 1
       5: 3
       10: "level"
     }
     2 {
       1: "title"
-      3: 11
+      3: 13
       4: 1
       5: 3
       10: "title"
     }
     2 {
       1: "activity_title"
-      3: 12
+      3: 14
       4: 1
       5: 3
       10: "activityTitle"
     }
     2 {
       1: "timer"
-      3: 13
+      3: 15
       4: 1
       5: 3
       10: "timer"
     }
     2 {
       1: "desc"
-      3: 14
+      3: 16
       4: 1
       5: 3
       10: "desc"
     }
     2 {
       1: "info"
-      3: 15
+      3: 17
       4: 1
       5: 3
       10: "info"
     }
     2 {
       1: "guarantee"
-      3: 16
+      3: 18
       4: 3
       5: 3
       8 {
@@ -6430,7 +6624,7 @@
     }
     2 {
       1: "up_item"
-      3: 17
+      3: 19
       4: 3
       5: 3
       8 {
@@ -6440,8 +6634,8 @@
     }
     2 {
       1: "up_pro"
-      3: 18
-      4: 1
+      3: 20
+      4: 3
       5: 9
       10 {
         14: 0x6f725070
@@ -6449,14 +6643,14 @@
     }
     2 {
       1: "logo"
-      3: 19
+      3: 21
       4: 1
       5: 9
       10: "logo"
     }
     2 {
       1: "lock"
-      3: 20
+      3: 22
       4: 1
       5: 9
       10: "lock"

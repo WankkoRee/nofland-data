@@ -12,16 +12,17 @@
   }
   7: "540|10"
   8: "prefabs/scene/summon/sphere/chouka_jin1"
-  9: 6000014
-  10: 0
-  11: 420100
+  9: ""
+  10: ""
+  11: 6000014
   12: 0
-  13: 0
+  13: 420100
   14: 0
-  15: 420200
-  18: ""
-  19: "sprite/draw/page/page_ball_1.png"
-  20: "sprite/draw/page/page_lock_1.png"
+  15: 0
+  16: 0
+  17: 420200
+  21: "sprite/draw/page/page_ball_1.png"
+  22: "sprite/draw/page/page_lock_1.png"
 }
 1 {
   1: 2
@@ -38,16 +39,17 @@
   }
   7: "541|10"
   8: "prefabs/scene/summon/sphere/chouka_jin2"
-  9: 6000054
-  10: 0
-  11: 420101
+  9: ""
+  10: ""
+  11: 6000054
   12: 0
-  13: 0
+  13: 420101
   14: 0
-  15: 420201
-  18: ""
-  19: "sprite/draw/page/page_ball_2.png"
-  20: "sprite/draw/page/page_lock_1.png"
+  15: 0
+  16: 0
+  17: 420201
+  21: "sprite/draw/page/page_ball_2.png"
+  22: "sprite/draw/page/page_lock_1.png"
 }
 1 {
   1: 3
@@ -64,16 +66,17 @@
   }
   7: "542|10"
   8: "prefabs/scene/summon/sphere/chouka_jin3"
-  9: 6000120
-  10: 0
-  11: 420102
+  9: ""
+  10: ""
+  11: 6000120
   12: 0
-  13: 0
+  13: 420102
   14: 0
-  15: 420202
-  18: ""
-  19: "sprite/draw/page/page_ball_3.png"
-  20: "sprite/draw/page/page_lock_1.png"
+  15: 0
+  16: 0
+  17: 420202
+  21: "sprite/draw/page/page_ball_3.png"
+  22: "sprite/draw/page/page_lock_1.png"
 }
 1 {
   1: 4
@@ -86,17 +89,18 @@
   6: ""
   7: ""
   8: "prefabs/scene/summon/sphere/chouka_zise"
-  9: 6000002
-  10: 0
-  11: 420103
+  9: ""
+  10: ""
+  11: 6000002
   12: 0
-  13: 0
+  13: 420103
   14: 0
-  15: 420203
-  16: "\220\361\004"
-  18: ""
-  19: "sprite/draw/page/page_ball_4.png"
-  20: "sprite/draw/page/page_lock_2.png"
+  15: 0
+  16: 0
+  17: 420203
+  18: "\220\361\004"
+  21: "sprite/draw/page/page_ball_4.png"
+  22: "sprite/draw/page/page_lock_2.png"
 }
 1 {
   1: 5
@@ -109,17 +113,18 @@
   6: ""
   7: ""
   8: ""
-  9: 6000014
-  10: 0
-  11: 420103
+  9: ""
+  10: ""
+  11: 6000014
   12: 0
-  13: 0
+  13: 420103
   14: 0
   15: 0
-  16: "\354\352\001"
-  18: ""
-  19: ""
-  20: ""
+  16: 0
+  17: 0
+  18: "\354\352\001"
+  21: ""
+  22: ""
 }
 1 {
   1: 6
@@ -132,42 +137,23 @@
   6: ""
   7: ""
   8: "prefabs/scene/summon/sphere/chouka_huodong"
-  9: 6000014
-  10: 0
-  11: 420104
-  12: 500000
-  13: 8
-  14: 0
-  15: 420204
-  16 {
+  9: "prefabs/ui/randomdraw/up_tip/up_tip_hszd"
+  10: ""
+  11: 6000014
+  12: 0
+  13: 420104
+  14: 500000
+  15: 8
+  16: 0
+  17: 420204
+  18 {
     5002: 40316
   }
-  17: "\236\216\006\212\216\006"
-  18: "200%"
-  19: "sprite/draw/page/page_ball_6.png"
-  20: "sprite/draw/page/page_lock_4.png"
-}
-1 {
-  1: 7
-  2: 5000
-  3: 1
-  4 {
-    6: 0x317c3633
-  }
-  5: "536|10"
-  6: ""
-  7: ""
-  8: "prefabs/scene/summon/sphere/chouka_zise2"
-  9: 6000014
-  10: 0
-  11: 420105
-  12: 0
-  13: 0
-  14: 0
-  15: 420205
-  18: ""
-  19: "sprite/draw/page/page_ball_5.png"
-  20: "sprite/draw/page/page_lock_3.png"
+  19: "\236\216\006\212\216\006"
+  20: "200%UP"
+  20: "200%UP"
+  21: "sprite/draw/page/page_ball_6.png"
+  22: "sprite/draw/page/page_lock_4.png"
 }
 1 {
   1: 10
@@ -178,16 +164,17 @@
   6: ""
   7: ""
   8: ""
-  9: 6000002
-  10: 0
-  11: 420103
+  9: ""
+  10: ""
+  11: 6000002
   12: 0
-  13: 0
+  13: 420103
   14: 0
   15: 0
-  18: ""
-  19: ""
-  20: ""
+  16: 0
+  17: 0
+  21: ""
+  22: ""
 }
 1 {
   1: 11
@@ -198,15 +185,68 @@
   6: ""
   7: ""
   8: ""
-  9: 6000009
-  10: 0
-  11: 420103
+  9: ""
+  10: ""
+  11: 6000009
   12: 0
-  13: 0
+  13: 420103
   14: 0
   15: 0
-  18: ""
-  19: ""
-  20: ""
+  16: 0
+  17: 0
+  21: ""
+  22: ""
 }
-2: 9
+1 {
+  1: 12
+  2: 9000
+  3: 1
+  4 {
+    6: 0x317c3131
+  }
+  5: "511|10"
+  6: ""
+  7: ""
+  8: "prefabs/scene/summon/sphere/chouka_huodong1"
+  9: "prefabs/ui/randomdraw/up_tip/up_tip_mxt"
+  10: "100170|100172"
+  11: 6000014
+  12: 0
+  13: 420104
+  14: 460000
+  15: 11
+  16: 0
+  17: 420204
+  18 {
+    5002: 40316
+  }
+  19: "\246\216\006\272\216\006"
+  20: "200%UP"
+  20: "200%UP"
+  21: "sprite/draw/page/page_ball_6.png"
+  22: "sprite/draw/page/page_lock_4.png"
+}
+1 {
+  1: 9999
+  2: 5000
+  3: 1
+  4 {
+    6: 0x317c3633
+  }
+  5: "536|10"
+  6: ""
+  7: ""
+  8: "prefabs/scene/summon/sphere/chouka_zise2"
+  9: ""
+  10: ""
+  11: 6000014
+  12: 0
+  13: 420105
+  14: 0
+  15: 0
+  16: 0
+  17: 420205
+  21: "sprite/draw/page/page_ball_5.png"
+  22: "sprite/draw/page/page_lock_3.png"
+}
+2: 10

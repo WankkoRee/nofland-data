@@ -1,0 +1,34 @@
+1 {
+  1: 1
+  2: 460000
+  3: "sprite/common/elf/cartoon/100134.png"
+  4: "100134"
+  5: "sprite/common/elf/cartoon/100154.png"
+  6: "100154"
+  7: "\341\211\034\342\211\034\343\211\034"
+  8: "sprite/huodong/banner/banner_reuse/btn_mxt.png"
+  9: "HD1002"
+}
+1 {
+  1: 2
+  2: 460001
+  3: "sprite/common/elf/cartoon/100136.png"
+  4: "100136"
+  5: "sprite/common/elf/cartoon/100138.png"
+  6: "100138"
+  7: "\344\211\034\345\211\034\346\211\034"
+  8: "sprite/huodong/banner/banner_reuse/btn_mxt.png"
+  9: "HD1001_34"
+}
+1 {
+  1: 3
+  2: 460002
+  3: "sprite/common/elf/cartoon/100140.png"
+  4: "100140"
+  5: "sprite/common/elf/cartoon/100142.png"
+  6: "100142"
+  7: "\200\246\035\201\246\035\202\246\035"
+  8: "sprite/huodong/banner/banner_reuse/btn_mxt.png"
+  9: "HD1001_35"
+}
+2: 3

@@ -33,4 +33,25 @@
   4: "sprite/huodong/banner/banner_page/banner_page_twlk.png"
   5: 406003
 }
-2: 5
+1 {
+  1: 6
+  2: "\344\275\216\346\230\237\345\246\226\347\262\276\346\264\273\345\212\250"
+  3: "prefabs/ui/huodong/banner/banner_lifeWithElf"
+  4: "sprite/huodong/banner/banner_page/banner_page_lifeWithElf.png"
+  5: 406004
+}
+1 {
+  1: 7
+  2: "\346\226\260\345\246\226\347\262\276\347\245\250\351\200\211"
+  3: "prefabs/ui/huodong/banner/banner_vote"
+  4: "sprite/huodong/banner/banner_page/banner_page_vote.png"
+  5: 406005
+}
+1 {
+  1: 8
+  2: "\351\251\254\346\210\217\345\233\242\346\264\273\345\212\250"
+  3: "prefabs/ui/huodong/banner/banner_reuse"
+  4: "sprite/huodong/banner/banner_page/banner_page_mxt.png"
+  5: 406006
+}
+2: 8

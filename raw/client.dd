@@ -1,5 +1,5 @@
 
-ÛÄ
+ﬁç
 client.protoNoflandclient_common.proto"y
 C2G_GatherToolEquip
 type (Rtype
@@ -472,7 +472,7 @@ grooveData
 
 grooveData (2.Nofland.CultureGrooveDataR
 grooveData"
-C2G_DrawProbData"¿
+C2G_DrawProbData"µ
 G2C_DrawProbData(
 error
  (2.Nofland.ErrorCodeRerror@
@@ -480,9 +480,8 @@ grooveData"
 
 cardsCount (2).Nofland.G2C_DrawProbData.CardsCountEntryR
 cardsCountO
-replaceCount (2+.Nofland.G2C_DrawProbData.ReplaceCountEntryRreplaceCount
-	startTime (R	startTime
-endTime (RendTimeQ
+replaceCount (2+.Nofland.G2C_DrawProbData.ReplaceCountEntryRreplaceCountO
+timeSchedule (2+.Nofland.G2C_DrawProbData.TimeScheduleEntryRtimeScheduleQ
 ProbMapEntry
 key (Rkey+
 value (2.Nofland.DrawProbListRvalue:8X
@@ -491,7 +490,10 @@ cardsCountO
 value (2.Nofland.PackageCardCountRvalue:8?
 ReplaceCountEntry
 key (	Rkey
-value (Rvalue:8"Ü
+value (Rvalue:8Z
+TimeScheduleEntry
+key (Rkey/
+value (2.Nofland.TimeScheduleDataRvalue:8"Ü
 C2G_LuckDraw"
 activityType (RactivityType.
 expectActivityType (RexpectActivityType"
@@ -1184,17 +1186,13 @@ magicsData"K
 changeData (2.Nofland.ChangeDataR
 changeData
 task (Rtask<
-magicRoomData (2.Nofland.MagicRoomDataRmagicRoomData"
-C2G_MagicFreeKey"™
-G2C_MagicFreeKey(
-error
- (2.Nofland.ErrorCodeRerror3
-
-changeData (2.Nofland.ChangeDataR
-changeData7
-
-magicsData (2.Nofland.MagicRoomsDataR
-magicsData"2
+magicRoomData (2.Nofland.MagicRoomDataRmagicRoomData":
+C2G_External
+opcode (Ropcode
+data (Rdata":
+G2C_External
+opcode (Ropcode
+data (Rdata"2
 C2G_AskLinkAward
 
 treasureId (R
@@ -1377,4 +1375,61 @@ changeData
  (2.Nofland.ErrorCodeRerror3
 
 changeDatae (2.Nofland.ChangeDataR
-changeDataP bproto3
+changeData"
+C2G_ActivityAdjointData"{
+G2C_ActivityAdjointData(
+error
+ (2.Nofland.ErrorCodeRerror6
+adjointData (2.Nofland.AdjointDataRadjointData"5
+C2G_ActivityAdjointAccomplish
+cfgId (RcfgId"Ã
+G2C_ActivityAdjointAccomplish(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+cfgId (RcfgId6
+adjointData (2.Nofland.AdjointDataRadjointData"
+C2G_ActivityElfVoteData"{
+G2C_ActivityElfVoteData(
+error
+ (2.Nofland.ErrorCodeRerror6
+elfVoteData (2.Nofland.ElfVoteDataRelfVoteData"/
+C2G_ActivityElfVoteOpen
+times (Rtimes"{
+G2C_ActivityElfVoteOpen(
+error
+ (2.Nofland.ErrorCodeRerror6
+elfVoteData (2.Nofland.ElfVoteDataRelfVoteData"1
+C2G_ActivityElfVoteReward
+times (Rtimes"≤
+G2C_ActivityElfVoteReward(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData6
+elfVoteData (2.Nofland.ElfVoteDataRelfVoteData"
+C2G_ActivityCurrencyTaskData"ò
+G2C_ActivityCurrencyTaskData(
+error
+ (2.Nofland.ErrorCodeRerror
+	openStory (R	openStory0
+	tasksData (2.Nofland.TasksDataR	tasksData"
+C2G_ActivityCurrencyStory"ï
+G2C_ActivityCurrencyStory(
+error
+ (2.Nofland.ErrorCodeRerror
+	openStory (R	openStory0
+	tasksData (2.Nofland.TasksDataR	tasksData"8
+"C2G_ActivityCurrencyTaskAccomplish
+task (Rtask"∆
+"G2C_ActivityCurrencyTaskAccomplish(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+task (Rtask-
+taskData (2.Nofland.TaskDataRtaskDataP bproto3
