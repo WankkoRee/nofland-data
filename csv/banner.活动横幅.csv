@@ -1,9 +1,10 @@
 ﻿id,名称,布局,图标,详情[text]
 1,七日签到,prefabs/ui/huodong/banner_7day_sign/banner_7day_sign,sprite/huodong/banner/banner_page/banner_page_7rqd.png,420101
-2,小活动,prefabs/ui/huodong/banner/banner1,sprite/huodong/banner/banner_page/banner_page_crdzz.png,406000
+2,小活动,prefabs/ui/huodong/banner/banner1,sprite/huodong/banner/banner_page/banner_page_dddsg.png,406008
 3,开服营业活动,prefabs/ui/huodong/banner/banner_openning,sprite/huodong/banner/banner_page/banner_page_hbkyzqq.png,406001
 4,调查问卷,prefabs/ui/huodong/banner/banner_question,sprite/huodong/banner/banner_page/banner_page_wjdc.png,406002
 5,联动活动,prefabs/ui/huodong/banner/banner_b,sprite/huodong/banner/banner_page/banner_page_twlk.png,406003
 6,低星妖精活动,prefabs/ui/huodong/banner/banner_lifeWithElf,sprite/huodong/banner/banner_page/banner_page_lifeWithElf.png,406004
 7,新妖精票选,prefabs/ui/huodong/banner/banner_vote,sprite/huodong/banner/banner_page/banner_page_vote.png,406005
 8,马戏团活动,prefabs/ui/huodong/banner/banner_reuse,sprite/huodong/banner/banner_page/banner_page_mxt.png,406006
+9,金秋签到,prefabs/ui/huodong/banner/banner_jqqd,sprite/huodong/banner/banner_page/banner_page_jqqd.png,406007

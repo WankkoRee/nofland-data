@@ -47,7 +47,7 @@
 604,6040,6041,6042,sprite/common/item/icon/coin/item_604.png,sprite/common/common/icon/coin/coin_jinbi.png,0,1,6043,0,0,0,0,403|0,3
 605,6050,6051,6052,sprite/common/item/icon/coin/item_zhishi.png,sprite/common/common/icon/coin/coin_jinbi.png,0,1,6053,0,0,0,0,403|0,0
 606,6060,6061,6062,sprite/common/item/icon/coin/item_daibi1.png,sprite/common/common/icon/coin/coin_daibi1.png,0,1,6063,0,0,0,0,422|0,0
-607,6070,6071,6072,sprite/common/item/icon/coin/item_604.png,sprite/common/common/icon/coin/coin_jinbi.png,0,1,6073,0,0,0,0,403|0,0
+607,6070,6071,6072,sprite/common/item/icon/coin/item_daibi2.png,sprite/common/common/icon/coin/coin_daibi2.png,0,1,6073,0,0,0,0,422|0,0
 608,6080,6081,6082,sprite/common/item/icon/coin/item_608.png,sprite/common/common/icon/coin/coin_jinbi.png,0,1,6083,0,0,0,0,403|0,3
 609,6090,6091,6092,sprite/common/item/icon/coin/item_609.png,sprite/common/common/icon/coin/coin_jinbi.png,7,19,6093,0,0,0,0,,0
 610,6100,6101,6102,sprite/common/item/icon/coin/item_610.png,sprite/common/common/icon/coin/coin_jinbi.png,8,20,6103,0,0,0,0,,0

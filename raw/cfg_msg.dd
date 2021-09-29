@@ -1,5 +1,5 @@
 
-Ότ
+φ
 cfg_msg.protocfg_gen"R
 accelerate_list)
 datas (2.cfg_gen.accelerateRdatas
@@ -739,7 +739,7 @@ is_package (R	isPackage
 record	 (Rrecord"F
 	pass_list#
 datas (2.cfg_gen.passRdatas
-count (Rcount"­
+count (Rcount"
 pass
 level (Rlevel
 base_reward (	R
@@ -747,8 +747,7 @@ baseReward
 base_key (RbaseKey
 
 pay_reward (	R	payReward
-pay_key (RpayKey
-	key_fairy (RkeyFairy"R
+pay_key (RpayKey"R
 pass_price_list)
 datas (2.cfg_gen.pass_priceRdatas
 count (Rcount"Η
@@ -763,7 +762,16 @@ score_type (R	scoreType
 npc (Rnpc
 name (Rname
 desc (Rdesc
-chat (Rchat"H
+chat (Rchat"T
+pass_reward_list*
+datas (2.cfg_gen.pass_rewardRdatas
+count (Rcount"‰
+pass_reward
+	pass_sort (RpassSort
+	key_fairy (RkeyFairy
+pool1 (	Rpool1
+pool2 (	Rpool2
+pool3 (	Rpool3"H
 
 plant_list$
 datas (2.cfg_gen.plantRdatas

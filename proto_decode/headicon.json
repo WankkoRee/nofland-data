@@ -1042,4 +1042,16 @@
   3: 100173
   4: "sprite/common/elf/head_icon/elf_100173.png"
 }
-2: 174
+1 {
+  1: 175
+  2: 1
+  3: 100174
+  4: "sprite/common/elf/head_icon/elf_100174.png"
+}
+1 {
+  1: 176
+  2: 1
+  3: 100175
+  4: "sprite/common/elf/head_icon/elf_100175.png"
+}
+2: 176

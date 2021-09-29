@@ -1,5 +1,5 @@
 
-ﬁç
+¨ê
 client.protoNoflandclient_common.proto"y
 C2G_GatherToolEquip
 type (Rtype
@@ -1432,4 +1432,21 @@ changeData6
 changeData (2.Nofland.ChangeDataR
 changeData
 task (Rtask-
-taskData (2.Nofland.TaskDataRtaskDataP bproto3
+taskData (2.Nofland.TaskDataRtaskData"
+C2G_ActivitySeasonSignData"f
+G2C_ActivitySeasonSignData(
+error
+ (2.Nofland.ErrorCodeRerror
+
+seasonSign (R
+seasonSign""
+ C2G_ActivitySeasonSignAccomplish"°
+ G2C_ActivitySeasonSignAccomplish(
+error
+ (2.Nofland.ErrorCodeRerror3
+
+changeData (2.Nofland.ChangeDataR
+changeData
+
+seasonSign (R
+seasonSignP bproto3

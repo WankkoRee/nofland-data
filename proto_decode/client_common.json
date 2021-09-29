@@ -352,6 +352,20 @@
       6: ".Nofland.ActivityCurrencyChangeData"
       10: "activityCurrency"
     }
+    2 {
+      1 {
+        12: 0x5379746976697463
+        12: 0x6e6f7361
+      }
+      3: 21
+      4: 1
+      5: 11
+      6: ".Nofland.ActivitySeasonSignChangeData"
+      10 {
+        12: 0x5379746976697463
+        12: 0x6e6f7361
+      }
+    }
   }
   4 {
     1: "DailyRefreshData"
@@ -453,6 +467,14 @@
       5: 11
       6: ".Nofland.ElfVoteZero"
       10: "elfVote"
+    }
+    2 {
+      1: "sign"
+      3: 9
+      4: 1
+      5: 11
+      6: ".Nofland.ActivitySeasonSignPlayerData"
+      10: "sign"
     }
   }
   4 {
@@ -1072,6 +1094,17 @@
       5: 11
       6: ".Nofland.ActivityCurrencyData"
       10: "currencyData"
+    }
+  }
+  4 {
+    1: "ActivitySeasonSignChangeData"
+    2 {
+      1: "seasonSignData"
+      3: 1
+      4: 1
+      5: 11
+      6: ".Nofland.ActivitySeasonSignData"
+      10: "seasonSignData"
     }
   }
   10: 0

@@ -820,8 +820,8 @@
   2: "6070"
   3: "6071"
   4: "6072"
-  5: "sprite/common/item/icon/coin/item_604.png"
-  6: "sprite/common/common/icon/coin/coin_jinbi.png"
+  5: "sprite/common/item/icon/coin/item_daibi2.png"
+  6: "sprite/common/common/icon/coin/coin_daibi2.png"
   7: 0
   8: 1
   9: "6073"
@@ -829,7 +829,7 @@
   11: 0
   12: 0
   13: 0
-  14: "403|0"
+  14: "422|0"
   15: 0
 }
 1 {

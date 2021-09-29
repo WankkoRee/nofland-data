@@ -278,6 +278,14 @@
       6: ".Nofland.TasksData"
       10: "currencyData"
     }
+    2 {
+      1: "seasonSignData"
+      3: 34
+      4: 1
+      5: 11
+      6: ".Nofland.ActivitySeasonSignPlayerData"
+      10: "seasonSignData"
+    }
   }
   4 {
     1: "UserData"
@@ -3956,6 +3964,14 @@
       6: ".Nofland.ActivityCurrencyData"
       10: "currency"
     }
+    2 {
+      1: "seasonSign"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ActivitySeasonSignData"
+      10: "seasonSign"
+    }
   }
   4 {
     1: "ActivityShopData"
@@ -5556,6 +5572,42 @@
       5: 11
       6: ".Nofland.TasksData"
       10: "tasksData"
+    }
+  }
+  4 {
+    1: "ActivitySeasonSignData"
+    2 {
+      1: "enable"
+      3: 1
+      4: 1
+      5: 8
+      10: "enable"
+    }
+    2 {
+      1: "data"
+      3: 2
+      4: 1
+      5: 11
+      6: ".Nofland.TimeScheduleData"
+      10: "data"
+    }
+    2 {
+      1: "rewards"
+      3: 3
+      4: 3
+      5: 11
+      6: ".Nofland.ItemData"
+      10: "rewards"
+    }
+  }
+  4 {
+    1: "ActivitySeasonSignPlayerData"
+    2 {
+      1: "seasonSign"
+      3: 1
+      4: 1
+      5: 8
+      10: "seasonSign"
     }
   }
   12: "proto3"

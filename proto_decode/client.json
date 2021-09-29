@@ -7254,6 +7254,64 @@
       10: "taskData"
     }
   }
+  4 {
+    1: "C2G_ActivitySeasonSignData"
+  }
+  4 {
+    1: "G2C_ActivitySeasonSignData"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "seasonSign"
+      3: 1
+      4: 1
+      5: 8
+      10: "seasonSign"
+    }
+  }
+  4 {
+    1: "C2G_ActivitySeasonSignAccomplish"
+  }
+  4 {
+    1: "G2C_ActivitySeasonSignAccomplish"
+    2 {
+      1 {
+        12: 0x726f7272
+      }
+      3: 10
+      4: 1
+      5: 11
+      6: ".Nofland.ErrorCode"
+      10 {
+        12: 0x726f7272
+      }
+    }
+    2 {
+      1: "changeData"
+      3: 11
+      4: 1
+      5: 11
+      6: ".Nofland.ChangeData"
+      10: "changeData"
+    }
+    2 {
+      1: "seasonSign"
+      3: 1
+      4: 1
+      5: 8
+      10: "seasonSign"
+    }
+  }
   10: 0
   12: "proto3"
 }
