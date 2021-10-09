@@ -8,4 +8,5 @@
 10,6000,0,,,,,,,,6000002,0,420103,0,0,0,0,[],[],,,
 11,7000,0,,,,,,,,6000009,0,420103,0,0,0,0,[],[],,,
 12,9000,1,511|1,511|10,,,prefabs/scene/summon/sphere/chouka_huodong1,prefabs/ui/randomdraw/up_tip/up_tip_mxt,100170|100172,6000014,0,420104,460000,11,0,420204,"[40016, 40316]","[100134, 100154]",200%UP,sprite/draw/page/page_ball_6.png,sprite/draw/page/page_lock_4.png
+13,10000,1,511|1,511|10,,,prefabs/scene/summon/sphere/chouka_huodong1,prefabs/ui/randomdraw/up_tip/up_tip_yymzy,,6000014,0,420106,460013,12,0,420204,"[100016, 100316]","[100128, 100156]",200%UP,sprite/draw/page/page_ball_6.png,sprite/draw/page/page_lock_4.png
 9999,5000,1,536|1,536|10,,,prefabs/scene/summon/sphere/chouka_zise2,,,6000014,0,420105,0,0,0,420205,[],[],,sprite/draw/page/page_ball_5.png,sprite/draw/page/page_lock_3.png

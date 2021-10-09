@@ -1,8 +1,8 @@
 
-ще
+ње
 common.protoNofland"
 	ErrorCode
-code (Rcode"Ы
+code (Rcode"м
 	EnterData(
 serverTimestamp (RserverTimestamp*
 landInElementDay (RlandInElementDay.
@@ -40,8 +40,8 @@ activities3
 playerData (2.Nofland.PlayerDataR
 playerData6
 adjointData (2.Nofland.AdjointDataRadjointData6
-elfVoteData  (2.Nofland.ElfVoteDataRelfVoteData6
-currencyData! (2.Nofland.TasksDataRcurrencyDataM
+elfVoteData  (2.Nofland.ElfVoteDataRelfVoteDataG
+currencyData! (2#.Nofland.ActivityCurrencyPlayerDataRcurrencyDataM
 seasonSignData" (2%.Nofland.ActivitySeasonSignPlayerDataRseasonSignData"Ф
 UserData
 account (	Raccount
